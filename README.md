@@ -17,16 +17,40 @@ run.sh (launchd, daily 06:30)
   4. git commit + push        → GitHub Pages serves docs/
 ```
 
-## Setup
+## Deploying on the Mac Mini (the always-on runner)
+
+Run these on the Mini itself. The job should run on exactly one machine.
 
 ```sh
+# 1. Prerequisites (Homebrew assumed installed)
+brew install python git gh
+#    Install Claude Code and log in (the digest uses `claude -p` on your subscription):
+#    install per https://docs.claude.com, then run `claude` once and complete login.
+
+# 2. GitHub auth so the nightly `git push` works
+gh auth login --web --git-protocol https
+
+# 3. Clone and set up
+git clone https://github.com/ejkemp/daily-digest.git
+cd daily-digest
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-# edit config.toml: thresholds, blog feeds, feed URLs
-./install-schedule.sh        # installs the 06:30 launchd job
+
+# 4. Smoke-test the whole pipeline by hand
+./run.sh
+cat "logs/run-$(date +%F).log"        # should end with "run finished"; check for a pushed commit
+
+# 5. Install the daily 06:30 schedule (generates the launchd plist for this clone)
+./install-schedule.sh
+launchctl kickstart "gui/$(id -u)/com.ethan.daily-digest"   # trigger one run now to confirm
 ```
 
-Requires: `claude` CLI logged in, `git` push access to this repo (Pages enabled,
-serving `docs/` on `main`).
+Notes:
+- **One machine only.** If you ever set this up elsewhere, uninstall there with
+  `launchctl bootout "gui/$(id -u)/com.ethan.daily-digest"` so two machines don't both push.
+- **The Mini must be awake at 06:30.** If it sleeps, the job runs on next wake. Keep it
+  from sleeping (System Settings → Energy, or `caffeinate`/`pmset`) for on-time delivery.
+- If `claude` ever gets logged out, the digest still publishes a links-only fallback
+  (visibly tagged) — that's your cue to run `claude` and re-auth.
 
 ## Config (`config.toml`)
 
