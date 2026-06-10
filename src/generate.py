@@ -7,6 +7,7 @@ import datetime as dt
 import json
 import subprocess
 import sys
+import tempfile
 
 from .common import DATA_DIR, DIGESTS_DIR, PROMPTS_DIR, load_config
 
@@ -19,13 +20,22 @@ def build_prompt(data: dict) -> str:
 def run_claude(prompt: str, config: dict) -> str | None:
     cfg = config["digest"]
     try:
-        proc = subprocess.run(
-            ["claude", "-p", "--model", cfg["claude_model"], "--output-format", "text"],
-            input=prompt,
-            capture_output=True,
-            text=True,
-            timeout=cfg["claude_timeout_seconds"],
-        )
+        # Run from an empty temp dir with all tools denied: this must be a pure
+        # text transform, or claude may try to "edit the digest file" itself.
+        with tempfile.TemporaryDirectory() as tmp:
+            proc = subprocess.run(
+                [
+                    "claude", "-p",
+                    "--model", cfg["claude_model"],
+                    "--output-format", "text",
+                    "--disallowedTools", "*",
+                ],
+                input=prompt,
+                capture_output=True,
+                text=True,
+                timeout=cfg["claude_timeout_seconds"],
+                cwd=tmp,
+            )
     except (subprocess.TimeoutExpired, FileNotFoundError) as e:
         print(f"[generate] claude invocation failed: {e}", file=sys.stderr)
         return None
