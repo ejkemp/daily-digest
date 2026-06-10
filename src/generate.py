@@ -48,7 +48,7 @@ def run_claude(prompt: str, config: dict) -> str | None:
 def template_digest(data: dict) -> str:
     """No-LLM fallback: titles and links grouped by section."""
     sections = {
-        "wikipedia": "World News",
+        "wikipedia": "Topics in the News",
         "hackernews": "Hacker News",
         "lesswrong": "LessWrong",
         "blogs": "Blogs",

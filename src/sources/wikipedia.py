@@ -1,52 +1,39 @@
-"""Wikipedia Current Events portal — yesterday's page (the most recent complete day)."""
+"""Wikipedia "Topics in the news" — the curated headline box atop the Current events portal.
+
+This is the small hand-picked set of the day's biggest stories (the same blurbs shown
+in the Main Page "In the news" box), not the exhaustive daily event log. Each blurb is
+already a one-sentence summary linking the relevant Wikipedia article.
+
+Blurbs stay in the box for a few days, so we dedupe against seen-state: each headline
+appears in the digest once, the morning it first shows up.
+"""
 
 import datetime as dt
+import re
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
 
-from ..common import USER_AGENT
+from ..common import USER_AGENT, load_seen, save_seen
 
 API = "https://en.wikipedia.org/w/api.php"
+WIKI_BASE = "https://en.wikipedia.org"
+PAGE = "Portal:Current events"
 
 
-def _portal_page_title(date: dt.date) -> str:
-    # e.g. "Portal:Current events/2026 June 9" (no zero-padded day)
-    return f"Portal:Current events/{date.year} {date.strftime('%B')} {date.day}"
-
-
-def _html_to_lines(html: str) -> str:
-    """Flatten the portal HTML into indented bullet lines, keeping link URLs."""
-    soup = BeautifulSoup(html, "html.parser")
-    for tag in soup.find_all(["style", "script"]):
-        tag.decompose()
-
-    lines = []
-    for el in soup.find_all(["p", "li"]):
-        # Category headers are bold paragraphs like "Armed conflicts and attacks"
-        text = el.get_text(" ", strip=True)
-        if not text or text.split(" ", 1)[0] in ("edit", "history", "watch"):
-            continue
-        if el.name == "p":
-            lines.append(f"\n## {text}")
-        else:
-            # Only keep leaf bullets to avoid duplicating nested text
-            if el.find("li"):
-                continue
-            ref = el.find("a", class_="external")
-            suffix = f" [{ref['href']}]" if ref and ref.get("href") else ""
-            lines.append(f"- {text}{suffix}")
-    return "\n".join(lines)
+def _clean(text: str) -> str:
+    text = re.sub(r"\s*\([^)]*pictured\)", "", text)  # drop image captions
+    text = re.sub(r"\s+([.,;])", r"\1", text)  # tighten " ." -> "."
+    return text.strip()
 
 
 def fetch(config: dict) -> list[dict]:
-    date = dt.date.today() - dt.timedelta(days=1)
-    title = _portal_page_title(date)
     resp = requests.get(
         API,
         params={
             "action": "parse",
-            "page": title,
+            "page": PAGE,
             "prop": "text",
             "format": "json",
             "formatversion": "2",
@@ -59,14 +46,36 @@ def fetch(config: dict) -> list[dict]:
     if "error" in body:
         raise RuntimeError(f"Wikipedia API error: {body['error'].get('info')}")
 
-    text = _html_to_lines(body["parse"]["text"])
-    url = "https://en.wikipedia.org/wiki/" + title.replace(" ", "_")
-    return [
-        {
-            "source": "wikipedia",
-            "title": f"Wikipedia Current Events — {date.strftime('%B')} {date.day}, {date.year}",
-            "url": url,
-            "published": date.isoformat(),
-            "content": text,
-        }
-    ]
+    soup = BeautifulSoup(body["parse"]["text"], "html.parser")
+    box = soup.find("div", class_="p-current-events-headlines")
+    if box is None:
+        raise RuntimeError("Could not find 'Topics in the news' box on the portal page")
+    ul = box.find("ul")
+    if ul is None:
+        raise RuntimeError("'Topics in the news' box has no list")
+
+    seen = load_seen()
+    today = dt.date.today().isoformat()
+    items = []
+    for li in ul.find_all("li", recursive=False):
+        text = _clean(li.get_text(" ", strip=True))
+        # The bolded link is the blurb's main article; fall back to the first link.
+        bold = li.find("b")
+        link = (bold.find("a") if bold else None) or li.find("a")
+        if not text or not link or not link.get("href"):
+            continue
+        url = urljoin(WIKI_BASE, link["href"])
+        if url in seen:
+            continue
+        seen.add(url)
+        items.append(
+            {
+                "source": "wikipedia",
+                "title": text,
+                "url": url,
+                "published": today,
+            }
+        )
+
+    save_seen(seen)
+    return items
