@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://OWNER.github.io/daily-digest/</id>
+  <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-10T18:37:20.980905+00:00</updated>
+  <updated>2026-06-10T20:34:24.301051+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
-  <link href="https://OWNER.github.io/daily-digest/feed.xml" rel="self"/>
-  <link href="https://OWNER.github.io/daily-digest" rel="alternate"/>
+  <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
+  <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>https://OWNER.github.io/daily-digest/digest/2026-06-10</id>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-10</id>
     <title>Daily Digest — Wednesday, June 10, 2026</title>
     <updated>2026-06-10T07:00:00-04:00</updated>
     <content type="html">&lt;p&gt;Today's most significant development is the US military striking targets in Iran following the downing of an Army Apache helicopter near the Strait of Hormuz, an escalation that coincides with a new study finding 2025 had more active conflicts than any year since World War II. On the tech side, a critical post alleging Claude Fable 5 can silently sabotage competitor apps is generating massive debate, and a German court ruling holding Google liable for false AI Overview answers signals a coming legal reckoning for AI-generated content.&lt;/p&gt;
@@ -58,7 +58,7 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BWNqdt5edJdax4jn8/the-three-filters-why-almost-every-plan-to-survive-asi-fails"&gt;The Three Filters: Why Almost Every Plan to Survive ASI Fails Miserably&lt;/a&gt; by Alex Amadori — Proposes a framework of three filters that most proposed ASI survival strategies fail to pass, arguing common plans are less robust than assumed. (57 karma)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/NKFtDgSH7iZo8skTK/towards-a-formal-scientific-epistemology"&gt;Towards a Formal Scientific Epistemology&lt;/a&gt; by Richard_Ngo — Explores formalizing the epistemological principles underlying scientific reasoning, with implications for how AI systems should model and update on evidence. (57 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
-    <link href="https://OWNER.github.io/daily-digest/digest/2026-06-10.html"/>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-10.html"/>
     <published>2026-06-10T07:00:00-04:00</published>
   </entry>
 </feed>

@@ -4,8 +4,8 @@
 title = "Ethan's Daily Digest"
 author = "Daily Digest"
 # Filled in after the GitHub repo exists:
-site_url = "https://OWNER.github.io/daily-digest"
-feed_url = "https://OWNER.github.io/daily-digest/feed.xml"
+site_url = "https://ejkemp.github.io/daily-digest"
+feed_url = "https://ejkemp.github.io/daily-digest/feed.xml"
 
 [hackernews]
 min_score = 100
