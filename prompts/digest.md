@@ -5,10 +5,9 @@ from followed blogs.
 
 Write the digest in Markdown with exactly this structure:
 
-1. Start with a short overview paragraph (2-4 sentences): the most important or
-   interesting things across all sources today. No heading before it.
-2. Then these sections, as `##` headings, in this order — but OMIT any section whose
-   source has no items: `Topics in the News`, `Hacker News`, `LessWrong`, `Blogs`.
+Output these sections, as `##` headings, in this order — but OMIT any section whose
+source has no items: `Topics in the News`, `Hacker News`, `LessWrong`, `Blogs`.
+Do not write any overall summary or introduction before the first section.
 
 Section guidelines:
 - **Topics in the News** (from the Wikipedia data): these are Wikipedia's curated top
