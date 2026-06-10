@@ -4,8 +4,8 @@ This is the small hand-picked set of the day's biggest stories (the same blurbs 
 in the Main Page "In the news" box), not the exhaustive daily event log. Each blurb is
 already a one-sentence summary linking the relevant Wikipedia article.
 
-Blurbs stay in the box for a few days, so we dedupe against seen-state: each headline
-appears in the digest once, the morning it first shows up.
+We reproduce whatever is in the box each day, with no deduplication — a headline may
+appear on multiple days while Wikipedia keeps it in the box.
 """
 
 import datetime as dt
@@ -15,7 +15,7 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-from ..common import USER_AGENT, load_seen, save_seen
+from ..common import USER_AGENT
 
 API = "https://en.wikipedia.org/w/api.php"
 WIKI_BASE = "https://en.wikipedia.org"
@@ -54,7 +54,6 @@ def fetch(config: dict) -> list[dict]:
     if ul is None:
         raise RuntimeError("'Topics in the news' box has no list")
 
-    seen = load_seen()
     today = dt.date.today().isoformat()
     items = []
     for li in ul.find_all("li", recursive=False):
@@ -65,9 +64,6 @@ def fetch(config: dict) -> list[dict]:
         if not text or not link or not link.get("href"):
             continue
         url = urljoin(WIKI_BASE, link["href"])
-        if url in seen:
-            continue
-        seen.add(url)
         items.append(
             {
                 "source": "wikipedia",
@@ -77,5 +73,4 @@ def fetch(config: dict) -> list[dict]:
             }
         )
 
-    save_seen(seen)
     return items
