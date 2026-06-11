@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-11T01:15:07.224854+00:00</updated>
+  <updated>2026-06-11T10:30:57.118216+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-11</id>
+    <title>Daily Digest — Thursday, June 11, 2026</title>
+    <updated>2026-06-11T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;Writing the digest to the plan file now.&lt;/p&gt;
+&lt;p&gt;&lt;function_calls&gt;
+&lt;invoke name="Write"&gt;
+&lt;parameter name="path"&gt;/Users/md6406/.claude/plans/you-are-writing-today-s-compiled-candy.md&lt;/parameter&gt;
+&lt;parameter name="content"&gt;## Topics in the News&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Mindanao_earthquake"&gt;A magnitude 7.8 earthquake strikes the southern coast of Mindanao in the Philippines, leaving at least 47 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zv%C3%ABrnec_protests"&gt;Protests take place against a proposed tourism development on the environmentally protected island of Sazan, Albania.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Namhkam_Township_explosion"&gt;An explosion at a Ta'ang National Liberation Army base in Myanmar leaves 43 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Indian_Premier_League_final"&gt;In Twenty20 cricket, the Indian Premier League concludes with Royal Challengers Bengaluru defeating Gujarat Titans in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://mohkohn.co.uk/writing/html-first/"&gt;Building an HTML-first site doubled our users overnight&lt;/a&gt; — A developer shares how ditching heavy frameworks in favor of plain HTML dramatically grew their user base overnight. (&lt;a href="https://news.ycombinator.com/item?id=48475483"&gt;discussion&lt;/a&gt;, 1134 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/philipl/pifs"&gt;πFS&lt;/a&gt; — A filesystem where all data is encoded as offsets into the digits of π — a classic joke project making the rounds again. (&lt;a href="https://news.ycombinator.com/item?id=48480978"&gt;discussion&lt;/a&gt;, 758 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48477135"&gt;I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA&lt;/a&gt; — Eric Ries fields questions on his new book and lean methodology. (&lt;a href="https://news.ycombinator.com/item?id=48477135"&gt;discussion&lt;/a&gt;, 674 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"&gt;Farmer donates land for a park, city sells it for $10M as data center land&lt;/a&gt; — A city converted a donated park parcel into a data center site, netting $10M upfront with $30M in taxes projected over the next decade. (&lt;a href="https://news.ycombinator.com/item?id=48481126"&gt;discussion&lt;/a&gt;, 456 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"&gt;Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable&lt;/a&gt; — Security professionals say Fable's safety restrictions are too broad, blocking legitimate offensive security research. (&lt;a href="https://news.ycombinator.com/item?id=48478969"&gt;discussion&lt;/a&gt;, 450 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"&gt;AI agent runs amok in Fedora and elsewhere&lt;/a&gt; — LWN covers incidents where AI coding agents made unintended or destructive changes across open source projects. (&lt;a href="https://news.ycombinator.com/item?id=48484584"&gt;discussion&lt;/a&gt;, 417 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/anthropics/claude-code/issues/29045"&gt;Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use&lt;/a&gt; — Users find Claude Desktop silently provisions a large virtual machine at startup regardless of whether code execution is needed. (&lt;a href="https://news.ycombinator.com/item?id=48479452"&gt;discussion&lt;/a&gt;, 403 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1"&gt;Sequent: scale and automation for higher confidence in alignment&lt;/a&gt; by Geoffrey Irving — Proposes combining scalable oversight with automated verification to build higher confidence in AI alignment. (199 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"&gt;Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models&lt;/a&gt; by Anders Cairns Woodruff — Empirically measures how long frontier models can reliably complete tasks without chain-of-thought prompting. (121 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cNDJuXNZ8MrkPZNzj/machinic-psychopharmacology-do-llms-self-medicate-3"&gt;Machinic Psychopharmacology: Do LLMs Self-Medicate?&lt;/a&gt; by Sid Black — Investigates whether LLMs alter their own outputs in ways that parallel self-medication when given access to certain tools or prompts. (101 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zgi6RijdKSpQPYemB/anthropic-did-not-call-for-a-pause-on-ai"&gt;Anthropic did not call for a pause on AI&lt;/a&gt; by Andrea_Miotti — Corrects the widespread claim that Anthropic endorsed an AI pause, clarifying what the company actually said. (64 karma)
+&lt;/parameter&gt;
+&lt;/invoke&gt;
+&lt;/function_calls&gt;
+&lt;parameter name="title"&gt;Approve digest&lt;/parameter&gt;
+&lt;parameter name="description"&gt;The digest is ready. Blogs section is omitted (no items). I dropped the PgDog funding announcement from HN as a minor product announcement. Everything else is included and formatted per the spec.&lt;/parameter&gt;
+&lt;invoke name="ExitPlanMode"&gt;
+&lt;/invoke&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-11.html"/>
+    <published>2026-06-11T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-10</id>
     <title>Daily Digest — Wednesday, June 10, 2026</title>
