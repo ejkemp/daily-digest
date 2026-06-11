@@ -51,6 +51,24 @@ Notes:
   from sleeping (System Settings → Energy, or `caffeinate`/`pmset`) for on-time delivery.
 - If `claude` ever gets logged out, the digest still publishes a links-only fallback
   (visibly tagged) — that's your cue to run `claude` and re-auth.
+- **Don't clone into `~/Documents`, `~/Desktop`, or `~/Downloads`.** Those are TCC-protected,
+  so the launchd agent is denied (`run.sh: Operation not permitted`, exit 126) even though a
+  manual `./run.sh` works. Keep the repo somewhere like `~/daily-digest`.
+
+## Operation
+
+Once installed, the job is a launchd **agent** — `launchd` runs it, not your terminal:
+- **No terminal needed.** You can close the terminal / shell session; the schedule keeps running.
+- **Survives reboots.** The plist lives at `~/Library/LaunchAgents/com.ethan.daily-digest.plist`
+  and reloads automatically when you log in.
+- **Requires the Mac on and your user logged in** at 06:30 (it's a per-user GUI agent), plus
+  awake — see the sleep note above.
+
+Check it's still scheduled and see the last run's result:
+
+```sh
+launchctl print "gui/$(id -u)/com.ethan.daily-digest" | grep -iE 'state|runs|last exit'
+```
 
 ## Config (`config.toml`)
 
