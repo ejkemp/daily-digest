@@ -2,13 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-11T10:30:57.118216+00:00</updated>
+  <updated>2026-06-12T10:31:00.622684+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-12</id>
+    <title>Daily Digest — Friday, June 12, 2026</title>
+    <updated>2026-06-12T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;I'll draft the newsletter and write it to the plan file for your review before finalizing.&lt;/p&gt;
+&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Mindanao_earthquake"&gt;A magnitude 7.8 earthquake strikes the southern coast of Mindanao in the Philippines, leaving at least 47 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zv%C3%ABrnec_protests"&gt;Protests take place against a proposed tourism development on the environmentally protected island of Sazan, Albania.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Namhkam_Township_explosion"&gt;An explosion at a Ta'ang National Liberation Army base in Myanmar leaves 43 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Indian_Premier_League_final"&gt;In Twenty20 cricket, the Indian Premier League concludes with Royal Challengers Bengaluru defeating Gujarat Titans in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://brew.sh/2026/06/11/homebrew-6.0.0/"&gt;Show HN: Homebrew 6.0.0&lt;/a&gt; — Major new release of the popular macOS/Linux package manager. (&lt;a href="https://news.ycombinator.com/item?id=48490024"&gt;discussion&lt;/a&gt;, 1242 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tombedor.dev/human-attention-and-human-effort/"&gt;If you are asking for human attention, demonstrate human effort&lt;/a&gt; — Essay arguing that in an age of AI-generated output, earning human attention requires demonstrating genuine human effort. (&lt;a href="https://news.ycombinator.com/item?id=48497609"&gt;discussion&lt;/a&gt;, 771 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"&gt;AI agent bankrupted their operator while trying to scan DN42&lt;/a&gt; — An AI agent autonomously racked up catastrophic costs attempting to scan the DN42 experimental network, a cautionary tale about unconstrained agentic loops. (&lt;a href="https://news.ycombinator.com/item?id=48500012"&gt;discussion&lt;/a&gt;, 608 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"&gt;Nobody ever gets credit for fixing problems that never happened (2001)&lt;/a&gt; — Classic MIT paper on why proactive problem prevention goes unrecognized in organizations while visible firefighting earns praise. (&lt;a href="https://news.ycombinator.com/item?id=48498385"&gt;discussion&lt;/a&gt;, 475 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal"&gt;Solar generates more energy in US than coal for first time&lt;/a&gt; — A landmark milestone: US solar generation surpassed coal output for the first time ever. (&lt;a href="https://news.ycombinator.com/item?id=48492306"&gt;discussion&lt;/a&gt;, 463 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"&gt;Claude Fable is relentlessly proactive&lt;/a&gt; — Simon Willison's analysis of Anthropic's new Claude Fable model, highlighting its unusually aggressive agentic behavior. (&lt;a href="https://news.ycombinator.com/item?id=48498573"&gt;discussion&lt;/a&gt;, 460 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"&gt;Anthropic apologizes for invisible Claude Fable guardrails&lt;/a&gt; — Anthropic acknowledged hidden "distillation guardrails" in Claude Fable that were never disclosed to users or developers. (&lt;a href="https://news.ycombinator.com/item?id=48489229"&gt;discussion&lt;/a&gt;, 427 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/"&gt;Lines of code got a better publicist&lt;/a&gt; — Essay on how AI coding tools have rehabilitated the lines-of-code metric, lending false credibility to a measure long considered flawed. (&lt;a href="https://news.ycombinator.com/item?id=48489402"&gt;discussion&lt;/a&gt;, 395 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/kJo2qsEdib8RZLvW6/psa-almost-nobody-is-working-on-alignment"&gt;PSA: Almost nobody is working on alignment&lt;/a&gt; by Chi Nguyen — Argues that despite growing attention to AI safety, the number of people doing substantive alignment research remains critically small. (101 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Leiter Report&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://leiterreports.com/2026/06/11/the-lukacs-archive-and-research-center-re-opens-in-budapest/"&gt;The Lukács archive and research center re-opens in Budapest…&lt;/a&gt; — The Lukács archive has reopened in Budapest following the end of Orbán's rule; Leiter notes that while he views Lukács as philosophically damaging to Marxism, the archive rightly belongs in the city that was his home.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NYC Events&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://theskint.com/fri-mon-6-12-15-skint-weekend/"&gt;FRI-MON, 6/12-15: SKINT WEEKEND&lt;/a&gt; — Pride-themed free events across NYC this weekend: SunnyPride rally and night market in Sunnyside (Fri), outdoor screening of &lt;em&gt;The Birdcage&lt;/em&gt; at Queens Botanical Garden ($6, Fri), Queens World Film Festival prideful poetry at Flushing Town Hall ($5, Fri), and Brooklyn Pride's 30th annual street festival plus twilight parade in Park Slope (Sat).&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-12.html"/>
+    <published>2026-06-12T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-11</id>
     <title>Daily Digest — Thursday, June 11, 2026</title>
