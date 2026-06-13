@@ -53,17 +53,26 @@ def template_digest(data: dict) -> str:
         "lesswrong": "LessWrong",
         "blogs": "Blogs",
     }
-    lines = ["*Automatic fallback digest (Claude was unavailable) — links only.*"]
-    for key, heading in sections.items():
-        items = data["sources"].get(key, {}).get("items", [])
+
+    def emit(lines: list[str], heading: str, items: list[dict]) -> None:
         if not items:
-            continue
+            return
         lines.append(f"\n## {heading}")
         for item in items:
             extra = ""
             if item.get("score") is not None:
                 extra = f" ({item['score']} points)"
             lines.append(f"- [{item['title']}]({item['url']}){extra}")
+
+    lines = ["*Automatic fallback digest (Claude was unavailable) — links only.*"]
+    for key, heading in sections.items():
+        items = data["sources"].get(key, {}).get("items", [])
+        if key == "wikipedia":
+            # Wikipedia items carry a `section` field; keep each box under its own heading.
+            for sub in ("Topics in the news", "Did you know", "On this day"):
+                emit(lines, sub, [i for i in items if i.get("section") == sub])
+        else:
+            emit(lines, heading, items)
     return "\n".join(lines)
 
 

@@ -17,12 +17,6 @@ min_karma = 50
 window_hours = 24
 max_items = 20
 
-[blogs]
-# Add the feed URLs of blogs you follow, e.g.
-# feeds = ["https://www.example.com/rss.xml", "https://blog.example.org/atom.xml"]
-feeds = ["https://leiterreports.com/feed/", "https://dailynous.com/feed/", "https://theskint.com/feed/"]
-window_hours = 48
-
 [digest]
 # Model passed to `claude -p --model ...`. sonnet keeps subscription usage light;
 # switch to "opus" if you want higher-quality prose.
