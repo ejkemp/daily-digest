@@ -51,7 +51,6 @@ def template_digest(data: dict) -> str:
         "wikipedia": "Topics in the News",
         "hackernews": "Hacker News",
         "lesswrong": "LessWrong",
-        "blogs": "Blogs",
     }
 
     def emit(lines: list[str], heading: str, items: list[dict]) -> None:

@@ -6,13 +6,12 @@ import sys
 import traceback
 
 from .common import DATA_DIR, load_config
-from .sources import blogs, hackernews, lesswrong, wikipedia
+from .sources import hackernews, lesswrong, wikipedia
 
 SOURCES = {
     "wikipedia": wikipedia.fetch,
     "hackernews": hackernews.fetch,
     "lesswrong": lesswrong.fetch,
-    "blogs": blogs.fetch,
 }
 
 

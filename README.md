@@ -4,8 +4,8 @@ A personal daily newsletter. Every morning a launchd job on the Mac Mini scrapes
 sources, has Claude (headless `claude -p`) write a digest, and publishes it as an Atom
 feed via GitHub Pages.
 
-**Sources:** Wikipedia Current Events · Hacker News (≥ score threshold) · LessWrong
-(≥ karma threshold) · configured blogs.
+**Sources:** Wikipedia Main Page (Topics in the news · Did you know · On this day) ·
+Hacker News (≥ score threshold) · LessWrong (≥ karma threshold).
 
 ## Pipeline
 
@@ -73,7 +73,6 @@ launchctl print "gui/$(id -u)/com.ethan.daily-digest" | grep -iE 'state|runs|las
 ## Config (`config.toml`)
 
 - `hackernews.min_score`, `lesswrong.min_karma` — inclusion thresholds
-- `blogs.feeds` — list of RSS/Atom URLs to follow
 - `digest.claude_model` — model for `claude -p` (default `sonnet`)
 
 ## Manual run / debugging
