@@ -2,13 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-12T10:31:00.622684+00:00</updated>
+  <updated>2026-06-13T10:30:53.946434+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-13</id>
+    <title>Daily Digest — Saturday, June 13, 2026</title>
+    <updated>2026-06-13T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;I'll write the newsletter digest as the plan (since the content itself is the deliverable), then exit for your approval.&lt;/p&gt;
+&lt;h2&gt;## Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;Artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Guinean_parliamentary_election"&gt;In Guinea's first legislative election since the 2021 coup, President Mamady Doumbouya's coalition, the Generation for Modernity and Development, wins the most seats in the National Assembly.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"&gt;The Civil Contract party of incumbent prime minister Nikol Pashinyan wins the Armenian parliamentary election.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/news/fable-mythos-access"&gt;Statement on US government directive to suspend access to Fable 5 and Mythos 5&lt;/a&gt; — Anthropic responds to a US government directive ordering it to suspend access to its two most capable models. (&lt;a href="https://news.ycombinator.com/item?id=48511072"&gt;discussion&lt;/a&gt;, 2337 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opensourceaimustwin.com/?share=v2"&gt;Open source AI must win&lt;/a&gt; — Manifesto-style argument for why open-source AI is essential. (&lt;a href="https://news.ycombinator.com/item?id=48511908"&gt;discussion&lt;/a&gt;, 947 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/"&gt;CRISPR tech selectively shreds cancer cells, including "undruggable" cancers&lt;/a&gt; — New CRISPR-based technique targets and destroys cancer cells, including previously untreatable types. (&lt;a href="https://news.ycombinator.com/item?id=48505231"&gt;discussion&lt;/a&gt;, 827 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"&gt;Electric motors with no rare earths&lt;/a&gt; — Renault explains its approach to building EV motors that eliminate dependence on rare-earth materials. (&lt;a href="https://news.ycombinator.com/item?id=48510010"&gt;discussion&lt;/a&gt;, 474 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code"&gt;Kimi K2.7-Code: open-source coding model with better token efficiency&lt;/a&gt; — Moonshot AI releases an open-source code model claiming improved token efficiency over prior models. (&lt;a href="https://news.ycombinator.com/item?id=48502347"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/"&gt;"Don't You Just Upload It to ChatGPT?"&lt;/a&gt; — Essay on the gap between what non-technical people think AI can do and how practitioners actually use it. (&lt;a href="https://news.ycombinator.com/item?id=48507278"&gt;discussion&lt;/a&gt;, 413 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"&gt;How to setup a local coding agent on macOS&lt;/a&gt; — Practical guide to running a fully local AI coding agent on a Mac. (&lt;a href="https://news.ycombinator.com/item?id=48507020"&gt;discussion&lt;/a&gt;, 376 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"&gt;Palantir loses legal challenge against Swiss investigative magazine&lt;/a&gt; — A Swiss court rules against Palantir in its attempt to suppress reporting by an investigative outlet. (&lt;a href="https://news.ycombinator.com/item?id=48509182"&gt;discussion&lt;/a&gt;, 352 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DZaZ3fqHnvfLCftPu/sympathy-for-both-sides-of-the-egregious-misalignment-debate"&gt;Sympathy for both sides of the egregious misalignment debate&lt;/a&gt; by Steven Byrnes — Explores the tensions between those who consider current AI behavior egregiously misaligned and those who do not, finding merit in both camps. (139 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Leiter Report&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://leiterreports.com/2026/06/12/how-is-the-new-school-selecting-tenured-faculty-for-termination/"&gt;How is the New School selecting tenured faculty for termination…&lt;/a&gt; — Leiter raises suspicions about the New School's layoffs amid a budget crisis, noting the one tenured economics professor fired was an outspoken critic of administration financial mismanagement.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://leiterreports.com/2026/06/12/apparently-anthony-appiah-has-not-read-carnap-or-thomas-nagels-the-last-word/"&gt;Apparently Anthony Appiah has not read Carnap (or Thomas Nagel's "The Last Word")&lt;/a&gt; — Leiter critiques the Boghossian Report's framing of epistemic relativism, arguing that Boghossian and Appiah's narrow definition of relativism is precisely the view defended by philosophers like Jason Stanley, undermining their claim that the case against it is "overwhelming."&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-13.html"/>
+    <published>2026-06-13T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-12</id>
     <title>Daily Digest — Friday, June 12, 2026</title>
