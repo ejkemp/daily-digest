@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-13T10:30:53.946434+00:00</updated>
+  <updated>2026-06-14T10:30:52.266688+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
@@ -10,35 +10,99 @@
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-13</id>
-    <title>Daily Digest — Saturday, June 13, 2026</title>
-    <updated>2026-06-13T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;I'll write the newsletter digest as the plan (since the content itself is the deliverable), then exit for your approval.&lt;/p&gt;
-&lt;h2&gt;## Topics in the News&lt;/h2&gt;
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-14</id>
+    <title>Daily Digest — Sunday, June 14, 2026</title>
+    <updated>2026-06-14T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;Artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Guinean_parliamentary_election"&gt;In Guinea's first legislative election since the 2021 coup, President Mamady Doumbouya's coalition, the Generation for Modernity and Development, wins the most seats in the National Assembly.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;English artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ja%27Kobe_Tharp"&gt;In athletics, Ja'Kobe Tharp sets a new world record in men's 110 metres hurdles.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Guinean_parliamentary_election"&gt;In Guinea's first legislative election since the 2021 coup, President Mamady Doumbouya 's coalition, the Generation for Modernity and Development, wins the most seats in the National Assembly.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"&gt;The Civil Contract party of incumbent prime minister Nikol Pashinyan wins the Armenian parliamentary election.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fatmata_Binta"&gt;... that Fatmata Binta used her monetary award from the Basque Culinary World Prize to support women farmers' cultivation of fonio ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Urbinus"&gt;... that Byzantine general Belisarius lost a significant part of his army over a disagreement with his military commanders but still was able to capture Urbinus without a fight?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Unaipon"&gt;... that one of the first known books by an Aboriginal Australian author, written by David Unaipon, was not printed under his name for more than 70 years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mandate_(magazine)"&gt;... that Mandate was one of the few nationwide publications in the US to feature full-frontal male nudity in the 1970s?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Todung_Sutan_Gunung_Mulia"&gt;... that Todung Sutan Gunung Mulia founded a printing house after President Sukarno banned the importation of Indonesian-language Bibles?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nick_Martinelli_(basketball)"&gt;... that basketball player Nick Martinelli led the Big Ten Conference in scoring for back-to-back seasons, but his high school's career scoring record is held by his older brother ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Denison_Trough"&gt;... that the geological formations of Australia's inland Denison Trough record evidence of when the area was a shallow sea?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Poetae_Epici_Graeci"&gt;... that Poetae Epici Graeci contains more than 1150 fragments from or about lost writings attributed in classical antiquity to the mythical poet Orpheus ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bradley_Roberts_(Bahamian_politician)"&gt;... that Bahamian member of parliament Bradley Roberts was known affectionately as "Big Bad Brad"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Orbetello"&gt;1646 – Franco-Spanish War : French and Spanish fleets fought the inconclusive Battle of Orbetello, with sailing vessels of both sides having to be towed into action by galleys due to light winds.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/California_Republic"&gt;1846 – Settlers in Sonoma began rebelling against Mexico, later proclaiming the California Republic and  raising a homemade flag with a bear and a star.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fall_Rot"&gt;1940 – Second World War : Four days after the French government fled Paris, German forces occupied the French capital, a major accomplishment in the Fall Rot operation.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum"&gt;1966 – The Vatican formally abolished its 427-year-old list of prohibited books.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Montana_Freemen"&gt;1996 – After an 81-day standoff sparked by their refusal to be evicted from their foreclosed property in Jordan, Montana, the Christian Patriot group Montana Freemen surrendered to the FBI.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Hacker News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/news/fable-mythos-access"&gt;Statement on US government directive to suspend access to Fable 5 and Mythos 5&lt;/a&gt; — Anthropic responds to a US government directive ordering it to suspend access to its two most capable models. (&lt;a href="https://news.ycombinator.com/item?id=48511072"&gt;discussion&lt;/a&gt;, 2337 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://opensourceaimustwin.com/?share=v2"&gt;Open source AI must win&lt;/a&gt; — Manifesto-style argument for why open-source AI is essential. (&lt;a href="https://news.ycombinator.com/item?id=48511908"&gt;discussion&lt;/a&gt;, 947 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/"&gt;CRISPR tech selectively shreds cancer cells, including "undruggable" cancers&lt;/a&gt; — New CRISPR-based technique targets and destroys cancer cells, including previously untreatable types. (&lt;a href="https://news.ycombinator.com/item?id=48505231"&gt;discussion&lt;/a&gt;, 827 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"&gt;Electric motors with no rare earths&lt;/a&gt; — Renault explains its approach to building EV motors that eliminate dependence on rare-earth materials. (&lt;a href="https://news.ycombinator.com/item?id=48510010"&gt;discussion&lt;/a&gt;, 474 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code"&gt;Kimi K2.7-Code: open-source coding model with better token efficiency&lt;/a&gt; — Moonshot AI releases an open-source code model claiming improved token efficiency over prior models. (&lt;a href="https://news.ycombinator.com/item?id=48502347"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/"&gt;"Don't You Just Upload It to ChatGPT?"&lt;/a&gt; — Essay on the gap between what non-technical people think AI can do and how practitioners actually use it. (&lt;a href="https://news.ycombinator.com/item?id=48507278"&gt;discussion&lt;/a&gt;, 413 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"&gt;How to setup a local coding agent on macOS&lt;/a&gt; — Practical guide to running a fully local AI coding agent on a Mac. (&lt;a href="https://news.ycombinator.com/item?id=48507020"&gt;discussion&lt;/a&gt;, 376 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"&gt;Palantir loses legal challenge against Swiss investigative magazine&lt;/a&gt; — A Swiss court rules against Palantir in its attempt to suppress reporting by an investigative outlet. (&lt;a href="https://news.ycombinator.com/item?id=48509182"&gt;discussion&lt;/a&gt;, 352 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://desfontain.es/blog/banning-noise.html"&gt;Noise infusion banned from statistical products published by Census Bureau&lt;/a&gt; — A significant policy reversal: the Census Bureau has been prohibited from using differential privacy noise-injection techniques, raising questions about how it will protect respondent privacy going forward. (&lt;a href="https://news.ycombinator.com/item?id=48517377"&gt;discussion&lt;/a&gt;, 826 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tonsky.me/blog/every-frame-perfect/"&gt;Every Frame Perfect&lt;/a&gt; — An exploration of what it takes to achieve buttery-smooth, artifact-free rendering in software UI — and why so many apps fall short. (&lt;a href="https://news.ycombinator.com/item?id=48516251"&gt;discussion&lt;/a&gt;, 722 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;amp;reflink=desktopwebshare_permalink"&gt;Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models&lt;/a&gt; — WSJ reporting that government intervention in Anthropic's model availability was set in motion by Andy Jassy's conversations with federal officials, signaling escalating political involvement in frontier AI deployment. (&lt;a href="https://news.ycombinator.com/item?id=48519092"&gt;discussion&lt;/a&gt;, 690 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/jietang/status/2065784751345287314"&gt;GLM 5.2 Is Out&lt;/a&gt; — Zhipu AI releases GLM 5.2, the latest iteration of China's leading open large language model series. (&lt;a href="https://news.ycombinator.com/item?id=48518684"&gt;discussion&lt;/a&gt;, 593 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"&gt;Treating pancreatic tumours may have revealed cancer's master switch&lt;/a&gt; — Researchers studying pancreatic cancer treatment may have identified a fundamental regulatory mechanism common to many cancers, potentially opening new avenues for broad oncology therapies. (&lt;a href="https://news.ycombinator.com/item?id=48517199"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;LessWrong&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DZaZ3fqHnvfLCftPu/sympathy-for-both-sides-of-the-egregious-misalignment-debate"&gt;Sympathy for both sides of the egregious misalignment debate&lt;/a&gt; by Steven Byrnes — Explores the tensions between those who consider current AI behavior egregiously misaligned and those who do not, finding merit in both camps. (139 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Leiter Report&lt;/h2&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DQNSqCzuoeutoQ5RG/american-government-takes-down-claude-fable"&gt;American Government Takes Down Claude Fable&lt;/a&gt; by Zvi — Analysis of the U.S. government's intervention restricting Anthropic's Claude Fable model and what it signals for AI governance and safety. (83 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/j2zBqt7AksoEoHXNp/how-might-continual-learning-affect-safety-and-alignment"&gt;How might continual learning affect safety and alignment?&lt;/a&gt; by Rauno Arike — Examines how systems that update their weights continuously from new data could introduce novel alignment risks and complicate existing safety guarantees. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-14.html"/>
+    <published>2026-06-14T07:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-13</id>
+    <title>Daily Digest — Saturday, June 13, 2026</title>
+    <updated>2026-06-13T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://leiterreports.com/2026/06/12/how-is-the-new-school-selecting-tenured-faculty-for-termination/"&gt;How is the New School selecting tenured faculty for termination…&lt;/a&gt; — Leiter raises suspicions about the New School's layoffs amid a budget crisis, noting the one tenured economics professor fired was an outspoken critic of administration financial mismanagement.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://leiterreports.com/2026/06/12/apparently-anthony-appiah-has-not-read-carnap-or-thomas-nagels-the-last-word/"&gt;Apparently Anthony Appiah has not read Carnap (or Thomas Nagel's "The Last Word")&lt;/a&gt; — Leiter critiques the Boghossian Report's framing of epistemic relativism, arguing that Boghossian and Appiah's narrow definition of relativism is precisely the view defended by philosophers like Jason Stanley, undermining their claim that the case against it is "overwhelming."&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;Artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Guinean_parliamentary_election"&gt;In Guinea's first legislative election since the 2021 coup, President Mamady Doumbouya 's coalition, the Generation for Modernity and Development, wins the most seats in the National Assembly.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"&gt;The Civil Contract party of incumbent prime minister Nikol Pashinyan wins the Armenian parliamentary election.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Point_Clear_Martello_Tower"&gt;... that the 19th-century Point Clear Martello Tower now houses an aviation museum?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jimmy_Whalen_(baseball)"&gt;... that, when baseball pitcher Jimmy Whalen was promoted to the Major Leagues, he refused to report because the team would not pay his travel expenses?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Australian_Antarctic_Territory"&gt;... that Australia took Japan to the International Court of Justice for its whaling activities near the Australian Antarctic Territory ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_Morcom"&gt;... that Alan Turing had a childhood crush on Christopher Morcom ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gropius_House"&gt;... that a design competition for a bathroom outside the Gropius House attracted 280 entries?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nyamazana"&gt;... that warrior-queen Nyamazana defeated the last Rozvi ruler, an act that has been miscredited to a male relative or her husband ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merger_of_Nexstar_Media_Group_and_Tegna_Inc."&gt;... that one opponent of a recent merger of American television station operators called it "the most massive TV consolidation in history using a kangaroo process "?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/J%C5%8Dsaku_Maeda"&gt;... that Japanese painter Jōsaku Maeda began consciously painting mandalas after critic Konstanty Jeleński described his Night Series as such in Paris in 1959?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bite_Me_(Enhypen_song)"&gt;... that the choreography of " Bite Me " prompted fans to send competing protest trucks to the record label over the use of female backup dancers?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/American_League_of_Colored_Laborers"&gt;1850 – The American League of Colored Laborers, one of the first labor unions for African Americans, was established in New York City.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Mont_Sorrel"&gt;1916 – World War I : The Battle of Mont Sorrel in the Ypres Salient came to an end as a Canadian assault led German forces to withdraw to their original lines.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pentagon_Papers"&gt;1971 – The New York Times published the first excerpts from the Pentagon Papers, a 7,000-page classified Department of Defense history of the United States' political and military involvement in the Vietnam War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marcus_Sarjeant"&gt;1981 – English teenager Marcus Sarjeant fired six blanks at Queen Elizabeth II as she rode down The Mall to the Trooping the Colour ceremony.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_2011_Christchurch_earthquake"&gt;2011 – A 6.0 M w earthquake caused up to NZ$6 billion of additional damage to Christchurch, New Zealand, which was still recovering from an earthquake four months earlier.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/news/fable-mythos-access"&gt;Statement on US government directive to suspend access to Fable 5 and Mythos 5&lt;/a&gt; — Anthropic's official response to a US government directive requiring suspension of access to its Fable 5 and Mythos 5 models. (&lt;a href="https://news.ycombinator.com/item?id=48511072"&gt;discussion&lt;/a&gt;, 2905 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opensourceaimustwin.com/?share=v2"&gt;Open source AI must win&lt;/a&gt; — A manifesto-style argument for why open source AI development is essential in the current political moment. (&lt;a href="https://news.ycombinator.com/item?id=48511908"&gt;discussion&lt;/a&gt;, 1359 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"&gt;Electric motors with no rare earths&lt;/a&gt; — Renault explains its work on EV motors that eliminate dependence on rare earth materials, addressing a major supply chain vulnerability. (&lt;a href="https://news.ycombinator.com/item?id=48510010"&gt;discussion&lt;/a&gt;, 633 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/"&gt;"Don't You Just Upload It to ChatGPT?"&lt;/a&gt; — A reflection on the gulf between how non-technical people imagine AI tools work and what they actually do. (&lt;a href="https://news.ycombinator.com/item?id=48507278"&gt;discussion&lt;/a&gt;, 447 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"&gt;How to setup a local coding agent on macOS&lt;/a&gt; — Practical guide for running an AI coding agent locally on macOS without cloud dependencies. (&lt;a href="https://news.ycombinator.com/item?id=48507020"&gt;discussion&lt;/a&gt;, 442 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow"&gt;There is a shadow hanging over this Fable thing&lt;/a&gt; — A critical examination of the broader implications behind the US government's suspension of access to Fable 5. (&lt;a href="https://news.ycombinator.com/item?id=48513536"&gt;discussion&lt;/a&gt;, 421 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.unitedheroes.net/5751"&gt;Leaving Mozilla&lt;/a&gt; — A departing Mozilla employee reflects on their time at the organization and its current direction. (&lt;a href="https://news.ycombinator.com/item?id=48513806"&gt;discussion&lt;/a&gt;, 405 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"&gt;Palantir loses legal challenge against Swiss investigative magazine&lt;/a&gt; — A Swiss court rejected Palantir's case against an investigative publication, a notable win for press freedom. (&lt;a href="https://news.ycombinator.com/item?id=48509182"&gt;discussion&lt;/a&gt;, 383 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/"&gt;Israeli firm BlackCore suspected of meddling in New York and Scotland votes&lt;/a&gt; — Reuters reports BlackCore is suspected of election interference across multiple democracies including NYC, Scotland, and France. (&lt;a href="https://news.ycombinator.com/item?id=48514560"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"&gt;Building and evaluating model diffing agents&lt;/a&gt; by bilalchughtai — Explores how to build and benchmark agents capable of identifying behavioral differences between AI models. (53 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/f5avt6eEzkGJJqcCe/us-government-directive-to-suspend-access-to-fable-5-and"&gt;US government directive to suspend access to Fable 5 and Mythos 5&lt;/a&gt; by Capybasilisk — Community discussion of the US government's directive requiring Anthropic to suspend access to its most capable models. (51 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-13.html"/>
     <published>2026-06-13T07:00:00-04:00</published>
