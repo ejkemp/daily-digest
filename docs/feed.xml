@@ -2,13 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-14T10:30:52.266688+00:00</updated>
+  <updated>2026-06-15T10:31:25.785501+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-15</id>
+    <title>Daily Digest — Monday, June 15, 2026</title>
+    <updated>2026-06-15T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;English artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ja%27Kobe_Tharp"&gt;In athletics, Ja'Kobe Tharp sets a new world record in men's 110 metres hurdles.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Seth_Van_Neerden"&gt;... that a world-championship-medalist swimmer called his sport "one of the dullest in existence"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henderson_Place_Historic_District"&gt;... that the houses in New York City's Henderson Place Historic District have been described as "gingerbread-type" and likened to dollhouse architecture?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Erwan_Kepoa_Fal%C3%A9"&gt;... that actor Erwan Kepoa Falé said that sex was his escape from grief after the death of his father?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2018_Sikka_regency_election"&gt;... that "almost every road in Sikka had campaign posts" during the 2018 regency election campaign?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_World_Is_to_Dig"&gt;... that the title of the 2026 album The World Is to Dig was inspired by a 1952 children's book ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Kinsey_(Quaker_leader)"&gt;... that John Kinsey remained speaker of the New Jersey colonial assembly despite moving to Pennsylvania?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tele7ABC"&gt;... that nighttime programming on Romania's Tele7ABC in 2000 consisted of the poet Adrian Păunescu and a "crumpled blue curtain"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/James_Baker_as_Secretary_of_State"&gt;... that, when James Baker was U.S. secretary of state, he banned Benjamin Netanyahu from the department's headquarters?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Laura_Taylor_(softball)"&gt;... that softball player Laura Taylor scored only four home runs in high school, but then became one of the top home run-hitters in college history?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Exsurge_Domine"&gt;1520 – Leo X issued the papal bull Exsurge Domine, censuring 41 propositions from Martin Luther 's Ninety-five Theses and subsequent writings, and threatening him with excommunication unless he recanted.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1896_Sanriku_earthquake"&gt;1896 – A magnitude-8.5 earthquake and a subsequent tsunami struck Japan, killing at least 22,000 people and destroying about 9,000 homes.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Duluth_lynchings"&gt;1920 – Three African-American circus workers were lynched by a mob in Duluth, Minnesota, a crime that shocked the country for having taken place in the Northern United States.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Pinatubo"&gt;1991 – An eruption of Mount Pinatubo in the Philippines deposited large amounts of particulate matter into the atmosphere, enough to briefly lower global temperatures by about 0.5 °C (0.9 °F).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Papah%C4%81naumoku%C4%81kea_Marine_National_Monument"&gt;2006 – US president George W. Bush designated 140,000 square miles (360,000 km 2 ) around the Northwestern Hawaiian Islands as the Papahānaumokuākea Marine National Monument, now one of the world's largest protected areas.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://paulgraham.com/earn.html"&gt;How to earn a billion dollars&lt;/a&gt; — Paul Graham's latest essay on how founders actually build billion-dollar companies, generating heavy discussion on ambition, luck, and incentives. (&lt;a href="https://news.ycombinator.com/item?id=48526360"&gt;discussion&lt;/a&gt;, 643 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/"&gt;Your ePub Is fine&lt;/a&gt; — An investigation into why Kobo devices reject valid ePub files, tracing blame to Adobe's DRM layer rather than the files themselves. (&lt;a href="https://news.ycombinator.com/item?id=48533848"&gt;discussion&lt;/a&gt;, 615 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tamnd/kage"&gt;Show HN: Kage – Shadow any website to a single binary for offline viewing&lt;/a&gt; — Open-source tool that crawls and bundles an entire website into a self-contained binary for offline access. (&lt;a href="https://news.ycombinator.com/item?id=48529990"&gt;discussion&lt;/a&gt;, 566 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"&gt;Not everyone is using AI for everything&lt;/a&gt; — DuckDuckGo's founder argues AI adoption is deeply uneven — most people use it selectively rather than as a universal replacement for existing tools. (&lt;a href="https://news.ycombinator.com/item?id=48527700"&gt;discussion&lt;/a&gt;, 465 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/"&gt;Curl will not accept vulnerability reports during July 2026&lt;/a&gt; — Curl maintainer Daniel Stenberg announces a month-long security report freeze so he can take a vacation, raising questions about open-source maintainer sustainability. (&lt;a href="https://news.ycombinator.com/item?id=48537165"&gt;discussion&lt;/a&gt;, 423 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48528029"&gt;I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models&lt;/a&gt; — A developer used local ML models entirely on-device to semantically index hundreds of gigabytes of personal video footage without any cloud services. (&lt;a href="https://news.ycombinator.com/item?id=48528029"&gt;discussion&lt;/a&gt;, 373 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds"&gt;Windows 11 users are tired of MS account requirements creeping into everything&lt;/a&gt; — Growing frustration as Microsoft continues expanding mandatory account sign-in requirements across Windows 11 features, forcing users into increasingly convoluted workarounds. (&lt;a href="https://news.ycombinator.com/item?id=48533101"&gt;discussion&lt;/a&gt;, 361 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/nex-agi/Nex-N2/issues/4"&gt;Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model&lt;/a&gt; — Researchers find that a model publicly marketed as locally developed appears to be a merge of an existing open-source model, casting doubt on the originality claim. (&lt;a href="https://news.ycombinator.com/item?id=48528371"&gt;discussion&lt;/a&gt;, 355 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Cisy9STMoFYwboTsy/the-hidden-structures-of-problems"&gt;The Hidden Structures of Problems&lt;/a&gt; by spencerg — Argues that problems across domains share recognizable underlying structures, and that learning to identify these patterns is a transferable problem-solving skill. (64 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-15.html"/>
+    <published>2026-06-15T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-14</id>
     <title>Daily Digest — Sunday, June 14, 2026</title>
