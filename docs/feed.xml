@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-16T10:30:36.956020+00:00</updated>
+  <updated>2026-06-17T10:30:43.892723+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-17</id>
+    <title>Daily Digest — Wednesday, June 17, 2026</title>
+    <updated>2026-06-17T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup Final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bajrakitiyabha"&gt;Princess Bajrakitiyabha of Thailand, a possible heir to the throne, dies at the age of 47 after a three-year comatose state.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SN_2025pht"&gt;... that SN 2025pht was one of the brightest supernovae observed in 2025?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Muwaffaq_al-Din_Yaqub_ibn_Siqlab"&gt;... that Muwaffaq al-Din Yaqub ibn Siqlab was fluent in Classical Greek and regularly recited passages from Galen to inform his medical treatments?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Frijolero_(song)"&gt;... that a song uses satire in Spanish and English to critique anti-Mexican sentiment in the U.S. and anti-American sentiment in Mexico?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kotanopan"&gt;... that Dutch colonial presence in Mandailing territory began at Kotanopan, Northern Sumatra?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Guillaume_Alexandre_Tronson_du_Coudray"&gt;... that lawyer Guillaume Alexandre Tronson du Coudray was assigned to defend Marie Antoinette just two days before her trial began?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mavety_Media_Group"&gt;... that Mavety Media Group, an adult-oriented publishing company, once published a teen magazine?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Julien_Nuijten"&gt;... that, four years after Julien Nuijten won the largest award ever earned at a Magic: The Gathering tournament, he won four times as much playing poker?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amherstburg_First_Baptist_Church"&gt;... that the Amherstburg First Baptist Church was founded by escaped slaves?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grayson_McCall"&gt;... that college football player Grayson McCall attended a media-day session wearing a shirt that said "I piss teal"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/New_Albion"&gt;1579 – Explorer Francis Drake landed in a region of present-day California, naming it New Albion and claiming it for England.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mumtaz_Mahal"&gt;1631 – Mumtaz Mahal, wife of the Mughal emperor Shah Jahan, died in childbirth; Jahan spent the next seventeen years constructing her mausoleum, the Taj Mahal.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Epsom_riot"&gt;1919 – Hundreds of Canadian soldiers rioted in Epsom, England,  leading to the death of a British police officer.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Decree_900"&gt;1952 – Guatemalan Revolution : The Guatemalan Congress passed Decree 900, redistributing unused land greater than 224 acres (0.91 km 2 ) in area to local peasants.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"&gt;Running local models is good now&lt;/a&gt; — Vicki Boykis argues that local LLM inference has matured to the point of being genuinely practical for everyday use. (&lt;a href="https://news.ycombinator.com/item?id=48555993"&gt;discussion&lt;/a&gt;, 1351 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"&gt;SpaceX to buy Cursor for $60B&lt;/a&gt; — SpaceX is acquiring Anysphere (maker of the Cursor AI code editor) in a $60 billion deal, days after the SpaceX IPO. (&lt;a href="https://news.ycombinator.com/item?id=48553224"&gt;discussion&lt;/a&gt;, 1035 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"&gt;GrapheneOS has been ported to Android 17&lt;/a&gt; — The privacy-focused Android fork has been updated to Android 17 with official releases coming soon. (&lt;a href="https://news.ycombinator.com/item?id=48561654"&gt;discussion&lt;/a&gt;, 791 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work"&gt;Apple's weird anti-nausea dots cured my car sickness&lt;/a&gt; — The Verge reviews Apple's Vehicle Motion Cues feature and finds it surprisingly effective at reducing motion sickness while using a device in a moving vehicle. (&lt;a href="https://news.ycombinator.com/item?id=48557530"&gt;discussion&lt;/a&gt;, 774 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ciechanow.ski/mechanical-watch/"&gt;Mechanical Watch (2022)&lt;/a&gt; — Bartosz Ciechanowski's beloved interactive deep-dive into how mechanical watches work, resurfacing on HN. (&lt;a href="https://news.ycombinator.com/item?id=48553550"&gt;discussion&lt;/a&gt;, 700 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"&gt;Is Meta destroying its engineering organization?&lt;/a&gt; — The Pragmatic Engineer examines internal tensions and structural changes at Meta that may be degrading engineering culture and output quality. (&lt;a href="https://news.ycombinator.com/item?id=48558045"&gt;discussion&lt;/a&gt;, 586 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/"&gt;Apple is about to make Hide My Email useless&lt;/a&gt; — A developer explains upcoming Apple changes that will allow apps to link Hide My Email addresses back to real identities, undermining the privacy feature. (&lt;a href="https://news.ycombinator.com/item?id=48559935"&gt;discussion&lt;/a&gt;, 488 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of"&gt;Calvin and Hobbes and the price of integrity&lt;/a&gt; — An essay on Bill Watterson's refusal to license Calvin and Hobbes for merchandise and what his principled stand cost and meant. (&lt;a href="https://news.ycombinator.com/item?id=48557079"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"&gt;TIL: You can make HTTP requests without curl using Bash /dev/TCP&lt;/a&gt; — A quick demonstration of Bash's built-in &lt;code&gt;/dev/tcp&lt;/code&gt; pseudo-device to make raw HTTP requests without any external tools. (&lt;a href="https://news.ycombinator.com/item?id=48558018"&gt;discussion&lt;/a&gt;, 423 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874"&gt;U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears&lt;/a&gt; — The U.S. is removing ocean monitoring buoys that Canadian researchers depend on for El Niño forecasting, raising concerns about climate data gaps. (&lt;a href="https://news.ycombinator.com/item?id=48560847"&gt;discussion&lt;/a&gt;, 420 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452"&gt;Stop Using JWTs&lt;/a&gt; — A detailed argument that JWTs are overused and frequently misapplied for session management, with recommendations for simpler alternatives. (&lt;a href="https://news.ycombinator.com/item?id=48558147"&gt;discussion&lt;/a&gt;, 402 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Eg7caxofhxZGnhgBD/scaling-hypothesis-2-are-humans-just-more-over-parameterized"&gt;Scaling Hypothesis #2: Are Humans Just More Over-Parameterized?&lt;/a&gt; by gwern — Explores whether human cognition can be understood through the same over-parameterization lens used to explain why large neural networks generalize well. (57 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/siWqHqCSybdhtWGud/guardian-angels-llm-personalization-for-productivity-and"&gt;Guardian Angels: LLM Personalization for Productivity and Security&lt;/a&gt; by gwern — Proposes a model of personalized LLM "guardian" agents that act as persistent, trusted intermediaries to improve both individual productivity and security. (54 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-17.html"/>
+    <published>2026-06-17T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-16</id>
     <title>Daily Digest — Tuesday, June 16, 2026</title>
