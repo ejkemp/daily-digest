@@ -7,6 +7,12 @@ author = "Daily Digest"
 site_url = "https://ejkemp.github.io/daily-digest"
 feed_url = "https://ejkemp.github.io/daily-digest/feed.xml"
 
+[content]
+# Per-link article scraping, so the digest summarizes real content rather than
+# inventing it from the title. Applies to Hacker News links and LessWrong posts.
+max_chars = 4000          # cap per-item text so the prompt stays a sane size
+fetch_timeout_seconds = 15
+
 [hackernews]
 min_score = 350
 window_hours = 24

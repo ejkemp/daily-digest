@@ -19,7 +19,12 @@ Section guidelines:
 - **Hacker News**: one bullet per story worth reading — you may drop low-interest items
   (release-note churn, minor product announcements) but keep anything substantive.
   Format: `- [Title](url) — one-sentence description or why it matters. ([discussion](comments_url), N points)`
+  Base the description on the item's `content` field (the scraped article text). If
+  `content` is null or empty, the article could not be fetched — describe it from the
+  title only and do NOT invent specifics not implied by the title.
 - **LessWrong**: one bullet per post: `- [Title](url) by Author — one-sentence summary. (N karma)`
+  Base the summary on the post's `content` field (the scraped post body). If `content`
+  is null or empty, summarize from the title only and do NOT invent specifics.
 
 Rules:
 - Output ONLY the Markdown digest. No preamble, no code fences around the whole thing,

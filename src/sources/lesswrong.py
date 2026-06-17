@@ -1,10 +1,15 @@
-"""LessWrong posts above a karma threshold, via the public GraphQL API."""
+"""LessWrong posts above a karma threshold, via the public GraphQL API.
+
+The query also pulls each post's body (``contents.html``) so the digest can
+summarize the actual argument rather than guessing from the title.
+"""
 
 import datetime as dt
 
 import requests
 
 from ..common import USER_AGENT
+from ..extract import html_to_text
 
 API = "https://www.lesswrong.com/graphql"
 
@@ -17,6 +22,7 @@ QUERY = """
       baseScore
       postedAt
       user { displayName }
+      contents { html }
     }
   }
 }
@@ -25,6 +31,7 @@ QUERY = """
 
 def fetch(config: dict) -> list[dict]:
     cfg = config["lesswrong"]
+    max_chars = config.get("content", {}).get("max_chars", 4000)
     cutoff = dt.datetime.now(dt.UTC) - dt.timedelta(hours=cfg["window_hours"])
 
     resp = requests.post(
@@ -44,6 +51,8 @@ def fetch(config: dict) -> list[dict]:
         if posted < cutoff or post["baseScore"] < cfg["min_karma"]:
             continue
         user = post.get("user") or {}
+        contents = post.get("contents") or {}
+        html = contents.get("html")
         items.append(
             {
                 "source": "lesswrong",
@@ -52,6 +61,7 @@ def fetch(config: dict) -> list[dict]:
                 "score": post["baseScore"],
                 "author": user.get("displayName", "unknown"),
                 "published": post["postedAt"],
+                "content": html_to_text(html, max_chars=max_chars) if html else None,
             }
         )
     items.sort(key=lambda i: i["score"], reverse=True)
