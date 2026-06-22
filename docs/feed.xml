@@ -2,13 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-21T10:30:33.365724+00:00</updated>
+  <updated>2026-06-22T10:30:41.708609+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-22</id>
+    <title>Daily Digest — Monday, June 22, 2026</title>
+    <updated>2026-06-22T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_24_Hours_of_Le_Mans"&gt;In motorsport, Nyck de Vries, Kamui Kobayashi and Mike Conway of Toyota Racing win the 24 Hours of Le Mans.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hadley_Williams"&gt;... that doctor Hadley Williams left London for London, then returned to London?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kulembebe"&gt;... that the kingdom of Kulembebe in modern-day Angola may have been founded in the 13th century?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Yuki_Adachi"&gt;... that a television station mistakenly broadcast footage of a different person three times while trying to film a suspect for killing a child ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jake_West_(basketball)"&gt;... that Northwestern basketball coach Chris Collins claimed that he did not know his player Jake West was an influencer until Collins's own daughter told him?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Syriac_Assembly_Movement"&gt;... that prominent anti-Islam protester Salwan Momika was a key figure for the Syriac Assembly Movement during the 2018 Iraqi parliamentary election, despite living in Sweden at the time?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Natasha_Pickowicz"&gt;... that New York–based pastry chef Natasha Pickowicz wrote a cookbook on Chinese hot pot?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%C5%8Ctari-Wilton%27s_Bush"&gt;... that Ōtari-Wilton's Bush is the only public botanic garden in New Zealand that is entirely dedicated to native plants?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1965_Michigan_State_Spartans_football_team"&gt;... that eight players from the national-champion 1965 Michigan State Spartans football team, including MVP Steve Juday, received first-team All-America honors?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sadalberga"&gt;... that Saint Sadalberga used telepathy to "order lettuce from her gardener", according to a story from her vita ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Sisak"&gt;1593 – Habsburg troops defeated a larger Ottoman force at the Battle of Sisak in the Kingdom of Croatia, triggering the Long Turkish War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_V"&gt;1911 – King George V and Queen Mary were crowned at Westminster Abbey in London.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Barbarossa"&gt;1941 – World War II : As Axis troops began their invasion of the Soviet Union, the Lithuanian Activist Front started an uprising to liberate Lithuania from Soviet occupation.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thorpe_affair"&gt;1979 – Former British Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2002_Bou%27in-Zahra_earthquake"&gt;2002 – A magnitude-6.5 earthquake struck northwestern Iran, killing at least 230 people and injuring 1,300 others; the official response, perceived to be slow, later caused widespread public anger.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://support.claude.com/en/articles/14328960-identity-verification-on-claude"&gt;Identity verification on Claude&lt;/a&gt; — Anthropic is rolling out government-ID identity verification for certain Claude capabilities, using third-party partner Persona Identities, with verification data held by Persona and not used for model training. (&lt;a href="https://news.ycombinator.com/item?id=48618455"&gt;discussion&lt;/a&gt;, 762 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"&gt;Did my old job only exist because of fraud?&lt;/a&gt; — A software engineer reflects on discovering that the VC fund behind his early-career startup was later sued by the SEC for fraud, raising the question of whether his job — and by extension his entire life trajectory in the US — was manufactured to funnel fees from investors. (&lt;a href="https://news.ycombinator.com/item?id=48622867"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"&gt;Prefer duplication over the wrong abstraction (2016)&lt;/a&gt; — Sandi Metz's classic argument that premature abstraction is worse than duplication, because once a bad abstraction exists, developers feel compelled to extend it rather than replace it, leading to increasingly incomprehensible conditional logic. (&lt;a href="https://news.ycombinator.com/item?id=48620090"&gt;discussion&lt;/a&gt;, 492 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.beyondallreason.info"&gt;Beyond All Reason (Free Total Annihilation Inspired RTS)&lt;/a&gt; — A free, open RTS game inspired by Total Annihilation featuring fully simulated projectile physics, terrain deformation, thousands of units, and a new publishing partnership with Hooded Horse. (&lt;a href="https://news.ycombinator.com/item?id=48617990"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.deno.com/runtime/desktop/"&gt;Deno Desktop&lt;/a&gt; — Deno v2.9.0 introduces &lt;code&gt;deno desktop&lt;/code&gt;, which compiles any Deno or Node/npm-compatible web project (Next.js, Astro, SvelteKit, etc.) into a self-contained desktop binary with built-in auto-update, cross-compilation, and optional Chromium or OS-native webview backends. (&lt;a href="https://news.ycombinator.com/item?id=48626137"&gt;discussion&lt;/a&gt;, 396 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apertvs.ai/"&gt;Apertus – Open Foundation Model for Sovereign AI&lt;/a&gt; — A release of 16 small language models intended to demonstrate distillation and quantization techniques for sovereign AI deployments. (&lt;a href="https://news.ycombinator.com/item?id=48622778"&gt;discussion&lt;/a&gt;, 392 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-22.html"/>
+    <published>2026-06-22T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-21</id>
     <title>Daily Digest — Sunday, June 21, 2026</title>
