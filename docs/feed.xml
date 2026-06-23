@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-22T10:30:41.708609+00:00</updated>
+  <updated>2026-06-23T10:31:13.576871+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-23</id>
+    <title>Daily Digest — Tuesday, June 23, 2026</title>
+    <updated>2026-06-23T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_24_Hours_of_Le_Mans"&gt;In motorsport, Nyck de Vries, Kamui Kobayashi and Mike Conway of Toyota Racing win the 24 Hours of Le Mans.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Beans_on_toast"&gt;... that beans on toast have variously been referred to as "skinheads", "skins on a raft" and "cowboy's dinner"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Licia_Fertz"&gt;... that Licia Fertz posed nude for Rolling Stone at the age of 89?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Your_Own_Quiz"&gt;... that the author of Your Own Quiz wanted the readers to answer at least one question in the novel correctly at the same time as the main character?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Descendants_of_Elizabeth_II"&gt;... that all three sons of Queen Elizabeth II and Prince Philip attended Gordonstoun School ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/44_West_77th_Street"&gt;... that one writer described the decorations of 44 West 77th Street as having seemingly been "squeezed out of a pastry tube"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kino-Eye_(film)"&gt;... that the documentary film Kino-Eye includes footage reversed by director Dziga Vertov to show bread being unmade and a bull being "resurrected"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Castagno"&gt;... that Patrick Castagno won his 60th state championship shortly after his 60th birthday?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gordon_House_(Amherstburg)"&gt;... that the Gordon House was the headquarters of a project to rebuild an 1813 ship?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vasily_Baranshchikov"&gt;... that Vasily Baranshchikov 's travelogue was an 18th-century bestseller, despite what one contemporary review deemed sloppy writing and an ungrateful, whiny tone?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Brich_dem_Hungrigen_dein_Brot,_BWV_39"&gt;1726 – On the First Sunday after Trinity, J. S. Bach led the first performance of Brich dem Hungrigen dein Brot, BWV 39, one of a few new cantatas written that year.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stand_Watie"&gt;1865 – Stand Watie became the last Confederate general of the American Civil War to surrender to Union forces.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Banff_National_Park"&gt;1887 – The Parliament of Canada passed the Rocky Mountains Park Act, creating Banff National Park in Alberta as the country's first national park.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SAT"&gt;1926 – The College Board administered the first Scholastic Aptitude Test, a major standardized test for university and college admissions in the United States.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog"&gt;1991 – The first instalment of the video-game series Sonic the Hedgehog was released in North America.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://store.steampowered.com/news/group/45479024/view/685257114654870245"&gt;Steam Machine launches today&lt;/a&gt; — Valve's Steam Machine hardware platform launched today, generating significant community discussion. (&lt;a href="https://news.ycombinator.com/item?id=48632884"&gt;discussion&lt;/a&gt;, 1602 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mitchellh.com/writing/zig-donation-2026"&gt;Pledging another $400k to the Zig Software Foundation&lt;/a&gt; — Mitchell Hashimoto's family is pledging $400,000 more to the Zig Software Foundation (bringing total support to $700k), citing Zig's technical quality, maintainership culture, and its strict no-LLM contribution policy — which he respects even though his own views on AI differ. (&lt;a href="https://news.ycombinator.com/item?id=48630020"&gt;discussion&lt;/a&gt;, 779 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nevergivethemyourface.com/"&gt;Never Give Them Your Face&lt;/a&gt; — A detailed argument that laws requiring age verification for internet access are in practice identity-verification mandates that will create massive biometric databases, cannot be reset when breached, and fail at their stated goal while undermining internet anonymity for everyone. (&lt;a href="https://news.ycombinator.com/item?id=48630066"&gt;discussion&lt;/a&gt;, 713 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ipvm.com/reports/police-chiefs-track"&gt;Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed&lt;/a&gt; — An IPVM investigation documents a pattern of police chiefs and officers using Flock license plate reader systems to stalk ex-partners and rivals without warrants, including one chief who ran a romantic rival's plate 140 times; even Flock's own CLO admitted this is "actually the most common" form of abuse. (&lt;a href="https://news.ycombinator.com/item?id=48634694"&gt;discussion&lt;/a&gt;, 524 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"&gt;Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040&lt;/a&gt; — Canada has announced a federal nuclear strategy targeting up to 10 new reactors by 2040. (&lt;a href="https://news.ycombinator.com/item?id=48634585"&gt;discussion&lt;/a&gt;, 489 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://unsloth.ai/docs/models/glm-5.2"&gt;GLM-5.2 – How to Run Locally&lt;/a&gt; — Z.ai's GLM-5.2 (744B parameters, 40B active, 1M context window) claims benchmark parity with top closed models and can now be run locally via Unsloth's dynamic GGUF quantizations, with a 2-bit quant fitting in 256GB unified memory. (&lt;a href="https://news.ycombinator.com/item?id=48636377"&gt;discussion&lt;/a&gt;, 406 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"&gt;A Mechanistic Explanation of Prompt Injection (and why you should study roles)&lt;/a&gt; by Charles Ye — Presents a mechanistic theory of prompt injection rooted in how LLMs process role tags (system/user/tool/think), using it to explain existing attacks, predict when they succeed, and argue for a new subfield focused on the "science of roles." (111 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6fgfn72zoRDomgvrT/the-ai-industrial-explosion-part-4-cheap-power"&gt;The AI Industrial Explosion — Part 4: Cheap power&lt;/a&gt; by djbinder — Part 4 of a series modeling post-AGI economic growth examines energy production as the binding bottleneck, analyzing which energy systems minimize energy payback time under physically plausible constraints to estimate maximum growth rates. (52 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-23.html"/>
+    <published>2026-06-23T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-22</id>
     <title>Daily Digest — Monday, June 22, 2026</title>
