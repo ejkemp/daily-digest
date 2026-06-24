@@ -2,13 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-23T10:31:13.576871+00:00</updated>
+  <updated>2026-06-24T10:31:18.800538+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-24</id>
+    <title>Daily Digest — Wednesday, June 24, 2026</title>
+    <updated>2026-06-24T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_24_Hours_of_Le_Mans"&gt;In motorsport, Nyck de Vries, Kamui Kobayashi and Mike Conway of Toyota Racing win the 24 Hours of Le Mans.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Europejara"&gt;... that Europejara is the oldest known toothless pterosaur?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joyce_Castle"&gt;... that opera singer Joyce Castle specialized in "portraying nuts, mamas, lesbians, nymphomaniacs, witches, and men"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Khirbet_el-Maqatir"&gt;... that residents of Khirbet el-Maqatir during the Jewish–Roman wars secretly cut a passage between their hiding cave and a water cistern so they could draw water unseen while hiding from the Romans?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Benjamin_Naylor"&gt;... that merchant Benjamin Naylor built a store that contributed to the small New Zealand town of Clyde being described as having "movie-set good looks"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vieux-Comptoir"&gt;... that fur-trading ships wintered in an old factory ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eduardo_Clark"&gt;... that Eduardo Clark discovered that several teachers registered on Mexico's national education payroll were collecting more than MXN$ 500,000 per month, with some listed at least ten times?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2005_Metra_Rock_Island_derailment"&gt;... that a derailment in 2005 was caused by a train attempting to travel a 10 mph (16 km/h) crossing at 69 mph (111 km/h)?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Volition_(company)"&gt;... that the video game developer Volition was named after a lexical definition?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clop_(erotic_fan_art)"&gt;... that My Little Pony porn has been studied by scholars?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Glycerius"&gt;474 – Western Roman emperor Glycerius, who was not recognized by his Eastern counterpart Leo I, was forced to abdicate.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1559)"&gt;1559 – The Book of Common Prayer, a major component of the Elizabethan religious settlement, was introduced as the liturgy of the Church of England through the Act of Uniformity 1558.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siamese_revolution_of_1932"&gt;1932 – A group of military officers and civilians engineered a bloodless coup in Siam, ending the absolute rule of the Chakri dynasty.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jiang_Zemin"&gt;1989 – Following the Tiananmen Square massacre, the 13th Central Committee of the Chinese Communist Party appointed Jiang Zemin as general secretary in place of Zhao Ziyang.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Surfside_condominium_collapse"&gt;2021 – A portion of a 12-story condominium building collapsed in Surfside, Florida, killing 98 people and injuring 11 others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pluralistic.net/2026/06/23/destroy-the-village/"&gt;What we call "age verification" is actually mass surveillance&lt;/a&gt; — Cory Doctorow argues that internet age-verification mandates are a backdoor to universal tracking, benefiting the very surveillance-ad industry they claim to target, while setting the stage for VPN bans. (&lt;a href="https://news.ycombinator.com/item?id=48645173"&gt;discussion&lt;/a&gt;, 840 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/future-file-format/f3"&gt;F3&lt;/a&gt; — A research prototype for a next-generation columnar data file format that embeds WebAssembly decoders inside each file to achieve extensibility and interoperability beyond what Parquet and ORC can offer. (&lt;a href="https://news.ycombinator.com/item?id=48647799"&gt;discussion&lt;/a&gt;, 632 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://swipe.futo.tech/"&gt;FUTO Swipe – A new swipe typing model&lt;/a&gt; — FUTO trained a swipe-keyboard model on over one million crowd-sourced QWERTY swipes collected via a volunteer web tool, releasing the dataset under MIT license. (&lt;a href="https://news.ycombinator.com/item?id=48648619"&gt;discussion&lt;/a&gt;, 550 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/JPoehnelt/status/2069482265953087602"&gt;Fired by Google for creating the Google workspace CLI&lt;/a&gt; — A Google employee reports being fired after building an unofficial CLI for Google Workspace. (&lt;a href="https://news.ycombinator.com/item?id=48649011"&gt;discussion&lt;/a&gt;, 549 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jerrysmap.com/the-map"&gt;Jerry's Map&lt;/a&gt; — Since 1963, Jerry Gretzinger has been continuously drawing and revising a 4,000-panel imaginary city map governed by a custom deck of cards that dictates what to paint next, now a sprawling rule-driven art project. (&lt;a href="https://news.ycombinator.com/item?id=48649435"&gt;discussion&lt;/a&gt;, 477 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/baidu/Unlimited-OCR"&gt;Unlimited OCR: One-shot long-horizon parsing&lt;/a&gt; — Baidu releases an open-source document-parsing model that handles single images and multi-page PDFs in one shot, with an accompanying arXiv paper and ModelScope deployment. (&lt;a href="https://news.ycombinator.com/item?id=48643426"&gt;discussion&lt;/a&gt;, 470 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mistral.ai/news/ocr-4/"&gt;Mistral OCR 4&lt;/a&gt; — Mistral's latest OCR model adds bounding boxes, block-type classification, and inline confidence scores alongside extracted text, covers 170 languages, and is compact enough for single-container self-hosted deployment. (&lt;a href="https://news.ycombinator.com/item?id=48645152"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tikz.dev/editor/"&gt;Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX&lt;/a&gt; — A visual, what-you-see-is-what-you-get editor for creating TikZ figures directly in the browser for use in LaTeX documents. (&lt;a href="https://news.ycombinator.com/item?id=48645437"&gt;discussion&lt;/a&gt;, 396 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"&gt;In memory of the man who put red and green squiggles under words&lt;/a&gt; — Raymond Chen's tribute to Tony Krueger, the Word engineer who invented background spell-check with real-time red squiggles — a feature now ubiquitous across nearly every text editor. (&lt;a href="https://news.ycombinator.com/item?id=48648959"&gt;discussion&lt;/a&gt;, 395 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"&gt;The Coming Loop&lt;/a&gt; — Armin Ronacher reflects on the rise of "harness-level" loops that wrap AI coding agents, arguing that unattended agentic runs amplify models' existing tendencies toward defensive, overly complex code rather than improving them. (&lt;a href="https://news.ycombinator.com/item?id=48643180"&gt;discussion&lt;/a&gt;, 391 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/"&gt;Extreme Heat conference cancelled due to extreme heat warning&lt;/a&gt; — An LSE Grantham Institute event on improving global extreme-heat governance was cancelled because the UK Met Office issued a red extreme heat warning on the day of the conference. (&lt;a href="https://news.ycombinator.com/item?id=48653060"&gt;discussion&lt;/a&gt;, 357 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sF5gAxnmifQe2TBNt/the-worthlessness-of-vitamin-d-is-mildly-exaggerated"&gt;The worthlessness of vitamin D is mildly exaggerated&lt;/a&gt; by dynomight — Argues that while RCTs debunked the magical correlations, the skeptical consensus has overcorrected, and people with low-ish vitamin D levels have good reason to supplement based on biology and the balance of trial evidence. (79 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-24.html"/>
+    <published>2026-06-24T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-23</id>
     <title>Daily Digest — Tuesday, June 23, 2026</title>
