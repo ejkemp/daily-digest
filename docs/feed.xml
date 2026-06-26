@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-25T10:31:02.673585+00:00</updated>
+  <updated>2026-06-26T10:30:44.412752+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-26</id>
+    <title>Daily Digest — Friday, June 26, 2026</title>
+    <updated>2026-06-26T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 230 people dead and tens of thousands reported missing.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alan_Greenspan"&gt;Former chair of the U.S. Federal Reserve Alan Greenspan dies at the age of 100.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_2026_Diori_Hamani_International_Airport_attack"&gt;An attack by Jama'at Nusrat al-Islam wal-Muslimin at Diori Hamani International Airport in Niger kills 35 people, including 22 gunmen.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Elsie_Perrin_Williams_Estate"&gt;... that the gatehouse at the Elsie Perrin Williams Estate was designed by the owner's teenage daughter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Light_(song)"&gt;... that Lana Del Rey released " First Light ", the theme song for a James Bond video game, 11 years after her submission for the theme of the Bond movie Spectre was rejected?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carroll_B._Land_Stadium"&gt;... that two pitchers were married on the pitcher's mound at Carroll B. Land Stadium ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Acme_(shipentine)"&gt;... that the shipentine Acme lost a trans-Pacific race against a damaged ship during her maiden voyage?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Emiria_Sunassa"&gt;... that Indonesian painter Emiria Sunassa, variously described as an elephant hunter, a poison-maker, and a "tiger woman", claimed sovereignty over West Papua?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sydney_Craven"&gt;... that Sydney Craven was crowned a Commonwealth junior taekwondo champion before she became an actress?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Astor_Library_Building"&gt;... that library patrons in the 1880s needed to obtain a letter of recommendation to access the Astor Library Building 's shelves?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Nasseff"&gt;... that John Nasseff started at West Publishing as a boxcar unloader, and later earned $175 million for his stock when the company was sold 50 years later?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tamatou"&gt;... that according to oral tradition, a wooden doll was the ruler of the kingdom of Tonga for three years?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F"&gt;1243 – Mongol conquest of Anatolia : Mongols achieved a decisive victory over the Seljuk Turks, leading to the decline and disintegration of the Seljuk state.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_Days_uprising"&gt;1848 – French authorities suppressed the June Days uprising, in which workers rioted in response to plans to close the National Workshops.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Belleau_Wood"&gt;1918 – World War I : The 26-day Battle of Belleau Wood near the Marne River in France ended with American forces finally clearing that forest of German troops.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"&gt;1997 – J. K. Rowling 's Harry Potter and the Philosopher's Stone, the first book in the Harry Potter fantasy novel series, was released.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2010_G20_Toronto_summit"&gt;2010 – A G20 summit, the largest and most expensive security operation in Canadian history, began in downtown Toronto.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://scrollprize.org/firstscroll"&gt;An entire Herculaneum scroll has been read for the first time&lt;/a&gt; — Researchers used high-resolution X-ray microtomography and machine learning to fully virtually unwrap and read PHerc. 1667 for the first time, revealing a 2nd-century BC Stoic philosophical treatise on ethics, while also advancing methods applied to two other sealed scrolls. (&lt;a href="https://news.ycombinator.com/item?id=48675179"&gt;discussion&lt;/a&gt;, 1313 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://om.co/2026/06/24/1966-2026/"&gt;Om Malik has died&lt;/a&gt; — Obituary notice for Om Malik, the influential tech journalist and founder of GigaOM. (&lt;a href="https://news.ycombinator.com/item?id=48678852"&gt;discussion&lt;/a&gt;, 912 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/"&gt;Apple raises prices of MacBooks, iPads&lt;/a&gt; — Apple has raised prices on MacBooks and iPads amid skyrocketing memory costs. (&lt;a href="https://news.ycombinator.com/item?id=48672732"&gt;discussion&lt;/a&gt;, 731 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://expression.fire.org/p/the-papers-please-era-of-the-internet"&gt;The 'papers, please' era of the internet will decimate your privacy&lt;/a&gt; — FIRE argues that age verification laws — modeled on Australia's social media ban for under-16s — effectively require identity verification via biometrics or government IDs, eroding online privacy for everyone while failing to keep minors off platforms. (&lt;a href="https://news.ycombinator.com/item?id=48679608"&gt;discussion&lt;/a&gt;, 728 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackernewstrends.com"&gt;Show HN: I made Google Trends for Hacker News by indexing 18 years of comments&lt;/a&gt; — A tool that charts how often any topic, tool, or person has been mentioned across 45 million Hacker News posts and comments, letting users overlay terms to compare their rise and fall over 18 years. (&lt;a href="https://news.ycombinator.com/item?id=48673671"&gt;discussion&lt;/a&gt;, 718 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"&gt;Ford AI hiccups push carmaker to rehire 'gray beard' inspectors&lt;/a&gt; — Ford has been rehiring experienced human quality inspectors after AI-based inspection systems failed to meet expectations. (&lt;a href="https://news.ycombinator.com/item?id=48674446"&gt;discussion&lt;/a&gt;, 588 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/mfts0/status/2070080422482977095"&gt;Hey Nico, you didn't vibe code your data room but stole it from Papermark&lt;/a&gt; — An open accusation that a founder who publicly claimed to have "vibe coded" their data room product actually copied it from Papermark's open-source codebase. (&lt;a href="https://news.ycombinator.com/item?id=48672328"&gt;discussion&lt;/a&gt;, 353 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yDZcsojmRXo5qKNBm/surprising-facts-about-the-slave-trade"&gt;Surprising facts about the slave trade&lt;/a&gt; by Joseph Miller — Drawing on primary sources, the post argues that British abolition succeeded not through a broad economic reckoning but through a fierce lobbying battle between a small abolitionist coalition and merchant special interests, while also highlighting the horrific mortality conditions for sailors in the trade. (76 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-26.html"/>
+    <published>2026-06-26T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-25</id>
     <title>Daily Digest — Thursday, June 25, 2026</title>
