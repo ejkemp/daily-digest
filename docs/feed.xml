@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-06-27T10:30:23.374190+00:00</updated>
+  <updated>2026-06-29T10:30:17.327750+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-29</id>
+    <title>Daily Digest — Monday, June 29, 2026</title>
+    <updated>2026-06-29T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 1,450 people dead and tens of thousands of others missing.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alan_Greenspan"&gt;Former chair of the U.S. Federal Reserve Alan Greenspan dies at the age of 100.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Printing_press"&gt;... that around 1473 a Dominican friar denounced the printing press as a "whore" set against the "virgin" pen?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/About_Time_(newspaper)"&gt;... that an Australian newspaper is mainly written by people who are or have been in prison?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells"&gt;... that an endowed scholarship was established at Thomas Jefferson University in memory of transgender activist and fashion designer Dominique "Rem'mie" Fells, who was murdered at the age of 27 ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Notharctus"&gt;... that Notharctus, one of the first fossil primates discovered in the Americas, was originally classified as a pachyderm ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daz_Black"&gt;... that many people attributed Andrew Tate's removal from social media to a diatribe by Daz Black ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Revival_Process"&gt;... that around 850,000 ethnic Turks were forcibly renamed by the People's Republic of Bulgaria in the 1980s?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patricio_Fontanet"&gt;... that Patricio Fontanet, Eduardo Vázquez, and other neighbourhood friends gave their first show as Callejeros in front of a barbershop?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roman_Gardens"&gt;... that Rudolph Valentino was rumored to have used Roman Gardens for secret romances, even though he died before the building was completed?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Steve_Baumgartner"&gt;... that Steve Baumgartner had more than 1,200 beer cans lining the walls of a spare bedroom in his house?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Turtle_Gut_Inlet"&gt;1776 – The first privateer battle of the American Revolutionary War, the Battle of Turtle Gut Inlet, was fought near Cape May, New Jersey.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinsinawa_Mound_raid"&gt;1832 – Black Hawk War : Three men working in a cornfield were attacked by Sauk Native Americans, resulting in two deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/United_States_v_England_(1950_FIFA_World_Cup)"&gt;1950 – The United States defeated England during the FIFA World Cup in one of the greatest upsets in the competition's history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Soyuz_11"&gt;1971 – The Soyuz 11 spacecraft experienced uncontrolled decompression during preparations for reentry, killing Soviet cosmonauts Vladislav Volkov, Georgy Dobrovolsky and Viktor Patsayev —the only human deaths to have occurred in space.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/R/The_Donald"&gt;2020 – Reddit banned r/The_Donald, a pro-Trump subreddit, for rule violations and antagonizing the company.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"&gt;GLM 5.2 beats Claude in our benchmarks&lt;/a&gt; (864 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/"&gt;EU to legislate about Chat Control behind closed doors&lt;/a&gt; (668 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026"&gt;Age verification is just a precursor to automated attribution of speech&lt;/a&gt; (505 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"&gt;The KIDS Act would require age checks to get online&lt;/a&gt; (494 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://danunparsed.com/p/hackerrank-open-source-ats"&gt;HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88&lt;/a&gt; (465 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://antoine.fi/mri-analysis-using-claude-code-opus"&gt;I used Claude Code to get a second opinion on my MRI&lt;/a&gt; (437 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"&gt;Professor denounces mass AI fraud on an exam at Brown&lt;/a&gt; (412 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/librepods-org/librepods"&gt;Librepods: AirPods liberated&lt;/a&gt; (399 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pudding.cool/2026/06/menu-story/"&gt;5k menus from the New York Public Library’s Buttolph Collection (1880-1920)&lt;/a&gt; (371 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.engadget.com/2203000/flock-cameras-recording-license-plate/"&gt;Flock cameras track more than your license plate, and they're spreading fast&lt;/a&gt; (365 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-29.html"/>
+    <published>2026-06-29T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-06-27</id>
     <title>Daily Digest — Saturday, June 27, 2026</title>
