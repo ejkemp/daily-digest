@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-02T10:30:32.784892+00:00</updated>
+  <updated>2026-07-03T10:30:21.378760+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-03</id>
+    <title>Daily Digest — Friday, July 3, 2026</title>
+    <updated>2026-07-03T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;This is a content-writing task (compiling a newsletter from provided JSON), not a software engineering task — there's no codebase to explore or design work needed. I'll write a minimal plan noting the direct approach, then exit plan mode so I can produce the digest.&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-03.html"/>
+    <published>2026-07-03T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-02</id>
     <title>Daily Digest — Thursday, July 2, 2026</title>
