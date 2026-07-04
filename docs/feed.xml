@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-03T10:30:21.378760+00:00</updated>
+  <updated>2026-07-04T10:30:23.317382+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-04</id>
+    <title>Daily Digest — Saturday, July 4, 2026</title>
+    <updated>2026-07-04T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;I'll prepare the digest content directly since this is a text-generation task from the provided JSON data (no codebase exploration needed), then write it to the plan file for your review.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics in the News&lt;/strong&gt; (5 items), &lt;strong&gt;Did You Know&lt;/strong&gt; (10 items), &lt;strong&gt;On This Day&lt;/strong&gt; (5 items) — all Wikipedia items will be included verbatim per the instructions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hacker News&lt;/strong&gt; (3 items) — all three appear substantive (Valve open-source hardware mod, Costco business analysis, Pegasus spyware espionage story), so I'll keep all of them with one-sentence descriptions grounded in their &lt;code&gt;content&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LessWrong&lt;/strong&gt; (1 item) — the strangelet/vacuum-decay physics post, summarized from its content.&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-04.html"/>
+    <published>2026-07-04T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-03</id>
     <title>Daily Digest — Friday, July 3, 2026</title>
