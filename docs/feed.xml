@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-04T10:30:23.317382+00:00</updated>
+  <updated>2026-07-05T10:30:22.800473+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-05</id>
+    <title>Daily Digest — Sunday, July 5, 2026</title>
+    <updated>2026-07-05T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;I'll prepare the plan for constructing today's digest based on the provided JSON data.&lt;/p&gt;
+&lt;p&gt;Since this is a pure content-formatting task (no codebase involved), I'll skip the Explore/Design agent phases and go straight to drafting the plan.&lt;/p&gt;
+&lt;p&gt;Write({"file_path":"/Users/md6406/.claude/plans/you-are-writing-today-s-ticklish-oasis.md","content":"# Context\nThe user wants today's daily digest newsletter generated in Markdown from the provided JSON scrape (Wikipedia, Hacker News, LessWrong). This is a content-formatting task, not a code change — no repository or codebase is involved, so no exploration phase is needed.\n\n# Plan\n\nProduce a single Markdown document with these &lt;code&gt;##&lt;/code&gt; sections, in order, omitting any with no data:\n\n1. &lt;strong&gt;Topics in the News&lt;/strong&gt; — 4 Wikipedia items with &lt;code&gt;section: \"Topics in the news\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n2. &lt;strong&gt;Did You Know&lt;/strong&gt; — 9 Wikipedia items with &lt;code&gt;section: \"Did you know\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n3. &lt;strong&gt;On This Day&lt;/strong&gt; — 4 Wikipedia items with &lt;code&gt;section: \"On this day\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n4. &lt;strong&gt;Hacker News&lt;/strong&gt; — 4 items provided; all appear substantive (prompt-injection security writeup, C&amp;amp;C Generals native port, Anna's Archive bounty, htop/top explainer) — none look like low-interest release-note churn, so all 4 will be included with one-sentence descriptions grounded in each item's &lt;code&gt;content&lt;/code&gt; field, plus discussion link and point count.\n5. &lt;strong&gt;LessWrong&lt;/strong&gt; — items array is empty, so this section will be omitted entirely.\n\nWikipedia titles will be reproduced exactly as given (including leading &lt;code&gt;... that&lt;/code&gt; phrasing and any odd spacing/italics markup already present in the source JSON) — no rewording.\n\nNo overall intro/summary will precede the first section; output will be only the Markdown digest, nothing else.\n\n# Verification\nManually re-check before finalizing:\n- Every Wikipedia item (17 total) appears exactly once, under the correct heading, with title text unchanged and URL copied verbatim.\n- Hacker News bullets follow the exact format &lt;code&gt;- [Title](url) — description ([discussion](comments_url), N points)&lt;/code&gt; and descriptions don't invent details beyond what &lt;code&gt;content&lt;/code&gt;/title support.\n- LessWrong section is omitted since it has no items.\n- No extra commentary, headers, or code fences wrap the output.\n"})&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-05.html"/>
+    <published>2026-07-05T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-04</id>
     <title>Daily Digest — Saturday, July 4, 2026</title>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Digest — Sunday, July 5, 2026</title>
+<style>
+body { max-width: 44rem; margin: 2rem auto; padding: 0 1rem;
+       font: 17px/1.6 -apple-system, Georgia, serif; color: #222; }
+a { color: #1a5276; }
+h1, h2 { line-height: 1.25; }
+</style>
+</head>
+<body>
+<p><a href="https://ejkemp.github.io/daily-digest/">&larr; All digests</a></p>
+<h1>Daily Digest — Sunday, July 5, 2026</h1>
+<p>I'll prepare the plan for constructing today's digest based on the provided JSON data.</p>
+<p>Since this is a pure content-formatting task (no codebase involved), I'll skip the Explore/Design agent phases and go straight to drafting the plan.</p>
+<p>Write({"file_path":"/Users/md6406/.claude/plans/you-are-writing-today-s-ticklish-oasis.md","content":"# Context\nThe user wants today's daily digest newsletter generated in Markdown from the provided JSON scrape (Wikipedia, Hacker News, LessWrong). This is a content-formatting task, not a code change — no repository or codebase is involved, so no exploration phase is needed.\n\n# Plan\n\nProduce a single Markdown document with these <code>##</code> sections, in order, omitting any with no data:\n\n1. <strong>Topics in the News</strong> — 4 Wikipedia items with <code>section: \"Topics in the news\"</code>, each as <code>- [verbatim title](url)</code>.\n2. <strong>Did You Know</strong> — 9 Wikipedia items with <code>section: \"Did you know\"</code>, each as <code>- [verbatim title](url)</code>.\n3. <strong>On This Day</strong> — 4 Wikipedia items with <code>section: \"On this day\"</code>, each as <code>- [verbatim title](url)</code>.\n4. <strong>Hacker News</strong> — 4 items provided; all appear substantive (prompt-injection security writeup, C&amp;C Generals native port, Anna's Archive bounty, htop/top explainer) — none look like low-interest release-note churn, so all 4 will be included with one-sentence descriptions grounded in each item's <code>content</code> field, plus discussion link and point count.\n5. <strong>LessWrong</strong> — items array is empty, so this section will be omitted entirely.\n\nWikipedia titles will be reproduced exactly as given (including leading <code>... that</code> phrasing and any odd spacing/italics markup already present in the source JSON) — no rewording.\n\nNo overall intro/summary will precede the first section; output will be only the Markdown digest, nothing else.\n\n# Verification\nManually re-check before finalizing:\n- Every Wikipedia item (17 total) appears exactly once, under the correct heading, with title text unchanged and URL copied verbatim.\n- Hacker News bullets follow the exact format <code>- [Title](url) — description ([discussion](comments_url), N points)</code> and descriptions don't invent details beyond what <code>content</code>/title support.\n- LessWrong section is omitted since it has no items.\n- No extra commentary, headers, or code fences wrap the output.\n"})</p>
+</body>
+</html>
