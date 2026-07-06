@@ -29,6 +29,10 @@ def run_claude(prompt: str, config: dict) -> str | None:
                     "--model", cfg["claude_model"],
                     "--output-format", "text",
                     "--disallowedTools", "*",
+                    # Override the user's global settings.json (which may set
+                    # "defaultMode": "plan"). Without this, headless runs inherit
+                    # plan mode and emit plan-file narration instead of the digest.
+                    "--permission-mode", "default",
                 ],
                 input=prompt,
                 capture_output=True,
