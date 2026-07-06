@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-06T10:30:31.866861+00:00</updated>
+  <updated>2026-07-06T17:02:41.954074+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
@@ -13,7 +13,45 @@
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-06</id>
     <title>Daily Digest — Monday, July 6, 2026</title>
     <updated>2026-07-06T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Task type:&lt;/strong&gt; Content-generation from provided JSON, not a coding task — no repository exists, so Explore/Plan subagents aren't applicable here. I've composed the full digest directly per the stated formatting rules and will present it in the plan file for your approval before finalizing.&lt;/p&gt;</content>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_%C3%89c%C3%B4ne_consecrations"&gt;The Catholic Church declares the Society of Saint Pius X to be in schism and excommunicates its members following a consecration dispute.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_European_heatwaves"&gt;Heatwaves affect Europe, leading to more than 5,600 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 3,300 people dead and tens of thousands of others missing.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Q_Manivannan"&gt;... that Q Manivannan and Iris Duane are the first two openly transgender people elected to the Scottish Parliament?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Super_Bowl_LX_halftime_show"&gt;... that Bad Bunny was the first Spanish-language Latino solo artist to headline a Super Bowl halftime show ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nathalie_Drach-Temam"&gt;... that, under Nathalie Drach-Temam 's presidency, Sorbonne University opted out of the Times Higher Education rankings ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Languages_of_Palestine"&gt;... that diglossia is a major feature of ancient and modern languages used in Palestine ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ruby_Rose_Turner"&gt;... that American actress Ruby Rose Turner debuted as a dancer on the TV show Sábado Gigante at the age of seven?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Annie_Jane"&gt;... that the captain of the Annie Jane threatened to shoot anyone who turned the ship around, before it was wrecked?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kamal_Chunchie"&gt;... that anti-racism campaigner Kamal Chunchie converted to Christianity from Islam during the First World War when serving in the British Army?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sam_%26_Max:_This_Time_It%27s_Virtual!"&gt;... that the co-creator of the Sam &amp;amp; Max comic series voices a character in its VR game adaptation ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Norman_Balon"&gt;... that Norman Balon revelled in his title as the "rudest landlord in London"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Richard_III_of_England"&gt;1483 – The last monarch of the House of York and the Plantagenet dynasty, Richard III, was crowned King of England.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Battle_of_Algeciras"&gt;1801 – French Revolutionary Wars : A Royal Navy squadron failed to eliminate a smaller French Navy squadron at Algeciras before they could join their Spanish allies.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_Theses"&gt;1971 – After visiting several Asian communist countries, Romanian leader Nicolae Ceaușescu gave a speech on a number of neo-Stalinist and socialist-realist ideals, which became known as the July Theses.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1989_Tel_Aviv%E2%80%93Jerusalem_bus_attack"&gt;1989 – A Palestinian Islamic Jihad member carried out a suicide attack by hijacking a bus and forcing it into a ravine near Kiryat Ye'arim, Israel.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mart%C3%ADn_R%C3%ADos_(murderer)"&gt;2006 – A gunman killed an 18-year-old man and injured six other people in a mass shooting on Cabildo Avenue in Buenos Aires, Argentina.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://organicmaps.app/"&gt;Organic Maps&lt;/a&gt; — A free, open-source, privacy-focused offline maps and navigation app (hiking, cycling, driving) powered by OpenStreetMap, with no ads or tracking. (&lt;a href="https://news.ycombinator.com/item?id=48794446"&gt;discussion&lt;/a&gt;, 1004 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.opentools.studio/"&gt;OpenPrinter&lt;/a&gt; — An open-source, repairable printer/plotter with refillable, DRM-free ink cartridges, built on a Raspberry Pi Zero W and CUPS to reduce e-waste and consumable costs. (&lt;a href="https://news.ycombinator.com/item?id=48797916"&gt;discussion&lt;/a&gt;, 873 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://popcar.bearblog.dev/its-about-ownership/"&gt;It's not about physical vs. digital games, it's about ownership&lt;/a&gt; — Argues that Sony ending disc production for new games by January 2028 is less about physical media and more about killing the ability to resell, share, or preserve games. (&lt;a href="https://news.ycombinator.com/item?id=48794750"&gt;discussion&lt;/a&gt;, 510 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html"&gt;EU Council forces Chat Control via fast-track&lt;/a&gt; — The EU Council is using a procedural maneuver to push through a near-identical replacement for the expired "Chat Control 1.0" voluntary chat-scanning rules, timed to reach Parliament right before its summer break. (&lt;a href="https://news.ycombinator.com/item?id=48793393"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WatqNkgiAuonXLpJd/harry-potter-and-the-rules-of-quidditch-1"&gt;Harry Potter and the Rules of Quidditch&lt;/a&gt; by Tomás B. — A fictional dialogue in which Harry proposes replacing Quidditch's Snitch with a clock for fairness and predictability, while a potion-sharpened Ron argues against reformist "solutions" that ignore the value of tradition. (125 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3HvvjffA65mHLwaWm/we-need-3rd-party-training-run-assessments"&gt;We need 3rd party Training-Run Assessments&lt;/a&gt; by Alex Meinke — Argues that final-checkpoint evaluations may be insufficient to detect AI scheming, and that independent third parties should conduct in-depth "Training-Run Assessments" examining checkpoints, training data, and developer responses throughout a model's training. (90 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-06.html"/>
     <published>2026-07-06T07:00:00-04:00</published>
   </entry>
