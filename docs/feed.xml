@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-05T10:30:22.800473+00:00</updated>
+  <updated>2026-07-06T10:30:31.866861+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-06</id>
+    <title>Daily Digest — Monday, July 6, 2026</title>
+    <updated>2026-07-06T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Task type:&lt;/strong&gt; Content-generation from provided JSON, not a coding task — no repository exists, so Explore/Plan subagents aren't applicable here. I've composed the full digest directly per the stated formatting rules and will present it in the plan file for your approval before finalizing.&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-06.html"/>
+    <published>2026-07-06T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-05</id>
     <title>Daily Digest — Sunday, July 5, 2026</title>
