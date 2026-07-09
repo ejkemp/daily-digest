@@ -2,13 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-08T10:30:40.412989+00:00</updated>
+  <updated>2026-07-09T10:30:26.216137+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-09</id>
+    <title>Daily Digest — Thursday, July 9, 2026</title>
+    <updated>2026-07-09T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The International Olympic Committee provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_%C3%89c%C3%B4ne_consecrations"&gt;The Catholic Church declares the Society of Saint Pius X to be in schism and excommunicates its members following a consecration dispute.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pizza_Cat"&gt;... that Pizza Cat, a cat living at Al Udeid Air Base, was awarded the rank of "Senior Meowster Sergeant" by the United States Air Force?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%C3%86lfhun_(bishop_of_London)"&gt;... that Ælfhun, Bishop of London, was accused of trying to remove the body of St Edmund, but the bier was said to have miraculously refused to move?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eom_Heung-do"&gt;... that a local official of the Joseon dynasty secretly buried the body of King Danjong despite King Sejo 's threats to kill the family of anyone who did so?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Petal_(album)"&gt;... that Ariana Grande claimed that she would need two brains and six arms to produce her eighth album before announcing Petal ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Execution_ballad"&gt;... that a type of ballad details the fictionalized last words of executed people?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Susie_Pop"&gt;... that a fixture of Madrid nightlife in the 1990s was a trans girl who was often seen at concerts wearing a large picture hat?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fae_Farm"&gt;... that Gambit Digital acquired the rights to the 2023 video game Fae Farm five days after the original developer ended online support in September 2025?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tschirnhausen_cubic"&gt;... that a dog chasing its master and a crab sidestepping an intruder can both be modeled mathematically by motion along a Tschirnhausen cubic ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hushahu"&gt;... that soon after the general Hushahu, fearing harsh punishment, assassinated his emperor, another general, also fearing harsh punishment, murdered him?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/551_Beirut_earthquake"&gt;551 – An estimated 30,000 people died when a massive earthquake struck the Roman province of Phoenice.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mozart_family_grand_tour"&gt;1763 – The Mozart family grand tour began, presenting the child prodigies Maria Anna and Wolfgang Amadeus across Western Europe.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)"&gt;1981 – Nintendo released the arcade game Donkey Kong, which featured the debut of Mario, one of the most famous characters in video-game history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final"&gt;2006 – Italy won their fourth FIFA World Cup title, defeating France 5–3 on penalties following a 1–1 draw after extra time.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_Prophet_III"&gt;2008 – Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"&gt;Notes on technical alignment via human-like social drives&lt;/a&gt; by Steven Byrnes — A sprawling, deconfusion-focused writeup exploring whether human innate social and moral drives can serve as a technical starting point for aligning brain-like AGI, covering failure modes like wrong moral circles and consequentialism squashing virtue-ethics motivations. (52 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control"&gt;Modular Pretraining Enables Access Control&lt;/a&gt; by E.Roland — Researchers from AE Studio and Anthropic introduce GRAM, a method that isolates dangerous knowledge (e.g. virology, cybersecurity) into switchable modules within a single trained model, approximating the effect of training multiple separately-filtered models at a fraction of the cost. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-09.html"/>
+    <published>2026-07-09T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-08</id>
     <title>Daily Digest — Wednesday, July 8, 2026</title>
