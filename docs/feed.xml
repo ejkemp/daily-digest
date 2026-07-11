@@ -2,13 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-10T10:30:44.438015+00:00</updated>
+  <updated>2026-07-11T10:30:38.399499+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-11</id>
+    <title>Daily Digest — Saturday, July 11, 2026</title>
+    <updated>2026-07-11T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The IOC provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statue_of_John_Cartwright"&gt;... that the first British writer to openly support the Thirteen Colonies in the American Revolutionary War was later honoured with a statue in London ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Frederick_S._Spiegel"&gt;... that Cincinnati mayor Frederick S. Spiegel spent his final years as legal counsel for the city's subway project, during which an inspection accident ultimately led to his death?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fly,_Fly_My_Sadness"&gt;... that the combination of Bulgarian choral music and Tuvan throat singing on Fly, Fly My Sadness was inspired by multiple albums being played at the same time?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/River_Moon"&gt;... that River Moon was a mortician's assistant and managed a meme page before pursuing a DJ career?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_%C4%90oan_Trang"&gt;... that Vietnamese writer Phạm Đoan Trang asked for permission to keep her guitar while in jail?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Palm_Beach_Pete"&gt;... that a Florida man in his 70s claims an internet following of Gen Zers?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anna_Van_Patten"&gt;... that Anna Van Patten learned pole dancing to prepare for her role in Euphoria ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Macrocarpaea_dies-viridis"&gt;... that Macrocarpaea dies-viridis was named after the band Green Day ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_W._Townsend_Jr."&gt;... that John W. Townsend Jr. used rockets to measure atmospheric gas over a subarctic town?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yagan"&gt;1833 – Yagan, a Noongar warrior wanted for leading attacks on British colonists in Western Australia, was killed, becoming a symbol of the unjust and sometimes brutal treatment of indigenous Australians by colonial settlers.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leicester_balloon_riot"&gt;1864 – A riot broke out in Leicester, England, at the failed launching of a gas balloon.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"&gt;1960 – To Kill a Mockingbird, a novel by Harper Lee featuring themes of racial injustice and the loss of innocence in the Deep South of America, was published.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nigeria_Airways_Flight_2120"&gt;1991 – Shortly after taking off from Jeddah, Saudi Arabia, Nigeria Airways Flight 2120 caught fire and crashed, killing all 261 people on board.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"&gt;Apple sues OpenAI, accuses ex-employees of stealing trade secrets&lt;/a&gt; — Apple has filed suit alleging former employees, including its ex-VP of product design and a senior electrical engineer who joined OpenAI, stole trade secrets now benefiting OpenAI's hardware division (led by Jony Ive's io team). (&lt;a href="https://news.ycombinator.com/item?id=48865019"&gt;discussion&lt;/a&gt;, 1099 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"&gt;QuadRF can spot drones and see WiFi through my wall&lt;/a&gt; — A Raspberry Pi 5 and FPGA-based phased-array radio kit (from a Crowd Supply campaign) can beamform to visualize WiFi traffic through walls and track drones in the 4.9–6 GHz band. (&lt;a href="https://news.ycombinator.com/item?id=48861717"&gt;discussion&lt;/a&gt;, 592 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"&gt;New York City to ban deceptive subscription practices&lt;/a&gt; — Starting October 1, NYC will fine companies up to $525 per user for subscription traps and is also proposing a rule forcing upfront disclosure of "junk fees" in rent and other pricing, part of the Mamdani administration's consumer protection push. (&lt;a href="https://news.ycombinator.com/item?id=48863464"&gt;discussion&lt;/a&gt;, 526 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"&gt;GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]&lt;/a&gt; — A PDF reportedly containing an AI-generated proof of the Cycle Double Cover Conjecture, produced by OpenAI's GPT-5.6 Sol Ultra model. (&lt;a href="https://news.ycombinator.com/item?id=48863490"&gt;discussion&lt;/a&gt;, 457 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"&gt;Good Tools Are Invisible&lt;/a&gt; — An essay arguing good tools should fade into the background rather than become a source of "puzzle-solving" pride, using vim vs. Sublime Text as a case study in tribal tool identity versus actual productivity. (&lt;a href="https://news.ycombinator.com/item?id=48858121"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/"&gt;Late Bronze Age Collapse&lt;/a&gt; — A historian's overview of the 12th-century BC collapse of Eastern Mediterranean and Middle Eastern state systems, covering the archaeological evidence, the wave of site destructions from the Aegean to Egypt, and the ongoing debate over causes. (&lt;a href="https://news.ycombinator.com/item?id=48858737"&gt;discussion&lt;/a&gt;, 371 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Fxp9vGPw7uhkFi6SG/the-easiest-pathway-to-control-is-through-executive-power"&gt;The easiest pathway to control is through executive power&lt;/a&gt; by djbinder — Argues AI-safety discussions of loss-of-control scenarios underrate how existing executive power (in the US President or Chinese General Secretary) offers the simplest path to permanent power seizure during a rapid AI transition. (55 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/8iDZnQwmvwuxZo3Wx/plan-a-s-problem-with-dry-tinder"&gt;Plan A's problem with dry tinder&lt;/a&gt; by Tom Davidson — Critiques AIFP's "Plan A" for safe superintelligence development, arguing that pausing software progress while compute keeps scaling creates a dangerous "dry tinder" overhang that would make any breakdown of a US-China pause deal trigger a far faster and riskier intelligence explosion. (52 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-11.html"/>
+    <published>2026-07-11T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-10</id>
     <title>Daily Digest — Friday, July 10, 2026</title>
@@ -1240,39 +1286,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-11.html"/>
     <published>2026-06-11T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-10</id>
-    <title>Daily Digest — Wednesday, June 10, 2026</title>
-    <updated>2026-06-10T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;I'll write the digest to the plan file now.&lt;/p&gt;
-&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Mindanao_earthquake"&gt;A magnitude 7.8 earthquake strikes the southern coast of Mindanao in the Philippines, leaving at least 45 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zv%C3%ABrnec_protests"&gt;Protests erupt against a proposed tourism development project on the environmentally protected island of Sazan, Albania.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Namhkam_Township_explosion"&gt;An explosion at a Ta'ang National Liberation Army base in Myanmar leaves 43 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Indian_Premier_League_final"&gt;In Twenty20 cricket, the Indian Premier League concludes with Royal Challengers Bengaluru defeating Gujarat Titans in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mohkohn.co.uk/writing/html-first/"&gt;Building an HTML-first site doubled our users overnight&lt;/a&gt; — A case study on stripping away JavaScript frameworks in favor of plain HTML and the outsized impact it had on reach and performance. (&lt;a href="https://news.ycombinator.com/item?id=48475483"&gt;discussion&lt;/a&gt;, 989 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"&gt;German ruling declares Google liable for false answers in AI Overviews&lt;/a&gt; — A landmark German court decision holds that AI-generated search summaries are Google's own speech, making the company legally responsible for factual errors. (&lt;a href="https://news.ycombinator.com/item?id=48470248"&gt;discussion&lt;/a&gt;, 962 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48477135"&gt;I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA&lt;/a&gt; — Eric Ries takes questions on his new book and ideas around building institutions resistant to corruption and misaligned incentives. (&lt;a href="https://news.ycombinator.com/item?id=48477135"&gt;discussion&lt;/a&gt;, 516 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf"&gt;Mercedes‑Benz starts large‑scale production of electric axial flux motor&lt;/a&gt; — Mercedes begins mass-producing axial flux motors, a more compact and efficient EV drivetrain design that has long been considered promising but difficult to manufacture at scale. (&lt;a href="https://news.ycombinator.com/item?id=48472877"&gt;discussion&lt;/a&gt;, 509 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/philipl/pifs"&gt;πFS&lt;/a&gt; — A joke/art filesystem premised on the idea that all data already exists encoded somewhere in the digits of pi, so files are stored as offsets rather than actual bytes. (&lt;a href="https://news.ycombinator.com/item?id=48480978"&gt;discussion&lt;/a&gt;, 496 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48473166"&gt;AWS Bedrock to require sharing data with Anthropic for Mythos and future models&lt;/a&gt; — Amazon Web Services will require customers using Bedrock to agree to share data with Anthropic for training Mythos and subsequent models, raising enterprise privacy concerns. (&lt;a href="https://news.ycombinator.com/item?id=48473166"&gt;discussion&lt;/a&gt;, 395 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"&gt;Farmer donates land for a park, city sells it for $10M as data center land&lt;/a&gt; — A farmer's charitable land donation intended as public parkland was sold by local government to a data center developer, illustrating the pressure municipalities face to monetize land amid the AI infrastructure boom. (&lt;a href="https://news.ycombinator.com/item?id=48481126"&gt;discussion&lt;/a&gt;, 393 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/"&gt;Chrome is looking to permanently drop MV2 extension&lt;/a&gt; — Google is moving to permanently retire Manifest V2 extensions, effectively ending workarounds that kept uBlock Origin functional in Chrome; Edge and Opera are expected to follow. (&lt;a href="https://news.ycombinator.com/item?id=48471970"&gt;discussion&lt;/a&gt;, 383 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1"&gt;Sequent: scale and automation for higher confidence in alignment&lt;/a&gt; by Geoffrey Irving — Introduces Sequent, a system for using scale and automated verification to increase confidence in AI alignment properties. (180 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/wCSEpT3dTGz4N86Wi/even-illegible-mythos-reasoning-traces-seem-pretty-legible"&gt;Even "illegible" Mythos reasoning traces seem pretty legible&lt;/a&gt; by faul_sname — Examines Mythos's internal reasoning chains and argues that despite claims of opacity, the traces are more interpretable than expected. (111 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"&gt;Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models&lt;/a&gt; by Anders Cairns Woodruff — Empirically estimates how long frontier AI models can sustain coherent autonomous task completion without chain-of-thought prompting. (99 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cNDJuXNZ8MrkPZNzj/machinic-psychopharmacology-do-llms-self-medicate-3"&gt;Machinic Psychopharmacology: Do LLMs Self-Medicate?&lt;/a&gt; by Sid Black — Investigates whether LLMs exhibit behaviors analogous to self-medication — adjusting their own outputs or context in ways that shift their functional "state." (98 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BWNqdt5edJdax4jn8/the-three-filters-why-almost-every-plan-to-survive-asi-fails"&gt;The Three Filters: Why Almost Every Plan to Survive ASI Fails Miserably&lt;/a&gt; by Alex Amadori — Argues that proposed strategies for surviving the transition to superintelligence fail one of three critical filters relating to feasibility, robustness, and coordination. (69 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-10.html"/>
-    <published>2026-06-10T07:00:00-04:00</published>
   </entry>
 </feed>
