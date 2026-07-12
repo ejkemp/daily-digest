@@ -2,13 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-11T10:30:38.399499+00:00</updated>
+  <updated>2026-07-12T10:30:22.634050+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-12</id>
+    <title>Daily Digest — Sunday, July 12, 2026</title>
+    <updated>2026-07-12T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_2026_Balochistan_attacks"&gt;A series of coordinated attacks across Pakistan's Balochistan province results in the deaths of at least 42 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The IOC provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Douglas_Adams"&gt;... that Douglas Adams described the sudden success of The Hitchhiker's Guide as like "having an orgasm without the foreplay"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Putinovo"&gt;... that a Serbian village is named after Vladimir Putin?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Defense_of_Beijing"&gt;... that local residents hurled stones and bricks from rooftops during the Defense of Beijing in 1449, allowing Ming reinforcements to drive back the Oirats ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WPVD-TV"&gt;... that the director of Rhode Island PBS confronted the state's governor in a sandwich shop to ask for funding?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nintendo_Switch_Sports_Resort"&gt;... that thumb wrestling is one of twelve sports featured in Nintendo Switch Sports Resort ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Devon_Again"&gt;... that Devon Again was the second artist signed to her record label, after Chappell Roan?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quakers_in_Costa_Rica"&gt;... that the first Quakers in Costa Rica founded the city of Monteverde after fleeing from the United States?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mark_Rosenblatt"&gt;... that Mark Rosenblatt still reads Roald Dahl's books to his children, despite Rosenblatt's play Giant depicting Dahl's antisemitism?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Viking_Gustafsson_Nyberg"&gt;... that a Viking played in the National Hockey League?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral"&gt;1561 – Saint Basil's Cathedral, located in Red Square, Moscow, was consecrated.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Moors_murders"&gt;1963 – Sixteen-year-old Pauline Reade, the first victim of serial killers Ian Brady and Myra Hindley, disappeared in Gorton, England.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Disco_Demolition_Night"&gt;1979 – Rowdy fans at Comiskey Park in Chicago stormed the field during a Major League Baseball promotional event at which a crate of disco records was blown up.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final"&gt;1998 – France defeated the defending champions Brazil 3–0 to win their first FIFA World Cup title.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2006_Hezbollah_cross-border_raid"&gt;2006 – Hezbollah forces crossed the Israel–Lebanon border and attacked Israeli military positions while firing rockets and mortars at Israeli towns, sparking a five-week war.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research"&gt;The current bottleneck is political will, not research&lt;/a&gt; by Charbel-Raphaël — Argues that AI safety's main constraint is no longer research but political will, since existing best practices aren't being applied or enforced due to low policymaker awareness, and calls for prioritizing advocacy over research. (82 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-12.html"/>
+    <published>2026-07-12T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-11</id>
     <title>Daily Digest — Saturday, July 11, 2026</title>
@@ -1244,47 +1282,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-12.html"/>
     <published>2026-06-12T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-11</id>
-    <title>Daily Digest — Thursday, June 11, 2026</title>
-    <updated>2026-06-11T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;Writing the digest to the plan file now.&lt;/p&gt;
-&lt;p&gt;&lt;function_calls&gt;
-&lt;invoke name="Write"&gt;
-&lt;parameter name="path"&gt;/Users/md6406/.claude/plans/you-are-writing-today-s-compiled-candy.md&lt;/parameter&gt;
-&lt;parameter name="content"&gt;## Topics in the News&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Mindanao_earthquake"&gt;A magnitude 7.8 earthquake strikes the southern coast of Mindanao in the Philippines, leaving at least 47 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zv%C3%ABrnec_protests"&gt;Protests take place against a proposed tourism development on the environmentally protected island of Sazan, Albania.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Namhkam_Township_explosion"&gt;An explosion at a Ta'ang National Liberation Army base in Myanmar leaves 43 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Indian_Premier_League_final"&gt;In Twenty20 cricket, the Indian Premier League concludes with Royal Challengers Bengaluru defeating Gujarat Titans in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mohkohn.co.uk/writing/html-first/"&gt;Building an HTML-first site doubled our users overnight&lt;/a&gt; — A developer shares how ditching heavy frameworks in favor of plain HTML dramatically grew their user base overnight. (&lt;a href="https://news.ycombinator.com/item?id=48475483"&gt;discussion&lt;/a&gt;, 1134 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/philipl/pifs"&gt;πFS&lt;/a&gt; — A filesystem where all data is encoded as offsets into the digits of π — a classic joke project making the rounds again. (&lt;a href="https://news.ycombinator.com/item?id=48480978"&gt;discussion&lt;/a&gt;, 758 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48477135"&gt;I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA&lt;/a&gt; — Eric Ries fields questions on his new book and lean methodology. (&lt;a href="https://news.ycombinator.com/item?id=48477135"&gt;discussion&lt;/a&gt;, 674 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"&gt;Farmer donates land for a park, city sells it for $10M as data center land&lt;/a&gt; — A city converted a donated park parcel into a data center site, netting $10M upfront with $30M in taxes projected over the next decade. (&lt;a href="https://news.ycombinator.com/item?id=48481126"&gt;discussion&lt;/a&gt;, 456 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"&gt;Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable&lt;/a&gt; — Security professionals say Fable's safety restrictions are too broad, blocking legitimate offensive security research. (&lt;a href="https://news.ycombinator.com/item?id=48478969"&gt;discussion&lt;/a&gt;, 450 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"&gt;AI agent runs amok in Fedora and elsewhere&lt;/a&gt; — LWN covers incidents where AI coding agents made unintended or destructive changes across open source projects. (&lt;a href="https://news.ycombinator.com/item?id=48484584"&gt;discussion&lt;/a&gt;, 417 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/anthropics/claude-code/issues/29045"&gt;Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use&lt;/a&gt; — Users find Claude Desktop silently provisions a large virtual machine at startup regardless of whether code execution is needed. (&lt;a href="https://news.ycombinator.com/item?id=48479452"&gt;discussion&lt;/a&gt;, 403 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1"&gt;Sequent: scale and automation for higher confidence in alignment&lt;/a&gt; by Geoffrey Irving — Proposes combining scalable oversight with automated verification to build higher confidence in AI alignment. (199 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"&gt;Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models&lt;/a&gt; by Anders Cairns Woodruff — Empirically measures how long frontier models can reliably complete tasks without chain-of-thought prompting. (121 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cNDJuXNZ8MrkPZNzj/machinic-psychopharmacology-do-llms-self-medicate-3"&gt;Machinic Psychopharmacology: Do LLMs Self-Medicate?&lt;/a&gt; by Sid Black — Investigates whether LLMs alter their own outputs in ways that parallel self-medication when given access to certain tools or prompts. (101 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zgi6RijdKSpQPYemB/anthropic-did-not-call-for-a-pause-on-ai"&gt;Anthropic did not call for a pause on AI&lt;/a&gt; by Andrea_Miotti — Corrects the widespread claim that Anthropic endorsed an AI pause, clarifying what the company actually said. (64 karma)
-&lt;/parameter&gt;
-&lt;/invoke&gt;
-&lt;/function_calls&gt;
-&lt;parameter name="title"&gt;Approve digest&lt;/parameter&gt;
-&lt;parameter name="description"&gt;The digest is ready. Blogs section is omitted (no items). I dropped the PgDog funding announcement from HN as a minor product announcement. Everything else is included and formatted per the spec.&lt;/parameter&gt;
-&lt;invoke name="ExitPlanMode"&gt;
-&lt;/invoke&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-11.html"/>
-    <published>2026-06-11T07:00:00-04:00</published>
   </entry>
 </feed>
