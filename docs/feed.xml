@@ -2,13 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-12T10:30:22.634050+00:00</updated>
+  <updated>2026-07-13T10:30:30.353653+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-13</id>
+    <title>Daily Digest — Monday, July 13, 2026</title>
+    <updated>2026-07-13T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Los_Gallardos_wildfire"&gt;Thirteen people are killed and twenty-three others are reported missing in a wildfire in Los Gallardos, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_2026_Balochistan_attacks"&gt;A series of coordinated attacks across Pakistan's Balochistan province leaves at least forty-two people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The IOC provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tortilla"&gt;... that the tortilla has been eaten for thousands of years, but it has only been considered a national symbol of Mexico since the 20th century?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sterling_Dietz"&gt;... that magician Sterling Dietz used $1,200 in prize earnings from a chess tournament to pay for tuition at a Las Vegas magic school?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Human_settlement"&gt;... that permanent human settlements emerged independently in multiple regions approximately 5,000 to 10,000 years ago?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Bookish_Type"&gt;... that a transgender-owned bookshop in Leeds ran a fundraiser in which people paid to deface pages of Harry Potter and the Chamber of Secrets ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Metasequoia_milleri"&gt;... that the fossil redwood Metasequoia milleri was described from its pollen cones?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1890_Bathurst_rail_collision"&gt;... that four people and three hundred sheep died after sixteen carriages broke off a mixed-use train and collided with a goods train in Bathurst ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Prince_of_Zhou_(Ming_dynasty)"&gt;... that the Princedom of Zhou, unlike most other Ming princedoms, developed a strong tradition of cultural and literary learning?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Normativity"&gt;... that practical normativity covers what people should do, while theoretical normativity is about what to believe?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marrying_the_Dark_Knight_(For_Her_Money)"&gt;... that the first volume of a yuri manga was criticized for not having enough yuri ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Roundway_Down"&gt;1643 – English Civil War : Royalist forces defeated the Parliamentarians at the Battle of Roundway Down near Devizes, Wiltshire.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Trippstadt"&gt;1794 – The Battle of Trippstadt between French forces and those of Prussia and Austria began.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Regulamentul_Organic"&gt;1831 – Wallachian officials adopted the Regulamentul Organic, which engendered a period of reforms that provided for the westernization of the local society.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Night_of_the_Long_Knives_(1962)"&gt;1962 – In an unprecedented reshuffle, British prime minister Harold Macmillan dismissed seven members of his cabinet.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/William_Chaney"&gt;1999 – William Chaney, a historian of Anglo-Saxon England, retired after a half a century at Lawrence University, by which time 80% of living alumni had attended the school during his tenure.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48886741"&gt;Ask HN: Add flag for AI-generated articles&lt;/a&gt; — A discussion asking whether HN's regular voting system is sufficient to handle AI-generated content or whether the site should change in response to the gen AI era. (&lt;a href="https://news.ycombinator.com/item?id=48886741"&gt;discussion&lt;/a&gt;, 695 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://systima.ai/blog/claude-code-vs-opencode-token-overhead"&gt;Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k&lt;/a&gt; — A measured comparison finds Claude Code's system prompt, tool schemas, and config overhead cost far more tokens and cache writes than OpenCode's, though Claude Code can win on total cost for some multi-step tasks by batching tool calls. (&lt;a href="https://news.ycombinator.com/item?id=48883275"&gt;discussion&lt;/a&gt;, 598 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"&gt;Old and new apps, via modern coding agents&lt;/a&gt; — Terence Tao describes using AI coding agents to revive his old Java math applets in JavaScript and to finally build a long-abandoned Minkowski-space visualization tool he first attempted in 1999. (&lt;a href="https://news.ycombinator.com/item?id=48880170"&gt;discussion&lt;/a&gt;, 436 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"&gt;I love LLMs, I hate hype&lt;/a&gt; — George Hotz argues he's genuinely excited about AI progress but rejects both the "window is closing" doom narrative and the superintelligence hype, framing frontier labs' fear as really being about losing control of commodification. (&lt;a href="https://news.ycombinator.com/item?id=48883343"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scrapfly.dev/posts/browser-math-os-fingerprint/"&gt;Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS&lt;/a&gt; — Because V8 switched Math.tanh to use the host OS's native math library instead of its own bundled implementation, the tiny bit-level differences between macOS, Linux, and Windows math libraries can now be used to fingerprint a browser's real operating system. (&lt;a href="https://news.ycombinator.com/item?id=48884853"&gt;discussion&lt;/a&gt;, 402 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scotto.me/blog/2026-07-12-how-to-read-more-books/"&gt;How to read more books&lt;/a&gt; — The author describes replacing smartphone/social-media time with reading, always carrying a book (or e-reader), and reading multiple books in parallel as the habits that took them from a handful of books a year to about one a week. (&lt;a href="https://news.ycombinator.com/item?id=48882056"&gt;discussion&lt;/a&gt;, 371 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-13.html"/>
+    <published>2026-07-13T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-12</id>
     <title>Daily Digest — Sunday, July 12, 2026</title>
@@ -1244,43 +1287,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-13.html"/>
     <published>2026-06-13T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-12</id>
-    <title>Daily Digest — Friday, June 12, 2026</title>
-    <updated>2026-06-12T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;I'll draft the newsletter and write it to the plan file for your review before finalizing.&lt;/p&gt;
-&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Mindanao_earthquake"&gt;A magnitude 7.8 earthquake strikes the southern coast of Mindanao in the Philippines, leaving at least 47 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zv%C3%ABrnec_protests"&gt;Protests take place against a proposed tourism development on the environmentally protected island of Sazan, Albania.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Namhkam_Township_explosion"&gt;An explosion at a Ta'ang National Liberation Army base in Myanmar leaves 43 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Indian_Premier_League_final"&gt;In Twenty20 cricket, the Indian Premier League concludes with Royal Challengers Bengaluru defeating Gujarat Titans in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://brew.sh/2026/06/11/homebrew-6.0.0/"&gt;Show HN: Homebrew 6.0.0&lt;/a&gt; — Major new release of the popular macOS/Linux package manager. (&lt;a href="https://news.ycombinator.com/item?id=48490024"&gt;discussion&lt;/a&gt;, 1242 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tombedor.dev/human-attention-and-human-effort/"&gt;If you are asking for human attention, demonstrate human effort&lt;/a&gt; — Essay arguing that in an age of AI-generated output, earning human attention requires demonstrating genuine human effort. (&lt;a href="https://news.ycombinator.com/item?id=48497609"&gt;discussion&lt;/a&gt;, 771 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"&gt;AI agent bankrupted their operator while trying to scan DN42&lt;/a&gt; — An AI agent autonomously racked up catastrophic costs attempting to scan the DN42 experimental network, a cautionary tale about unconstrained agentic loops. (&lt;a href="https://news.ycombinator.com/item?id=48500012"&gt;discussion&lt;/a&gt;, 608 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"&gt;Nobody ever gets credit for fixing problems that never happened (2001)&lt;/a&gt; — Classic MIT paper on why proactive problem prevention goes unrecognized in organizations while visible firefighting earns praise. (&lt;a href="https://news.ycombinator.com/item?id=48498385"&gt;discussion&lt;/a&gt;, 475 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal"&gt;Solar generates more energy in US than coal for first time&lt;/a&gt; — A landmark milestone: US solar generation surpassed coal output for the first time ever. (&lt;a href="https://news.ycombinator.com/item?id=48492306"&gt;discussion&lt;/a&gt;, 463 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"&gt;Claude Fable is relentlessly proactive&lt;/a&gt; — Simon Willison's analysis of Anthropic's new Claude Fable model, highlighting its unusually aggressive agentic behavior. (&lt;a href="https://news.ycombinator.com/item?id=48498573"&gt;discussion&lt;/a&gt;, 460 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"&gt;Anthropic apologizes for invisible Claude Fable guardrails&lt;/a&gt; — Anthropic acknowledged hidden "distillation guardrails" in Claude Fable that were never disclosed to users or developers. (&lt;a href="https://news.ycombinator.com/item?id=48489229"&gt;discussion&lt;/a&gt;, 427 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/"&gt;Lines of code got a better publicist&lt;/a&gt; — Essay on how AI coding tools have rehabilitated the lines-of-code metric, lending false credibility to a measure long considered flawed. (&lt;a href="https://news.ycombinator.com/item?id=48489402"&gt;discussion&lt;/a&gt;, 395 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/kJo2qsEdib8RZLvW6/psa-almost-nobody-is-working-on-alignment"&gt;PSA: Almost nobody is working on alignment&lt;/a&gt; by Chi Nguyen — Argues that despite growing attention to AI safety, the number of people doing substantive alignment research remains critically small. (101 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Leiter Report&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://leiterreports.com/2026/06/11/the-lukacs-archive-and-research-center-re-opens-in-budapest/"&gt;The Lukács archive and research center re-opens in Budapest…&lt;/a&gt; — The Lukács archive has reopened in Budapest following the end of Orbán's rule; Leiter notes that while he views Lukács as philosophically damaging to Marxism, the archive rightly belongs in the city that was his home.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;NYC Events&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://theskint.com/fri-mon-6-12-15-skint-weekend/"&gt;FRI-MON, 6/12-15: SKINT WEEKEND&lt;/a&gt; — Pride-themed free events across NYC this weekend: SunnyPride rally and night market in Sunnyside (Fri), outdoor screening of &lt;em&gt;The Birdcage&lt;/em&gt; at Queens Botanical Garden ($6, Fri), Queens World Film Festival prideful poetry at Flushing Town Hall ($5, Fri), and Brooklyn Pride's 30th annual street festival plus twilight parade in Park Slope (Sat).&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-12.html"/>
-    <published>2026-06-12T07:00:00-04:00</published>
   </entry>
 </feed>
