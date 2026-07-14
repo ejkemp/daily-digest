@@ -2,13 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-13T10:30:30.353653+00:00</updated>
+  <updated>2026-07-14T10:31:15.615654+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-14</id>
+    <title>Daily Digest — Tuesday, July 14, 2026</title>
+    <updated>2026-07-14T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Almer%C3%ADa_wildfire"&gt;Thirteen people are killed and twenty-three others are reported missing in a wildfire in Los Gallardos, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_2026_Balochistan_attacks"&gt;A series of coordinated attacks across Pakistan's Balochistan province leaves at least forty-two people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The IOC provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Reine_Audu"&gt;... that the fruit seller Reine Audu was jailed after the march on Versailles in 1789 for announcing her intention to "[bring] back the Queen's head on her sword", among other charges?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Logempr%C3%A9"&gt;... that an abandoned château in an advanced state of ruin was saved with €500,000 from a lottery?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Villiers-le-Bel_series"&gt;... that in 1976, thieves tied up an art collector, stole a painting, and were never caught?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gandriau"&gt;... that mothers believed that taking young children to the grave of the Petite-Émigrée would help them to walk early?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Astier_de_Villatte"&gt;... that a French company revived a favorite perfume of the ancient Roman nobility in 2023?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mur_de_la_peste"&gt;... that a two-metre-high (6 ft 5 in) wall of dry stone was built in 1721 to stop the advance of the Great Plague of Marseille ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierre_No%C3%ABl_Lecauchois"&gt;... that Pierre Noël Lecauchois 's client was almost burned at the stake because the order to stay her execution was delayed?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Poule_au_pot"&gt;... that Good King Henry allegedly said that he wanted every farmer to have a chicken in a pot ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierre-Amable_de_Soubrany"&gt;... that the corpse of Pierre-Amable de Soubrany was guillotined ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Louis_VIII_of_France"&gt;1223 – Louis VIII began his three-year reign as King of France.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alien_and_Sedition_Acts"&gt;1798 – The Sedition Act became law, making it a federal crime to write, publish, or utter false or malicious statements about the U.S. federal government.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_ascent_of_the_Matterhorn"&gt;1865 – A seven-man mountaineering team made the first ascent of the Matterhorn, marking the end of the golden age of alpinism.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Northwest_Orient_Airlines_Flight_1-11"&gt;1960 – Northwest Orient Airlines Flight 1-11 ditched off Polillo Island in the Philippines, killing one person and injuring 44 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carlton_Complex_Fire"&gt;2014 – Lightning strikes started four fires in the Methow Valley in the U.S. state of Washington, collectively known as the Carlton Complex Fire.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://get-inscribe.com/blog/apple-speech-api-benchmark.html"&gt;Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor&lt;/a&gt; (538 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://19thnews.org/2026/07/noaa-climate-data-website/"&gt;Former NOAA employees built Climate.us to preserve climate data and resources&lt;/a&gt; (503 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"&gt;Japan develops a method to recover up to 90% of lithium from used EV batteries&lt;/a&gt; (499 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/a_green_being/status/2076598897779020159"&gt;Grok uploaded my user directory to xAI's servers&lt;/a&gt; (499 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"&gt;Building and shipping Mac and iOS apps without opening Xcode&lt;/a&gt; (481 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"&gt;LAPD lets contract with surveillance giant Flock expire&lt;/a&gt; (453 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/a_green_being/status/2076598897779020159"&gt;Grok CLI uploaded the whole home directory to GCS&lt;/a&gt; (407 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://superdario.pawb.de"&gt;Show HN: Super Dario&lt;/a&gt; (384 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jivx.com/densha"&gt;A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese&lt;/a&gt; (366 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sFkYA5CwZCWYQ9nzB/the-whitney-biennial-should-admit-that-emilie-gossiaux-wants"&gt;The Whitney Biennial Should Admit That Emilie Gossiaux Wants to Fuck Their Dog&lt;/a&gt; (113 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/RPgHythvMKh6eG9pS/our-response-to-seb-krier-on-plan-a"&gt;Our response to Séb Krier on Plan A&lt;/a&gt; (93 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/tC463N9mHcmimQ5dZ/pausing-ai-at-human-level-seems-harder-than-pausing-asap"&gt;Pausing AI at human level seems harder than pausing ASAP&lt;/a&gt; (62 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/e8r7DjZRNcKKkE9zv/it-s-2030-and-we-fucked-up-how-did-it-happen"&gt;It’s 2030 and we fucked up. How did it happen?&lt;/a&gt; (61 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-14.html"/>
+    <published>2026-07-14T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-13</id>
     <title>Daily Digest — Monday, July 13, 2026</title>
@@ -1237,55 +1291,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-14.html"/>
     <published>2026-06-14T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-13</id>
-    <title>Daily Digest — Saturday, June 13, 2026</title>
-    <updated>2026-06-13T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;Artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Guinean_parliamentary_election"&gt;In Guinea's first legislative election since the 2021 coup, President Mamady Doumbouya 's coalition, the Generation for Modernity and Development, wins the most seats in the National Assembly.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"&gt;The Civil Contract party of incumbent prime minister Nikol Pashinyan wins the Armenian parliamentary election.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Point_Clear_Martello_Tower"&gt;... that the 19th-century Point Clear Martello Tower now houses an aviation museum?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jimmy_Whalen_(baseball)"&gt;... that, when baseball pitcher Jimmy Whalen was promoted to the Major Leagues, he refused to report because the team would not pay his travel expenses?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Australian_Antarctic_Territory"&gt;... that Australia took Japan to the International Court of Justice for its whaling activities near the Australian Antarctic Territory ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_Morcom"&gt;... that Alan Turing had a childhood crush on Christopher Morcom ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gropius_House"&gt;... that a design competition for a bathroom outside the Gropius House attracted 280 entries?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nyamazana"&gt;... that warrior-queen Nyamazana defeated the last Rozvi ruler, an act that has been miscredited to a male relative or her husband ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merger_of_Nexstar_Media_Group_and_Tegna_Inc."&gt;... that one opponent of a recent merger of American television station operators called it "the most massive TV consolidation in history using a kangaroo process "?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/J%C5%8Dsaku_Maeda"&gt;... that Japanese painter Jōsaku Maeda began consciously painting mandalas after critic Konstanty Jeleński described his Night Series as such in Paris in 1959?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bite_Me_(Enhypen_song)"&gt;... that the choreography of " Bite Me " prompted fans to send competing protest trucks to the record label over the use of female backup dancers?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/American_League_of_Colored_Laborers"&gt;1850 – The American League of Colored Laborers, one of the first labor unions for African Americans, was established in New York City.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Mont_Sorrel"&gt;1916 – World War I : The Battle of Mont Sorrel in the Ypres Salient came to an end as a Canadian assault led German forces to withdraw to their original lines.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pentagon_Papers"&gt;1971 – The New York Times published the first excerpts from the Pentagon Papers, a 7,000-page classified Department of Defense history of the United States' political and military involvement in the Vietnam War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marcus_Sarjeant"&gt;1981 – English teenager Marcus Sarjeant fired six blanks at Queen Elizabeth II as she rode down The Mall to the Trooping the Colour ceremony.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_2011_Christchurch_earthquake"&gt;2011 – A 6.0 M w earthquake caused up to NZ$6 billion of additional damage to Christchurch, New Zealand, which was still recovering from an earthquake four months earlier.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/news/fable-mythos-access"&gt;Statement on US government directive to suspend access to Fable 5 and Mythos 5&lt;/a&gt; — Anthropic's official response to a US government directive requiring suspension of access to its Fable 5 and Mythos 5 models. (&lt;a href="https://news.ycombinator.com/item?id=48511072"&gt;discussion&lt;/a&gt;, 2905 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://opensourceaimustwin.com/?share=v2"&gt;Open source AI must win&lt;/a&gt; — A manifesto-style argument for why open source AI development is essential in the current political moment. (&lt;a href="https://news.ycombinator.com/item?id=48511908"&gt;discussion&lt;/a&gt;, 1359 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"&gt;Electric motors with no rare earths&lt;/a&gt; — Renault explains its work on EV motors that eliminate dependence on rare earth materials, addressing a major supply chain vulnerability. (&lt;a href="https://news.ycombinator.com/item?id=48510010"&gt;discussion&lt;/a&gt;, 633 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/"&gt;"Don't You Just Upload It to ChatGPT?"&lt;/a&gt; — A reflection on the gulf between how non-technical people imagine AI tools work and what they actually do. (&lt;a href="https://news.ycombinator.com/item?id=48507278"&gt;discussion&lt;/a&gt;, 447 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"&gt;How to setup a local coding agent on macOS&lt;/a&gt; — Practical guide for running an AI coding agent locally on macOS without cloud dependencies. (&lt;a href="https://news.ycombinator.com/item?id=48507020"&gt;discussion&lt;/a&gt;, 442 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow"&gt;There is a shadow hanging over this Fable thing&lt;/a&gt; — A critical examination of the broader implications behind the US government's suspension of access to Fable 5. (&lt;a href="https://news.ycombinator.com/item?id=48513536"&gt;discussion&lt;/a&gt;, 421 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.unitedheroes.net/5751"&gt;Leaving Mozilla&lt;/a&gt; — A departing Mozilla employee reflects on their time at the organization and its current direction. (&lt;a href="https://news.ycombinator.com/item?id=48513806"&gt;discussion&lt;/a&gt;, 405 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"&gt;Palantir loses legal challenge against Swiss investigative magazine&lt;/a&gt; — A Swiss court rejected Palantir's case against an investigative publication, a notable win for press freedom. (&lt;a href="https://news.ycombinator.com/item?id=48509182"&gt;discussion&lt;/a&gt;, 383 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/"&gt;Israeli firm BlackCore suspected of meddling in New York and Scotland votes&lt;/a&gt; — Reuters reports BlackCore is suspected of election interference across multiple democracies including NYC, Scotland, and France. (&lt;a href="https://news.ycombinator.com/item?id=48514560"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents"&gt;Building and evaluating model diffing agents&lt;/a&gt; by bilalchughtai — Explores how to build and benchmark agents capable of identifying behavioral differences between AI models. (53 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/f5avt6eEzkGJJqcCe/us-government-directive-to-suspend-access-to-fable-5-and"&gt;US government directive to suspend access to Fable 5 and Mythos 5&lt;/a&gt; by Capybasilisk — Community discussion of the US government's directive requiring Anthropic to suspend access to its most capable models. (51 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-13.html"/>
-    <published>2026-06-13T07:00:00-04:00</published>
   </entry>
 </feed>
