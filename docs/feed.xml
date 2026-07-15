@@ -2,13 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-14T10:31:15.615654+00:00</updated>
+  <updated>2026-07-15T10:30:44.249205+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-15</id>
+    <title>Daily Digest — Wednesday, July 15, 2026</title>
+    <updated>2026-07-15T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Almer%C3%ADa_wildfire"&gt;Thirteen people are killed in a wildfire in Almería, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_2026_Balochistan_attacks"&gt;A series of coordinated attacks across Pakistan's Balochistan province leaves at least forty-two people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The IOC provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gore_trout_statue"&gt;... that "Trouty McTroutface" was submitted in a naming contest for a trout statue ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/CSS_Appomattox"&gt;... that two inches of excess beam doomed the Confederate gunboat Appomattox ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_History_of_Java"&gt;... that Stamford Raffles collected over thirty tons of Javanese objects to help him write The History of Java ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jamie_Duncan"&gt;... that football player Jamie Duncan was described as a "one-man horror show"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/VRMMORPG"&gt;... that VRMMORPG fiction such as Sword Art Online influenced public discourse surrounding modern virtual-reality technologies?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/GreenGreen"&gt;... that the cover of GreenGreen, an extended play by Cortis, features a bridge that the band's members frequently walked past when they were idol trainees?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suzannah_Clarke"&gt;... that British opera singer Suzannah Clarke performed annually in North Korea?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Androgynos_(mythology)"&gt;... that there are three genders in Plato's Symposium : man, woman, and the union of the two ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Adam_Sevada"&gt;... that a darts player nicknamed "the Reaper" works at a funeral home?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Grunwald"&gt;1410 – The Kingdom of Poland and the Grand Duchy of Lithuania defeated the Teutonic Knights at the Battle of Grunwald, the decisive engagement of the Polish–Lithuanian–Teutonic War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/HMS_Bellerophon_(1786)"&gt;1815 – Aboard HMS Bellerophon, French emperor Napoleon surrendered to Royal Navy captain Frederick Lewis Maitland, concluding the Napoleonic Wars.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SG-1000"&gt;1983 – Sega 's first home video game console, the SG-1000, was released in Japan.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2009_Dusky_Sound_earthquake"&gt;2009 – A M w 7.8 earthquake struck a remote region of Fiordland, New Zealand, the country's largest earthquake magnitude since the 1931 Hawke's Bay earthquake.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final"&gt;2018 – Croatian Mario Mandžukić scored the first own goal in a FIFA World Cup final in their defeat to France.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://prismml.com/news/bonsai-27b"&gt;Bonsai 27B: A 27B-Class model that runs on a phone&lt;/a&gt; — A new ternary/1-bit quantized 27B model family shrinks a 54GB model down to as little as 3.9GB while retaining 90-95% of full-precision benchmark performance, small enough to run agentic workloads on an iPhone. (&lt;a href="https://news.ycombinator.com/item?id=48910545"&gt;discussion&lt;/a&gt;, 603 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"&gt;How to stop Claude from saying load-bearing&lt;/a&gt; — A tongue-in-cheek Claude Code hook that swaps out overused AI stock phrases like "load-bearing" and "honest take" for absurd replacements. (&lt;a href="https://news.ycombinator.com/item?id=48905248"&gt;discussion&lt;/a&gt;, 531 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.artfish.ai/p/offloading-thinking-to-ai"&gt;Are we offloading too much of our thinking to AI?&lt;/a&gt; — An essay reflecting on how reliance on AI assistants for decisions big and small may be eroding personal autonomy and the habit of thinking things through ourselves. (&lt;a href="https://news.ycombinator.com/item?id=48908178"&gt;discussion&lt;/a&gt;, 475 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fabiensanglard.net/jurrasic_park_computers/index.html"&gt;Jurassic Park computers in excruciating detail&lt;/a&gt; — A deep dive identifying every real computer (Apple Powerbook, SGI Indigo, SGI IRIS Crimson) and the production history behind the movie's iconic control-room tech. (&lt;a href="https://news.ycombinator.com/item?id=48915709"&gt;discussion&lt;/a&gt;, 473 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"&gt;The Tower Keeps Rising&lt;/a&gt; — Using the Tower of Babel as a metaphor, the author argues AI coding agents remove the friction that once forced developers to build shared understanding, risking codebases that become incoherent even though each individual change compiles and passes tests. (&lt;a href="https://news.ycombinator.com/item?id=48909785"&gt;discussion&lt;/a&gt;, 473 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/openai/codex/issues/28058"&gt;Codex starts encrypting sub-agent prompts&lt;/a&gt; — A GitHub issue reports that encrypting multi-agent message payloads in Codex CLI removed the human-readable audit trail of what tasks were delegated to sub-agents, hurting debuggability. (&lt;a href="https://news.ycombinator.com/item?id=48905028"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"&gt;Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK&lt;/a&gt; — The author built a custom photodiode-based latency measurement device to empirically test common Linux gaming latency claims around X11 vs Wayland, VRR, and DXVK forks. (&lt;a href="https://news.ycombinator.com/item?id=48909424"&gt;discussion&lt;/a&gt;, 374 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"&gt;Cursor 0day: When Full Disclosure Becomes the Only Protection Left&lt;/a&gt; — Researchers disclose that Cursor on Windows will automatically execute a malicious git.exe planted in a repository root with no user interaction, and say Cursor has left the bug unpatched for over six months despite repeated reports. (&lt;a href="https://news.ycombinator.com/item?id=48910676"&gt;discussion&lt;/a&gt;, 370 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/r7FBQ8XDs6qBYc4K4/an-analysis-of-ai-generated-content-at-the-mechanistic"&gt;An analysis of AI-generated content at the Mechanistic Interpretability Workshop&lt;/a&gt; by Andy Arditi — The workshop's program chairs used an AI-text detector on submissions and reviews, finding submissions more than doubled to 801 in 2026, about a third were majority AI-generated, and AI-generated reviews tended to score AI-generated papers more favorably than human reviewers did. (91 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Lc8v92pGPtjF3gsCv/some-quick-thoughts-on-ai-2027"&gt;Some Quick Thoughts on AI 2027&lt;/a&gt; by Tomás B. — The author critiques the AI 2027 scenario for assuming human-scale robots drive an industrial explosion, arguing incentives instead point toward miniaturized self-replicators via biotechnology or nanotechnology rather than conventional factories. (71 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-15.html"/>
+    <published>2026-07-15T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-14</id>
     <title>Daily Digest — Tuesday, July 14, 2026</title>
@@ -1243,53 +1293,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-15.html"/>
     <published>2026-06-15T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-14</id>
-    <title>Daily Digest — Sunday, June 14, 2026</title>
-    <updated>2026-06-14T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;English artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ja%27Kobe_Tharp"&gt;In athletics, Ja'Kobe Tharp sets a new world record in men's 110 metres hurdles.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Guinean_parliamentary_election"&gt;In Guinea's first legislative election since the 2021 coup, President Mamady Doumbouya 's coalition, the Generation for Modernity and Development, wins the most seats in the National Assembly.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"&gt;The Civil Contract party of incumbent prime minister Nikol Pashinyan wins the Armenian parliamentary election.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fatmata_Binta"&gt;... that Fatmata Binta used her monetary award from the Basque Culinary World Prize to support women farmers' cultivation of fonio ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Urbinus"&gt;... that Byzantine general Belisarius lost a significant part of his army over a disagreement with his military commanders but still was able to capture Urbinus without a fight?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Unaipon"&gt;... that one of the first known books by an Aboriginal Australian author, written by David Unaipon, was not printed under his name for more than 70 years?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mandate_(magazine)"&gt;... that Mandate was one of the few nationwide publications in the US to feature full-frontal male nudity in the 1970s?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Todung_Sutan_Gunung_Mulia"&gt;... that Todung Sutan Gunung Mulia founded a printing house after President Sukarno banned the importation of Indonesian-language Bibles?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nick_Martinelli_(basketball)"&gt;... that basketball player Nick Martinelli led the Big Ten Conference in scoring for back-to-back seasons, but his high school's career scoring record is held by his older brother ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Denison_Trough"&gt;... that the geological formations of Australia's inland Denison Trough record evidence of when the area was a shallow sea?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Poetae_Epici_Graeci"&gt;... that Poetae Epici Graeci contains more than 1150 fragments from or about lost writings attributed in classical antiquity to the mythical poet Orpheus ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bradley_Roberts_(Bahamian_politician)"&gt;... that Bahamian member of parliament Bradley Roberts was known affectionately as "Big Bad Brad"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Orbetello"&gt;1646 – Franco-Spanish War : French and Spanish fleets fought the inconclusive Battle of Orbetello, with sailing vessels of both sides having to be towed into action by galleys due to light winds.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/California_Republic"&gt;1846 – Settlers in Sonoma began rebelling against Mexico, later proclaiming the California Republic and  raising a homemade flag with a bear and a star.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fall_Rot"&gt;1940 – Second World War : Four days after the French government fled Paris, German forces occupied the French capital, a major accomplishment in the Fall Rot operation.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum"&gt;1966 – The Vatican formally abolished its 427-year-old list of prohibited books.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Montana_Freemen"&gt;1996 – After an 81-day standoff sparked by their refusal to be evicted from their foreclosed property in Jordan, Montana, the Christian Patriot group Montana Freemen surrendered to the FBI.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://desfontain.es/blog/banning-noise.html"&gt;Noise infusion banned from statistical products published by Census Bureau&lt;/a&gt; — A significant policy reversal: the Census Bureau has been prohibited from using differential privacy noise-injection techniques, raising questions about how it will protect respondent privacy going forward. (&lt;a href="https://news.ycombinator.com/item?id=48517377"&gt;discussion&lt;/a&gt;, 826 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tonsky.me/blog/every-frame-perfect/"&gt;Every Frame Perfect&lt;/a&gt; — An exploration of what it takes to achieve buttery-smooth, artifact-free rendering in software UI — and why so many apps fall short. (&lt;a href="https://news.ycombinator.com/item?id=48516251"&gt;discussion&lt;/a&gt;, 722 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;amp;reflink=desktopwebshare_permalink"&gt;Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models&lt;/a&gt; — WSJ reporting that government intervention in Anthropic's model availability was set in motion by Andy Jassy's conversations with federal officials, signaling escalating political involvement in frontier AI deployment. (&lt;a href="https://news.ycombinator.com/item?id=48519092"&gt;discussion&lt;/a&gt;, 690 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/jietang/status/2065784751345287314"&gt;GLM 5.2 Is Out&lt;/a&gt; — Zhipu AI releases GLM 5.2, the latest iteration of China's leading open large language model series. (&lt;a href="https://news.ycombinator.com/item?id=48518684"&gt;discussion&lt;/a&gt;, 593 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"&gt;Treating pancreatic tumours may have revealed cancer's master switch&lt;/a&gt; — Researchers studying pancreatic cancer treatment may have identified a fundamental regulatory mechanism common to many cancers, potentially opening new avenues for broad oncology therapies. (&lt;a href="https://news.ycombinator.com/item?id=48517199"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DQNSqCzuoeutoQ5RG/american-government-takes-down-claude-fable"&gt;American Government Takes Down Claude Fable&lt;/a&gt; by Zvi — Analysis of the U.S. government's intervention restricting Anthropic's Claude Fable model and what it signals for AI governance and safety. (83 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/j2zBqt7AksoEoHXNp/how-might-continual-learning-affect-safety-and-alignment"&gt;How might continual learning affect safety and alignment?&lt;/a&gt; by Rauno Arike — Examines how systems that update their weights continuously from new data could introduce novel alignment risks and complicate existing safety guarantees. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-14.html"/>
-    <published>2026-06-14T07:00:00-04:00</published>
   </entry>
 </feed>
