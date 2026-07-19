@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-18T10:30:47.504500+00:00</updated>
+  <updated>2026-07-19T10:30:44.293308+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-19</id>
+    <title>Daily Digest — Sunday, July 19, 2026</title>
+    <updated>2026-07-19T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield_Sobers"&gt;Barbadian cricketer Garfield Sobers dies at the age of 89.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_pub_fire"&gt;A fire at a pub in Bangkok, Thailand, kills at least 33 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Wimbledon_Championships"&gt;In tennis, the Wimbledon Championships conclude with Linda Nosková and Jannik Sinner winning the women's and men's singles, respectively.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hamad_bin_Khalifa_Al_Thani"&gt;Former emir of Qatar Hamad bin Khalifa Al Thani dies at the age of 74.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rudi_Gl%C3%B6ckner"&gt;... that Rudi Glöckner had to be escorted off the pitch by 16 police officers after a 1976 football match?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_CONCACAF_Champions_Cup_final"&gt;... that Toluca FC recently won its first international title in 23 years ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rappresentativa_OPBG"&gt;... that the Vaticanese football team Rappresentativa OPBG played their first derby match against a team of nursing students?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Caleb_Wales"&gt;... that the surname of a Trinidadian football assistant referee caught the attention of the British press during a 2022 match?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ahmed_Al-Kaf"&gt;... that Ahmed Al-Kaf is the only Arab referee to officiate three AFC Champions League finals?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_Toluca_FC_managers"&gt;... that one manager of Toluca FC won a league title in just four games?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Atanasie_Protopopesco"&gt;... that Atanasie Protopopesco was the only man on Romania's 1924 Olympic football team not to hail from Austria-Hungary ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stop_The_Game"&gt;... that members of Stop The Game campaigned against a planned UEFA Nations League fixture between Ireland and Israel by throwing tennis balls onto the pitch?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Laz%C4%83r_Sfera"&gt;... that Lazăr Sfera ripped through Don Welsh 's shorts during a 1939 football match?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_New_York_City_Fire_of_1845"&gt;1845 – A fire in Manhattan, New York City, destroyed 345 buildings, killed 30 people, and caused at least $5 million in damage.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1903_Tour_de_France"&gt;1903 – French cyclist Maurice Garin won the first edition of the Tour de France.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luton_Town_Hall"&gt;1919 – Following Peace Day celebrations marking the end of the First World War, English ex-servicemen unhappy with unemployment and other grievances rioted and burned down Luton Town Hall.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bunbury_woodchip_bombing"&gt;1976 – Environmental activists bombed the port facilities in Bunbury, Western Australia, in an attempt to disrupt the woodchipping industry.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Smiled"&gt;2013 – The NASA spacecraft Cassini took a photograph of Saturn with Earth in the distance, for which people were invited to "wave at Saturn".&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"&gt;GPT-5.6 used a prompt to close a 30-year gap in convex optimization&lt;/a&gt; — A Reddit math thread discusses a claim that, following OpenAI's CDC proof announcement, GPT-5.6 used a similar prompting approach to close a 30-year-old open problem in convex optimization, with the result verified in Lean. (&lt;a href="https://news.ycombinator.com/item?id=48957779"&gt;discussion&lt;/a&gt;, 564 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://workshop.cjpais.com/projects/transcribe-cpp"&gt;Transcribe.cpp&lt;/a&gt; — The maintainer of the Handy speech-to-text app releases a new ggml-based transcription library supporting 16+ ASR model families with Vulkan/Metal/CUDA acceleration, numerically validated against reference implementations as a drop-in whisper.cpp replacement. (&lt;a href="https://news.ycombinator.com/item?id=48963879"&gt;discussion&lt;/a&gt;, 542 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"&gt;NYC may require landlords and realtors to disclose the use of AI in listings&lt;/a&gt; — Mayor Mamdani's new "Rental Ripoff Report" recommends requiring NYC landlords and realtors to disclose when rental listing photos have been altered or generated using AI. (&lt;a href="https://news.ycombinator.com/item?id=48962983"&gt;discussion&lt;/a&gt;, 477 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://velvetshark.com/ai-company-logos-that-look-like-buttholes"&gt;Why do AI company logos look like buttholes? (2025)&lt;/a&gt; — A tongue-in-cheek design critique argues that many AI company logos, including OpenAI's and Anthropic's Claude, converge on a circular shape with a central opening that resembles anatomy more than intended branding. (&lt;a href="https://news.ycombinator.com/item?id=48956924"&gt;discussion&lt;/a&gt;, 427 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"&gt;The Kimi K3 Moment&lt;/a&gt; — The author compares daily coding use of the open Kimi K3 model against Claude, finding comparable output quality at a fraction of the price, and argues this undercuts the rationale for US restrictions on frontier AI models. (&lt;a href="https://news.ycombinator.com/item?id=48960218"&gt;discussion&lt;/a&gt;, 417 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.benlandautaylor.com/p/if-you-build-it-they-will-come"&gt;If You Build It, They Will Come&lt;/a&gt; — An essay argues that joining or strengthening a social scene is best done by organizing events yourself, since most communities suffer from an undersupply of organizers rather than a lack of demand. (&lt;a href="https://news.ycombinator.com/item?id=48959090"&gt;discussion&lt;/a&gt;, 416 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://data.stackexchange.com/stackoverflow/query/1953768#graph"&gt;What AI did to stackoverflow in a graph&lt;/a&gt; — A StackExchange data query purports to visualize the impact of AI on Stack Overflow activity. (&lt;a href="https://news.ycombinator.com/item?id=48956949"&gt;discussion&lt;/a&gt;, 410 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zvpocS7CswgT8bw7E/nuances-in-the-workings-of-the-eye-and-retina"&gt;Nuances in the Workings of the Eye and Retina&lt;/a&gt; by Hieronym — A grab-bag exploration of lesser-discussed quirks of eye anatomy, such as how the brain—rather than the lens itself—compensates for chromatic aberration in human vision. (51 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-19.html"/>
+    <published>2026-07-19T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-18</id>
     <title>Daily Digest — Saturday, July 18, 2026</title>
@@ -1235,58 +1283,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-19.html"/>
     <published>2026-06-19T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-18</id>
-    <title>Daily Digest — Thursday, June 18, 2026</title>
-    <updated>2026-06-18T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bajrakitiyabha"&gt;Princess Bajrakitiyabha of Thailand, a possible heir to the throne, dies at the age of 47 after a three-year comatose state.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;English artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wangdue_Phodrang_Dzong"&gt;... that the Wangdue Phodrang Dzong was destroyed by a fire in 1837, damaged by an earthquake in 1897 and destroyed again by a fire in 2012?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bahu_Begum"&gt;... that Bahu Begum gave up her nose ring with pearls for her husband's sovereignty?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/XXYYY_syndrome"&gt;... that facial dysmorphism and moderate intellectual disability are symptoms of 49,XXYYY syndrome ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Walt_Whitman_Park_(Washington,_D.C.)"&gt;... that Walt Whitman Park was the site of the first playground built on public parkland for children of U.S. government workers?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Trickcal:_Chibi_Go"&gt;... that the original Trickcal: Chibi Go shut down only two hours after it was released?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alec_Radford"&gt;... that in 2018, Alec Radford was the lead author on OpenAI's research paper on generative pre-trained transformers, which form the foundation of ChatGPT?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Children_of_the_Sun_(Jay_Chou_album)"&gt;... that the Jay Chou album Children of the Sun was named after a note he got with a box of mangoes?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jan_Djong"&gt;... that Jan Djong was fired from his post one day after his supporters held a demonstration in his support?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)"&gt;... that Take-Two Interactive filed a trademark claim against It Takes Two ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tang_dynasty"&gt;618 – Sui–Tang transition : Chinese governor Li Yuan declared himself emperor, establishing the Tang dynasty.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alfred_Russel_Wallace"&gt;1858 – Charles Darwin received a manuscript by fellow naturalist Alfred Russel Wallace on natural selection, which encouraged him to publish his own theory of evolution.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Appeal_of_18_June"&gt;1940 – World War II : Charles de Gaulle gave his Appeal of 18 June speech, often considered to be the origin of the French Resistance.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tachikawa_air_disaster"&gt;1953 – A Douglas C-124 Globemaster II aircraft crashed just after takeoff from Tachikawa, Japan, killing all 129 people on board.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"&gt;2012 – Salman bin Abdulaziz Al Saud was appointed the crown prince of Saudi Arabia.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://lore.org/"&gt;Lore – Open source version control system designed for scalability&lt;/a&gt; — Epic Games open-sourced Lore, a next-generation VCS built for large-scale projects, featuring chunked storage for big files, on-demand sparse workspaces, and lightweight branching. (&lt;a href="https://news.ycombinator.com/item?id=48571081"&gt;discussion&lt;/a&gt;, 1150 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://wpvip.com/future-of-the-web-2026/"&gt;Sixty percent of US consumers say 'AI' in brand messaging is a turnoff&lt;/a&gt; — A survey finds that a majority of consumers find AI-branded products off-putting and feel the internet has become less human over the past decade. (&lt;a href="https://news.ycombinator.com/item?id=48569278"&gt;discussion&lt;/a&gt;, 1042 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.midjourney.com/medical/blogpost"&gt;Midjourney Medical&lt;/a&gt; — Midjourney is building a whole-body ultrasound scanner — a ring of 500,000 tiny transducers that users descend through in a pool of water in under 60 seconds — aiming to make detailed 3D body imaging as casual and accessible as an MRI but far cheaper. (&lt;a href="https://news.ycombinator.com/item?id=48579650"&gt;discussion&lt;/a&gt;, 770 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3"&gt;Volkswagen started blocking GrapheneOS users&lt;/a&gt; — VW's app now refuses to work on GrapheneOS, a privacy-focused Android fork, raising concerns about automakers gatekeeping vehicle access based on OS choice. (&lt;a href="https://news.ycombinator.com/item?id=48571526"&gt;discussion&lt;/a&gt;, 690 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars"&gt;Want your images back? That'll be $5&lt;/a&gt; — A writer paid Photobucket's $5/month subscription to retrieve childhood photos from the old image host, only to discover his account was empty — a cautionary tale about paywalled user data and predatory subscription dark patterns. (&lt;a href="https://news.ycombinator.com/item?id=48569954"&gt;discussion&lt;/a&gt;, 634 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"&gt;AI demands more engineering discipline. Not less&lt;/a&gt; — Charity Majors argues that AI-generated code reaching "median engineer" quality since late 2025 raises the bar for engineering practices rather than lowering it, drawing parallels to the shift from hand-managed servers to immutable infrastructure. (&lt;a href="https://news.ycombinator.com/item?id=48570948"&gt;discussion&lt;/a&gt;, 383 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"&gt;Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society&lt;/a&gt; — A Pew Research study finds that despite growing daily AI use (ChatGPT now at 44% of US adults), only 16% of Americans expect a positive societal impact, with young people and women most skeptical and two-thirds believing development is moving too fast. (&lt;a href="https://news.ycombinator.com/item?id=48573332"&gt;discussion&lt;/a&gt;, 380 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.rfc-editor.org/info/rfc10008/"&gt;RFC 10008: The new HTTP Query Method&lt;/a&gt; — The IETF has finalized RFC 10008, adding a QUERY HTTP method that allows safe, idempotent requests with a body — filling the long-standing gap between GET (no body) and POST (not idempotent) for complex search and query operations. (&lt;a href="https://news.ycombinator.com/item?id=48568502"&gt;discussion&lt;/a&gt;, 375 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"&gt;Leaked financial docs show OpenAI is losing billions of dollars a year&lt;/a&gt; — Audited financials show OpenAI's revenue grew from $3.7B (2024) to $13B (2025), but R&amp;amp;D costs alone hit $19B and total operating losses reached $20.9B, with the company still targeting profitability by 2030. (&lt;a href="https://news.ycombinator.com/item?id=48577208"&gt;discussion&lt;/a&gt;, 353 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nSqB3qYP36enJLRq2/gears-for-political-races"&gt;Gears for political races&lt;/a&gt; by Tom Smith — After volunteering on a congressional campaign, the author lays out a ground-level mechanistic case for why US electoral politics is high-impact for AI safety, anchored by data points like ~2% of open-seat primaries being decided by under 100 votes and canvassing yielding roughly 1/3 of a vote per hour. (96 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HaHzwvhbWam4n8hJB/the-once-and-future-fable-3-fix-this-code"&gt;The Once And Future Fable #3: Fix This Code&lt;/a&gt; by Zvi — Zvi reports that the government action against Anthropic's Fable 5 model was triggered by the prompt "fix this code" applied to deliberately planted vulnerabilities, with the only outside expert to review the report concluding it should never have triggered export controls. (58 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/iMds4tTpMH4pSHEej/several-frontier-models-are-substantially-prefill-aware"&gt;Several frontier models are substantially prefill aware&lt;/a&gt; by yeedrag — A new paper finds that multiple frontier LLMs can detect when their assistant-turn content has been tampered with (prefill awareness), even in low-stakes scenarios, raising concerns that this capability could confound safety evaluations and pre-deployment testing. (54 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-18.html"/>
-    <published>2026-06-18T07:00:00-04:00</published>
   </entry>
 </feed>
