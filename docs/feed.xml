@@ -2,13 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-19T10:30:44.293308+00:00</updated>
+  <updated>2026-07-20T10:30:31.628732+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-20</id>
+    <title>Daily Digest — Monday, July 20, 2026</title>
+    <updated>2026-07-20T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"&gt;In association football, the FIFA World Cup concludes with Spain defeating Argentina in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Josh_Kerr_(runner)"&gt;British runner Josh Kerr breaks the world record for the mile run.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield_Sobers"&gt;Barbadian cricketer Garfield Sobers dies at the age of 89.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_pub_fire"&gt;A fire at a pub in Bangkok, Thailand, kills at least 34 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Wimbledon_Championships"&gt;In tennis, the Wimbledon Championships conclude with Linda Nosková and Jannik Sinner winning the women's and men's singles, respectively.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sant_Quirze_de_Pedret"&gt;... that the 12th-century murals of Sant Quirze de Pedret were featured on Spanish Tourism Board posters in 1930?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tinashe"&gt;... that Tinashe, who appeared in a film in 2000 and had a US top-40 hit with a 2025 song, has a black belt in taekwondo?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dissipatio_H._G."&gt;... that the author and English translator of Dissipatio H. G. both died shortly after completing their work on the novel?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alad%C3%A1r_Horv%C3%A1th"&gt;... that Aladár Horváth was one of the first three Romani members of the National Assembly of Hungary after his election in 1990?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Horizon_(video_game_series)"&gt;... that robotics engineers advised the developers of the Horizon franchise to design the game's machines with an exoskeleton-like framework instead of skeletons?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Umarjadi_Njotowijono"&gt;... that future ASEAN secretary general Umarjadi Njotowijono chose to evacuate to his Japanese wife's home village after the atomic bombings of Hiroshima and Nagasaki?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Celestial_Toymaker"&gt;... that the fourth episode of The Celestial Toymaker cost £1,449, making it the cheapest Doctor Who episode ever recorded?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anstrudis"&gt;... that Saint Anstrudis is identified with the ten-petaled sunflower ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Semiotics"&gt;... that semioticians interpret the waggle dance of honey bees as a text?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pyr%C3%A9olophore"&gt;1807 – French brothers Claude and Nicéphore Niépce received a patent for their Pyréolophore, one of the world's first internal combustion engines.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Abdullah_I_of_Jordan"&gt;1951 – Abdullah I of Jordan was assassinated while visiting the Al-Aqsa Mosque in Jerusalem.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Viking_1"&gt;1976 – The Viking 1 lander became the first spacecraft to successfully land on Mars and perform its mission.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/USS_Constitution"&gt;1997 – USS Constitution, one of the United States Navy 's original six frigates, sailed for the first time in 116 years after a full restoration.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suru%C3%A7_bombing"&gt;2015 – A suicide attack in Suruç, Turkey, for which Islamic State of Iraq and the Levant (ISIL) claimed responsibility, killed 34 people and injured 104 others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=48968606"&gt;Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s&lt;/a&gt; — After buying a rundown 8-lane bowling alley, the author built an open-source ESP32-and-Redis-based scoring/pinsetting control system for a fraction of the cost of commercial six-figure systems. (&lt;a href="https://news.ycombinator.com/item?id=48968606"&gt;discussion&lt;/a&gt;, 2353 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"&gt;What I learned selling 2,500 MIDI recorders: Hardware is not so hard&lt;/a&gt; — The creator of the Jamcorder piano-recording device recounts how, contrary to the "hardware is hard" adage, the software (200K lines across firmware, app, and manufacturing tooling) was far harder than manufacturing, and shares practical tips for shipping simple hardware profitably. (&lt;a href="https://news.ycombinator.com/item?id=48966713"&gt;discussion&lt;/a&gt;, 494 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xcancel.com/__alpoge__/status/2079028340955197566"&gt;Claude Fable produced a counterexample to the Jacobian Conjecture&lt;/a&gt; — A claimed counterexample to the long-standing Jacobian Conjecture, generated with help from an AI model, is circulating with supporting Wolfram|Alpha computations. (&lt;a href="https://news.ycombinator.com/item?id=48973869"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/syAbdNei8BWeP2RPo/many-alignment-techniques-work-by-training-one-model-and"&gt;Many alignment techniques work by training one model and deploying another&lt;/a&gt; by cloud — Argues that steering vectors, inoculation prompting, and post-hoc honesty fine-tuning are all instances of a general "train-deploy mismatch" strategy, which intentionally introduces a difference between training and deployment configurations to prevent models from learning to subvert evaluation, at the cost of tradeoffs tied to off-policyness. (52 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-20.html"/>
+    <published>2026-07-20T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-19</id>
     <title>Daily Digest — Sunday, July 19, 2026</title>
@@ -1232,56 +1277,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-20.html"/>
     <published>2026-06-20T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-19</id>
-    <title>Daily Digest — Friday, June 19, 2026</title>
-    <updated>2026-06-19T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bajrakitiyabha"&gt;Princess Bajrakitiyabha of Thailand, a possible heir to the throne, dies at the age of 47 after a three-year comatose state.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;English artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ditrichites"&gt;... that it was 41 years between the first Ditrichites moss description and the genus being reported in amber fossils ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Adan_Diggs"&gt;... that basketball player Adan Diggs hired an agent before making his high school debut?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wyman_Park_Building"&gt;... that Johns Hopkins University and the City of Baltimore agreed to demolish the city's former U.S. Marine Hospital in 1987, and then changed their minds in 2019?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Faventia"&gt;... that in the Battle of Faventia, the Byzantines missed the opportunity to attack the Gothic army while crossing a river due to disagreements among their commanders?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cary_Brabham"&gt;... that two relatively unknown players, Cary Brabham and Gordon Laro, were featured on the cover of Madden NFL '96 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albercas_El_Vergel"&gt;... that a Tijuana water park features a slide that curves upward to launch riders airborne into a pool?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/History_of_the_Mutapa_Empire"&gt;... that the Mutapa Empire fragmented following the death of a ruler who spent his time writing songs on an mbira and smoking dagga ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Israel_D._Andrews"&gt;... that Israel D. Andrews believed that promoting trade with the provinces of British North America would eventually lead to U.S. annexation?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clyde_Rimple"&gt;... that Olympic cyclist Clyde Rimple was fined £60 for pouring bleach and urinating on his wife's clothes?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1718_Tongwei%E2%80%93Gansu_earthquake"&gt;1718 – An earthquake on the Tibetan Plateau led to the deaths of more than 73,000 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Baseball"&gt;1846 – The first officially recorded baseball game in U.S. history using modern rules was played in Hoboken, New Jersey, with the "New York Nine" defeating the New York Knickerbockers 23–1.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/King_Roger_(opera)"&gt;1926 – King Roger, an opera about Roger II of Sicily by Karol Szymanowski,  was premiered at the Grand Theatre in Warsaw.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Cao_K%E1%BB%B3"&gt;1965 – Nguyễn Cao Kỳ, the commander of the South Vietnam Air Force, was appointed prime minister at the head of a military regime.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wedding_of_Victoria,_Crown_Princess_of_Sweden,_and_Daniel_Westling"&gt;2010 – The royal wedding of Victoria, Crown Princess of Sweden, and Daniel Westling took place in Stockholm Cathedral.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://orchidfiles.com/github-repositories-distributing-malware/"&gt;I found 10k GitHub repositories distributing Trojan malware&lt;/a&gt; — A researcher discovered a large-scale GitHub campaign where thousands of accounts clone legitimate repos and periodically push a new commit adding a link to a malware-laden zip archive that evades VirusTotal's URL scanner but is detected when the zip itself is submitted. (&lt;a href="https://news.ycombinator.com/item?id=48583928"&gt;discussion&lt;/a&gt;, 802 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html"&gt;Swiss parliament lifts ban on new nuclear power plants&lt;/a&gt; — Switzerland's National Council voted 100–98 to approve a counterproposal to the Blackout Initiative, clearing the way for new nuclear construction after a marathon debate; the measure now goes to a public referendum. (&lt;a href="https://news.ycombinator.com/item?id=48585746"&gt;discussion&lt;/a&gt;, 757 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/"&gt;Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly&lt;/a&gt; — Because the new Outlook is built on WebView2 (a Chromium wrapper around Outlook.com), clicking a Windows 11 email notification takes roughly 10 seconds to navigate to the message, while Outlook Classic does it near-instantly — a performance gap Microsoft has not been able to close with app updates alone. (&lt;a href="https://news.ycombinator.com/item?id=48584207"&gt;discussion&lt;/a&gt;, 667 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.rahuljuliato.com/posts/emacs-31-around-the-corner"&gt;Emacs 31 is around the corner: The changes I'm daily driving&lt;/a&gt; — A developer who has been running Emacs 31 pre-release for months highlights the most useful new built-ins, especially automatic tree-sitter grammar installation (&lt;code&gt;treesit-auto-install-grammar&lt;/code&gt;) and a new &lt;code&gt;markdown-ts-mode&lt;/code&gt; shipping in core, reducing reliance on external packages. (&lt;a href="https://news.ycombinator.com/item?id=48584135"&gt;discussion&lt;/a&gt;, 441 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"&gt;I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M&lt;/a&gt; — A privacy researcher who complained in 2021 that Elkjop's customer club made unsubscribing from marketing emails impossible without cancelling membership — invalidating GDPR consent requirements — saw Norway's Datatilsynet finally impose a NOK 20 million (~€1.8M) fine in June 2026 for exactly that violation. (&lt;a href="https://news.ycombinator.com/item?id=48589501"&gt;discussion&lt;/a&gt;, 394 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/"&gt;CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)&lt;/a&gt; — Cornell's graduate compilers course, covering topics like SSA, dataflow analysis, and LLVM, available free as a self-guided online course with video lectures. (&lt;a href="https://news.ycombinator.com/item?id=48583606"&gt;discussion&lt;/a&gt;, 374 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html"&gt;The founder of Craigslist has given away half a billion dollars&lt;/a&gt; — Craig Newmark, who deliberately kept Craigslist from becoming a VC-fueled ad machine, has now donated $500M to charity since the site launched and signed the Giving Pledge, pushing back publicly against billionaires like Peter Thiel who have been discouraging philanthropic commitments. (&lt;a href="https://news.ycombinator.com/item?id=48588216"&gt;discussion&lt;/a&gt;, 365 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.intheweights.com/"&gt;Show HN: Are You in the Weights?&lt;/a&gt; — A tool that appears to let users check whether their data or content is represented in AI model weights. (&lt;a href="https://news.ycombinator.com/item?id=48591348"&gt;discussion&lt;/a&gt;, 350 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WmEcgcstzYCcMpc7z/your-model-organisms-might-be-fried"&gt;Your Model Organisms Might Be Fried&lt;/a&gt; by Daniel Tan — The Arcadia Alignment "model motivations" team argues that existing alignment model organisms (fine-tuned to exhibit pathologies like secret loyalties or reward hacking) are behaviorally degraded in unrelated ways — losing preference coherence and instruction-following — making them poor proxies for real deployment models and confounding the interpretability and auditing work built on them. (70 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"&gt;GDM AI Control Roadmap&lt;/a&gt; by Mary Phuong — Google DeepMind has published a v0.1 AI Control Roadmap outlining a tiered system of detection and prevention invariants — drawing on the MITRE ATT&amp;amp;CK framework via a new taxonomy called TRAIT&amp;amp;R — to guard against adversarial AI behavior in internal deployments as models grow more capable. (60 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-19.html"/>
-    <published>2026-06-19T07:00:00-04:00</published>
   </entry>
 </feed>
