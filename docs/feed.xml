@@ -2,13 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-20T10:30:31.628732+00:00</updated>
+  <updated>2026-07-21T10:31:05.741625+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-21</id>
+    <title>Daily Digest — Tuesday, July 21, 2026</title>
+    <updated>2026-07-21T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Leader of the Labour Party and Prime Minister of the United Kingdom following a leadership election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final"&gt;In association football, the FIFA World Cup concludes with Spain defeating Argentina in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Josh_Kerr_(runner)"&gt;British runner Josh Kerr breaks the world record for the mile run.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield_Sobers"&gt;Barbadian cricketer Garfield Sobers dies at the age of 89.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Likweli"&gt;A new species of black-and-white colobus monkey, likweli, is discovered in Lomami National Park, Democratic Republic of Congo.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saint_Andrew%27s_Chapel_(Sanford,_Florida)"&gt;... that a church in Florida withdrew from its denomination, then blocked some members from voluntarily resigning?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hammarbya"&gt;... that 360° twists in the flower stalks of the bog adder's-mouth orchid sparked a public debate between Charles Darwin and Asa Gray over the role of God in natural selection?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sunnyside_Garden_Arena"&gt;... that a Wendy's was built on the site of a Queens boxing arena where John F. Kennedy once gave a campaign address?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Traveler_(Genshin_Impact)"&gt;... that the experiences of the Traveler from Genshin Impact were compared to the Gnostic text Hymn of the Pearl ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bronx_Grit_Chamber"&gt;... that a human corpse can shut down a sewage plant ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/F%C3%A9tiche"&gt;... that Fétiche obtained a change of legal gender marker thanks to the intervention of a president?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Condom_Hut"&gt;... that Condom Hut operated in a former photo development kiosk sporting hot pink paint?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No_Fate_(Burning_Man_installation)"&gt;... that No Fate was created with materials salvaged from Black Cloud eight days after it was destroyed?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eugene_Mori"&gt;... that a successful PR campaign convinced voters to rename their town Cherry Hill, New Jersey, to promote a business owned by Eugene Mori ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paulinus_of_York"&gt;625 – Paulinus was consecrated as the first bishop of York by Justus, the archbishop of Canterbury.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Scopes_trial"&gt;1925 – American high-school biology teacher John T. Scopes was found guilty of violating Tennessee 's Butler Act by teaching evolution in class.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1946_La_Paz_riots"&gt;1946 – After weeks of unrest, rioters lynched Bolivian president Gualberto Villarroel, desecrating and hanging his corpse in the streets of La Paz.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bloody_Friday_(1972)"&gt;1972 – The Troubles : The Provisional Irish Republican Army detonated twenty-two bombs throughout Belfast, Northern Ireland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2019_Yuen_Long_attack"&gt;2019 – People returning from anti–extradition bill protests in Hong Kong were attacked by suspected triad members in Yuen Long, leaving 45 people injured.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"&gt;China's open-weights AI strategy is winning&lt;/a&gt; — Argues that US AI firms' locked-down, proprietary approach is losing to China's strategy of releasing open-weight models, turning export-control disadvantages into a distribution and ecosystem advantage. (&lt;a href="https://news.ycombinator.com/item?id=48979269"&gt;discussion&lt;/a&gt;, 1116 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stratechery.com/2026/whos-afraid-of-chinese-models/"&gt;Who's afraid of Chinese models?&lt;/a&gt; — Stratechery argues open-weight Chinese models like Kimi K3 are reviving marginal-cost economics in AI, since inference (not R&amp;amp;D) is the real recurring cost that determines competitiveness. (&lt;a href="https://news.ycombinator.com/item?id=48977128"&gt;discussion&lt;/a&gt;, 659 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/"&gt;Hacker wipes Romania's land registry database&lt;/a&gt; — A hacker breached Romania's cadastre agency after a failed extortion attempt and wiped the country's entire land registry, halting real-estate transactions nationwide for a week. (&lt;a href="https://news.ycombinator.com/item?id=48978605"&gt;discussion&lt;/a&gt;, 648 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/"&gt;The EU is about to sell our most sensitive data to the US for visa-free travel&lt;/a&gt; — EDRi warns the EU is close to finalizing a border-security agreement giving US authorities broad access to Europeans' biometric data in exchange for keeping visa-free travel. (&lt;a href="https://news.ycombinator.com/item?id=48977711"&gt;discussion&lt;/a&gt;, 510 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country"&gt;Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, &amp;amp; Public&lt;/a&gt; — The ACLU documents Flock Safety repeatedly misleading city councils and police about its license-plate-reader capabilities, including denying then admitting it builds vehicle movement heat maps and shares data with federal agencies. (&lt;a href="https://news.ycombinator.com/item?id=48986731"&gt;discussion&lt;/a&gt;, 406 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wren.wtf/shower-thoughts/stop-using-opencode/"&gt;Annoying and alarming things about OpenCode&lt;/a&gt; — A critical deep-dive into the popular OpenCode AI coding agent, arguing it has both severe performance inefficiencies, like invalidating LLM prompt caches, and serious security flaws. (&lt;a href="https://news.ycombinator.com/item?id=48978112"&gt;discussion&lt;/a&gt;, 392 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/"&gt;Human mathematicians are being outcounterexampled&lt;/a&gt; — A mathematician recounts recent months in which AI systems, including ChatGPT and OpenAI's Sol, generated and then fully formalized in Lean a disproof of Erdős' Unit Distance conjecture, drawing on deep results in class field theory. (&lt;a href="https://news.ycombinator.com/item?id=48983382"&gt;discussion&lt;/a&gt;, 352 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Rk57ePmRsw4C5PLm2/against-the-ai-framing-multiverse-introducing-ai-stopwatch"&gt;Against the AI framing multiverse: Introducing AI StopWatch&lt;/a&gt; by tanagrabeast — Introduces AI StopWatch, a MIRI comms team project tracking how wildly inconsistent media "frames" of AI risk are, comparing it to reading different books that share only a title. (69 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology"&gt;Drone WMDs Don't Need Any New Technology&lt;/a&gt; by Felix Choussat — Argues that existing drone technology already provides nearly all the components needed for autonomous "slaughterbot"-style weapons of mass destruction, with integration rather than new technology being the main remaining barrier. (66 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/oZzRHiSZPcjrWHeoE/stop-doing-decision-theory-without-metaphysics"&gt;Stop doing decision theory without metaphysics&lt;/a&gt; by Elias Schmied — Argues that ongoing debates over Functional Decision Theory, such as the blackmail problem, are actually unresolved metaphysical disagreements that participants aren't addressing directly. (54 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-21.html"/>
+    <published>2026-07-21T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-20</id>
     <title>Daily Digest — Monday, July 20, 2026</title>
@@ -1227,55 +1278,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-21.html"/>
     <published>2026-06-21T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-20</id>
-    <title>Daily Digest — Saturday, June 20, 2026</title>
-    <updated>2026-06-20T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bajrakitiyabha"&gt;Princess Bajrakitiyabha of Thailand, a possible heir to the throne, dies at the age of 47 after a three-year comatose state.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/David_Hockney"&gt;English artist David Hockney dies at the age of 88.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pudgy_(comedian)"&gt;... that comedian Pudgy was often referred to as the "female Don Rickles "?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Observatorio_1873"&gt;... that Mexico's Observatorio 1873 began as a military lookout and observatory, and now includes a whale museum, an iguana sanctuary and a zip line?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chattar_Kunwar"&gt;... that a Hindu wife of the Muslim ruler of Awadh is often linked to a festival honoring Lord Hanuman on Tuesdays ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinclair-Desgagn%C3%A9_v._Canada_(Chief_Electoral_Officer)"&gt;... that the Supreme Court of Canada set aside an election in a federal electoral district in Quebec after one postal vote was not counted?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shirakami_Fubuki"&gt;... that Shirakami Fubuki introduced Hololive to global audiences with a drumming showdown?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Orleans_Parish_Criminal_Courts_Building"&gt;... that the Neoclassical and Art Deco sections of the Orleans Parish Criminal Courts Building were designed by its architect to represent the elegance and the severity of the law?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Anatomy_of_Evil"&gt;... that, in his book The Anatomy of Evil, forensic psychiatrist Michael Stone writes that he suffered from a nightmare after interviewing serial killer Tommy Lynn Sells in Texas?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lai_Ka-ying"&gt;... that Lai Ka-ying is the first Hongkonger in space, but not the first astronaut born in Hong Kong ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bow-wow_Battle"&gt;... that to win a fighting video game, a player must bark loudly and frequently?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Queen_Victoria"&gt;1837 – Queen Victoria acceded to the British throne, beginning a 63-year reign.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thomas_Stanton_Lambert"&gt;1921 – British Army officer Thomas Stanton Lambert was assassinated by the Irish Republican Army near Moydrum, Ireland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1959_Escuminac_disaster"&gt;1959 – The extratropical remnants of an Atlantic hurricane reached the Gulf of St. Lawrence in Canada, causing 22 fishing boats to capsize and killing 35 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bill_Stewart_(journalist)"&gt;1979 – Bill Stewart, an American journalist, was executed by Nicaraguan Guardia forces.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/International_Conference_on_the_Holocaust_and_Genocide"&gt;1982 – The International Conference on the Holocaust and Genocide, the first major conference in genocide studies, opened despite Turkish attempts to cancel it due to the inclusion of presentations on the Armenian genocide.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/"&gt;Hyundai buys Boston Dynamics&lt;/a&gt; — Hyundai acquires SoftBank's remaining 9.65% stake in Boston Dynamics for $325M, giving it full ownership of the humanoid robotics firm as it prepares to deploy the electric Atlas robot in its Georgia EV factory by 2028. (&lt;a href="https://news.ycombinator.com/item?id=48600312"&gt;discussion&lt;/a&gt;, 833 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"&gt;Norway imposes near ban on AI in elementary school&lt;/a&gt; — Norway has moved to sharply restrict AI use in elementary schools, signaling a growing regulatory appetite among governments to limit AI's role in early education. (&lt;a href="https://news.ycombinator.com/item?id=48600093"&gt;discussion&lt;/a&gt;, 675 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html"&gt;Google workspace threatening to block Firefox access&lt;/a&gt; — Google Workspace began displaying warnings to Firefox users urging them to switch to Chrome, with support claiming it affects only the admin console and is a "recommendation" — but offering no public documentation. (&lt;a href="https://news.ycombinator.com/item?id=48600345"&gt;discussion&lt;/a&gt;, 484 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://overreacted.io/there-are-no-instances-in-atproto/"&gt;There are no instances in ATProto&lt;/a&gt; — A clear explainer on why ATProto (the protocol underlying Bluesky) fundamentally differs from Mastodon's federated-instance model: in ATProto, hosting and aggregation are decoupled, so your identity isn't tied to any single server. (&lt;a href="https://news.ycombinator.com/item?id=48599515"&gt;discussion&lt;/a&gt;, 452 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://aiclambake.com/clamtakes/linear-a/"&gt;AI Engineer Claims to Have Cracked Linear A&lt;/a&gt; — Self-taught AI engineer Tom Di Mino claims to have deciphered the undecoded Bronze Age Minoan script Linear A, identifying it as an extinct Semitic language ancestral to biblical Hebrew; the claim is under review by linguists at Rutgers and Cambridge. (&lt;a href="https://news.ycombinator.com/item?id=48600107"&gt;discussion&lt;/a&gt;, 426 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.legacy.com/legacy/robert-bobby-prince-lll"&gt;Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died&lt;/a&gt; — Bobby Prince, the pioneering video game composer whose work defined the sound of 1990s id Software and 3D Realms titles, died June 16, 2026, at age 81; the original Doom soundtrack was selected for preservation in the Library of Congress earlier this year. (&lt;a href="https://news.ycombinator.com/item?id=48602352"&gt;discussion&lt;/a&gt;, 380 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://vocabowl-870366514258.us-west1.run.app/"&gt;How many of the 170k English words do you know?&lt;/a&gt; — An interactive vocabulary quiz that estimates how many of the roughly 170,000 English words you know. (&lt;a href="https://news.ycombinator.com/item?id=48598586"&gt;discussion&lt;/a&gt;, 378 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.eff.org/deeplinks/2026/06/court-records-should-be-free"&gt;Court Records Should Be Free&lt;/a&gt; — The EFF backs the Open Courts Act of 2026, which would abolish PACER's fees (currently over $150M/year) and replace its aging system with a modern, unified public platform for federal court records. (&lt;a href="https://news.ycombinator.com/item?id=48600946"&gt;discussion&lt;/a&gt;, 376 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nhb8AyEcQGjQetgi5/the-llm-shoggoth-meme-is-weirder-than-you-think"&gt;The LLM shoggoth meme is weirder than you think&lt;/a&gt; by HedonicEscalator — A literary and philosophical essay tracing the "shoggoth" metaphor for LLMs back through Lovecraft's &lt;em&gt;At the Mountains of Madness&lt;/em&gt;, arguing the parallel between AI systems and Lovecraft's mindlessly mimetic artificial lifeforms is stranger and richer than the meme typically conveys. (58 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-20.html"/>
-    <published>2026-06-20T07:00:00-04:00</published>
   </entry>
 </feed>
