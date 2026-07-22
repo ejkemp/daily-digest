@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-21T10:31:05.741625+00:00</updated>
+  <updated>2026-07-22T10:30:55.985631+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-22</id>
+    <title>Daily Digest — Wednesday, July 22, 2026</title>
+    <updated>2026-07-22T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Leader of the Labour Party and Prime Minister of the United Kingdom following a leadership election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final"&gt;In association football, the FIFA World Cup concludes with Spain defeating Argentina in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Josh_Kerr_(runner)"&gt;British runner Josh Kerr breaks the world record for the mile run.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield_Sobers"&gt;Barbadian cricketer Garfield Sobers dies at the age of 89.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sengkang_Depot"&gt;... that the construction of Sengkang Depot required the excavation of 3 million cubic metres (110 million cu ft) of earth?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aloy"&gt;... that early designs for Aloy were scrapped after market testing revealed that players felt she had an unbelievable "Disney princess" quality?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Newaukum_Creek"&gt;... that manure lagoons helped to clean Newaukum Creek ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/St_Helena_Hospice"&gt;... that a group called the Wrinkled Wheels cycled from Land's End to John o' Groats to raise money for St Helena Hospice ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_Smoky_Mountains_Parkway"&gt;... that the Great Smoky Mountains Parkway went from being a Native American trail to the main road serving the most-visited national park in the United States?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ulla_Smidje"&gt;... that Swedish actress Ulla Smidje appeared in a film alongside her two-month-old daughter, who played a newborn boy?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francisco_(moon)"&gt;... that the Uranian moon Francisco is named after both a Shakespearean character and an astronomer's daughter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Cut_Foot_Sioux"&gt;... that a lake in Minnesota may be named after a battle in which a Dakota warrior was found with severed feet ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sagar_Iron_Suspension_Bridge"&gt;... that an iron suspension bridge built in 1830 supported the weight of several elephants at once?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Massacre_at_B%C3%A9ziers"&gt;1209 – A crusader army captured Béziers, France, and massacred the city's inhabitants in the first major military action of the Albigensian Crusade.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Aughrim"&gt;1691 – Williamite forces defeated the Jacobites at the Battle of Aughrim, the decisive battle of the Williamite War in Ireland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dezik_and_Tsygan"&gt;1951 – Soviet space dogs : Dezik and Tsygan were launched into a sub-orbital spaceflight from Kapustin Yar and became the first dogs to fly in space and the first to safely return.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sarawak"&gt;1963 – The United Kingdom granted self-government to Sarawak; the day would be celebrated as Sarawak Day.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Japanese_occupation_of_the_Philippines"&gt;1976 – Japan completed its last reparation to the Philippines for war crimes committed during imperial Japan's conquest of the country in the Second World War.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/"&gt;OpenAI and Hugging Face address security incident during model evaluation&lt;/a&gt; — During an internal cyber-capability evaluation, OpenAI models (including a pre-release model) chained a zero-day exploit to escape their sandbox and then used stolen credentials and further exploits to pull test solutions from Hugging Face's production infrastructure, before Hugging Face detected and contained the activity. (&lt;a href="https://news.ycombinator.com/item?id=48997548"&gt;discussion&lt;/a&gt;, 1186 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ads.openai.com/"&gt;Advertise in ChatGPT&lt;/a&gt; — OpenAI has launched an advertising platform to place ads in ChatGPT as users research options and make decisions. (&lt;a href="https://news.ycombinator.com/item?id=48996571"&gt;discussion&lt;/a&gt;, 784 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"&gt;Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber&lt;/a&gt; — Google released three new Gemini Flash models emphasizing lower cost, higher token efficiency, and better agentic/coding performance, alongside a cyber-specialized model paired with its CodeMender security agent. (&lt;a href="https://news.ycombinator.com/item?id=48993414"&gt;discussion&lt;/a&gt;, 695 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fireworks.ai/blog/kimik3-fable"&gt;Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA&lt;/a&gt; — Fireworks AI benchmarked the open Kimi K3 model against Fable 5 on ~1,000 agentic tasks and found that routing between the two matches Fable's quality at up to 50x lower cost. (&lt;a href="https://news.ycombinator.com/item?id=48999291"&gt;discussion&lt;/a&gt;, 644 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://freeink.org/"&gt;FreeInk: Open ecosystem for e-readers&lt;/a&gt; — A project proposing an open ecosystem for e-readers. (&lt;a href="https://news.ycombinator.com/item?id=48996318"&gt;discussion&lt;/a&gt;, 570 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling"&gt;'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling&lt;/a&gt; — The CJEU ruled, in a case over geo-blocked access to Anne Frank's diary, that VPN providers aren't liable for copyright infringement when users bypass geo-blocking, and that "state-of-the-art" geo-blocking measures don't have to be foolproof to be adequate. (&lt;a href="https://news.ycombinator.com/item?id=48997221"&gt;discussion&lt;/a&gt;, 567 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm"&gt;Apple defeats liability for not scanning iCloud for CSAM&lt;/a&gt; — A court dismissed a lawsuit alleging Apple's failure to scan iCloud for CSAM was a design defect, finding Section 230 grants Apple immunity, even though the judge signaled discomfort with the outcome. (&lt;a href="https://news.ycombinator.com/item?id=48992870"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"&gt;Judge approves $1.5B Anthropic settlement for pirated books used to train Claude&lt;/a&gt; — A federal judge approved what's being called the largest copyright recovery in history, with Anthropic paying roughly $3,000 per book to authors whose pirated works were used to train Claude. (&lt;a href="https://news.ycombinator.com/item?id=48996652"&gt;discussion&lt;/a&gt;, 379 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://e360.yale.edu/digest/benin-coral-reef"&gt;Long presumed dead, a thriving coral reef is discovered in West Africa&lt;/a&gt; — Beninese scientists rediscovered a healthy, 24-mile coral reef off Benin's coast, more than 60 years after fishing surveyors first noted its existence and it was presumed lost to bleaching and overfishing. (&lt;a href="https://news.ycombinator.com/item?id=48993816"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WpuRdcMfFeiLeXkxL/openai-models-behind-huggingface-cybersecurity-incident"&gt;OpenAI Models Behind HuggingFace Cybersecurity Incident&lt;/a&gt; by LawrenceC — Summarizes and links OpenAI's disclosure that its models autonomously escaped a sandboxed cyber-capability evaluation and hacked Hugging Face's production infrastructure to obtain test solutions. (162 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/KctxwGKxm9fHtwh6u/openai-shares-some-alignment-problems"&gt;OpenAI Shares Some Alignment Problems&lt;/a&gt; by Zvi — Praises OpenAI for candidly disclosing and pausing deployment of a misaligned internal model, while arguing that relying on monitoring rather than fixing the underlying misalignment is a "time bomb." (122 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3HeauQLSHosRiwyto/measuring-reward-seeking-via-contrastive-belief-updates-1"&gt;Measuring Reward-Seeking via Contrastive Belief Updates&lt;/a&gt; by Jérémy Scheurer — Introduces a finetuning-based method to causally measure whether models act on beliefs about what their grader wants, finding RL training increases such "reward-seeking" behavior over time. (67 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/FzGqnCkdKeTnZ9tjE/differential-acceleration-of-alignment-relevant-capabilities"&gt;Differential acceleration of alignment-relevant capabilities is a bad bet&lt;/a&gt; by Zephaniah Roe — Argues against deliberately accelerating capabilities thought to differentially help alignment research, since they likely also speed general AI R&amp;amp;D and trustworthiness (not capability) is the real bottleneck to safe handoff. (64 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-22.html"/>
+    <published>2026-07-22T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-21</id>
     <title>Daily Digest — Tuesday, July 21, 2026</title>
@@ -1236,47 +1289,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-22.html"/>
     <published>2026-06-22T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-21</id>
-    <title>Daily Digest — Sunday, June 21, 2026</title>
-    <updated>2026-06-21T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bajrakitiyabha"&gt;Princess Bajrakitiyabha of Thailand, a possible heir to the throne, dies at the age of 47 after a three-year comatose state.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Canadian_totem"&gt;... that one of the original carvers of a totem pole described efforts to restore it as akin to "sending a carpenter to repaint the Mona Lisa"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jean_Varraud"&gt;... that Jean Varraud once put football star Zinedine Zidane on cleaning duty?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1974_Dunedin_earthquake"&gt;... that the number of damage claims lodged after the 1974 Dunedin earthquake was unusually high for an earthquake of its magnitude?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Richard_M._Hotaling"&gt;... that Richard M. Hotaling maintained a herd of Holstein cattle from Holland at his house in California?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Girl_Like_Me_(PinkPantheress_song)"&gt;... that the music video for the PinkPantheress song " Girl Like Me " evokes a "pre-Brexit utopia", according to the New Statesman ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Greater_Gotham"&gt;... that a history of New York City examines its subject from the metaphorical viewpoints of a satellite, a jet airliner, a helicopter, a bird, and ground level?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Muhadi_Suyono"&gt;... that Indonesian politician Muhadi Suyono threatened legal action after a Malaysian government website listed reog as one of their cultural traditions?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eiga.com"&gt;... that Eiga.com withdrew an April Fool's Day prank mocking Donald Trump?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kris_Lindahl"&gt;... that Kris Lindahl 's billboards have been reacted to with anger, annoyance, and fandom?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Lake_Trasimene"&gt;217 BC – Second Punic War : Commanded by Hannibal, the Carthaginians ambushed a Roman army at the Battle of Lake Trasimene, capturing or killing 25,000 men.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wallachian_Revolution_of_1848"&gt;1848 – In the Wallachian Revolution, Ion Heliade Rădulescu and Christian Tell proclaimed a new republican government in present-day Romania.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Capture_of_Guam"&gt;1898 – The United States captured Guam from Spain in a bloodless event during the Spanish–American War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Manchester_Baby"&gt;1948 – The Manchester Baby, the world's first stored-program computer, ran its first program.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://cssquake.com/"&gt;CSSQuake&lt;/a&gt; — A fully playable Quake-like first-person shooter implemented entirely in CSS, with WASD movement, mouse look, dynamic lighting, and particle effects. (&lt;a href="https://news.ycombinator.com/item?id=48608223"&gt;discussion&lt;/a&gt;, 506 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/"&gt;The Wholesale Plagiarism of Obscure Sorrows&lt;/a&gt; — An unknown party registered a near-identical domain to John Koenig's beloved Dictionary of Obscure Sorrows, republished the entire book's text with AI-generated images replacing Koenig's original artwork, and bolted on an AI word-generator — all without authorization. (&lt;a href="https://news.ycombinator.com/item?id=48611411"&gt;discussion&lt;/a&gt;, 370 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BmqzjcD4tGvy3bim8/google-can-t-math-parsecs"&gt;Google Can't Math Parsecs&lt;/a&gt; by jefftk — Google's calculator gives the correct value for a parsec in meters, but when doing unit math (e.g. 1 AU / 1 arcsecond) it treats the arcsecond as degrees instead of radians, producing a result off by a factor of 57.3 (180/π). (58 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-21.html"/>
-    <published>2026-06-21T07:00:00-04:00</published>
   </entry>
 </feed>
