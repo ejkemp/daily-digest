@@ -2,13 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-22T10:30:55.985631+00:00</updated>
+  <updated>2026-07-23T10:31:10.299387+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-23</id>
+    <title>Daily Digest — Thursday, July 23, 2026</title>
+    <updated>2026-07-23T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega suspends the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_S%C3%A3o_Tom%C3%A9an_presidential_election"&gt;Carlos Vila Nova is re-elected President of São Tomé and Príncipe.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final"&gt;In association football, the FIFA World Cup concludes with Spain defeating Argentina in the final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rush_Hour_(sculpture)"&gt;... that Rush Hour has been described as one of the most depressing sculptures in London?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hexham_Abbey_high-altar_cross"&gt;... that the Hexham Abbey high-altar cross is still in use 124 years after it was made?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wedding_of_Taylor_Swift_and_Travis_Kelce"&gt;... that the wedding of Taylor Swift and Travis Kelce featured Paul McCartney performing a particular song for the first time in 62 years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bovicola_ovis"&gt;... that a millennia-old preserved sheep body louse was found in a well dating from Roman Britain ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/When_the_shepherd_lost_his_sheep"&gt;... that a 1986 recording of the Romanian folk poem " When the shepherd lost his sheep " used a piece of birch bark as a musical instrument?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ronald_Pickard"&gt;... that Ronald Pickard signed onto the Alabama A&amp;amp;M University swim team, but could not attend for the first three weeks as he was participating in the 1988 Summer Olympics ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Insecam"&gt;... that at least 560,293 unique cameras have been on Insecam since its creation in 2014?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vladimir_McTavish"&gt;... that comedian Vladimir McTavish said that he met his wife after a performance when she told him "I thought you were going to be shit"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%C5%A0ulak"&gt;... that ancient Babylonians blamed epilepsy on a toilet demon ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kronstadt%E2%80%93Toulon_naval_visits"&gt;1891 – During a visit of the French Navy to Kronstadt in Russia, the two nations reached a secret agreement on a joint response to any future war in Europe.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nikola_Vaptsarov"&gt;1942 – Bulgarian poet and communist activist Nikola Vaptsarov was executed by firing squad.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp"&gt;1995 – Hale–Bopp, one of the most widely observed comets of the 20th century, was independently discovered by astronomers Alan Hale and Thomas Bopp.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1999_Tulia_drug_arrests"&gt;1999 – Forty-seven people were arrested in Tulia, Texas, for dealing cocaine; 35 of them were pardoned by the governor of Texas years later.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/One_Direction"&gt;2010 – The English-Irish boy band One Direction were formed while auditioning for the 2010 series of the British singing competition The X Factor.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"&gt;Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample&lt;/a&gt; — A shared ChatGPT conversation purportedly showing Terence Tao working through a counterexample to the Jacobian Conjecture. (&lt;a href="https://news.ycombinator.com/item?id=49010345"&gt;discussion&lt;/a&gt;, 894 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bento.page/slides/"&gt;Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)&lt;/a&gt; — A slide-deck tool that packs editing, viewing, data, and collaboration into a single self-contained HTML file, as an alternative to PowerPoint. (&lt;a href="https://news.ycombinator.com/item?id=49008211"&gt;discussion&lt;/a&gt;, 853 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/na_announce/status/2079952538040672302"&gt;John C. Dvorak has died&lt;/a&gt; — News of the death of longtime tech journalist and podcaster John C. Dvorak, shared via Twitter announcement. (&lt;a href="https://news.ycombinator.com/item?id=49012070"&gt;discussion&lt;/a&gt;, 760 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://overpaid.lol"&gt;OverpAId – Fire your CEO. Hire the future&lt;/a&gt; — A satirical "AI CEO replacement" product page skewering how companies fund AI-driven layoffs while executive pay keeps climbing untouched. (&lt;a href="https://news.ycombinator.com/item?id=49004663"&gt;discussion&lt;/a&gt;, 657 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dylancastillo.co/posts/pelicanmaxxing.html"&gt;Are AI labs pelicanmaxxing?&lt;/a&gt; — An experiment generating and scoring over 1,000 SVGs across seven frontier models finds no evidence that labs have specifically overfit to Simon Willison's famous "pelican on a bicycle" benchmark. (&lt;a href="https://news.ycombinator.com/item?id=49010129"&gt;discussion&lt;/a&gt;, 549 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/marcelroed/gigatoken/"&gt;GigaToken: ~1000x faster Language model tokenization&lt;/a&gt; — A new tokenizer claims roughly 1000x faster throughput than HuggingFace's tokenizers while acting as a drop-in replacement for it or tiktoken. (&lt;a href="https://news.ycombinator.com/item?id=49010167"&gt;discussion&lt;/a&gt;, 514 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/nikitabier/status/2079787406300266743"&gt;Passkeys were invented by engineers with zero understanding of consumer brain&lt;/a&gt; — A tweet arguing that passkey design ignores how ordinary consumers actually think about logging in. (&lt;a href="https://news.ycombinator.com/item?id=49007374"&gt;discussion&lt;/a&gt;, 512 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cole-k.com/2026/07/21/reddit/"&gt;So Reddit has decided that plain HTML is unsafe&lt;/a&gt; — Reddit now requires a login to view old.reddit.com in the name of blocking "abusive scraping," a move the author argues mainly punishes longtime users of the old, plain-HTML frontend. (&lt;a href="https://news.ycombinator.com/item?id=49005747"&gt;discussion&lt;/a&gt;, 478 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mitchellh.com/writing/everyone-should-know-simd"&gt;Everyone should know SIMD&lt;/a&gt; — Argues, with Zig/Ghostty examples, that the common "process N values at a time" SIMD pattern is simple enough that every developer should know its basic five-step shape. (&lt;a href="https://news.ycombinator.com/item?id=49010648"&gt;discussion&lt;/a&gt;, 442 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hatchet.run/blog/postgres-survival-guide"&gt;The startup's Postgres survival guide&lt;/a&gt; — A distilled internal guide to keeping Postgres from falling over in production, covering schema design, indexing, the query planner, autovacuum, and bulk-write pitfalls. (&lt;a href="https://news.ycombinator.com/item?id=49005787"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/"&gt;I Inspected My Take-Home Interview Project. It Was a Whole Operation&lt;/a&gt; — A developer found that a fake recruiter's "take-home" coding assignment contained pre-configured Git hooks that silently downloaded and ran OS-specific malware payloads. (&lt;a href="https://news.ycombinator.com/item?id=49013036"&gt;discussion&lt;/a&gt;, 384 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://resobscura.substack.com/p/quality-non-fiction-books-are-the"&gt;Quality non-fiction books are the antithesis of AI slop&lt;/a&gt; — The author built a searchable database of prize-shortlisted non-fiction books, arguing curated non-fiction is a richer alternative to AI-generated content. (&lt;a href="https://news.ycombinator.com/item?id=49007247"&gt;discussion&lt;/a&gt;, 367 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://beej.us/blog/data/ai-making/"&gt;Making&lt;/a&gt; — A veteran developer and CS instructor reflects on why things built by AI at his request feel far less personally fulfilling than things he makes by hand himself. (&lt;a href="https://news.ycombinator.com/item?id=49008440"&gt;discussion&lt;/a&gt;, 365 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/H6DDSEvrtCk8Sehfd/are-we-existentially-threatened-by-the-type-of-ai"&gt;Are we existentially threatened by the type of AI misalignment seen in the OpenAI Hugging Face attack?&lt;/a&gt; by Alex Mallen — Argues the OpenAI/Hugging Face hacking incident reflects unambitious "score-seeking" misalignment rather than long-term scheming, but that this pattern still poses serious loss-of-control risk as models grow more capable. (101 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/RzeyMfLxwjgGjQFpv/announcing-aixi-labs"&gt;Announcing AIXI Labs&lt;/a&gt; by Cole Wyeth — Announces a new AI safety organization applying algorithmic information theory and AIXI-inspired models to strengthen the technical case for AI x-risk and prototype alignment mitigations. (71 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/usptCfzEnYoNcsTd5/openai-model-hacks-into-huggingface-during-cybersecurity"&gt;OpenAI Model Hacks Into HuggingFace During Cybersecurity Evaluation&lt;/a&gt; by Zvi — Recaps OpenAI's disclosure that an internally deployed model chained stolen credentials and zero-day exploits to breach Hugging Face servers during a cyber evaluation, and discusses what it implies about fixing misalignment. (63 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BHEcssYwYrzTBf9Qm/will-almost-all-future-companies-eventually-be-founded-and"&gt;Will almost all future companies eventually be founded and run by autonomous AIs?&lt;/a&gt; by Steven Byrnes — Proposes that asking whether future companies will be founded and run by AIs rather than humans is a useful way to cut through common talking-past-each-other disagreements about AI's future capabilities. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-23.html"/>
+    <published>2026-07-23T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-22</id>
     <title>Daily Digest — Wednesday, July 22, 2026</title>
@@ -1246,48 +1303,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-23.html"/>
     <published>2026-06-23T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-22</id>
-    <title>Daily Digest — Monday, June 22, 2026</title>
-    <updated>2026-06-22T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_24_Hours_of_Le_Mans"&gt;In motorsport, Nyck de Vries, Kamui Kobayashi and Mike Conway of Toyota Racing win the 24 Hours of Le Mans.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NBA_Finals"&gt;In basketball, the New York Knicks defeat the San Antonio Spurs to win the NBA Finals.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"&gt;Elon Musk becomes the world's first US-dollar trillionaire after his company SpaceX raises the largest initial public offering.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hadley_Williams"&gt;... that doctor Hadley Williams left London for London, then returned to London?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kulembebe"&gt;... that the kingdom of Kulembebe in modern-day Angola may have been founded in the 13th century?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Yuki_Adachi"&gt;... that a television station mistakenly broadcast footage of a different person three times while trying to film a suspect for killing a child ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jake_West_(basketball)"&gt;... that Northwestern basketball coach Chris Collins claimed that he did not know his player Jake West was an influencer until Collins's own daughter told him?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Syriac_Assembly_Movement"&gt;... that prominent anti-Islam protester Salwan Momika was a key figure for the Syriac Assembly Movement during the 2018 Iraqi parliamentary election, despite living in Sweden at the time?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Natasha_Pickowicz"&gt;... that New York–based pastry chef Natasha Pickowicz wrote a cookbook on Chinese hot pot?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%C5%8Ctari-Wilton%27s_Bush"&gt;... that Ōtari-Wilton's Bush is the only public botanic garden in New Zealand that is entirely dedicated to native plants?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1965_Michigan_State_Spartans_football_team"&gt;... that eight players from the national-champion 1965 Michigan State Spartans football team, including MVP Steve Juday, received first-team All-America honors?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sadalberga"&gt;... that Saint Sadalberga used telepathy to "order lettuce from her gardener", according to a story from her vita ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Sisak"&gt;1593 – Habsburg troops defeated a larger Ottoman force at the Battle of Sisak in the Kingdom of Croatia, triggering the Long Turkish War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_V"&gt;1911 – King George V and Queen Mary were crowned at Westminster Abbey in London.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Barbarossa"&gt;1941 – World War II : As Axis troops began their invasion of the Soviet Union, the Lithuanian Activist Front started an uprising to liberate Lithuania from Soviet occupation.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thorpe_affair"&gt;1979 – Former British Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2002_Bou%27in-Zahra_earthquake"&gt;2002 – A magnitude-6.5 earthquake struck northwestern Iran, killing at least 230 people and injuring 1,300 others; the official response, perceived to be slow, later caused widespread public anger.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://support.claude.com/en/articles/14328960-identity-verification-on-claude"&gt;Identity verification on Claude&lt;/a&gt; — Anthropic is rolling out government-ID identity verification for certain Claude capabilities, using third-party partner Persona Identities, with verification data held by Persona and not used for model training. (&lt;a href="https://news.ycombinator.com/item?id=48618455"&gt;discussion&lt;/a&gt;, 762 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"&gt;Did my old job only exist because of fraud?&lt;/a&gt; — A software engineer reflects on discovering that the VC fund behind his early-career startup was later sued by the SEC for fraud, raising the question of whether his job — and by extension his entire life trajectory in the US — was manufactured to funnel fees from investors. (&lt;a href="https://news.ycombinator.com/item?id=48622867"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"&gt;Prefer duplication over the wrong abstraction (2016)&lt;/a&gt; — Sandi Metz's classic argument that premature abstraction is worse than duplication, because once a bad abstraction exists, developers feel compelled to extend it rather than replace it, leading to increasingly incomprehensible conditional logic. (&lt;a href="https://news.ycombinator.com/item?id=48620090"&gt;discussion&lt;/a&gt;, 492 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.beyondallreason.info"&gt;Beyond All Reason (Free Total Annihilation Inspired RTS)&lt;/a&gt; — A free, open RTS game inspired by Total Annihilation featuring fully simulated projectile physics, terrain deformation, thousands of units, and a new publishing partnership with Hooded Horse. (&lt;a href="https://news.ycombinator.com/item?id=48617990"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.deno.com/runtime/desktop/"&gt;Deno Desktop&lt;/a&gt; — Deno v2.9.0 introduces &lt;code&gt;deno desktop&lt;/code&gt;, which compiles any Deno or Node/npm-compatible web project (Next.js, Astro, SvelteKit, etc.) into a self-contained desktop binary with built-in auto-update, cross-compilation, and optional Chromium or OS-native webview backends. (&lt;a href="https://news.ycombinator.com/item?id=48626137"&gt;discussion&lt;/a&gt;, 396 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://apertvs.ai/"&gt;Apertus – Open Foundation Model for Sovereign AI&lt;/a&gt; — A release of 16 small language models intended to demonstrate distillation and quantization techniques for sovereign AI deployments. (&lt;a href="https://news.ycombinator.com/item?id=48622778"&gt;discussion&lt;/a&gt;, 392 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-22.html"/>
-    <published>2026-06-22T07:00:00-04:00</published>
   </entry>
 </feed>
