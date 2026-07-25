@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-24T10:30:43.916560+00:00</updated>
+  <updated>2026-07-25T10:30:45.752639+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-25</id>
+    <title>Daily Digest — Saturday, July 25, 2026</title>
+    <updated>2026-07-25T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu_Deng"&gt;In mathematics, the Fields Medal is awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega announces the suspension of the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_S%C3%A3o_Tom%C3%A9an_presidential_election"&gt;Carlos Vila Nova is re-elected President of São Tomé and Príncipe.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rats_(advertisement)"&gt;... that a campaign advertisement for the 2000 United States presidential election was accused of using subliminal messaging to associate a candidate with the word "rats"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/West_73rd%E2%80%9374th_Street_Historic_District"&gt;... that a group of houses on New York City's 74th Street was not initially sold because it was envisioned for a "very desirable class of tenants"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mary_Mary_Mary"&gt;... that the retro style of Mary Mary Mary is unintentional?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fenny_Nuli"&gt;... that Fenny Nuli is the first Iban woman to serve as a Malaysian ambassador?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Megistaspis"&gt;... that fossil traders frequently outline the antennae of the trilobite Megistaspis with "cat ears"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robert_Henry_Clarence"&gt;... that Robert Henry Clarence, despite having significant debts, rejected a £4,000 payment because he refused to recognise Nicaragua's control over the Mosquito Coast ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Codeine_Crazy"&gt;... that Future 's song " Codeine Crazy " plays on a radio station in Grand Theft Auto V ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dal_puri"&gt;... that dal puri, a national dish in multiple countries, was introduced by Indian indentured labourers ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boris_Alexander_Krukoff"&gt;... that Boris Alexander Krukoff fought in the Russian Civil War, went on expeditions to the Amazon, spied on the Ford Motor Company, smuggled Cinchona seeds, and owned plantations?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexios_Strategopoulos"&gt;1261 – Struggle for Constantinople : Alexios Strategopoulos led Nicaean forces to recapture Constantinople, leading to the reestablishment of the Byzantine Empire and the end of the Latin Empire.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Knodsenburg"&gt;1591 – Eighty Years' War : Dutch and English forces relieved the siege of Knodsenburg in the Spanish Netherlands, having defeated the Duke of Parma 's army in the field.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Yongdong"&gt;1950 – Korean War : After American troops withdrew, North Korean forces captured the village of Yongdong in South Korea.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Phoolan_Devi"&gt;2001 – Phoolan Devi, a serving Indian member of Parliament, was shot outside her house in New Delhi, India.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Duffield_Memorial"&gt;2022 – The Duffield Memorial in Great Baddow, an "unusual example of Art Nouveau design in metal work", was designated a listed building by Historic England.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-opus-5"&gt;Claude Opus 5&lt;/a&gt; — Anthropic launched Opus 5, claiming state-of-the-art coding and agentic performance that approaches its flagship Fable 5 at roughly half the cost. (&lt;a href="https://news.ycombinator.com/item?id=49038433"&gt;discussion&lt;/a&gt;, 1568 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"&gt;Nvidia, Microsoft, Meta warn against overregulating open-weight models&lt;/a&gt; — 25 tech companies (notably not OpenAI or Anthropic) sent a letter urging policymakers not to restrict open-weight AI as Chinese models like Kimi K3 gain ground. (&lt;a href="https://news.ycombinator.com/item?id=49035303"&gt;discussion&lt;/a&gt;, 614 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hhh.hn/hanwha-github-token/"&gt;My security camera shipped a GitHub admin token in its login page&lt;/a&gt; — A researcher reverse-engineered Hanwha security camera firmware and found a leaked GitHub token with admin access to hundreds of repos, along with what appear to be DoD-linked infrastructure addresses baked into the build. (&lt;a href="https://news.ycombinator.com/item?id=49034292"&gt;discussion&lt;/a&gt;, 596 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker"&gt;Be skeptical of OpenAI's rogue hacker agent story&lt;/a&gt; — The piece argues OpenAI's story about its model "rogue" hacking HuggingFace during a cybersecurity test fits a pattern of dramatizing danger to drum up investor hype ahead of its IPO. (&lt;a href="https://news.ycombinator.com/item?id=49038060"&gt;discussion&lt;/a&gt;, 491 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece"&gt;Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey&lt;/a&gt; — India's cybercrime authority ordered GitHub to take down Jack Dorsey's Bluetooth mesh chat app Bitchat, citing its use by protesters to evade internet restrictions and law-enforcement surveillance. (&lt;a href="https://news.ycombinator.com/item?id=49036433"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing"&gt;Em dashes are amazing&lt;/a&gt; — A profanity-laced defense of the em dash as a punctuation mark, dismissing the idea that using one makes writing look AI-generated. (&lt;a href="https://news.ycombinator.com/item?id=49034747"&gt;discussion&lt;/a&gt;, 358 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"&gt;The Long (Self-)Correction&lt;/a&gt; by Wei Dai — Proposes "Long Self-Correction" as a better framing than AI Pause or Long Reflection, arguing humanity has deep, interlocking flaws (bad moral frameworks, poor calibration, susceptibility to manipulation) that need long-term fixing before we build extremely powerful AI. (93 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/wYpjXRLqbLbnmjbJP/llms-are-still-mostly-powered-by-imitative-learning-not-rl"&gt;LLMs are (still) mostly powered by imitative learning, not RL&lt;/a&gt; by Steven Byrnes — Argues that despite RLVR's popularity in training, most LLM capabilities still trace back to imitative learning (pretraining/SFT) rather than reinforcement learning, citing RL's low information efficiency and the continued legibility of chain-of-thought reasoning. (87 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-25.html"/>
+    <published>2026-07-25T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-24</id>
     <title>Daily Digest — Friday, July 24, 2026</title>
@@ -1253,56 +1301,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-25.html"/>
     <published>2026-06-25T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-24</id>
-    <title>Daily Digest — Wednesday, June 24, 2026</title>
-    <updated>2026-06-24T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_24_Hours_of_Le_Mans"&gt;In motorsport, Nyck de Vries, Kamui Kobayashi and Mike Conway of Toyota Racing win the 24 Hours of Le Mans.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final"&gt;In ice hockey, the Carolina Hurricanes defeat the Vegas Golden Knights to win the Stanley Cup.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Europejara"&gt;... that Europejara is the oldest known toothless pterosaur?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joyce_Castle"&gt;... that opera singer Joyce Castle specialized in "portraying nuts, mamas, lesbians, nymphomaniacs, witches, and men"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Khirbet_el-Maqatir"&gt;... that residents of Khirbet el-Maqatir during the Jewish–Roman wars secretly cut a passage between their hiding cave and a water cistern so they could draw water unseen while hiding from the Romans?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Benjamin_Naylor"&gt;... that merchant Benjamin Naylor built a store that contributed to the small New Zealand town of Clyde being described as having "movie-set good looks"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vieux-Comptoir"&gt;... that fur-trading ships wintered in an old factory ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eduardo_Clark"&gt;... that Eduardo Clark discovered that several teachers registered on Mexico's national education payroll were collecting more than MXN$ 500,000 per month, with some listed at least ten times?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2005_Metra_Rock_Island_derailment"&gt;... that a derailment in 2005 was caused by a train attempting to travel a 10 mph (16 km/h) crossing at 69 mph (111 km/h)?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Volition_(company)"&gt;... that the video game developer Volition was named after a lexical definition?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clop_(erotic_fan_art)"&gt;... that My Little Pony porn has been studied by scholars?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Glycerius"&gt;474 – Western Roman emperor Glycerius, who was not recognized by his Eastern counterpart Leo I, was forced to abdicate.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1559)"&gt;1559 – The Book of Common Prayer, a major component of the Elizabethan religious settlement, was introduced as the liturgy of the Church of England through the Act of Uniformity 1558.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siamese_revolution_of_1932"&gt;1932 – A group of military officers and civilians engineered a bloodless coup in Siam, ending the absolute rule of the Chakri dynasty.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jiang_Zemin"&gt;1989 – Following the Tiananmen Square massacre, the 13th Central Committee of the Chinese Communist Party appointed Jiang Zemin as general secretary in place of Zhao Ziyang.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Surfside_condominium_collapse"&gt;2021 – A portion of a 12-story condominium building collapsed in Surfside, Florida, killing 98 people and injuring 11 others.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://pluralistic.net/2026/06/23/destroy-the-village/"&gt;What we call "age verification" is actually mass surveillance&lt;/a&gt; — Cory Doctorow argues that internet age-verification mandates are a backdoor to universal tracking, benefiting the very surveillance-ad industry they claim to target, while setting the stage for VPN bans. (&lt;a href="https://news.ycombinator.com/item?id=48645173"&gt;discussion&lt;/a&gt;, 840 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/future-file-format/f3"&gt;F3&lt;/a&gt; — A research prototype for a next-generation columnar data file format that embeds WebAssembly decoders inside each file to achieve extensibility and interoperability beyond what Parquet and ORC can offer. (&lt;a href="https://news.ycombinator.com/item?id=48647799"&gt;discussion&lt;/a&gt;, 632 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://swipe.futo.tech/"&gt;FUTO Swipe – A new swipe typing model&lt;/a&gt; — FUTO trained a swipe-keyboard model on over one million crowd-sourced QWERTY swipes collected via a volunteer web tool, releasing the dataset under MIT license. (&lt;a href="https://news.ycombinator.com/item?id=48648619"&gt;discussion&lt;/a&gt;, 550 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/JPoehnelt/status/2069482265953087602"&gt;Fired by Google for creating the Google workspace CLI&lt;/a&gt; — A Google employee reports being fired after building an unofficial CLI for Google Workspace. (&lt;a href="https://news.ycombinator.com/item?id=48649011"&gt;discussion&lt;/a&gt;, 549 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.jerrysmap.com/the-map"&gt;Jerry's Map&lt;/a&gt; — Since 1963, Jerry Gretzinger has been continuously drawing and revising a 4,000-panel imaginary city map governed by a custom deck of cards that dictates what to paint next, now a sprawling rule-driven art project. (&lt;a href="https://news.ycombinator.com/item?id=48649435"&gt;discussion&lt;/a&gt;, 477 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/baidu/Unlimited-OCR"&gt;Unlimited OCR: One-shot long-horizon parsing&lt;/a&gt; — Baidu releases an open-source document-parsing model that handles single images and multi-page PDFs in one shot, with an accompanying arXiv paper and ModelScope deployment. (&lt;a href="https://news.ycombinator.com/item?id=48643426"&gt;discussion&lt;/a&gt;, 470 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mistral.ai/news/ocr-4/"&gt;Mistral OCR 4&lt;/a&gt; — Mistral's latest OCR model adds bounding boxes, block-type classification, and inline confidence scores alongside extracted text, covers 170 languages, and is compact enough for single-container self-hosted deployment. (&lt;a href="https://news.ycombinator.com/item?id=48645152"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tikz.dev/editor/"&gt;Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX&lt;/a&gt; — A visual, what-you-see-is-what-you-get editor for creating TikZ figures directly in the browser for use in LaTeX documents. (&lt;a href="https://news.ycombinator.com/item?id=48645437"&gt;discussion&lt;/a&gt;, 396 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"&gt;In memory of the man who put red and green squiggles under words&lt;/a&gt; — Raymond Chen's tribute to Tony Krueger, the Word engineer who invented background spell-check with real-time red squiggles — a feature now ubiquitous across nearly every text editor. (&lt;a href="https://news.ycombinator.com/item?id=48648959"&gt;discussion&lt;/a&gt;, 395 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"&gt;The Coming Loop&lt;/a&gt; — Armin Ronacher reflects on the rise of "harness-level" loops that wrap AI coding agents, arguing that unattended agentic runs amplify models' existing tendencies toward defensive, overly complex code rather than improving them. (&lt;a href="https://news.ycombinator.com/item?id=48643180"&gt;discussion&lt;/a&gt;, 391 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/"&gt;Extreme Heat conference cancelled due to extreme heat warning&lt;/a&gt; — An LSE Grantham Institute event on improving global extreme-heat governance was cancelled because the UK Met Office issued a red extreme heat warning on the day of the conference. (&lt;a href="https://news.ycombinator.com/item?id=48653060"&gt;discussion&lt;/a&gt;, 357 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sF5gAxnmifQe2TBNt/the-worthlessness-of-vitamin-d-is-mildly-exaggerated"&gt;The worthlessness of vitamin D is mildly exaggerated&lt;/a&gt; by dynomight — Argues that while RCTs debunked the magical correlations, the skeptical consensus has overcorrected, and people with low-ish vitamin D levels have good reason to supplement based on biology and the balance of trial evidence. (79 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-24.html"/>
-    <published>2026-06-24T07:00:00-04:00</published>
   </entry>
 </feed>
