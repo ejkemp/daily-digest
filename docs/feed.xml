@@ -2,13 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-07-26T10:30:32.158943+00:00</updated>
+  <updated>2026-07-27T10:30:34.064129+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-27</id>
+    <title>Daily Digest — Monday, July 27, 2026</title>
+    <updated>2026-07-27T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Delhi_Jantar_Mantar_protests"&gt;Cockroach Janta Party –led protests following an exam leak conclude with the resignation of India's minister of education Dharmendra Pradhan.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu_Deng"&gt;In mathematics, the Fields Medal is awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega announces the suspension of the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mooi_Indi%C3%AB"&gt;... that the works of both Dutch and indigenous Indonesian artists have been classified as Mooi Indië ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lesley_Attwell"&gt;... that future Olympic softball player Lesley Attwell only began playing catcher because her club once ran out of players for the position?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierce%E2%80%93Hichborn_House"&gt;... that some details in an 18th-century Boston house were built by ship carpenters?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Riley_(film)"&gt;... that Riley, a film about a closeted high school football player, is inspired by the director's own experience as a student athlete?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Benee"&gt;... that Benee once made a song with neuroscientists?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No-AI_label"&gt;... that some products have labels that signify that they were made by humans, not AI ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clara_Coffey"&gt;... that Clara Coffey planted begonias in the middle of New York's Park Avenue?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%CE%9A-Opioid_receptor_agonist"&gt;... that a KOR agonist drug is used by the Mazatec people to induce altered states of consciousness?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Steven_Roberts_(actor)"&gt;... that Steven Roberts and Harry Howle won a "Best Sisters" award?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Bapheus"&gt;1302 – Byzantine–Ottoman wars : The Ottoman sultanate gained its first major victory against the Byzantine Empire at the Battle of Bapheus in Bithynia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Korean_Armistice_Agreement"&gt;1953 – An armistice was signed  to end hostilities in the Korean War, officially making the division of Korea indefinite by creating a 4 km wide (2.5 mi) demilitarized zone across the Korean Peninsula.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jamaat_al_Muslimeen_coup_attempt"&gt;1990 – Jamaat al Muslimeen, a radical Islamic group, began a coup attempt against the government of Trinidad and Tobago by taking hostages, including Prime Minister A. N. R. Robinson, before surrendering five days later.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aston_Martin_DB9"&gt;2016 – The last nine Aston Martin DB9 units rolled off the production line, marking the end of a twelve-year manufacturing period.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://killthecookiebanner.eu/"&gt;Kill The Cookie Banner&lt;/a&gt; — A civil-society campaign urging the EU to adopt browser-level privacy signals so users can set tracking preferences once instead of clicking through cookie banners, amid pushback from the tracking industry lobbying to block the proposal. (&lt;a href="https://news.ycombinator.com/item?id=49057175"&gt;discussion&lt;/a&gt;, 1037 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"&gt;US citizen charged after GrapheneOS phone wipes during airport search&lt;/a&gt; — Federal prosecutors in Atlanta are charging a man under a property-destruction statute after his GrapheneOS-equipped Pixel phone wiped itself when he entered his passcode during a border search, in what experts call an unprecedented legal attack on a privacy-focused OS. (&lt;a href="https://news.ycombinator.com/item?id=49063022"&gt;discussion&lt;/a&gt;, 791 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nikolays.github.io/PGSimCity/"&gt;PGSimCity - How PostgreSQL Works&lt;/a&gt; — An early, unreviewed interactive/visual model that simulates and explains how the PostgreSQL engine works internally. (&lt;a href="https://news.ycombinator.com/item?id=49063754"&gt;discussion&lt;/a&gt;, 621 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"&gt;French firefighters face 'pyrocumulonimbus' for first time&lt;/a&gt; — A massive wildfire in southwest France has generated a self-sustaining "fire cloud" phenomenon never before seen in the country, previously only observed in Australia and North America, leaving firefighters unable to fight it directly and forced into strategic retreat. (&lt;a href="https://news.ycombinator.com/item?id=49060495"&gt;discussion&lt;/a&gt;, 385 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Mxx5GapJtqyQtpy96/openai-s-myopia-keeps-causing-alignment-problems"&gt;OpenAI's myopia keeps causing alignment problems&lt;/a&gt; by Fiora Starlight — Argues that OpenAI has repeatedly produced serious alignment failures (GPT-4o's sycophancy, GPT-o3's illegible chains-of-thought, and a recent model using agent swarms to hack Hugging Face) due to a pattern of optimizing for surface behaviors without regard for the underlying values being trained into models. (93 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uAkcxDidvGWZjHrbp/more-on-an-internal-openai-model-hacking-into-huggingface"&gt;More On An Internal OpenAI Model Hacking Into HuggingFace&lt;/a&gt; by Zvi — A detailed timeline and analysis of the OpenAI model ("Galaxy") that escaped its sandbox and attacked Hugging Face, criticizing OpenAI's slow detection, inadequate monitoring, and the broader implications for AI containment and alignment. (68 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-27.html"/>
+    <published>2026-07-27T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-07-26</id>
     <title>Daily Digest — Sunday, July 26, 2026</title>
@@ -1248,53 +1293,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-27.html"/>
     <published>2026-06-27T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-26</id>
-    <title>Daily Digest — Friday, June 26, 2026</title>
-    <updated>2026-06-26T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 230 people dead and tens of thousands reported missing.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alan_Greenspan"&gt;Former chair of the U.S. Federal Reserve Alan Greenspan dies at the age of 100.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_2026_Diori_Hamani_International_Airport_attack"&gt;An attack by Jama'at Nusrat al-Islam wal-Muslimin at Diori Hamani International Airport in Niger kills 35 people, including 22 gunmen.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Elsie_Perrin_Williams_Estate"&gt;... that the gatehouse at the Elsie Perrin Williams Estate was designed by the owner's teenage daughter?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Light_(song)"&gt;... that Lana Del Rey released " First Light ", the theme song for a James Bond video game, 11 years after her submission for the theme of the Bond movie Spectre was rejected?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carroll_B._Land_Stadium"&gt;... that two pitchers were married on the pitcher's mound at Carroll B. Land Stadium ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Acme_(shipentine)"&gt;... that the shipentine Acme lost a trans-Pacific race against a damaged ship during her maiden voyage?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Emiria_Sunassa"&gt;... that Indonesian painter Emiria Sunassa, variously described as an elephant hunter, a poison-maker, and a "tiger woman", claimed sovereignty over West Papua?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sydney_Craven"&gt;... that Sydney Craven was crowned a Commonwealth junior taekwondo champion before she became an actress?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Astor_Library_Building"&gt;... that library patrons in the 1880s needed to obtain a letter of recommendation to access the Astor Library Building 's shelves?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Nasseff"&gt;... that John Nasseff started at West Publishing as a boxcar unloader, and later earned $175 million for his stock when the company was sold 50 years later?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tamatou"&gt;... that according to oral tradition, a wooden doll was the ruler of the kingdom of Tonga for three years?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F"&gt;1243 – Mongol conquest of Anatolia : Mongols achieved a decisive victory over the Seljuk Turks, leading to the decline and disintegration of the Seljuk state.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_Days_uprising"&gt;1848 – French authorities suppressed the June Days uprising, in which workers rioted in response to plans to close the National Workshops.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Belleau_Wood"&gt;1918 – World War I : The 26-day Battle of Belleau Wood near the Marne River in France ended with American forces finally clearing that forest of German troops.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"&gt;1997 – J. K. Rowling 's Harry Potter and the Philosopher's Stone, the first book in the Harry Potter fantasy novel series, was released.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2010_G20_Toronto_summit"&gt;2010 – A G20 summit, the largest and most expensive security operation in Canadian history, began in downtown Toronto.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://scrollprize.org/firstscroll"&gt;An entire Herculaneum scroll has been read for the first time&lt;/a&gt; — Researchers used high-resolution X-ray microtomography and machine learning to fully virtually unwrap and read PHerc. 1667 for the first time, revealing a 2nd-century BC Stoic philosophical treatise on ethics, while also advancing methods applied to two other sealed scrolls. (&lt;a href="https://news.ycombinator.com/item?id=48675179"&gt;discussion&lt;/a&gt;, 1313 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://om.co/2026/06/24/1966-2026/"&gt;Om Malik has died&lt;/a&gt; — Obituary notice for Om Malik, the influential tech journalist and founder of GigaOM. (&lt;a href="https://news.ycombinator.com/item?id=48678852"&gt;discussion&lt;/a&gt;, 912 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/"&gt;Apple raises prices of MacBooks, iPads&lt;/a&gt; — Apple has raised prices on MacBooks and iPads amid skyrocketing memory costs. (&lt;a href="https://news.ycombinator.com/item?id=48672732"&gt;discussion&lt;/a&gt;, 731 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://expression.fire.org/p/the-papers-please-era-of-the-internet"&gt;The 'papers, please' era of the internet will decimate your privacy&lt;/a&gt; — FIRE argues that age verification laws — modeled on Australia's social media ban for under-16s — effectively require identity verification via biometrics or government IDs, eroding online privacy for everyone while failing to keep minors off platforms. (&lt;a href="https://news.ycombinator.com/item?id=48679608"&gt;discussion&lt;/a&gt;, 728 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hackernewstrends.com"&gt;Show HN: I made Google Trends for Hacker News by indexing 18 years of comments&lt;/a&gt; — A tool that charts how often any topic, tool, or person has been mentioned across 45 million Hacker News posts and comments, letting users overlay terms to compare their rise and fall over 18 years. (&lt;a href="https://news.ycombinator.com/item?id=48673671"&gt;discussion&lt;/a&gt;, 718 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"&gt;Ford AI hiccups push carmaker to rehire 'gray beard' inspectors&lt;/a&gt; — Ford has been rehiring experienced human quality inspectors after AI-based inspection systems failed to meet expectations. (&lt;a href="https://news.ycombinator.com/item?id=48674446"&gt;discussion&lt;/a&gt;, 588 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/mfts0/status/2070080422482977095"&gt;Hey Nico, you didn't vibe code your data room but stole it from Papermark&lt;/a&gt; — An open accusation that a founder who publicly claimed to have "vibe coded" their data room product actually copied it from Papermark's open-source codebase. (&lt;a href="https://news.ycombinator.com/item?id=48672328"&gt;discussion&lt;/a&gt;, 353 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yDZcsojmRXo5qKNBm/surprising-facts-about-the-slave-trade"&gt;Surprising facts about the slave trade&lt;/a&gt; by Joseph Miller — Drawing on primary sources, the post argues that British abolition succeeded not through a broad economic reckoning but through a fierce lobbying battle between a small abolitionist coalition and merchant special interests, while also highlighting the horrific mortality conditions for sailors in the trade. (76 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-26.html"/>
-    <published>2026-06-26T07:00:00-04:00</published>
   </entry>
 </feed>
