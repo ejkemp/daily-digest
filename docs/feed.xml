@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-12T10:30:11.610410+00:00</updated>
+  <updated>2026-08-13T10:30:06.413346+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-13</id>
+    <title>Daily Digest — Thursday, August 13, 2026</title>
+    <updated>2026-08-13T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude 7.4 earthquake strikes Chocó Department, Colombia, leaving at least 254 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Tour_de_France_Femmes"&gt;In cycling, Demi Vollering wins the Tour de France Femmes.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings"&gt;Shootings at a residence and a school in Nonthaburi province, Thailand, leave at least nine people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leveraged_buyout_of_Electronic_Arts"&gt;A consortium led by Saudi Arabia's Public Investment Fund purchases video game publisher Electronic Arts in a leveraged buyout.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stella_Lefty"&gt;... that musician Stella Lefty, who had a US top-20 single in May 2026, is the daughter of a billionaire?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Femmes_et_Sciences"&gt;... that the Eiffel Tower features the names of 72 men, but it was a Femmes et Sciences list that inspired the idea of adding women's names too?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Dandara_dos_Santos"&gt;... that Dandara dos Santos, a murdered Brazilian, was honored with a sculpture exhibited in Manhattan from 2019 to 2020?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Submarine_(2010_film)"&gt;... that, during the production of Submarine, director Richard Ayoade insisted on using a 35 mm camera for filming after nobody on the crew wanted to use it?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Neozoon_(artist_collective)"&gt;... that Neozoon once made an art exhibition meant to trick visitors to a zoo into thinking that the "non-toed fur coatie" was a real animal?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/New_York_Industrial_Home_Association_No._1"&gt;... that subscribers chipped in $1 per week to buy a New York City suburb ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kanmon_Kaikyo_Fireworks_Festival"&gt;... that Kanmon Kaikyo Fireworks Festival is one of the largest fireworks displays in western Japan?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Speculum_Duorum"&gt;... that Gerald of Wales complained in his Speculum Duorum that the archdeacon of Brecon spoke too much Welsh, but that the bishop of St Davids spoke too little?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boston_City_Hall"&gt;... that Boston City Hall has been compared to Lenin's Mausoleum, an inverted Lincoln Memorial, and a packing crate?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maurice_(emperor)"&gt;582 – Maurice was crowned as Byzantine emperor, succeeding Tiberius II Constantine.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Coldstream_Guards"&gt;1650 – General George Monck founded Monck's Regiment of Foot, the predecessor to the Coldstream Guards, the oldest regular regiment of the British Army in continuous active service.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Das_Rheingold"&gt;1876 – A performance of Das Rheingold opened the first performance of Richard Wagner 's Ring cycle at the inaugural Bayreuth Festival, attended by emperors and other composers.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Opha_May_Johnson"&gt;1918 – Opha May Johnson became the first woman to enlist in the United States Marine Corps.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_Sun_Sea_incident"&gt;2010 – After being boarded by Canadian authorities, MV Sun Sea docked in British Columbia and the 492 Sri Lankan Tamil refugee claimants on board were placed in detention.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://tailscale.com/blog/sqlite-wal-reset-bug"&gt;Tracking down the 16-year-old WAL-reset SQLite bug&lt;/a&gt; (1051 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813"&gt;DeepSeek V4 Pro 0813&lt;/a&gt; (933 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"&gt;AI is removing the middle class of software engineering?&lt;/a&gt; (885 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"&gt;Qwen3.8-2.4T&lt;/a&gt; (631 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"&gt;License plate reader searches should require a warrant&lt;/a&gt; (583 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zed.dev/blog/introducing-delta"&gt;Delta&lt;/a&gt; (557 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.ai/news/grok-4-6"&gt;Grok 4.6&lt;/a&gt; (556 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"&gt;uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook&lt;/a&gt; (523 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jonty.github.io/2026_eclipse_webcams/"&gt;2026 Eclipse Webcams&lt;/a&gt; (487 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-13.html"/>
+    <published>2026-08-13T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-12</id>
     <title>Daily Digest — Wednesday, August 12, 2026</title>
@@ -1245,52 +1292,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-30.html"/>
     <published>2026-06-30T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-29</id>
-    <title>Daily Digest — Monday, June 29, 2026</title>
-    <updated>2026-06-29T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 1,450 people dead and tens of thousands of others missing.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alan_Greenspan"&gt;Former chair of the U.S. Federal Reserve Alan Greenspan dies at the age of 100.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Printing_press"&gt;... that around 1473 a Dominican friar denounced the printing press as a "whore" set against the "virgin" pen?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/About_Time_(newspaper)"&gt;... that an Australian newspaper is mainly written by people who are or have been in prison?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells"&gt;... that an endowed scholarship was established at Thomas Jefferson University in memory of transgender activist and fashion designer Dominique "Rem'mie" Fells, who was murdered at the age of 27 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Notharctus"&gt;... that Notharctus, one of the first fossil primates discovered in the Americas, was originally classified as a pachyderm ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daz_Black"&gt;... that many people attributed Andrew Tate's removal from social media to a diatribe by Daz Black ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Revival_Process"&gt;... that around 850,000 ethnic Turks were forcibly renamed by the People's Republic of Bulgaria in the 1980s?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patricio_Fontanet"&gt;... that Patricio Fontanet, Eduardo Vázquez, and other neighbourhood friends gave their first show as Callejeros in front of a barbershop?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roman_Gardens"&gt;... that Rudolph Valentino was rumored to have used Roman Gardens for secret romances, even though he died before the building was completed?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Steve_Baumgartner"&gt;... that Steve Baumgartner had more than 1,200 beer cans lining the walls of a spare bedroom in his house?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Turtle_Gut_Inlet"&gt;1776 – The first privateer battle of the American Revolutionary War, the Battle of Turtle Gut Inlet, was fought near Cape May, New Jersey.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinsinawa_Mound_raid"&gt;1832 – Black Hawk War : Three men working in a cornfield were attacked by Sauk Native Americans, resulting in two deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/United_States_v_England_(1950_FIFA_World_Cup)"&gt;1950 – The United States defeated England during the FIFA World Cup in one of the greatest upsets in the competition's history.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Soyuz_11"&gt;1971 – The Soyuz 11 spacecraft experienced uncontrolled decompression during preparations for reentry, killing Soviet cosmonauts Vladislav Volkov, Georgy Dobrovolsky and Viktor Patsayev —the only human deaths to have occurred in space.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/R/The_Donald"&gt;2020 – Reddit banned r/The_Donald, a pro-Trump subreddit, for rule violations and antagonizing the company.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"&gt;GLM 5.2 beats Claude in our benchmarks&lt;/a&gt; (864 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/"&gt;EU to legislate about Chat Control behind closed doors&lt;/a&gt; (668 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026"&gt;Age verification is just a precursor to automated attribution of speech&lt;/a&gt; (505 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"&gt;The KIDS Act would require age checks to get online&lt;/a&gt; (494 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://danunparsed.com/p/hackerrank-open-source-ats"&gt;HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88&lt;/a&gt; (465 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://antoine.fi/mri-analysis-using-claude-code-opus"&gt;I used Claude Code to get a second opinion on my MRI&lt;/a&gt; (437 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"&gt;Professor denounces mass AI fraud on an exam at Brown&lt;/a&gt; (412 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/librepods-org/librepods"&gt;Librepods: AirPods liberated&lt;/a&gt; (399 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pudding.cool/2026/06/menu-story/"&gt;5k menus from the New York Public Library’s Buttolph Collection (1880-1920)&lt;/a&gt; (371 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.engadget.com/2203000/flock-cameras-recording-license-plate/"&gt;Flock cameras track more than your license plate, and they're spreading fast&lt;/a&gt; (365 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-29.html"/>
-    <published>2026-06-29T07:00:00-04:00</published>
   </entry>
 </feed>
