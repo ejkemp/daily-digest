@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-13T10:30:06.413346+00:00</updated>
+  <updated>2026-08-14T10:30:10.930755+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-14</id>
+    <title>Daily Digest — Friday, August 14, 2026</title>
+    <updated>2026-08-14T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse (animated path shown) causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude 7.4 earthquake strikes Chocó Department, Colombia, leaving at least 254 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Tour_de_France_Femmes"&gt;In cycling, Demi Vollering wins the Tour de France Femmes.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings"&gt;Shootings at a residence and a school in Nonthaburi province, Thailand, leave at least nine people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Agus_Djaya"&gt;... that Indonesian painter Agus Djaya exhibited throughout Europe during the National Revolution?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/100_Meters_(manga)"&gt;... that the anime film 100 Meters has a 3-minute 40-second long-take scene that includes 9800 rotoscoped frames and took a year to produce?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Junius_Wilson"&gt;... that Junius Wilson was a deaf American who spent almost 70 years as a patient in a mental hospital despite not being mentally ill?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aris,_Namibia"&gt;... that the quarries in Aris, Namibia, contain at least three minerals found nowhere else on Earth?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gian_Bernardino"&gt;... that Filipino rock singer Gian Bernardino sometimes wears androgynous outfits while performing onstage?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gangfang"&gt;... that the village of Gangfang was ceded from Burma to China in 1960 after a 50-year dispute?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alien:_Isolation_2"&gt;... that creative director Al Hope had ideas for Alien: Isolation 2 before the original Alien: Isolation had been finished?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Malacca_(1756%E2%80%931757)"&gt;... that the Dutch East India Company 's participation in a Johor conflict triggered a siege of Dutch Malacca ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/A_Tale_of_Two_Nations"&gt;... that scholars debate whether A Tale of Two Nations was not at all, mildly, or distinctly antisemitic?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Villasur_expedition"&gt;1720 – The Spanish Villasur expedition, intended to slow the progress of French influence on the Great Plains of North America, ended in failure when it was ambushed by Pawnee and Otoe forces.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Lost_Chord"&gt;1888 – One of the first recordings of music, of Arthur Sullivan 's " The Lost Chord ", was played at a press conference in London to introduce Thomas Edison 's phonograph.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ky%C5%ABj%C5%8D_incident"&gt;1945 – Kenji Hatanaka and other Japanese military officers launched an attempted coup d'état to prevent the surrender of Japan.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Helios_Airways_Flight_522"&gt;2005 – Helios Airways Flight 522 crashed into a mountain north of Marathon, Greece, killing all 121 people on board.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Qahtaniyah_bombings"&gt;2007 – Four coordinated suicide bomb attacks detonated in the Yazidi communities of Qahtaniya and Jazeera, Iraq, killing 796 people and wounding 1,562 others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"&gt;Gemini 3.7 Flash&lt;/a&gt; (856 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://deepseek.com/harness/en/"&gt;DeepSeek Harness developer preview&lt;/a&gt; (667 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"&gt;Spaghettifying DRAM&lt;/a&gt; (632 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"&gt;Accelerating GPT-5.6 Sol Ultrafast&lt;/a&gt; (614 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://z.ai/blog/glm-5.3"&gt;GLM-5.3: Frontier coding with emergent cyber capabilities&lt;/a&gt; (508 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gloom.sh/"&gt;Gloomberb&lt;/a&gt; (418 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"&gt;Deutsche Bank becomes first foreign yuan clearing bank in Europe&lt;/a&gt; (403 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.mistral.ai/models/ocr-4-1"&gt;Mistral OCR 4.1&lt;/a&gt; (356 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mcfunley.com/choose-boring-technology"&gt;Choose Boring Technology (2015)&lt;/a&gt; (350 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-14.html"/>
+    <published>2026-08-14T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-13</id>
     <title>Daily Digest — Thursday, August 13, 2026</title>
@@ -1240,57 +1287,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-01.html"/>
     <published>2026-07-01T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-06-30</id>
-    <title>Daily Digest — Tuesday, June 30, 2026</title>
-    <updated>2026-06-30T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 1,700 people dead and tens of thousands of others missing.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alan_Greenspan"&gt;Former chair of the U.S. Federal Reserve Alan Greenspan dies at the age of 100.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis"&gt;Keir Starmer announces his intention to resign as Prime Minister of the United Kingdom.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/June_2026_Diori_Hamani_International_Airport_attack"&gt;An attack at Diori Hamani International Airport in Niger kills 35 people, including 22 gunmen.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rakaia_salmon_statue"&gt;... that a student magazine hypothesised what would happen if a large salmon statue fought a trout statue in New Zealand?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Indonesian_Painters_Association"&gt;... that although the Indonesian Painters Association sought to develop a modern Indonesian art, its members had no shared style?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Edgar_J._March"&gt;... that while writer Edgar J. March served as a war reserve constable during World War II, he tussled with a burglar and chased him on a borrowed bicycle?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Premise"&gt;... that a faulty premise can turn a whole argument into a fallacy?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Black_Swan_(musical)"&gt;... that the musical adaptation of Black Swan rewrote the character of Thomas LeRoy as a woman to avoid writing a #MeToo story?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Park_Theatre_(Philadelphia,_Broad_St.)"&gt;... that Philadelphia's Salvation Army Memorial Temple was once an American burlesque theatre?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/A_Story_About_Fire"&gt;... that A Story About Fire was animated by hand on 50,000 sheets of rice paper?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Soonish"&gt;... that the authors of Soonish had to remove a completed chapter from the book before publication?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Haffen_Park"&gt;... that a large yellow bear taught 500 children how to wash their hands in Haffen Park ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jianwen_Emperor"&gt;1398 – Zhu Yunwen ascended the throne to the Ming dynasty to become the Jianwen Emperor.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_San_Juan_(1598)"&gt;1598 – Anglo-Spanish War : After a 15-day siege Spanish troops in San Juan, modern-day Puerto Rico, surrendered to an English force under Sir George Clifford.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/National_Organization_for_Women"&gt;1966 – The National Organization for Women, a leading United States feminist organization, was founded in Washington, D.C.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ryan_White"&gt;1985 – Ryan White, an HIV/AIDS patient in the US, was denied re-admission to his school after he had contracted the disease from hemophilia treatments.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2015_Sumatra_Indonesian_Air_Force_C-130_crash"&gt;2015 – An Indonesian Air Force military transport aircraft crashed near a residential neighborhood in Medan, killing 139 people.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://quesma.com/blog/qwen-36-is-awesome/"&gt;Qwen 3.6 27B is the sweet spot for local development&lt;/a&gt; (937 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://det.social/@lostgen/116820546568940358"&gt;The CEO of Mullvad is the main financer of the Swedish Örebro party&lt;/a&gt; (610 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"&gt;US Supreme Court rules geofence warrants require constitutional protections&lt;/a&gt; (529 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"&gt;.self: A new top-level domain designed to support self-hosting&lt;/a&gt; (523 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"&gt;Rocketlab acquires Iridium&lt;/a&gt; (414 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing"&gt;Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing&lt;/a&gt; (401 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/"&gt;European ISPs Want Rightsholders Held Accountable for Overblocking Damage&lt;/a&gt; (385 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6h7aAd4aw8YgCAbF6/p-doom-is-a-dumb-meme"&gt;P(doom) is a Dumb Meme&lt;/a&gt; (106 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/bpBYm5jiS4tpyzuDS/wsj-article-claiming-china-has-matched-anthropic-is-obvious"&gt;WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense&lt;/a&gt; (82 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hDQZZzYkcipgaZfxy/usd1m-ai-x-risk-grant-round-is-live-on-grantmaking-ai-apply"&gt;$1M AI x-risk grant round is live on grantmaking.ai - apply for funding, review applicants, or fund projects&lt;/a&gt; (56 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/EvJ2fMzLQLvYooumu/destroying-the-universe-how-hard-can-it-be"&gt;Destroying the universe: How hard can it be?&lt;/a&gt; (52 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-06-30.html"/>
-    <published>2026-06-30T07:00:00-04:00</published>
   </entry>
 </feed>
