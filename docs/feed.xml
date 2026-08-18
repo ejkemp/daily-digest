@@ -2,13 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-17T10:30:07.282196+00:00</updated>
+  <updated>2026-08-18T10:30:09.933726+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-18</id>
+    <title>Daily Digest — Tuesday, August 18, 2026</title>
+    <updated>2026-08-18T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 69 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 92 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude-7.4 earthquake strikes Chocó Department, Colombia, leaving at least 287 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicholas_Dockery"&gt;... that Medal of Honor recipient Nicholas Dockery was a White House fellow ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tor%C3%A1_language"&gt;... that there was recently interest in reviving the extinct Torá language, but no one knew enough of the language to move forward with the idea?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Toko_Furuuchi"&gt;... that before receiving more than a hundred songwriting credits, Toko Furuuchi once said she would quit if it "starts to feel like a chore and stops being fun"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/JumpStart_1st_Grade"&gt;... that critics described an award-winning edutainment game aimed at young children as too challenging for some young children?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sunnyside_Arch"&gt;... that New York City's illuminated Sunnyside Arch fell dark within a few years of construction because its many small light bulbs were too difficult to replace?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fate/Extra_Last_Encore"&gt;... that the anime Fate/Extra Last Encore was conceived as a continuation of a video game's "bad ending"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carlos_Mallo_Molina"&gt;... that Carlos Mallo Molina quit his job building a highway to lead a successful campaign against the proposed port at the end of that highway?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Steps_of_Legacy"&gt;... that an exhibition celebrating 30 years of Siti Nurhaliza included the dress that she wore during a concert at the Royal Albert Hall?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gerry_Collins_(Canadian_football)"&gt;... that brothers Gerry and Gerald Collins are part of a family of 19 siblings?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1783_Great_Meteor"&gt;1783 – A meteor procession blazed across the night sky over Great Britain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1891_Martinique_hurricane"&gt;1891 – A hurricane struck the Caribbean island of Martinique, killing about 700 people, injuring at least 1,000 others, and causing severe damage.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"&gt;1920 – The Nineteenth Amendment to the United States Constitution was ratified, guaranteeing women's suffrage in the country.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/6th_Battalion,_Royal_Australian_Regiment"&gt;1966 – Vietnam War : Members of the 6th Battalion of the Royal Australian Regiment were surrounded by a much larger Viet Cong unit at the Battle of Long Tan, but held them off for several hours until reinforcements arrived.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Effort_to_impeach_Pervez_Musharraf"&gt;2008 – Pakistani president Pervez Musharraf resigned under pressure from a movement to impeach him.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read"&gt;AI;DR (AI; Didn't Read)&lt;/a&gt; (891 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx"&gt;Incident with Github.com&lt;/a&gt; (698 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://duckdb.org/2026/08/17/duckdb-20-highlights"&gt;A Preview of DuckDB v2.0&lt;/a&gt; (639 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49331033"&gt;Ask HN: Alternatives to GitHub&lt;/a&gt; (594 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx"&gt;Incident with Github.com [resolved]&lt;/a&gt; (544 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://timmarinin.net/2026/bluesky-screenshots/"&gt;How Bluesky draws its logo on screenshots&lt;/a&gt; (531 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://responsiblestatecraft.org/israel-influence-chatgpt/"&gt;Israel creates fake think tank in likely attempt to dupe AI chatbots&lt;/a&gt; (525 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openrouter.ai/openai/gpt-5.6-sol"&gt;GPT-5.6 Sol Pricing Cut by 50%&lt;/a&gt; (452 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"&gt;Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study&lt;/a&gt; (398 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"&gt;AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira&lt;/a&gt; (376 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fabiensanglard.net/quake_shareware_cd/index.html"&gt;Quake Shareware, a CD-ROM just a little too full&lt;/a&gt; (359 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-18.html"/>
+    <published>2026-08-18T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-17</id>
     <title>Daily Digest — Monday, August 17, 2026</title>
@@ -1308,13 +1358,5 @@
 &lt;p&gt;&lt;strong&gt;LessWrong&lt;/strong&gt; (1 item) — the strangelet/vacuum-decay physics post, summarized from its content.&lt;/p&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-04.html"/>
     <published>2026-07-04T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-03</id>
-    <title>Daily Digest — Friday, July 3, 2026</title>
-    <updated>2026-07-03T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;This is a content-writing task (compiling a newsletter from provided JSON), not a software engineering task — there's no codebase to explore or design work needed. I'll write a minimal plan noting the direct approach, then exit plan mode so I can produce the digest.&lt;/p&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-03.html"/>
-    <published>2026-07-03T07:00:00-04:00</published>
   </entry>
 </feed>
