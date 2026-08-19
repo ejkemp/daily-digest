@@ -2,13 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-18T10:30:09.933726+00:00</updated>
+  <updated>2026-08-19T10:30:12.115118+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-19</id>
+    <title>Daily Digest — Wednesday, August 19, 2026</title>
+    <updated>2026-08-19T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 70 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 94 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Reinforced_concrete_bridge"&gt;... that the 600-metre (2,000 ft) arch span of the Tian'e Longtan Bridge is the longest of any reinforced concrete bridge ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Whisper_Me_a_Love_Song"&gt;... that the original creator of Whisper Me a Love Song recalled listening to around 60 audition tapes to recommend a voice actress for a role?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/C._W._Kim"&gt;... that a Korean immigrant to the U.S. contributed to numerous notable buildings in San Diego's skyline?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Portuguese_in_California"&gt;... that some Portuguese Americans in California practice bloodless bullfighting during religious festivals?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Broadgate_Venus"&gt;... that the sculpture Broadgate Venus has been described as a "large and threatening personification of voluptuous, ripe womanhood"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dora_Brilliant"&gt;... that Dora Brilliant built bombs to assassinate Russian officials, despite being personally uncomfortable with violence?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mr._Buchanan%27s_Administration_on_the_Eve_of_the_Rebellion"&gt;... that James Buchanan wrote his own presidential memoir despite paying a friend $7,000 to write a biography of him?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Willo_Welzenbach"&gt;... that the " father of modern ice climbing " died on Nanga Parbat in 1934 after days of starvation and cold exposure?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/A_Million_Random_Digits_with_100,000_Normal_Deviates"&gt;... that Jackson Mac Low used A Million Random Digits with 100,000 Normal Deviates to write poetry?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Lagos"&gt;1759 – Seven Years' War : Having damaged several French vessels, British ships pursued the remainder of the fleet to Lagos, Portugal, and continued the battle there in violation of Portuguese neutrality.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Luck_of_Cumberland"&gt;1905 – In a ceremony officiated by Albert Grey, 4th Earl Grey, The Luck of Cumberland was presented to HMS Cumberland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/766th_Independent_Infantry_Regiment_(North_Korea)"&gt;1950 – The 766th Independent Infantry Regiment of North Korea was disbanded after fighting for less than two months in the Korean War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2002_Khankala_Mi-26_crash"&gt;2002 – Second Chechen War : A Russian Mil Mi-26 was brought down by Chechen separatists with a man-portable air-defense system near Khankala, killing 127 people in the deadliest helicopter crash in history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cypress_Island_Atlantic_salmon_pen_break"&gt;2017 – Around 250,000 farmed non-native Atlantic salmon were accidentally released into the wild near Cypress Island, Washington.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://seths.blog/2026/08/the-amazon-tax/"&gt;The Amazon tax&lt;/a&gt; (1185 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openlogi.org/en"&gt;OpenLogi&lt;/a&gt; (713 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/"&gt;Beware Management Consultants&lt;/a&gt; (553 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://philo.gay/linecam/"&gt;Using the railway network as a flatbed scanner&lt;/a&gt; (429 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/"&gt;Fixing a bricked Framework laptop&lt;/a&gt; (405 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"&gt;Fairphone is now officially available in the United States&lt;/a&gt; (377 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf"&gt;Sticky wage norms and the real wage cost of unexpected inflation&lt;/a&gt; (358 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html"&gt;How does IKEA come up with names for its products?&lt;/a&gt; (350 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-19.html"/>
+    <published>2026-08-19T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-18</id>
     <title>Daily Digest — Tuesday, August 18, 2026</title>
@@ -1347,16 +1393,5 @@
 &lt;p&gt;Write({"file_path":"/Users/md6406/.claude/plans/you-are-writing-today-s-ticklish-oasis.md","content":"# Context\nThe user wants today's daily digest newsletter generated in Markdown from the provided JSON scrape (Wikipedia, Hacker News, LessWrong). This is a content-formatting task, not a code change — no repository or codebase is involved, so no exploration phase is needed.\n\n# Plan\n\nProduce a single Markdown document with these &lt;code&gt;##&lt;/code&gt; sections, in order, omitting any with no data:\n\n1. &lt;strong&gt;Topics in the News&lt;/strong&gt; — 4 Wikipedia items with &lt;code&gt;section: \"Topics in the news\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n2. &lt;strong&gt;Did You Know&lt;/strong&gt; — 9 Wikipedia items with &lt;code&gt;section: \"Did you know\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n3. &lt;strong&gt;On This Day&lt;/strong&gt; — 4 Wikipedia items with &lt;code&gt;section: \"On this day\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n4. &lt;strong&gt;Hacker News&lt;/strong&gt; — 4 items provided; all appear substantive (prompt-injection security writeup, C&amp;amp;C Generals native port, Anna's Archive bounty, htop/top explainer) — none look like low-interest release-note churn, so all 4 will be included with one-sentence descriptions grounded in each item's &lt;code&gt;content&lt;/code&gt; field, plus discussion link and point count.\n5. &lt;strong&gt;LessWrong&lt;/strong&gt; — items array is empty, so this section will be omitted entirely.\n\nWikipedia titles will be reproduced exactly as given (including leading &lt;code&gt;... that&lt;/code&gt; phrasing and any odd spacing/italics markup already present in the source JSON) — no rewording.\n\nNo overall intro/summary will precede the first section; output will be only the Markdown digest, nothing else.\n\n# Verification\nManually re-check before finalizing:\n- Every Wikipedia item (17 total) appears exactly once, under the correct heading, with title text unchanged and URL copied verbatim.\n- Hacker News bullets follow the exact format &lt;code&gt;- [Title](url) — description ([discussion](comments_url), N points)&lt;/code&gt; and descriptions don't invent details beyond what &lt;code&gt;content&lt;/code&gt;/title support.\n- LessWrong section is omitted since it has no items.\n- No extra commentary, headers, or code fences wrap the output.\n"})&lt;/p&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-05.html"/>
     <published>2026-07-05T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-04</id>
-    <title>Daily Digest — Saturday, July 4, 2026</title>
-    <updated>2026-07-04T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;I'll prepare the digest content directly since this is a text-generation task from the provided JSON data (no codebase exploration needed), then write it to the plan file for your review.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Topics in the News&lt;/strong&gt; (5 items), &lt;strong&gt;Did You Know&lt;/strong&gt; (10 items), &lt;strong&gt;On This Day&lt;/strong&gt; (5 items) — all Wikipedia items will be included verbatim per the instructions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hacker News&lt;/strong&gt; (3 items) — all three appear substantive (Valve open-source hardware mod, Costco business analysis, Pegasus spyware espionage story), so I'll keep all of them with one-sentence descriptions grounded in their &lt;code&gt;content&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;LessWrong&lt;/strong&gt; (1 item) — the strangelet/vacuum-decay physics post, summarized from its content.&lt;/p&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-04.html"/>
-    <published>2026-07-04T07:00:00-04:00</published>
   </entry>
 </feed>
