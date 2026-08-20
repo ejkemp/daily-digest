@@ -2,13 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-19T10:30:12.115118+00:00</updated>
+  <updated>2026-08-20T10:30:11.421875+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-20</id>
+    <title>Daily Digest — Thursday, August 20, 2026</title>
+    <updated>2026-08-20T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 73 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 94 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Qeren_Naftali_fortress"&gt;... that a Jewish ritual bath at the Qeren Naftali fortress was later filled with non-kosher animal bones by a non-Jewish garrison?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Abdullah_Suriosubroto"&gt;... that the painter Abdullah Suriosubroto was adopted by a National Hero of Indonesia?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jimoto_Saiko!"&gt;... that the slice-of-life manga Jimoto Saiko! focuses on poverty, instead of the genre's usual focus on happy lives?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wedding_Band:_A_Love/Hate_Story_in_Black_and_White"&gt;... that Alice Childress 's play Wedding Band was based on a true story told by her grandmother?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Frank_Kauer"&gt;... that Frank Kauer related to his Hollyoaks character because he experienced "the challenges growing up mixed race brought"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1945_Zhijiang_surrender_ceremony"&gt;... that the 1945 Zhijiang surrender ceremony marked the beginning of China's acceptance of Japan's surrender in World War II?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Faiza_Ali"&gt;... that Faiza Ali, now New York City's commissioner of immigrant affairs, has said she first became an activist due to experiencing Islamophobia after 9/11 ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rayman_Legends_Retold"&gt;... that a Rayman Legends Retold producer compared the moment two studios discovered that both wanted to make a Rayman game to the Spider-Man pointing meme ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucy_Poate_Stebbins"&gt;... that a novelist and her son wrote a biography on another novelist and her sons ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Saragossa"&gt;1710 – War of the Spanish Succession : A Spanish Bourbon army commanded by the Marquis de Bay was soundly defeated by a multinational army led by the Austrian commander Guido Starhemberg.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/National_Football_League"&gt;1920 – The American Professional Football Conference, a predecessor of the National Football League, was established in Canton, Ohio.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yellowstone_fires_of_1988"&gt;1988 – More than 150,000 acres (610 km 2 ) were burned on the worst day of the largest wildfire in the recorded history of Yellowstone National Park in the United States.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/O-Bahn_Busway"&gt;1989 – The final stage of the O-Bahn Busway in Adelaide, South Australia, was finished, completing at the time the world's longest and fastest guided busway, with buses travelling 12 km (7.5 mi) at speeds of up to 100 km/h (62 mph).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Silent_Sam"&gt;2018 – Silent Sam, a Confederate monument on the campus of the University of North Carolina at Chapel Hill, was toppled by protestors.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"&gt;A joke domain purchase turned in geopolitical warfare&lt;/a&gt; (908 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"&gt;OpenRouter is joining Stripe&lt;/a&gt; (847 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://go.dev/blog/go1.27"&gt;Go 1.27&lt;/a&gt; (649 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://grapheneos.social/@GrapheneOS/117078064184215730"&gt;Devices with GrapheneOS support should be available in 2027&lt;/a&gt; (604 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://grapheneos.social/@GrapheneOS/117057099753905023"&gt;Google has stopped pushing Git tags for some Android source code&lt;/a&gt; (578 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees"&gt;Remote workers report the highest well-being in study of 7,700 employees&lt;/a&gt; (577 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787"&gt;Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma&lt;/a&gt; (564 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://yassa9.github.io/osint/gralhix-004/"&gt;Geolocating a random island using geometry and CUDA programming&lt;/a&gt; (482 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://shkspr.mobi/blog/2013/11/civic-hygiene/"&gt;Civic Hygiene – avoid building technologies that could be used by a police state (2013)&lt;/a&gt; (436 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"&gt;Casio F-B100W-1A&lt;/a&gt; (387 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/"&gt;PostgreSQL for Everything&lt;/a&gt; (372 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/L23poLi8MRgS6mXYF/rl-creates-split-personas"&gt;RL creates split personas&lt;/a&gt; (129 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dsou8dxCf9BubQ5NJ/some-reasons-alignment-doesn-t-generalise-well-1"&gt;Some reasons alignment doesn’t generalise well&lt;/a&gt; (89 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SqDHeuycNkERurtSc/a-circuit-prior-in-nn-bayes"&gt;A circuit prior in NN-bayes&lt;/a&gt; (64 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-20.html"/>
+    <published>2026-08-20T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-19</id>
     <title>Daily Digest — Wednesday, August 19, 2026</title>
@@ -1383,15 +1438,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-06.html"/>
     <published>2026-07-06T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-05</id>
-    <title>Daily Digest — Sunday, July 5, 2026</title>
-    <updated>2026-07-05T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;I'll prepare the plan for constructing today's digest based on the provided JSON data.&lt;/p&gt;
-&lt;p&gt;Since this is a pure content-formatting task (no codebase involved), I'll skip the Explore/Design agent phases and go straight to drafting the plan.&lt;/p&gt;
-&lt;p&gt;Write({"file_path":"/Users/md6406/.claude/plans/you-are-writing-today-s-ticklish-oasis.md","content":"# Context\nThe user wants today's daily digest newsletter generated in Markdown from the provided JSON scrape (Wikipedia, Hacker News, LessWrong). This is a content-formatting task, not a code change — no repository or codebase is involved, so no exploration phase is needed.\n\n# Plan\n\nProduce a single Markdown document with these &lt;code&gt;##&lt;/code&gt; sections, in order, omitting any with no data:\n\n1. &lt;strong&gt;Topics in the News&lt;/strong&gt; — 4 Wikipedia items with &lt;code&gt;section: \"Topics in the news\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n2. &lt;strong&gt;Did You Know&lt;/strong&gt; — 9 Wikipedia items with &lt;code&gt;section: \"Did you know\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n3. &lt;strong&gt;On This Day&lt;/strong&gt; — 4 Wikipedia items with &lt;code&gt;section: \"On this day\"&lt;/code&gt;, each as &lt;code&gt;- [verbatim title](url)&lt;/code&gt;.\n4. &lt;strong&gt;Hacker News&lt;/strong&gt; — 4 items provided; all appear substantive (prompt-injection security writeup, C&amp;amp;C Generals native port, Anna's Archive bounty, htop/top explainer) — none look like low-interest release-note churn, so all 4 will be included with one-sentence descriptions grounded in each item's &lt;code&gt;content&lt;/code&gt; field, plus discussion link and point count.\n5. &lt;strong&gt;LessWrong&lt;/strong&gt; — items array is empty, so this section will be omitted entirely.\n\nWikipedia titles will be reproduced exactly as given (including leading &lt;code&gt;... that&lt;/code&gt; phrasing and any odd spacing/italics markup already present in the source JSON) — no rewording.\n\nNo overall intro/summary will precede the first section; output will be only the Markdown digest, nothing else.\n\n# Verification\nManually re-check before finalizing:\n- Every Wikipedia item (17 total) appears exactly once, under the correct heading, with title text unchanged and URL copied verbatim.\n- Hacker News bullets follow the exact format &lt;code&gt;- [Title](url) — description ([discussion](comments_url), N points)&lt;/code&gt; and descriptions don't invent details beyond what &lt;code&gt;content&lt;/code&gt;/title support.\n- LessWrong section is omitted since it has no items.\n- No extra commentary, headers, or code fences wrap the output.\n"})&lt;/p&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-05.html"/>
-    <published>2026-07-05T07:00:00-04:00</published>
   </entry>
 </feed>
