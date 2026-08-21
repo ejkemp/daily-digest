@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-20T10:30:11.421875+00:00</updated>
+  <updated>2026-08-21T10:30:10.848832+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-21</id>
+    <title>Daily Digest — Friday, August 21, 2026</title>
+    <updated>2026-08-21T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 75 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 97 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude-7.4 earthquake strikes Chocó Department, Colombia, leaving at least 319 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SS_Hydrus_(1903)"&gt;... that several bodies from the wrecked freighter Hydrus were never recovered due to superstitions about touching the dead among the Saugeen people ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Seth_Evans_(musician)"&gt;... that Seth Evans was the only skilled musician in the band HMLTD, by their own admission?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Poetri_Hindia"&gt;... that Poetri Hindia received a gift from a former Dutch queen for advancing the education of indigenous Indonesian women?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Dara"&gt;... that General Belisarius was about 25 years old when he defeated a Persian army roughly twice the size of his own at the Battle of Dara ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Caroline_Fox,_1st_Baroness_Holland"&gt;... that after Lady Caroline Lennox eloped with a commoner, her parents did not speak to her for four years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PM_Press"&gt;... that the anarchist publisher PM Press was so named because its founders worked on it after hours as a second job?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/St._Pat%27s_for_All"&gt;... that St. Pat's for All, founded after LGBTQ groups were barred from the New York City St. Patrick's Day Parade, takes its motto from the 1916 proclamation of the Easter Rising ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Colin_Ramirez"&gt;... that a former international footballer is the chief fire officer of Gibraltar?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robert_C._Weaver_Federal_Building"&gt;... that the U.S. Department of Housing and Urban Development headquarters was once mocked by a U.S. housing secretary as "10 floors of basement"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1717)"&gt;1717 – Austro-Turkish War : Austrian troops under Prince Eugene of Savoy captured the strategically important city of Belgrade from the Ottoman Empire.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Vimeiro"&gt;1808 – Peninsular War : British and Portuguese forces put an end to the first French invasion of Portugal at the Battle of Vimeiro.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Tenaru"&gt;1942 – World War II : The Imperial Japanese Army lost the Battle of the Tenaru, the first of its three major land offensives during the Guadalcanal campaign.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/X%C3%A1_L%E1%BB%A3i_Pagoda_raids"&gt;1963 – South Vietnamese special forces loyal to Ngô Đình Nhu, the brother of President Ngô Đình Diệm, raided and vandalised Buddhist pagodas across the country, arresting thousands and leaving hundreds dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2015_Thalys_train_attack"&gt;2015 – Passengers on a Thalys train from Amsterdam to Paris confronted and subdued an attacker who attempted a mass shooting.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"&gt;Aaron Swartz was prosecuted for scraping, while Meta does it without consequence&lt;/a&gt; (1465 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simedw.com/2026/08/20/midi-autocomplete/"&gt;Show HN: I trained a 125M model to autocomplete piano on-device&lt;/a&gt; (555 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"&gt;The August 17 outage&lt;/a&gt; (536 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"&gt;Malicious Rust crate Arrayref runs a build-time payload&lt;/a&gt; (504 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/A2kJKqnHhh5Hq4p2S/we-must-remember-that-our-world-contains-hell"&gt;We Must Remember That Our World Contains Hell&lt;/a&gt; (92 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-21.html"/>
+    <published>2026-08-21T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-20</id>
     <title>Daily Digest — Thursday, August 20, 2026</title>
@@ -1392,51 +1439,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-07.html"/>
     <published>2026-07-07T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-06</id>
-    <title>Daily Digest — Monday, July 6, 2026</title>
-    <updated>2026-07-06T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_%C3%89c%C3%B4ne_consecrations"&gt;The Catholic Church declares the Society of Saint Pius X to be in schism and excommunicates its members following a consecration dispute.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_European_heatwaves"&gt;Heatwaves affect Europe, leading to more than 5,600 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"&gt;Two earthquakes strike Venezuela, leaving more than 3,300 people dead and tens of thousands of others missing.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Q_Manivannan"&gt;... that Q Manivannan and Iris Duane are the first two openly transgender people elected to the Scottish Parliament?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Super_Bowl_LX_halftime_show"&gt;... that Bad Bunny was the first Spanish-language Latino solo artist to headline a Super Bowl halftime show ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nathalie_Drach-Temam"&gt;... that, under Nathalie Drach-Temam 's presidency, Sorbonne University opted out of the Times Higher Education rankings ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Languages_of_Palestine"&gt;... that diglossia is a major feature of ancient and modern languages used in Palestine ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ruby_Rose_Turner"&gt;... that American actress Ruby Rose Turner debuted as a dancer on the TV show Sábado Gigante at the age of seven?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Annie_Jane"&gt;... that the captain of the Annie Jane threatened to shoot anyone who turned the ship around, before it was wrecked?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kamal_Chunchie"&gt;... that anti-racism campaigner Kamal Chunchie converted to Christianity from Islam during the First World War when serving in the British Army?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sam_%26_Max:_This_Time_It%27s_Virtual!"&gt;... that the co-creator of the Sam &amp;amp; Max comic series voices a character in its VR game adaptation ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Norman_Balon"&gt;... that Norman Balon revelled in his title as the "rudest landlord in London"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Richard_III_of_England"&gt;1483 – The last monarch of the House of York and the Plantagenet dynasty, Richard III, was crowned King of England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Battle_of_Algeciras"&gt;1801 – French Revolutionary Wars : A Royal Navy squadron failed to eliminate a smaller French Navy squadron at Algeciras before they could join their Spanish allies.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_Theses"&gt;1971 – After visiting several Asian communist countries, Romanian leader Nicolae Ceaușescu gave a speech on a number of neo-Stalinist and socialist-realist ideals, which became known as the July Theses.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1989_Tel_Aviv%E2%80%93Jerusalem_bus_attack"&gt;1989 – A Palestinian Islamic Jihad member carried out a suicide attack by hijacking a bus and forcing it into a ravine near Kiryat Ye'arim, Israel.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mart%C3%ADn_R%C3%ADos_(murderer)"&gt;2006 – A gunman killed an 18-year-old man and injured six other people in a mass shooting on Cabildo Avenue in Buenos Aires, Argentina.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://organicmaps.app/"&gt;Organic Maps&lt;/a&gt; — A free, open-source, privacy-focused offline maps and navigation app (hiking, cycling, driving) powered by OpenStreetMap, with no ads or tracking. (&lt;a href="https://news.ycombinator.com/item?id=48794446"&gt;discussion&lt;/a&gt;, 1004 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.opentools.studio/"&gt;OpenPrinter&lt;/a&gt; — An open-source, repairable printer/plotter with refillable, DRM-free ink cartridges, built on a Raspberry Pi Zero W and CUPS to reduce e-waste and consumable costs. (&lt;a href="https://news.ycombinator.com/item?id=48797916"&gt;discussion&lt;/a&gt;, 873 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://popcar.bearblog.dev/its-about-ownership/"&gt;It's not about physical vs. digital games, it's about ownership&lt;/a&gt; — Argues that Sony ending disc production for new games by January 2028 is less about physical media and more about killing the ability to resell, share, or preserve games. (&lt;a href="https://news.ycombinator.com/item?id=48794750"&gt;discussion&lt;/a&gt;, 510 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html"&gt;EU Council forces Chat Control via fast-track&lt;/a&gt; — The EU Council is using a procedural maneuver to push through a near-identical replacement for the expired "Chat Control 1.0" voluntary chat-scanning rules, timed to reach Parliament right before its summer break. (&lt;a href="https://news.ycombinator.com/item?id=48793393"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WatqNkgiAuonXLpJd/harry-potter-and-the-rules-of-quidditch-1"&gt;Harry Potter and the Rules of Quidditch&lt;/a&gt; by Tomás B. — A fictional dialogue in which Harry proposes replacing Quidditch's Snitch with a clock for fairness and predictability, while a potion-sharpened Ron argues against reformist "solutions" that ignore the value of tradition. (125 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3HvvjffA65mHLwaWm/we-need-3rd-party-training-run-assessments"&gt;We need 3rd party Training-Run Assessments&lt;/a&gt; by Alex Meinke — Argues that final-checkpoint evaluations may be insufficient to detect AI scheming, and that independent third parties should conduct in-depth "Training-Run Assessments" examining checkpoints, training data, and developer responses throughout a model's training. (90 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-06.html"/>
-    <published>2026-07-06T07:00:00-04:00</published>
   </entry>
 </feed>
