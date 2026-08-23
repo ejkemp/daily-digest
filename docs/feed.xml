@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-22T10:30:08.522009+00:00</updated>
+  <updated>2026-08-23T10:30:07.520984+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-23</id>
+    <title>Daily Digest — Sunday, August 23, 2026</title>
+    <updated>2026-08-23T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"&gt;The Democratic Autonomous Administration of North and East Syria ends its autonomous rule following its full integration into Syria.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zambian_general_election"&gt;President Hakainde Hichilema wins the Zambian general election for a second consecutive term.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 87 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Philippe-Fran%C3%A7ois-Joseph_Le_Bas"&gt;... that, when Robespierre was threatened with arrest for tyranny, Philippe Le Bas demanded to be arrested too?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/National_Asian_American_Theater_Company"&gt;... that the National Asian American Theater Company was established to produce and perform classics of Western theater with all–Asian-American casts?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chloe_Cherry"&gt;... that Chloe Cherry appeared in a pornographic parody of Euphoria before appearing in the real TV series?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Truth"&gt;... that philosophers discuss whether truth is correspondence between statements and facts, coherence among beliefs, or something else?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deng_Shi"&gt;... that Deng Shi called for China to undergo its own version of the Renaissance?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Porta_d%27Europa_(monument)"&gt;... that Porta d'Europa has been called "an open door that paradoxically is wide shut"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Tale_of_Iya"&gt;... that the director of The Tale of Iya created his own production company to finance the film?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Teia"&gt;... that contemporary historian Procopius described Teia 's heroism in his last battle as worthy of the "heroes of legend"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Starface"&gt;... that Starface was the first album in 19 years to receive a 0/10 score from Pitchfork ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/William_Wallace"&gt;1305 – William Wallace, a leader of Scottish resistance against England during the Wars of Scottish Independence, was hanged, drawn and quartered.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Proclamation_of_Rebellion"&gt;1775 – King George III issued a proclamation that declared elements of the American colonies of Great Britain to be in a state of "open and avowed rebellion".&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Invasion_of_South_Kasai"&gt;1960 – Congo Crisis : In order to stop the secession of South Kasai from the Republic of Congo, Armée Nationale Congolaise forces launched an invasion of South Kasai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Natascha_Kampusch"&gt;2006 – Natascha Kampusch, who had been abducted at the age of ten in Vienna, escaped from her captor's house in Strasshof an der Nordbahn after more than eight years in captivity.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2011_Virginia_earthquake"&gt;2011 – A 5.8 M W earthquake struck the Piedmont region of Virginia, and was felt by more people than any other quake in U.S. history.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://quantumi.sh/public/labs.html"&gt;ElevenLabs, TwelveLabs, ThirteenLabs&lt;/a&gt; (402 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/moxie/status/2091218652133732491"&gt;Scrap (2006)&lt;/a&gt; (375 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"&gt;Why your local LLM feels dumber than it is&lt;/a&gt; (359 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-23.html"/>
+    <published>2026-08-23T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-22</id>
     <title>Daily Digest — Saturday, August 22, 2026</title>
@@ -1396,50 +1438,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-09.html"/>
     <published>2026-07-09T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-08</id>
-    <title>Daily Digest — Wednesday, July 8, 2026</title>
-    <updated>2026-07-08T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_%C3%89c%C3%B4ne_consecrations"&gt;The Catholic Church declares the Society of Saint Pius X to be in schism and excommunicates its members following a consecration dispute.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_European_heatwaves"&gt;Heatwaves affect Europe, leading to more than 5,600 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Detour_(Kim_Petras_album)"&gt;... that Kim Petras's new album features a track about a brutalist building that she passed on the way to gender-care appointments as a child?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eight-Finger_Ph%C6%B0%E1%BB%9Bc"&gt;... that Vietnamese gangster Eight-Finger Phước cut off two of his own fingers after his mother scolded him?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Field_Guide_to_Memory"&gt;... that the creators of Field Guide to Memory coined the term keepsake game to describe the new genre that they hoped it would establish?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lace_(novel)"&gt;... that an infamous sex scene in the bonkbuster genre appears in a novel in which a goldfish is inserted into a vagina ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fahima_Mirzaie"&gt;... that the female founder of a dervish group in Afghanistan was forced to flee the country in 2021?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WJAX-TV"&gt;... that a Florida TV station named after "Christ, the Alpha and the Omega" moved to shed its religious image within two years of its debut?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vieira%27s_spiny_tree-rat"&gt;... that only two specimens of Vieira's spiny tree-rat are known to exist?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Hoch"&gt;... that MLB player Harry Hoch was also a superintendent of schools at age 18?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/State_of_Decay_3"&gt;... that the first trailer for State of Decay 3 was released before development had begun, when the game existed only as a Word document ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"&gt;1776 – The United States Declaration of Independence received its first formal public reading, in Philadelphia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/March_West"&gt;1874 – Members of the North-West Mounted Police at Fort Dufferin began their March West, their first journey to the Canadian Prairies.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roswell_incident"&gt;1947 – Following reports of the capture of a "flying disc" by U.S. Army Air Forces personnel near Roswell, New Mexico, the military stated that the crashed object was a conventional weather balloon.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final"&gt;1990 – West Germany won the FIFA World Cup final against defending champions Argentina, with Andreas Brehme scoring the game's only goal.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Shinzo_Abe"&gt;2022 – Former Japanese prime minister Shinzo Abe was assassinated with an improvised firearm due to resentment against the Unification Church.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://streetcomplete.app/"&gt;StreetComplete: Fixing OpenStreetMap, one tiny quest at a time&lt;/a&gt; — An open-source surveyor app that finds missing OpenStreetMap data nearby and lets users answer simple on-site quests to update the map directly. (&lt;a href="https://news.ycombinator.com/item?id=48816883"&gt;discussion&lt;/a&gt;, 768 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fightchatcontrol.eu/chat-control-overview"&gt;Chat Control 1.0 and 2.0 Explained&lt;/a&gt; — A detailed timeline untangling the EU's two parallel "Chat Control" proposals, including the expired voluntary CSAM-scanning derogation being revived via an expedited procedure and the still-deadlocked permanent CSA Regulation. (&lt;a href="https://news.ycombinator.com/item?id=48818311"&gt;discussion&lt;/a&gt;, 669 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://allaboutcookies.org/eu-mandatory-distracted-driver-system"&gt;Every new car sold in the European Union must include a driver monitoring camera&lt;/a&gt; — Reports on a new EU mandate requiring driver-monitoring cameras in all new cars sold in the bloc. (&lt;a href="https://news.ycombinator.com/item?id=48823557"&gt;discussion&lt;/a&gt;, 653 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/"&gt;Microsoft fire idTech team at Id software&lt;/a&gt; — Most or all of id Software's idTech engine developers were reportedly laid off as part of sweeping Xbox-wide cuts of roughly 3,200 roles. (&lt;a href="https://news.ycombinator.com/item?id=48819244"&gt;discussion&lt;/a&gt;, 601 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html"&gt;Chat Control passed first round in EU Parliament&lt;/a&gt; — Parliament narrowly voted 331–304 to fast-track reinstating the expired voluntary CSAM-scanning derogation, setting up a decisive vote requiring an absolute majority to stop it. (&lt;a href="https://news.ycombinator.com/item?id=48819008"&gt;discussion&lt;/a&gt;, 572 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://30papers.com/"&gt;30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format&lt;/a&gt; — A beginner-friendly presentation of the 30 machine learning papers reportedly recommended by Ilya Sutskever. (&lt;a href="https://news.ycombinator.com/item?id=48819608"&gt;discussion&lt;/a&gt;, 529 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/"&gt;98% isn't much&lt;/a&gt; — An essay arguing that 98% support/reliability sounds impressive but actually excludes millions of people or represents a serious failure rate for basic expectations like web feature support. (&lt;a href="https://news.ycombinator.com/item?id=48816959"&gt;discussion&lt;/a&gt;, 499 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"&gt;Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro&lt;/a&gt; — Walkthrough of running the 82M-parameter Kokoro TTS model locally via a CPU-only Docker container with an OpenAI-compatible API, producing realistic multilingual speech even on older hardware. (&lt;a href="https://news.ycombinator.com/item?id=48821576"&gt;discussion&lt;/a&gt;, 420 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-08.html"/>
-    <published>2026-07-08T07:00:00-04:00</published>
   </entry>
 </feed>
