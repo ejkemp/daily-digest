@@ -2,13 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-23T10:30:07.520984+00:00</updated>
+  <updated>2026-08-24T10:30:11.210436+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-24</id>
+    <title>Daily Digest — Monday, August 24, 2026</title>
+    <updated>2026-08-24T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"&gt;The Democratic Autonomous Administration of North and East Syria ends its autonomous rule following its full integration into Syria.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zambian_general_election"&gt;President Hakainde Hichilema wins the Zambian general election for a second consecutive term.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 87 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grand_Opera_House_(London,_Ontario)"&gt;... that the Grand Opera House staged plays with a star who spoke only Italian amidst an English-speaking ensemble?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statue_of_Dante_Alighieri_(Meridian_Hill_Park)"&gt;... that the dedication of a statue of Dante Alighieri in Washington, D.C., was described as an "international love feast" between French and Italian officials?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Reagan_Wilson"&gt;... that a topless picture of Reagan Wilson went to the Moon?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Death%27s_Head_(Marvel_Comics)"&gt;... that a popular Marvel villain appeared in the Transformers and Doctor Who franchises before joining the Marvel Universe?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quezon_(film)"&gt;... that 64 desks were made for a sequence in Quezon in which characters' movements imitate the Immortal Game ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ptolemy_of_Mauretania"&gt;... that Cleopatra's grandson Ptolemy of Mauretania was executed by his cousin, the Roman emperor Caligula?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/University_of_Yangon"&gt;... that the construction of the University of Yangon was partly funded by gambling fairs organised by local officials across Burma?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mollie_Lambert_(actress)"&gt;... that Mollie Lambert had to wear a wig of dreadlocks for her Hollyoaks role?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MoM-BH*-1"&gt;... that MoM-BH*-1 may be the first black-hole star discovered?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dutch_expedition_to_Valdivia"&gt;1643 – A Dutch expedition (depicted) arrived at the mouth of the Valdivia River, in present-day Chile, to establish a new colony in the ruins of the abandoned Spanish settlement of Valdivia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Burning_of_Washington"&gt;1814 – War of 1812 : British forces invaded Washington, D.C., setting fire to various U.S. government buildings, including the White House.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Eastern_Solomons"&gt;1942 – World War II : At the Battle of the Eastern Solomons, bombers from the U.S. aircraft carrier Saratoga sank the Japanese aircraft carrier Ryūjō near Santa Isabel Island, contributing to an Allied victory.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hurricane_Andrew"&gt;1992 – Hurricane Andrew, the third-most intense Category 5 cyclone to impact the United States in the 20th century, made landfall in southern Florida.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yaz8nx4ogZmiqHzt7/what-just-happened-pragmatism-and-pessimization"&gt;What just happened? Pragmatism and Pessimization&lt;/a&gt; (153 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LP6uCXs6Ea5qSbWpY/twenty-years-from-rsi-to-takeoff-slow-learning-scaling"&gt;Twenty Years from RSI to Takeoff: Slow Learning, Scaling Slowdown, Industrial Explosion&lt;/a&gt; (106 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ALmBydH53DE3dSzCh/utilities-as-legendre-duals-of-probabilities"&gt;Utilities as Legendre duals of probabilities&lt;/a&gt; (53 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-24.html"/>
+    <published>2026-08-24T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-23</id>
     <title>Daily Digest — Sunday, August 23, 2026</title>
@@ -1399,44 +1440,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-10.html"/>
     <published>2026-07-10T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-09</id>
-    <title>Daily Digest — Thursday, July 9, 2026</title>
-    <updated>2026-07-09T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The International Olympic Committee provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_%C3%89c%C3%B4ne_consecrations"&gt;The Catholic Church declares the Society of Saint Pius X to be in schism and excommunicates its members following a consecration dispute.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pizza_Cat"&gt;... that Pizza Cat, a cat living at Al Udeid Air Base, was awarded the rank of "Senior Meowster Sergeant" by the United States Air Force?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%C3%86lfhun_(bishop_of_London)"&gt;... that Ælfhun, Bishop of London, was accused of trying to remove the body of St Edmund, but the bier was said to have miraculously refused to move?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eom_Heung-do"&gt;... that a local official of the Joseon dynasty secretly buried the body of King Danjong despite King Sejo 's threats to kill the family of anyone who did so?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Petal_(album)"&gt;... that Ariana Grande claimed that she would need two brains and six arms to produce her eighth album before announcing Petal ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Execution_ballad"&gt;... that a type of ballad details the fictionalized last words of executed people?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Susie_Pop"&gt;... that a fixture of Madrid nightlife in the 1990s was a trans girl who was often seen at concerts wearing a large picture hat?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fae_Farm"&gt;... that Gambit Digital acquired the rights to the 2023 video game Fae Farm five days after the original developer ended online support in September 2025?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tschirnhausen_cubic"&gt;... that a dog chasing its master and a crab sidestepping an intruder can both be modeled mathematically by motion along a Tschirnhausen cubic ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hushahu"&gt;... that soon after the general Hushahu, fearing harsh punishment, assassinated his emperor, another general, also fearing harsh punishment, murdered him?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/551_Beirut_earthquake"&gt;551 – An estimated 30,000 people died when a massive earthquake struck the Roman province of Phoenice.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mozart_family_grand_tour"&gt;1763 – The Mozart family grand tour began, presenting the child prodigies Maria Anna and Wolfgang Amadeus across Western Europe.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)"&gt;1981 – Nintendo released the arcade game Donkey Kong, which featured the debut of Mario, one of the most famous characters in video-game history.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final"&gt;2006 – Italy won their fourth FIFA World Cup title, defeating France 5–3 on penalties following a 1–1 draw after extra time.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_Prophet_III"&gt;2008 – Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"&gt;Notes on technical alignment via human-like social drives&lt;/a&gt; by Steven Byrnes — A sprawling, deconfusion-focused writeup exploring whether human innate social and moral drives can serve as a technical starting point for aligning brain-like AGI, covering failure modes like wrong moral circles and consequentialism squashing virtue-ethics motivations. (52 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control"&gt;Modular Pretraining Enables Access Control&lt;/a&gt; by E.Roland — Researchers from AE Studio and Anthropic introduce GRAM, a method that isolates dangerous knowledge (e.g. virology, cybersecurity) into switchable modules within a single trained model, approximating the effect of training multiple separately-filtered models at a fraction of the cost. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-09.html"/>
-    <published>2026-07-09T07:00:00-04:00</published>
   </entry>
 </feed>
