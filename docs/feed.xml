@@ -2,13 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-24T10:30:11.210436+00:00</updated>
+  <updated>2026-08-25T10:30:08.032951+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-25</id>
+    <title>Daily Digest — Tuesday, August 25, 2026</title>
+    <updated>2026-08-25T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"&gt;The Democratic Autonomous Administration of North and East Syria ends its autonomous rule following its full integration into Syria.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zambian_general_election"&gt;President Hakainde Hichilema wins the Zambian general election for a second consecutive term.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 100 deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kane_Parsons"&gt;... that Kane Parsons became the youngest director to have a film open at the top of the North American box office?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L/CPL_Thomas_P._Noonan_Jr._Playground"&gt;... that Robert Moses defended the site of a planned playground after local civic workers complained that the location was too rocky?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_20/20_Experience"&gt;... that the songs on The 20/20 Experience use different metaphors for sex, including drugs, candy, and outer space?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Laura_F._Edwards"&gt;... that historian Laura F. Edwards attended a music school that she said "actually diverted [her] away from music"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paradise_Island_Adventure_Golf"&gt;... that a miniature golf chain is an affiliate member of both England and Scotland's national governing bodies for golf?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rose_Njeri"&gt;... that Kenyan coder Rose Njeri was arrested for creating a tool to help citizens voice their opposition to a change in tax laws?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Manuscript_Hamilton_254"&gt;... that Manuscript Hamilton 254 contains the oldest known extant drawing of the Parthenon?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Janielle_Josephs"&gt;... that Jamaican runner Janielle Josephs took up athletics in part because she "wanted to miss school"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Runaway_(painting)"&gt;... that the police officer and the young boy who modeled for one of Norman Rockwell's most famous paintings became lifelong friends?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_Mouzalon"&gt;1258 – George Mouzalon, the regent of the Empire of Nicaea, was assassinated as part of a conspiracy led by nobles under the future emperor Michael VIII Palaiologos.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_Moon_Hoax"&gt;1835 – The New York Sun perpetrated the Great Moon Hoax, publishing articles about the supposed discovery of life on the Moon.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sack_of_Louvain"&gt;1914 – World War I : During the sack of Louvain in Belgium, German troops burned the town's Catholic university, destroying hundreds of medieval manuscripts.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aaliyah"&gt;2001 – American singer Aaliyah and several members of her record company were killed when their overloaded aircraft crashed shortly after takeoff from Marsh Harbour Airport in The Bahamas.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2011_Monterrey_casino_attack"&gt;2011 – Mexican drug war : Fifty-two people were killed in an arson attack at a casino in Monterrey, Mexico.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"&gt;How Europe is killing makers and micro-entrepreneurs&lt;/a&gt; (1388 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/lemire/status/2091894299289874926"&gt;Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded&lt;/a&gt; (881 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"&gt;MS Paint and Photos inivisibly watermark even locally generated output with GUID&lt;/a&gt; (722 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bbc.com/news/articles/c62m4gpnp78o"&gt;Oceans hit highest temperature on record&lt;/a&gt; (574 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larsfaye.com/articles/ai-coding-will-prevent-expertise"&gt;Coding expertise is going to collapse from AI reliance&lt;/a&gt; (514 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sf.thijs.gg/"&gt;The entire city of San Francisco as a video game&lt;/a&gt; (476 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/news/?id=1ptvdtcm"&gt;iCloud+ Hide My Email addresses will remain on icloud.com&lt;/a&gt; (472 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cr5pyW7Mzm33p4AvN/ai-safety-acculturation-is-neglected"&gt;AI Safety Acculturation is Neglected&lt;/a&gt; (143 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-25.html"/>
+    <published>2026-08-25T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-24</id>
     <title>Daily Digest — Monday, August 24, 2026</title>
@@ -1390,55 +1440,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-11.html"/>
     <published>2026-07-11T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-10</id>
-    <title>Daily Digest — Friday, July 10, 2026</title>
-    <updated>2026-07-10T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The International Olympic Committee provisionally lifts its suspension of the Russian Committee.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Peruvian_general_election"&gt;Keiko Fujimori is elected President of Peru.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_%C3%89c%C3%B4ne_consecrations"&gt;The Catholic Church declares the Society of Saint Pius X to be in schism and excommunicates its members following a consecration dispute.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_(moon)"&gt;... that Uranus's moon Margaret is named after a Shakespearean character, an astronomer's daughter, and its discoverer's mother?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Akengbuda"&gt;... that, when King Akengbuda 's heir sent him grey hairs to urge his abdication, he replied with powdered chalk and salt to signify that the world was too pleasant for him to leave?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kampala_%E2%80%93_Hamburg:_Roman_einer_Flucht"&gt;... that author Lutz Van Dijk drew inspiration from murdered Ugandan LGBTQ activist David Kato to write a novel about a gay Ugandan teenager fleeing persecution?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pedro_Morales_Pino"&gt;... that, when Pedro Morales Pino took his band on their first international tour, they lost members to typhus, marriage, schizophrenia, and suicide?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Spinocerebellar_ataxia_type_7"&gt;... that spinocerebellar ataxia type 7 is the only type of spinocerebellar ataxia that consistently results in vision degradation?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/K%C4%81neikokala"&gt;... that the shark god Kāneikokala, according to Hawaiian tradition, rescued shipwrecked sailors and returned them to their home islands?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/King_(Kanye_West_song)"&gt;... that Kanye West claims in his song " King " that he would not have married Bianca Censori without the work of Martin Luther King Jr. ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maria_Afonso"&gt;... that the reliquary believed to contain the remains of Maria Afonso may instead hold the body of her infant nephew?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sheikh_Chilli_(folklore)"&gt;... that Sheikh Chilli may not be Sheikh Chilli ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Tagilde"&gt;1372 – The Treaty of Tagilde was signed between Ferdinand I of Portugal and representatives of John of Gaunt of England, marking the beginning of the Anglo-Portuguese Alliance, which remains in effect today.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lady_Jane_Grey"&gt;1553 – Lady Jane Grey was proclaimed the successor to King Edward VI of England, beginning her disputed reign as the "Nine Days' Queen".&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bloody_Sunday_(1921)"&gt;1921 – Irish War of Independence : One day after a truce was agreed between the Irish Republican Army and British forces, violence broke out between Catholics and Protestants in Belfast.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jedwabne_pogrom"&gt;1941 – The Holocaust : Ethnic Poles murdered at least 340 Jewish residents of Jedwabne in German-occupied Poland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)"&gt;2011 – The Russian river cruise liner Bulgaria was caught in a storm in Tatarstan on the Volga and sank in several minutes, resulting in 122 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"&gt;EU Parliament greenlights Chat Control 1.0&lt;/a&gt; — The European Parliament allowed suspicionless mass scanning of private messages to resume until 2028 after a rejection motion narrowly failed to reach the required majority. (&lt;a href="https://news.ycombinator.com/item?id=48843923"&gt;discussion&lt;/a&gt;, 1409 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/gpt-5-6/"&gt;GPT-5.6&lt;/a&gt; — OpenAI launched the GPT-5.6 model family (Sol, Terra, Luna), claiming state-of-the-art coding and agentic performance at lower cost than competing frontier models. (&lt;a href="https://news.ycombinator.com/item?id=48849066"&gt;discussion&lt;/a&gt;, 1300 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://18words.com/"&gt;Show HN: 18 Words&lt;/a&gt; — A word game where you must find a word using all the given letters before time runs out. (&lt;a href="https://news.ycombinator.com/item?id=48845049"&gt;discussion&lt;/a&gt;, 1005 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hy.tencent.com/research/hy3"&gt;Hy3&lt;/a&gt; — Tencent research release; no article content was available to summarize. (&lt;a href="https://news.ycombinator.com/item?id=48847552"&gt;discussion&lt;/a&gt;, 480 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/"&gt;The glass backbone: Why the Army's logistics will break in the next war&lt;/a&gt; — Argues the US Army's logistics model, built for permissive environments, is dangerously exposed in a peer conflict, drawing on lessons from Operation Barbarossa and the war in Ukraine. (&lt;a href="https://news.ycombinator.com/item?id=48845442"&gt;discussion&lt;/a&gt;, 381 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"&gt;Muse Spark 1.1&lt;/a&gt; — Meta introduced Muse Spark 1.1, a multimodal agentic reasoning model with improved tool use, coding, and computer-use capabilities, alongside a public Meta Model API preview. (&lt;a href="https://news.ycombinator.com/item?id=48846184"&gt;discussion&lt;/a&gt;, 375 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/pFzctpJBat95SrCyC/ai-2040-plan-a"&gt;AI 2040: Plan A&lt;/a&gt; by Daniel Kokotajlo — The AI Futures Project's new detailed scenario recommending a path where superintelligence is delayed to 2040 through decisive US and Chinese government action. (274 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BBd2EJywf2xXftyFn/selective-optimism-a-critique-of-ai-2040"&gt;Selective Optimism: a critique of AI 2040&lt;/a&gt; by Richard_Ngo — A paid consultant's critique arguing AI 2040 blurs the line between forecast and recommendation, particularly around the abruptness of its proposed AI handover. (112 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Bc4Ch63cx8KHdQABw/how-big-is-the-sun-how-could-you-figure-it-out"&gt;How big is the Sun? How could you figure it out?&lt;/a&gt; by Elliott Thornley — Walks through the ancient Greek reasoning chain—round Earth, disappearing ships, Eratosthenes' shadow trick—that led to estimating the Sun's size and distance. (68 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LQXWiF8PyJ5ojNsEv/how-robust-are-natural-language-autoencoders-to"&gt;How robust are natural language autoencoders to initialization?&lt;/a&gt; by michaelzhang — Finds that natural language autoencoders can achieve near-normal reconstruction accuracy even when initialized with implausible explanations, casting doubt on their interpretability usefulness. (54 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-10.html"/>
-    <published>2026-07-10T07:00:00-04:00</published>
   </entry>
 </feed>
