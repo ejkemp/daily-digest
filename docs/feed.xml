@@ -2,13 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-28T10:30:06.066446+00:00</updated>
+  <updated>2026-08-29T10:30:11.074942+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-29</id>
+    <title>Daily Digest — Saturday, August 29, 2026</title>
+    <updated>2026-08-29T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yayoi_Kusama"&gt;Japanese contemporary artist Yayoi Kusama dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ratko_Mladi%C4%87"&gt;Bosnian Serb military officer and convicted war criminal Ratko Mladić dies in prison at the age of 84.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nepal_floods"&gt;More than 600 people are killed after flash flooding in the Rasuwa and Nuwakot Districts of Nepal and along the China–Nepal border.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Qi_Zai"&gt;... that Qi Zai is the world's only brown-and-white giant panda living in captivity?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Chweya"&gt;... that Kenyan waste picker John Chweya rose to represent waste pickers at UN conferences?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Red_Dwarf:_Titan"&gt;... that Rob Grant co-created Red Dwarf and its recent prequel, but he never saw the publication of the latter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Josephine_Jackson"&gt;... that pornographic actress Josephine Jackson left Ukraine despite her philanthropic activities in support of army veterans?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_People%27s_House:_A_White_House_Experience"&gt;... that you can sit in an Oval Office at the The People's House: A White House Experience ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Attaher_Ma%C3%AFga"&gt;... that Attaher Maïga went from being punished for participating in a labor strike in French Sudan to becoming a member of its legislative assembly within six years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Be_Like_Water_(song)"&gt;... that " Be Like Water " is a Mandarin Chinese song recorded by two Malaysian Malay singers?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Empress_Xiaojing_(Wanli)"&gt;... that Empress Xiaojing was blind by the time she was reunited with her son after nearly thirty years of separation, and died shortly thereafter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yorkville_Library"&gt;... that, despite funding 65 Carnegie libraries in New York City, Andrew Carnegie was prevented from attending the opening of the first one ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daniel_Shays"&gt;1786 – Angered by high tax burdens and disfranchisement, farmers in western Massachusetts led by Daniel Shays began an armed uprising against the U.S. federal government.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_battleship_Slava"&gt;1903 – Slava, the last of five Borodino -class battleships, was launched by the Imperial Russian Navy.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jones_Law_(Philippines)"&gt;1916 – Congress passed the Philippine Autonomy Act, the first formal and official declaration of the U.S.'s commitment to grant independence to the Philippines.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack"&gt;1984 – Followers of Osho began deliberately infecting people in The Dalles, Oregon, with Salmonella in the first and largest bioterrorist attack in United States history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2007_United_States_Air_Force_nuclear_weapons_incident"&gt;2007 – Six nuclear warheads were mistakenly loaded onto a United States Air Force heavy bomber that flew from North Dakota to Louisiana.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"&gt;GUIs should be fully keyboard-driven&lt;/a&gt; (810 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huggingface.co/zai-org/GLM-5.3"&gt;GLM-5.3 is now open-weight&lt;/a&gt; (702 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.refund4freedom.org/"&gt;Get your Windows license refund&lt;/a&gt; (683 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"&gt;Htmx 4.0&lt;/a&gt; (662 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"&gt;“It works better in the app”&lt;/a&gt; (657 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.inventati.org/"&gt;U.S. sanctions against the A/I Collective&lt;/a&gt; (605 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"&gt;Our decision on Cursor following its acquisition by SpaceX&lt;/a&gt; (533 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.orbify.eu/demo/"&gt;Inception-style curved map for turn-by-turn directions&lt;/a&gt; (506 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-29.html"/>
+    <published>2026-08-29T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-28</id>
     <title>Daily Digest — Friday, August 28, 2026</title>
@@ -1417,59 +1463,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-15.html"/>
     <published>2026-07-15T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-14</id>
-    <title>Daily Digest — Tuesday, July 14, 2026</title>
-    <updated>2026-07-14T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Almer%C3%ADa_wildfire"&gt;Thirteen people are killed and twenty-three others are reported missing in a wildfire in Los Gallardos, Spain.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_2026_Balochistan_attacks"&gt;A series of coordinated attacks across Pakistan's Balochistan province leaves at least forty-two people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Olympic_Committee"&gt;The IOC provisionally lifts its suspension of the Russian Olympic Committee.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup_final"&gt;In cricket, the Women's T20 World Cup concludes with Australia defeating England in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Reine_Audu"&gt;... that the fruit seller Reine Audu was jailed after the march on Versailles in 1789 for announcing her intention to "[bring] back the Queen's head on her sword", among other charges?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Logempr%C3%A9"&gt;... that an abandoned château in an advanced state of ruin was saved with €500,000 from a lottery?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Villiers-le-Bel_series"&gt;... that in 1976, thieves tied up an art collector, stole a painting, and were never caught?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gandriau"&gt;... that mothers believed that taking young children to the grave of the Petite-Émigrée would help them to walk early?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Astier_de_Villatte"&gt;... that a French company revived a favorite perfume of the ancient Roman nobility in 2023?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mur_de_la_peste"&gt;... that a two-metre-high (6 ft 5 in) wall of dry stone was built in 1721 to stop the advance of the Great Plague of Marseille ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierre_No%C3%ABl_Lecauchois"&gt;... that Pierre Noël Lecauchois 's client was almost burned at the stake because the order to stay her execution was delayed?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Poule_au_pot"&gt;... that Good King Henry allegedly said that he wanted every farmer to have a chicken in a pot ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierre-Amable_de_Soubrany"&gt;... that the corpse of Pierre-Amable de Soubrany was guillotined ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Louis_VIII_of_France"&gt;1223 – Louis VIII began his three-year reign as King of France.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alien_and_Sedition_Acts"&gt;1798 – The Sedition Act became law, making it a federal crime to write, publish, or utter false or malicious statements about the U.S. federal government.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_ascent_of_the_Matterhorn"&gt;1865 – A seven-man mountaineering team made the first ascent of the Matterhorn, marking the end of the golden age of alpinism.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Northwest_Orient_Airlines_Flight_1-11"&gt;1960 – Northwest Orient Airlines Flight 1-11 ditched off Polillo Island in the Philippines, killing one person and injuring 44 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carlton_Complex_Fire"&gt;2014 – Lightning strikes started four fires in the Methow Valley in the U.S. state of Washington, collectively known as the Carlton Complex Fire.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://get-inscribe.com/blog/apple-speech-api-benchmark.html"&gt;Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor&lt;/a&gt; (538 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://19thnews.org/2026/07/noaa-climate-data-website/"&gt;Former NOAA employees built Climate.us to preserve climate data and resources&lt;/a&gt; (503 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"&gt;Japan develops a method to recover up to 90% of lithium from used EV batteries&lt;/a&gt; (499 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/a_green_being/status/2076598897779020159"&gt;Grok uploaded my user directory to xAI's servers&lt;/a&gt; (499 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"&gt;Building and shipping Mac and iOS apps without opening Xcode&lt;/a&gt; (481 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"&gt;LAPD lets contract with surveillance giant Flock expire&lt;/a&gt; (453 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/a_green_being/status/2076598897779020159"&gt;Grok CLI uploaded the whole home directory to GCS&lt;/a&gt; (407 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://superdario.pawb.de"&gt;Show HN: Super Dario&lt;/a&gt; (384 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jivx.com/densha"&gt;A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese&lt;/a&gt; (366 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sFkYA5CwZCWYQ9nzB/the-whitney-biennial-should-admit-that-emilie-gossiaux-wants"&gt;The Whitney Biennial Should Admit That Emilie Gossiaux Wants to Fuck Their Dog&lt;/a&gt; (113 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/RPgHythvMKh6eG9pS/our-response-to-seb-krier-on-plan-a"&gt;Our response to Séb Krier on Plan A&lt;/a&gt; (93 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/tC463N9mHcmimQ5dZ/pausing-ai-at-human-level-seems-harder-than-pausing-asap"&gt;Pausing AI at human level seems harder than pausing ASAP&lt;/a&gt; (62 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/e8r7DjZRNcKKkE9zv/it-s-2030-and-we-fucked-up-how-did-it-happen"&gt;It’s 2030 and we fucked up. How did it happen?&lt;/a&gt; (61 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-14.html"/>
-    <published>2026-07-14T07:00:00-04:00</published>
   </entry>
 </feed>
