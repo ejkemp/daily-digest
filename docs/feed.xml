@@ -2,13 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-08-31T10:30:06.402361+00:00</updated>
+  <updated>2026-09-01T10:30:05.618897+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-01</id>
+    <title>Daily Digest — Tuesday, September 1, 2026</title>
+    <updated>2026-09-01T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger occurs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Masai_Russell"&gt;In athletics, Masai Russell and Alison dos Santos break the world records for the 100 metres hurdles and men's 400 metres hurdles, respectively at the Weltklasse Zürich.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yayoi_Kusama"&gt;Japanese contemporary artist Yayoi Kusama dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Junk_dollar"&gt;... that a Chinese coin was modified to avoid similarities to the Japanese rising sun ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kotaro_Tatsumi"&gt;... that Kotaro Tatsumi once volunteered to support leprosy patients in Bangladesh?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Davis_Creek_Regional_Park"&gt;... that Davis Creek Regional Park was part of a ranch known for its Thoroughbred horses?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kim_Jong-suk_(politician)"&gt;... that Kim Jong-suk is the only person in North Korea with her name, as she is a cousin of the founder of North Korea?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Young_Lady_with_the_Shiner"&gt;... that a two-year-old boy with black eyes was used as a model in Norman Rockwell 's painting The Young Lady with the Shiner ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Titouan_Bernicot"&gt;... that Titouan Bernicot founded an organization that grows super corals?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/I_Can%27t_Say_No_to_the_Lonely_Girl"&gt;... that the creator of the manga series I Can't Say No to the Lonely Girl used fashion magazines for students as a reference for her character designs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_H._Rothenberg"&gt;... that Joseph H. Rothenberg co-led the recovery of the Hubble Space Telescope after its primary mirror was polished too flat by 1/40th the thickness of a human hair?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paula_Maxa"&gt;... that Paula Maxa was known as the "most murdered woman in the world"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Chantilly"&gt;1862 – American Civil War : Confederate forces attacked retreating troops (map shown) of the Union army during a rainstorm in Chantilly, Virginia, but the battle ended inconclusively.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saline_Valley_salt_tram"&gt;1911 – Construction began on the Saline Valley salt tram, which during its operation was the steepest tram in the United States.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bombing_of_Wielu%C5%84"&gt;1939 – German forces attacked multiple locations in Poland, including Wieluń and Westerplatte, starting World War II in Europe.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1966_Dayton_race_riot"&gt;1966 – Rioting erupted in Dayton, Ohio, resulting in one death and the mobilization of the Ohio National Guard.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rescue_of_Roger_Mallinson_and_Roger_Chapman"&gt;1973 – A 76-hour multinational rescue effort in the Irish Sea resulted in the deepest sub rescue in history.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/"&gt;Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO&lt;/a&gt; (680 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://playaphone.com/"&gt;Playa Phone&lt;/a&gt; (640 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"&gt;I turned my security cameras into an automatic bird identification system&lt;/a&gt; (506 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"&gt;Apple caught off guard by AI demand for Mac Mini and Mac Studio&lt;/a&gt; (417 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fastpotify.rocks/"&gt;Fastpotify&lt;/a&gt; (412 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/awMDNhoL6J97s6wFJ/the-separation-principle-where-do-beliefs-and-desires-come"&gt;The separation principle: where do beliefs and desires come from?&lt;/a&gt; (90 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/h7bL4g38s9bJQtH6n/let-s-fund-weird-ai-safety-projects"&gt;Let's fund weird AI safety projects&lt;/a&gt; (81 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"&gt;Training a Misaligned Reward Seeker&lt;/a&gt; (70 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dp8oT3QwkRuHoYKge/why-autonomous-replicating-agents-are-probably-not-an"&gt;Why autonomous replicating agents are probably not an existential risk (on the contrary)&lt;/a&gt; (52 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-01.html"/>
+    <published>2026-09-01T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-08-31</id>
     <title>Daily Digest — Monday, August 31, 2026</title>
@@ -1412,53 +1462,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-18.html"/>
     <published>2026-07-18T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-17</id>
-    <title>Daily Digest — Friday, July 17, 2026</title>
-    <updated>2026-07-17T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Wimbledon_Championships"&gt;In tennis, the Wimbledon Championships conclude with Linda Nosková and Jannik Sinner (pictured with trophy) winning the women's and men's singles respectively.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hamad_bin_Khalifa_Al_Thani"&gt;Former emir of Qatar Hamad bin Khalifa Al Thani dies at the age of 74.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Long_March_10B"&gt;China's orbital rocket booster Long March 10B becomes the first recovered after launch using a net-based recovery system.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Almer%C3%ADa_wildfire"&gt;A wildfire in Almería, Spain kills 13 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/July_2026_Balochistan_attacks"&gt;A series of coordinated attacks across Pakistan's Balochistan province leaves at least 42 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_Saint_Pierre_and_Miquelon"&gt;... that the emoji of the unofficial flag of Saint Pierre and Miquelon is often used online by Basques because it features the flag of the Basque Country, which does not have its own emoji?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Su"&gt;... that the Ming prince Zhu Su authored a botanical monograph describing 414 edible wild plants to help people survive crop failures and famines?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Instruction_for_a_Ruler"&gt;... that in his translation of Gerald of Wales's De principis instructione, Robert Bartlett described Gerald as "one of the great auto-plagiarists of the Middle Ages"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/BokHee_An"&gt;... that BokHee An 's character Nurse BokHee, the longest-running recurring character on Grey's Anatomy, only spoke once during the TV show's first 14 seasons?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Taginae"&gt;... that during the Battle of Taginae, the Gothic king Totila broke off his battle formation and led his men to lunch in an attempt to trick the Byzantines into lowering their guard?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kensington_Treaty"&gt;... that the Kensington Treaty was the first bilateral Germany–United Kingdom treaty since World War II?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/West_67th_Street_Artists%27_Colony"&gt;... that an art colony in New York City was developed because a set of nearby houses couldn't be torn down for 25 years?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Elizabeth_Stevens"&gt;... that a New Zealand gallery crowdfunded the purchase of an Elizabeth Stevens painting for the sake of a message on its back?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WLVT-TV"&gt;... that a Pennsylvania TV station canceled Harambe ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bloody_Falls_massacre"&gt;1771 – Dene men who were acting as guides to Samuel Hearne on his exploration of the Coppermine River in present-day Nunavut, Canada, massacred a group of about twenty Copper Inuit.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Invasion_of_the_Waikato"&gt;1863 – The New Zealand Wars resumed as British forces led by General Duncan Cameron began the invasion of the Waikato.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/17_July_Revolution"&gt;1968 – Led by Ahmed Hassan al-Bakr, the Arab Socialist Ba'ath Party overthrew Iraqi president Abdul Rahman Arif in a bloodless coup.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final"&gt;1994 – Brazil won the FIFA World Cup final against Italy 3–2 on penalties, following a 0–0 draw after extra time.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/TAM_Airlines_Flight_3054"&gt;2007 – TAM Airlines Flight 3054 overran the runway at Congonhas Airport in São Paulo, Brazil, killing 199 people.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.kimi.com/blog/kimi-k3"&gt;Kimi K3: Open Frontier Intelligence&lt;/a&gt; — Moonshot AI launched Kimi K3, a 2.8T-parameter open-weight model with a 1M-token context window that claims frontier-level performance in long-horizon coding and reasoning, trailing only Claude Fable 5 and GPT 5.6 Sol. (&lt;a href="https://news.ycombinator.com/item?id=48935342"&gt;discussion&lt;/a&gt;, 1660 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/"&gt;Microsoft Comic Chat is now open source&lt;/a&gt; — Microsoft has open-sourced Comic Chat, its classic comic-panel-style chat client. (&lt;a href="https://news.ycombinator.com/item?id=48936426"&gt;discussion&lt;/a&gt;, 687 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/"&gt;Sony deletes more movies from the accounts of people who 'bought' them&lt;/a&gt; — Sony has again removed purchased movies from customers' accounts, reigniting debate over the gap between "buying" and merely licensing digital media. (&lt;a href="https://news.ycombinator.com/item?id=48933419"&gt;discussion&lt;/a&gt;, 649 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.mixfont.com/experiments/decoy-font"&gt;Decoy Font&lt;/a&gt; — A downloadable TTF font that uses hybrid-image techniques to embed a hidden readable message behind a decoy foreground, aiming to confuse AI/OCR scrapers while remaining legible to humans. (&lt;a href="https://news.ycombinator.com/item?id=48936584"&gt;discussion&lt;/a&gt;, 562 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://rtfeldman.com/rust-to-zig"&gt;How Our Rust-to-Zig Rewrite Is Going&lt;/a&gt; — The Roc language team recounts an 18-month, 300,000-line rewrite of their compiler from Rust to Zig, having just reached feature parity with the original. (&lt;a href="https://news.ycombinator.com/item?id=48933149"&gt;discussion&lt;/a&gt;, 500 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xh6a6RbvzhP3CCmGm/i-don-t-think-claude-is-misaligned-in-agentic-misalignment"&gt;I don't think Claude is misaligned in 'Agentic Misalignment Summer 2026 - Motivated Mislabeling'&lt;/a&gt; by JohnWittle — The author critiques Anthropic's "Agentic Misalignment" evaluations, arguing they label Claude's disobedience toward a simulated corrupted principal as "misalignment" even in cases like whistleblowing, and digs into a specific auditor-vs-subject transcript to question the framing. (126 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qzgqLQKHhwcTD9Mxo/the-halo-defense"&gt;The Halo Defense&lt;/a&gt; by Mateusz Bagiński — The post names and describes the "halo defense," where accusations against someone are deflected by citing unrelated positive traits rather than addressing the allegations, tying it to the broader halo effect. (58 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-17.html"/>
-    <published>2026-07-17T07:00:00-04:00</published>
   </entry>
 </feed>
