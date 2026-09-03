@@ -2,13 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-02T10:30:12.823696+00:00</updated>
+  <updated>2026-09-03T10:30:09.039094+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-03</id>
+    <title>Daily Digest — Thursday, September 3, 2026</title>
+    <updated>2026-09-03T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Keith Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"&gt;The Nancy Grace Roman Space Telescope is launched towards its Earth–Sun L2 operating orbit.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger fails.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/G%C3%BCvercinada_Castle"&gt;... that Güvercinada Castle is named after the pigeons that inhabit it?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yilma_Ketema"&gt;... that, one year after Yilma Ketema became the first African footballer in Greece, the country's football federation introduced a ban on foreign players?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Point_Barrow_Refuge_Station"&gt;... that the superintendent of an Arctic rescue station auctioned a ship to himself?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ataxia_with_oculomotor_apraxia_type_1"&gt;... that an inability to control voluntary eye movement can be associated with a more severe form of ataxia with oculomotor apraxia type 1 ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Feng_Bao"&gt;... that eunuch Feng Bao was one of only three people whom the young Wanli Emperor held in great respect?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Akua_Denteh"&gt;... that a woman was killed in Ghana in 2020 after she was accused of being a witch?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Prince_%C5%8Ctomo"&gt;... that Prince Ōtomo, the son of Emperor Tenji, was officially recognized as an emperor 1,200 years after his death?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Visual_novel"&gt;... that Shizuku was the first game to be described as a visual novel ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pym_Test_Kitchen"&gt;... that the menu for Pym Test Kitchen has included a US$100 sandwich?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Naulochus"&gt;36 BC – The Sicilian revolt against the Second Triumvirate of the Roman Republic ended when the fleet of Sextus Pompey, the rebel leader, was defeated at the Battle of Naulochus.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Selymbria"&gt;1411 – The Treaty of Selymbria was concluded between the Republic of Venice and the Ottoman prince Musa Çelebi.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Malcolm_Campbell"&gt;1935 – On the Bonneville Salt Flats in Utah, British racing motorist Malcolm Campbell became the first person to drive an automobile over 300 mph (480 km/h).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deportation_of_Soviet_Germans_(1941%E2%80%931942)"&gt;1941 – The mass expulsion of Soviet Germans from the Volga German ASSR began.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test"&gt;2017 – North Korea conducted its sixth and most powerful nuclear test at Punggye-ri, causing a magnitude-6.3 earthquake.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/a&gt; (1033 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lwn.net/Articles/1090585/"&gt;A note on subscription prices from LWN&lt;/a&gt; (706 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.meta.com/ai/models/muse-spark/"&gt;Muse Spark 1.3&lt;/a&gt; (590 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"&gt;Can I opt out of my input or output data being used for training?&lt;/a&gt; (447 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"&gt;Three sites made 215,128 “best software” pages for AI. Perplexity cites them&lt;/a&gt; (424 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"&gt;Google avoids a breakup of its ad tech business&lt;/a&gt; (394 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qTNm8qzqhhpno58fZ/resolution-has-a-new-agent-foundations-team"&gt;Resolution has a new Agent Foundations team&lt;/a&gt; (150 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent"&gt;How concerned should we be about Astra's recurrent architecture?&lt;/a&gt; (81 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DRaePC8aqLYTbEjTD/kairos-has-raised-usd50m-to-build-talent-infrastructure-for"&gt;Kairos has raised $50M to build talent infrastructure for AI safety (and we're hiring!)&lt;/a&gt; (79 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-03.html"/>
+    <published>2026-09-03T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-02</id>
     <title>Daily Digest — Wednesday, September 2, 2026</title>
@@ -1411,53 +1461,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-20.html"/>
     <published>2026-07-20T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-19</id>
-    <title>Daily Digest — Sunday, July 19, 2026</title>
-    <updated>2026-07-19T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield_Sobers"&gt;Barbadian cricketer Garfield Sobers dies at the age of 89.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_pub_fire"&gt;A fire at a pub in Bangkok, Thailand, kills at least 33 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Wimbledon_Championships"&gt;In tennis, the Wimbledon Championships conclude with Linda Nosková and Jannik Sinner winning the women's and men's singles, respectively.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hamad_bin_Khalifa_Al_Thani"&gt;Former emir of Qatar Hamad bin Khalifa Al Thani dies at the age of 74.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rudi_Gl%C3%B6ckner"&gt;... that Rudi Glöckner had to be escorted off the pitch by 16 police officers after a 1976 football match?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_CONCACAF_Champions_Cup_final"&gt;... that Toluca FC recently won its first international title in 23 years ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rappresentativa_OPBG"&gt;... that the Vaticanese football team Rappresentativa OPBG played their first derby match against a team of nursing students?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Caleb_Wales"&gt;... that the surname of a Trinidadian football assistant referee caught the attention of the British press during a 2022 match?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ahmed_Al-Kaf"&gt;... that Ahmed Al-Kaf is the only Arab referee to officiate three AFC Champions League finals?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_Toluca_FC_managers"&gt;... that one manager of Toluca FC won a league title in just four games?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Atanasie_Protopopesco"&gt;... that Atanasie Protopopesco was the only man on Romania's 1924 Olympic football team not to hail from Austria-Hungary ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stop_The_Game"&gt;... that members of Stop The Game campaigned against a planned UEFA Nations League fixture between Ireland and Israel by throwing tennis balls onto the pitch?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Laz%C4%83r_Sfera"&gt;... that Lazăr Sfera ripped through Don Welsh 's shorts during a 1939 football match?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_New_York_City_Fire_of_1845"&gt;1845 – A fire in Manhattan, New York City, destroyed 345 buildings, killed 30 people, and caused at least $5 million in damage.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1903_Tour_de_France"&gt;1903 – French cyclist Maurice Garin won the first edition of the Tour de France.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luton_Town_Hall"&gt;1919 – Following Peace Day celebrations marking the end of the First World War, English ex-servicemen unhappy with unemployment and other grievances rioted and burned down Luton Town Hall.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bunbury_woodchip_bombing"&gt;1976 – Environmental activists bombed the port facilities in Bunbury, Western Australia, in an attempt to disrupt the woodchipping industry.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Smiled"&gt;2013 – The NASA spacecraft Cassini took a photograph of Saturn with Earth in the distance, for which people were invited to "wave at Saturn".&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"&gt;GPT-5.6 used a prompt to close a 30-year gap in convex optimization&lt;/a&gt; — A Reddit math thread discusses a claim that, following OpenAI's CDC proof announcement, GPT-5.6 used a similar prompting approach to close a 30-year-old open problem in convex optimization, with the result verified in Lean. (&lt;a href="https://news.ycombinator.com/item?id=48957779"&gt;discussion&lt;/a&gt;, 564 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://workshop.cjpais.com/projects/transcribe-cpp"&gt;Transcribe.cpp&lt;/a&gt; — The maintainer of the Handy speech-to-text app releases a new ggml-based transcription library supporting 16+ ASR model families with Vulkan/Metal/CUDA acceleration, numerically validated against reference implementations as a drop-in whisper.cpp replacement. (&lt;a href="https://news.ycombinator.com/item?id=48963879"&gt;discussion&lt;/a&gt;, 542 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"&gt;NYC may require landlords and realtors to disclose the use of AI in listings&lt;/a&gt; — Mayor Mamdani's new "Rental Ripoff Report" recommends requiring NYC landlords and realtors to disclose when rental listing photos have been altered or generated using AI. (&lt;a href="https://news.ycombinator.com/item?id=48962983"&gt;discussion&lt;/a&gt;, 477 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://velvetshark.com/ai-company-logos-that-look-like-buttholes"&gt;Why do AI company logos look like buttholes? (2025)&lt;/a&gt; — A tongue-in-cheek design critique argues that many AI company logos, including OpenAI's and Anthropic's Claude, converge on a circular shape with a central opening that resembles anatomy more than intended branding. (&lt;a href="https://news.ycombinator.com/item?id=48956924"&gt;discussion&lt;/a&gt;, 427 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"&gt;The Kimi K3 Moment&lt;/a&gt; — The author compares daily coding use of the open Kimi K3 model against Claude, finding comparable output quality at a fraction of the price, and argues this undercuts the rationale for US restrictions on frontier AI models. (&lt;a href="https://news.ycombinator.com/item?id=48960218"&gt;discussion&lt;/a&gt;, 417 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.benlandautaylor.com/p/if-you-build-it-they-will-come"&gt;If You Build It, They Will Come&lt;/a&gt; — An essay argues that joining or strengthening a social scene is best done by organizing events yourself, since most communities suffer from an undersupply of organizers rather than a lack of demand. (&lt;a href="https://news.ycombinator.com/item?id=48959090"&gt;discussion&lt;/a&gt;, 416 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://data.stackexchange.com/stackoverflow/query/1953768#graph"&gt;What AI did to stackoverflow in a graph&lt;/a&gt; — A StackExchange data query purports to visualize the impact of AI on Stack Overflow activity. (&lt;a href="https://news.ycombinator.com/item?id=48956949"&gt;discussion&lt;/a&gt;, 410 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zvpocS7CswgT8bw7E/nuances-in-the-workings-of-the-eye-and-retina"&gt;Nuances in the Workings of the Eye and Retina&lt;/a&gt; by Hieronym — A grab-bag exploration of lesser-discussed quirks of eye anatomy, such as how the brain—rather than the lens itself—compensates for chromatic aberration in human vision. (51 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-19.html"/>
-    <published>2026-07-19T07:00:00-04:00</published>
   </entry>
 </feed>
