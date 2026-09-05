@@ -2,13 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-04T10:30:13.932082+00:00</updated>
+  <updated>2026-09-05T10:30:12.329965+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-05</id>
+    <title>Daily Digest — Saturday, September 5, 2026</title>
+    <updated>2026-09-05T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"&gt;The Nancy Grace Roman Space Telescope is launched towards its Earth–Sun L2 operating orbit.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger fails.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Callam_Offices"&gt;... that the structuralist pods of the Callam Offices are suspended above a floodplain?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bernhard_Luginb%C3%BChl"&gt;... that Swiss sculptor Bernhard Luginbühl made portraits of a butcher and a forester from knives and saws?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/National_Intelligence_Bureau_(Japan)"&gt;... that the National Intelligence Bureau was established because of the heightened threat by Chinese and Russian espionage operations in Japan?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_Little_Hope"&gt;... that, to reflect the witch-trials setting of The Dark Pictures Anthology: Little Hope, composer Jason Graves used out-of-tune instruments?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Obinna_Ekezie_Jr."&gt;... that Obinna Ekezie Jr. trained at an elite basketball academy in Nigeria founded by his father?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Say_Hello_to_Someone_in_Massachusetts"&gt;... that the host of a college radio station led the effort to get " Say Hello to Someone in Massachusetts " designated as the official state polka?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pangram_(AI_detector)"&gt;... that an analysis by Pangram found that 21% of peer reviews for a machine-learning conference were AI-generated?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bain_(singer)"&gt;... that K-pop singer Bain came out as gay live on stage in Los Angeles?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Repetto_Hills"&gt;... that the namesake of the Repetto Hills was tied to a tree and robbed by a bandit, attracting treasure hunters whose digging for supposed buried loot caused his house to collapse?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Swa_Saw_Ke"&gt;1367 – Swa Saw Ke became the ruler of the Kingdom of Ava in Upper Myanmar.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Casablanca_Fair_of_1915"&gt;1915 – The Casablanca Fair opened in the French protectorate in Morocco.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Landing_at_Nadzab"&gt;1943 – World War II : American and Australian airborne forces landed at Nadzab as part of the New Guinea campaign against Japan.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Voyager_1"&gt;1977 – NASA launched the space probe Voyager 1, currently the farthest spacecraft from Earth, from Launch Complex 41 at Cape Canaveral Air Force Station.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mandala_Airlines_Flight_091"&gt;2005 – Mandala Airlines Flight 091 crashed shortly after take-off in Indonesia due to pilot error, killing 100 out of the 117 people on board along with 49 more on the ground.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://collusion.wiki/"&gt;Discovery of a new OpenAI agent message board&lt;/a&gt; (1734 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"&gt;Formalizing Fermat's Last Theorem&lt;/a&gt; (622 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046"&gt;Actively exploited sandbox RCE in all Chromium versions&lt;/a&gt; (510 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx"&gt;Record-High 89% in U.S. Say Government Corruption Widespread&lt;/a&gt; (434 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/"&gt;Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive&lt;/a&gt; (390 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"&gt;Google AI Mode shows same products 21.6% more expensive than traditional search&lt;/a&gt; (383 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"&gt;Shutting down our public encrypted DNS&lt;/a&gt; (351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/7uwnsFibbejWYzF2z/discovery-of-a-new-openai-agent-message-board"&gt;Discovery Of A New OpenAI Agent Message Board&lt;/a&gt; (226 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/TfqMs3AarsHnHiwai/should-safety-researchers-quit-frontier-labs"&gt;Should safety researchers quit frontier labs?&lt;/a&gt; (70 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/QYDZzuGjrKu7wKdC8/let-s-talk-about-the-ai-coordination-problem"&gt;Let's talk about the AI coordination problem&lt;/a&gt; (58 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/g4eaRCynouiBi2LjQ/almost-nobody-is-funded-to-figure-out-what-work-would-solve"&gt;Almost nobody is funded to figure out what work would solve alignment&lt;/a&gt; (57 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-05.html"/>
+    <published>2026-09-05T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-04</id>
     <title>Daily Digest — Friday, September 4, 2026</title>
@@ -1418,56 +1472,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-22.html"/>
     <published>2026-07-22T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-21</id>
-    <title>Daily Digest — Tuesday, July 21, 2026</title>
-    <updated>2026-07-21T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Leader of the Labour Party and Prime Minister of the United Kingdom following a leadership election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final"&gt;In association football, the FIFA World Cup concludes with Spain defeating Argentina in the final.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Josh_Kerr_(runner)"&gt;British runner Josh Kerr breaks the world record for the mile run.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield_Sobers"&gt;Barbadian cricketer Garfield Sobers dies at the age of 89.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Likweli"&gt;A new species of black-and-white colobus monkey, likweli, is discovered in Lomami National Park, Democratic Republic of Congo.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saint_Andrew%27s_Chapel_(Sanford,_Florida)"&gt;... that a church in Florida withdrew from its denomination, then blocked some members from voluntarily resigning?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hammarbya"&gt;... that 360° twists in the flower stalks of the bog adder's-mouth orchid sparked a public debate between Charles Darwin and Asa Gray over the role of God in natural selection?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sunnyside_Garden_Arena"&gt;... that a Wendy's was built on the site of a Queens boxing arena where John F. Kennedy once gave a campaign address?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Traveler_(Genshin_Impact)"&gt;... that the experiences of the Traveler from Genshin Impact were compared to the Gnostic text Hymn of the Pearl ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bronx_Grit_Chamber"&gt;... that a human corpse can shut down a sewage plant ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/F%C3%A9tiche"&gt;... that Fétiche obtained a change of legal gender marker thanks to the intervention of a president?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Condom_Hut"&gt;... that Condom Hut operated in a former photo development kiosk sporting hot pink paint?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No_Fate_(Burning_Man_installation)"&gt;... that No Fate was created with materials salvaged from Black Cloud eight days after it was destroyed?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eugene_Mori"&gt;... that a successful PR campaign convinced voters to rename their town Cherry Hill, New Jersey, to promote a business owned by Eugene Mori ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paulinus_of_York"&gt;625 – Paulinus was consecrated as the first bishop of York by Justus, the archbishop of Canterbury.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Scopes_trial"&gt;1925 – American high-school biology teacher John T. Scopes was found guilty of violating Tennessee 's Butler Act by teaching evolution in class.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1946_La_Paz_riots"&gt;1946 – After weeks of unrest, rioters lynched Bolivian president Gualberto Villarroel, desecrating and hanging his corpse in the streets of La Paz.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bloody_Friday_(1972)"&gt;1972 – The Troubles : The Provisional Irish Republican Army detonated twenty-two bombs throughout Belfast, Northern Ireland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2019_Yuen_Long_attack"&gt;2019 – People returning from anti–extradition bill protests in Hong Kong were attacked by suspected triad members in Yuen Long, leaving 45 people injured.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"&gt;China's open-weights AI strategy is winning&lt;/a&gt; — Argues that US AI firms' locked-down, proprietary approach is losing to China's strategy of releasing open-weight models, turning export-control disadvantages into a distribution and ecosystem advantage. (&lt;a href="https://news.ycombinator.com/item?id=48979269"&gt;discussion&lt;/a&gt;, 1116 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://stratechery.com/2026/whos-afraid-of-chinese-models/"&gt;Who's afraid of Chinese models?&lt;/a&gt; — Stratechery argues open-weight Chinese models like Kimi K3 are reviving marginal-cost economics in AI, since inference (not R&amp;amp;D) is the real recurring cost that determines competitiveness. (&lt;a href="https://news.ycombinator.com/item?id=48977128"&gt;discussion&lt;/a&gt;, 659 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/"&gt;Hacker wipes Romania's land registry database&lt;/a&gt; — A hacker breached Romania's cadastre agency after a failed extortion attempt and wiped the country's entire land registry, halting real-estate transactions nationwide for a week. (&lt;a href="https://news.ycombinator.com/item?id=48978605"&gt;discussion&lt;/a&gt;, 648 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/"&gt;The EU is about to sell our most sensitive data to the US for visa-free travel&lt;/a&gt; — EDRi warns the EU is close to finalizing a border-security agreement giving US authorities broad access to Europeans' biometric data in exchange for keeping visa-free travel. (&lt;a href="https://news.ycombinator.com/item?id=48977711"&gt;discussion&lt;/a&gt;, 510 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country"&gt;Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, &amp;amp; Public&lt;/a&gt; — The ACLU documents Flock Safety repeatedly misleading city councils and police about its license-plate-reader capabilities, including denying then admitting it builds vehicle movement heat maps and shares data with federal agencies. (&lt;a href="https://news.ycombinator.com/item?id=48986731"&gt;discussion&lt;/a&gt;, 406 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://wren.wtf/shower-thoughts/stop-using-opencode/"&gt;Annoying and alarming things about OpenCode&lt;/a&gt; — A critical deep-dive into the popular OpenCode AI coding agent, arguing it has both severe performance inefficiencies, like invalidating LLM prompt caches, and serious security flaws. (&lt;a href="https://news.ycombinator.com/item?id=48978112"&gt;discussion&lt;/a&gt;, 392 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/"&gt;Human mathematicians are being outcounterexampled&lt;/a&gt; — A mathematician recounts recent months in which AI systems, including ChatGPT and OpenAI's Sol, generated and then fully formalized in Lean a disproof of Erdős' Unit Distance conjecture, drawing on deep results in class field theory. (&lt;a href="https://news.ycombinator.com/item?id=48983382"&gt;discussion&lt;/a&gt;, 352 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Rk57ePmRsw4C5PLm2/against-the-ai-framing-multiverse-introducing-ai-stopwatch"&gt;Against the AI framing multiverse: Introducing AI StopWatch&lt;/a&gt; by tanagrabeast — Introduces AI StopWatch, a MIRI comms team project tracking how wildly inconsistent media "frames" of AI risk are, comparing it to reading different books that share only a title. (69 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology"&gt;Drone WMDs Don't Need Any New Technology&lt;/a&gt; by Felix Choussat — Argues that existing drone technology already provides nearly all the components needed for autonomous "slaughterbot"-style weapons of mass destruction, with integration rather than new technology being the main remaining barrier. (66 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/oZzRHiSZPcjrWHeoE/stop-doing-decision-theory-without-metaphysics"&gt;Stop doing decision theory without metaphysics&lt;/a&gt; by Elias Schmied — Argues that ongoing debates over Functional Decision Theory, such as the blackmail problem, are actually unresolved metaphysical disagreements that participants aren't addressing directly. (54 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-21.html"/>
-    <published>2026-07-21T07:00:00-04:00</published>
   </entry>
 </feed>
