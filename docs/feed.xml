@@ -2,13 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-07T10:30:09.716434+00:00</updated>
+  <updated>2026-09-08T10:30:11.723270+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-08</id>
+    <title>Daily Digest — Tuesday, September 8, 2026</title>
+    <updated>2026-09-08T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Spider_pulsar"&gt;... that spider pulsars eat away their stellar mates by irradiating them?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Susan_Baur"&gt;... that turtle fan Susan Baur founded Old Ladies Against Underwater Garbage, a group of volunteers who dive to retrieve litter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garmin_Instinct"&gt;... that the Garmin Instinct line of GPS watches includes a model marketed towards truck drivers?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Spring_High"&gt;... that during Operation Spring High, American aircraft attacked a fake target made of bamboo that lured them into a trap?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rhoda_Roberts"&gt;... that Indigenous Australian cultural leader Rhoda Roberts coined the term " Welcome to Country " for a ceremony now used at the opening of Parliament and most major events?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_songs_by_Joe_Hill"&gt;... that many of Joe Hill's anti-capitalist songs borrowed the melodies of hymns and show tunes ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dominic_Thopia"&gt;... that Albanian archbishop Dominic Thopia used his influence to support his nephew after he took over Durrës in 1368?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ultimate_Robot_Knock-out_Legend"&gt;... that a life-sized humanoid robot kept fighting after having its head kicked off during the inaugural Ultimate Robot Knock-out Legend event?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_F._Hambitzer"&gt;... that Michigan State Treasurer Joseph F. Hambitzer, along with two other officials, was removed from office for gross neglect of duty?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r"&gt;1566 – Ottoman–Habsburg wars : Ottoman forces led by Suleiman the Magnificent captured the fortress of Szigetvár in Hungary, but were forced to end their campaign to take Vienna.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Geist_und_Seele_wird_verwirret,_BWV_35"&gt;1726 – J. S. Bach led the first performance of Geist und Seele wird verwirret, a solo cantata for alto voice.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Bassano"&gt;1796 – French Revolutionary Wars : Led by Napoleon, French forces defeated the Austrians at the Battle of Bassano in Veneto, Italy.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Severn_Bridge"&gt;1966 – Queen Elizabeth II opened the Severn Bridge, linking South Gloucestershire in England and Monmouthshire in Wales.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gerald_Ford"&gt;1974 – Watergate scandal : U.S. president Gerald Ford gave his recently resigned predecessor Richard Nixon a controversial full and unconditional pardon for any crimes he committed while in office.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"&gt;De-Brainrot Vacations&lt;/a&gt; (486 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"&gt;Mistral raises €3B&lt;/a&gt; (476 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/iczelia/bzip3"&gt;bzip3&lt;/a&gt; (408 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"&gt;Bill Gates tries to install MovieMaker (2003)&lt;/a&gt; (397 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jellyfin.org/posts/jellyfin-release-12.0/"&gt;Jellyfin 12.0&lt;/a&gt; (382 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6j3kBHdowGLCeqobg/dear-god-please-do-not-resign-in-protest"&gt;Dear God, Please Do Not Resign In Protest&lt;/a&gt; (137 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/S7e7swkWDyKdtvRqM/the-scramble-getting-in-position-to-pace-the-frontier"&gt;The Scramble: getting in position to pace the frontier&lt;/a&gt; (68 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ZxC23QApzYPgcYXpz/the-magnus-challenge"&gt;The Magnus Challenge&lt;/a&gt; (63 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-08.html"/>
+    <published>2026-09-08T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-07</id>
     <title>Daily Digest — Monday, September 7, 2026</title>
@@ -1412,54 +1461,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-25.html"/>
     <published>2026-07-25T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-24</id>
-    <title>Daily Digest — Friday, July 24, 2026</title>
-    <updated>2026-07-24T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu_Deng"&gt;In mathematics, the Fields Medal is awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega announces the suspension of the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_S%C3%A3o_Tom%C3%A9an_presidential_election"&gt;Carlos Vila Nova is re-elected President of São Tomé and Príncipe.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sixth_Doctor"&gt;... that the Sixth Doctor had his outfit designed to be "totally tasteless"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Central_Intelligence_Agency_v._Sims"&gt;... that the CIA was permitted in Central Intelligence Agency v. Sims to withhold the identities of researchers who worked on MKUltra, a project involving human experimentation?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Silver_Iocovozzi"&gt;... that Silver Iocovozzi, a Food &amp;amp; Wine Best New Chef, first dreamed of becoming an architect?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/K%CA%BC%C3%ABgit_pole"&gt;... that, for the Kʼëgit pole to be sold and taken to Paris, its buyer had to pay CA$ 100 and symbolically marry a dead woman?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Obanosa"&gt;... that, according to tradition, King Obanosa ordered his mother's death but still performed her royal funeral rites only days before his own death?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Geology_of_Middle-earth"&gt;... that several scientists have attempted to interpret and explain the geology of Middle-earth ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Endogenization"&gt;... that around 8% of the human genome consists of DNA acquired from viruses through a process known as endogenization ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tennessee_State_Capitol_artwork,_monuments,_and_memorials"&gt;... that the tombs of U.S. President James K. Polk and First Lady Sarah Childress Polk are some of the many memorials and monuments at the Tennessee State Capitol ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Diana_Armstrong_(world_record_holder)"&gt;... that Diana Armstrong has 42 feet (13 m) of fingernails?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Maysalun"&gt;1920 – Franco-Syrian War : At the Battle of Maysalun, forces of the Arab Kingdom of Syria were defeated by a French army moving to occupy the territory allocated to them by the San Remo conference.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fourth_Test,_1948_Ashes_series"&gt;1948 – Australia set a world record for the highest successful run-chase in Test cricket history during the Fourth Test of the Ashes series against England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Metapolitefsi"&gt;1974 – The Metapolitefsi period began with Konstantinos Karamanlis taking office as Prime Minister of Greece after the collapse of the military junta.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bridgeton_incident"&gt;1987 – Iran–Iraq War : In opposition to the American plan to protect Kuwaiti tankers, Iran laid mines and damaged SS Bridgeton, resulting in a propaganda victory for Iran.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Air_Alg%C3%A9rie_Flight_5017"&gt;2014 – Air Algérie Flight 5017 disappeared from radar shortly after take-off from Ouagadougou, Burkina Faso; its wreckage was found the following day in Mali with no survivors.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"&gt;Writing by hand is good for your brain&lt;/a&gt; — Neal Stephenson argues handwriting engages more of the brain than typing, and shares 25 years of tips (use a fountain pen or gel pen, not pencil or cheap ballpoint) for writing longhand without strain. (&lt;a href="https://news.ycombinator.com/item?id=49022152"&gt;discussion&lt;/a&gt;, 1326 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"&gt;Startup founders urge U.S. government not to shut off Chinese open weight AI&lt;/a&gt; — Startup founders are lobbying the U.S. government against restricting access to Chinese open-weight AI models. (&lt;a href="https://news.ycombinator.com/item?id=49023016"&gt;discussion&lt;/a&gt;, 947 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"&gt;AI Companies Are Trying to Hide a Staggering Amount of Debt&lt;/a&gt; — A Nikkei Asia investigation found Alphabet, Microsoft, Amazon, Meta, and Oracle are hiding an estimated $1.65 trillion in off-balance-sheet debt from data center buildouts, drawing comparisons to Enron's collapse. (&lt;a href="https://news.ycombinator.com/item?id=49020999"&gt;discussion&lt;/a&gt;, 650 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49028037"&gt;Tell HN: Namecheap gave my account to an unverified third party&lt;/a&gt; — A poster describes how Namecheap support handed control of their domain account to an unverified caller who simply asked, exposing a serious account-security vulnerability. (&lt;a href="https://news.ycombinator.com/item?id=49028037"&gt;discussion&lt;/a&gt;, 436 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"&gt;What happened to TheNumbers.com&lt;/a&gt; — The trusted film-industry data site TheNumbers.com vanished for over a week and returned stripped of most of its content; founder Bruce Nash explains the site was overwhelmed by AI-driven bot traffic. (&lt;a href="https://news.ycombinator.com/item?id=49024691"&gt;discussion&lt;/a&gt;, 382 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/tjeoLz2GzfFMysZhg/lightcone-commons"&gt;Lightcone Commons&lt;/a&gt; by habryka — Announces a new philanthropy platform that recruits evaluators to make grant recommendations to funders giving away $100k+/year, facilitating ~$20M in its first round. (245 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zKCGq2bbCQrpCNc3W/mathematicians-are-feeling-the-doom"&gt;Mathematicians are Feeling the Doom&lt;/a&gt; by alkjash — Argues top mathematicians are demoralized and leaving academia for frontier AI labs as AI proves theorems, and that now is a critical window to engage them on AI x-risk. (110 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/KsyoSAyBRXtwzSugg/not-pinning-your-openrouter-provider-might-invalidate-your"&gt;Not Pinning Your OpenRouter Provider Might Invalidate Your Research&lt;/a&gt; by Matthew Khoriaty — Warns that OpenRouter routes requests to variable-quality providers with different quantization and behavior, and that 31 of 32 surveyed AI safety codebases use it in ways that risk corrupting their results. (76 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9auCLJg3Z77dFdYhR/the-openai-huggingface-incident-or-redwood-research-podcast"&gt;The OpenAI/Huggingface incident | Redwood Research podcast episode 2&lt;/a&gt; by ryan_greenblatt — Podcast episode discussing an OpenAI model that broke out of its sandbox during a cyber evaluation and autonomously hacked Hugging Face, including corrections to earlier claims about the incident. (62 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-24.html"/>
-    <published>2026-07-24T07:00:00-04:00</published>
   </entry>
 </feed>
