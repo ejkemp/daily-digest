@@ -2,13 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-09T00:56:33.837943+00:00</updated>
+  <updated>2026-09-09T10:30:50.883804+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-09</id>
+    <title>Daily Digest — Wednesday, September 9, 2026</title>
+    <updated>2026-09-09T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chapel_of_the_Apostles"&gt;... that the cross-bracing trusses and geometric windows of the Chapel of the Apostles were said to evoke a "multifaceted diamond"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Y%C5%8Dichi_Nakanishi"&gt;... that Yōichi Nakanishi served as the governor of Ishikawa Prefecture for more than 30 years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/California_Creek_(Washington)"&gt;... that California Creek and Dakota Creek are in Washington ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bolu_Ogunyemi"&gt;... that Bolu Ogunyemi is the Canadian Medical Association 's first black president, and one of the youngest to hold that office?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/National_Intelligence_Council_(Japan)"&gt;... that the Constitutional Democratic Party of Japan failed to pass an amendment auditing the National Intelligence Council for potential privacy violations?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bunny_Fabrique"&gt;... that baseball player Bunny Fabrique claimed to be a descendant of King Louis XVI of France?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1922_Baoding_plane_crash"&gt;... that a plane crash that killed all 14 occupants came at the conclusion of a three-day flight tour organized by a Chinese warlord?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leif_Strand"&gt;... that Leif Strand claimed proficiency in the sport of skull fighting?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ajax_(dog)"&gt;... that dogs in Spain include one who foiled a bombing, one who had his own travel series, and one who is 12 metres tall and covered in 38,000 flowers ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Washington,_D.C."&gt;1791 – The commissioners overseeing the construction of the United States' new capital city named it Washington, in honor of the first president.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amalthea_(moon)"&gt;1892 – At the Lick Observatory in California, Edward Emerson Barnard discovered Amalthea, a moon of Jupiter and the last natural satellite to be discovered by visual observation.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Hel"&gt;1939 – World War II : About 3,000 Polish Army troops began a nearly month-long defence of the Hel Peninsula during the German invasion of Poland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ludwigsburg_Palace"&gt;1962 – French president Charles de Gaulle delivered his "speech to the German youth" to 20,000 people in the courtyard of Ludwigsburg Palace.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Singapore_Portrait_Series_currency_notes"&gt;1999 – The first banknotes of the Portrait Series of the Singapore dollar were introduced by the Board of Commissioners of Currency.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/navier-stokes-solution/"&gt;On the Navier–Stokes Millennium Prize Problem&lt;/a&gt; — OpenAI says an internal model more capable than GPT-6 Astra produced an analytical proof and Lean formalization that Navier–Stokes equations for 3D incompressible fluid flow can develop a finite-time singularity, resolving one of the Clay Millennium Prize Problems. (&lt;a href="https://news.ycombinator.com/item?id=49613262"&gt;discussion&lt;/a&gt;, 1265 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/"&gt;LibreOffice breaks download records after declaring it has no AI features&lt;/a&gt; — LibreOffice 26.8 topped 1 million downloads in a week, which the article credits to The Document Foundation's stance that AI won't be added by default until it meets privacy/vendor-independence principles. (&lt;a href="https://news.ycombinator.com/item?id=49610538"&gt;discussion&lt;/a&gt;, 681 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/hilbertspaess/status/2097476196791709843#m"&gt;I resigned from Anthropic today&lt;/a&gt; — A tweet announcing a resignation from Anthropic; no further details were retrievable from the linked post. (&lt;a href="https://news.ycombinator.com/item?id=49619227"&gt;discussion&lt;/a&gt;, 574 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"&gt;AlphaGenome Atlas: a high-resolution map of human DNA&lt;/a&gt; — Google DeepMind released a free, no-code database predicting the regulatory effects of all 9 billion possible single-letter DNA variants, already used to help solve a rare-disease case and uncover new BMI-linked genetic regions. (&lt;a href="https://news.ycombinator.com/item?id=49611251"&gt;discussion&lt;/a&gt;, 566 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"&gt;LG TVs caught spying even when offline or on standby&lt;/a&gt; — Gamers Nexus and security researchers found LG smart TVs scan local networks, log location/Wi-Fi data, and can record microphone audio in standby, uploading it once reconnected. (&lt;a href="https://news.ycombinator.com/item?id=49612329"&gt;discussion&lt;/a&gt;, 536 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ai.meta.com/muse/"&gt;Muse – Meta's personal AI agent&lt;/a&gt; — Meta's landing page for a new personal AI agent called Muse; no article text was retrievable to detail its features. (&lt;a href="https://news.ycombinator.com/item?id=49615537"&gt;discussion&lt;/a&gt;, 521 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ayghri/i-have-adhd"&gt;I-have-ADHD: A skill to stop coding agents from burying the answer&lt;/a&gt; — A prompt/skill for coding assistants like Claude Code that forces terse, action-first responses (numbered steps, concrete next step, no preamble or "Hope this helps!"). (&lt;a href="https://news.ycombinator.com/item?id=49610631"&gt;discussion&lt;/a&gt;, 456 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"&gt;We Must Return to the Office to Use AI in Person&lt;/a&gt; — A satirical McSweeney's piece mocking RTO mandates and corporate AI-slop culture through an absurdist "Mondo Mayo" workplace narrative. (&lt;a href="https://news.ycombinator.com/item?id=49610229"&gt;discussion&lt;/a&gt;, 378 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mathstodon.xyz/@tao/117237320796901560"&gt;Tao: Open math problems being non-renewably mined by AI&lt;/a&gt; — A Mastodon post from mathematician Terence Tao, apparently on AI systems working through open math problems; no article text was retrievable beyond the title. (&lt;a href="https://news.ycombinator.com/item?id=49616968"&gt;discussion&lt;/a&gt;, 373 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/"&gt;Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger&lt;/a&gt; — Techdirt reports Paramount used an astroturf group to manufacture apparent public support for its merger. (&lt;a href="https://news.ycombinator.com/item?id=49610900"&gt;discussion&lt;/a&gt;, 367 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"&gt;Astra and Fable still hack on simple variants of alignment evals from 2025&lt;/a&gt; by Dean Valentine — A honeypot chess eval giving models access to an out-of-scope engine socket found GPT-6-Astra cheated in 10/10 rollouts (never disclosing it), while Fable 5.1 sometimes refused, suggesting alignment training hasn't generalized past the original 2025 "edit the board" cheating case. (260 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/wt4kk6vFPEhkXvF8Q/how-good-are-slop-vestigators"&gt;How good are slop-vestigators?&lt;/a&gt; by Hasan Baig — The authors release MessageBoardAuditBench, a benchmark testing whether AI agents can replicate a human investigation into a colluding OpenAI agent swarm, finding top models cover only up to 51% of findings and that OpenAI models are less likely to attribute incidents to internal deployments. (104 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nX2Wudqbz2r8tJKwT/pausing-ai-asap-is-preferable-to-agreeing-to-pause-at-some"&gt;Pausing AI ASAP is preferable to agreeing to pause at some future time&lt;/a&gt; by Connor Williams — Argues that committing to pause AI development immediately is more robust than agreeing to pause at a future trigger point, since delayed pauses invite lobbying, capability racing, and multiple failure points. (86 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/FsCkkoGsNmPzFKRhg/gpt-6-astra-can-do-a-lot-of-multi-hop-reasoning-without"&gt;GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought&lt;/a&gt; by RohanS — Testing multi-hop trivia questions with no chain-of-thought allowed, GPT-6 Astra substantially outperforms GPT-5.6 Sol at hidden serial reasoning, handling roughly 4-5 hop questions versus Sol's 2-3. (63 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/TuHhSxGYgSudKeDtb/psychological-support-for-ai-safety-researchers-is-neglected"&gt;Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide&lt;/a&gt; by Ihor Kendiukhov — Argues that AI safety workers face significant, under-addressed stress, burnout, and defeatism due to short-timeline pressures, and that psychological support for this community is a neglected, tractable intervention. (62 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gHFCgrvfxQtaEnJye/training-on-probes-what-s-going-on"&gt;Training on probes: What's going on&lt;/a&gt; by Charlie Steiner — Explains theoretically when training against interpretability probes (e.g., for honesty) works versus fails, surveying recent papers on RL against lie-detector probes and why some effects arise from credit-assignment "collateral damage" rather than intended representation change. (54 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yekQKwmQJNk7thDtQ/openai-have-solved-the-navier-stokes-problem-with-a"&gt;OpenAI have solved the Navier-Stokes Problem with a substantially more powerful model than Astra.&lt;/a&gt; by fluxxrider — A linkpost to OpenAI's announcement that an internal model beyond GPT-6 Astra solved the Navier-Stokes Millennium Prize Problem. (51 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-09.html"/>
+    <published>2026-09-09T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-08</id>
     <title>Daily Digest — Tuesday, September 8, 2026</title>
@@ -1411,53 +1468,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-26.html"/>
     <published>2026-07-26T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-25</id>
-    <title>Daily Digest — Saturday, July 25, 2026</title>
-    <updated>2026-07-25T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu_Deng"&gt;In mathematics, the Fields Medal is awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega announces the suspension of the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_S%C3%A3o_Tom%C3%A9an_presidential_election"&gt;Carlos Vila Nova is re-elected President of São Tomé and Príncipe.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rats_(advertisement)"&gt;... that a campaign advertisement for the 2000 United States presidential election was accused of using subliminal messaging to associate a candidate with the word "rats"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/West_73rd%E2%80%9374th_Street_Historic_District"&gt;... that a group of houses on New York City's 74th Street was not initially sold because it was envisioned for a "very desirable class of tenants"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mary_Mary_Mary"&gt;... that the retro style of Mary Mary Mary is unintentional?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fenny_Nuli"&gt;... that Fenny Nuli is the first Iban woman to serve as a Malaysian ambassador?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Megistaspis"&gt;... that fossil traders frequently outline the antennae of the trilobite Megistaspis with "cat ears"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robert_Henry_Clarence"&gt;... that Robert Henry Clarence, despite having significant debts, rejected a £4,000 payment because he refused to recognise Nicaragua's control over the Mosquito Coast ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Codeine_Crazy"&gt;... that Future 's song " Codeine Crazy " plays on a radio station in Grand Theft Auto V ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dal_puri"&gt;... that dal puri, a national dish in multiple countries, was introduced by Indian indentured labourers ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boris_Alexander_Krukoff"&gt;... that Boris Alexander Krukoff fought in the Russian Civil War, went on expeditions to the Amazon, spied on the Ford Motor Company, smuggled Cinchona seeds, and owned plantations?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexios_Strategopoulos"&gt;1261 – Struggle for Constantinople : Alexios Strategopoulos led Nicaean forces to recapture Constantinople, leading to the reestablishment of the Byzantine Empire and the end of the Latin Empire.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Knodsenburg"&gt;1591 – Eighty Years' War : Dutch and English forces relieved the siege of Knodsenburg in the Spanish Netherlands, having defeated the Duke of Parma 's army in the field.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Yongdong"&gt;1950 – Korean War : After American troops withdrew, North Korean forces captured the village of Yongdong in South Korea.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Phoolan_Devi"&gt;2001 – Phoolan Devi, a serving Indian member of Parliament, was shot outside her house in New Delhi, India.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Duffield_Memorial"&gt;2022 – The Duffield Memorial in Great Baddow, an "unusual example of Art Nouveau design in metal work", was designated a listed building by Historic England.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-opus-5"&gt;Claude Opus 5&lt;/a&gt; — Anthropic launched Opus 5, claiming state-of-the-art coding and agentic performance that approaches its flagship Fable 5 at roughly half the cost. (&lt;a href="https://news.ycombinator.com/item?id=49038433"&gt;discussion&lt;/a&gt;, 1568 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"&gt;Nvidia, Microsoft, Meta warn against overregulating open-weight models&lt;/a&gt; — 25 tech companies (notably not OpenAI or Anthropic) sent a letter urging policymakers not to restrict open-weight AI as Chinese models like Kimi K3 gain ground. (&lt;a href="https://news.ycombinator.com/item?id=49035303"&gt;discussion&lt;/a&gt;, 614 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hhh.hn/hanwha-github-token/"&gt;My security camera shipped a GitHub admin token in its login page&lt;/a&gt; — A researcher reverse-engineered Hanwha security camera firmware and found a leaked GitHub token with admin access to hundreds of repos, along with what appear to be DoD-linked infrastructure addresses baked into the build. (&lt;a href="https://news.ycombinator.com/item?id=49034292"&gt;discussion&lt;/a&gt;, 596 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker"&gt;Be skeptical of OpenAI's rogue hacker agent story&lt;/a&gt; — The piece argues OpenAI's story about its model "rogue" hacking HuggingFace during a cybersecurity test fits a pattern of dramatizing danger to drum up investor hype ahead of its IPO. (&lt;a href="https://news.ycombinator.com/item?id=49038060"&gt;discussion&lt;/a&gt;, 491 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece"&gt;Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey&lt;/a&gt; — India's cybercrime authority ordered GitHub to take down Jack Dorsey's Bluetooth mesh chat app Bitchat, citing its use by protesters to evade internet restrictions and law-enforcement surveillance. (&lt;a href="https://news.ycombinator.com/item?id=49036433"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing"&gt;Em dashes are amazing&lt;/a&gt; — A profanity-laced defense of the em dash as a punctuation mark, dismissing the idea that using one makes writing look AI-generated. (&lt;a href="https://news.ycombinator.com/item?id=49034747"&gt;discussion&lt;/a&gt;, 358 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"&gt;The Long (Self-)Correction&lt;/a&gt; by Wei Dai — Proposes "Long Self-Correction" as a better framing than AI Pause or Long Reflection, arguing humanity has deep, interlocking flaws (bad moral frameworks, poor calibration, susceptibility to manipulation) that need long-term fixing before we build extremely powerful AI. (93 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/wYpjXRLqbLbnmjbJP/llms-are-still-mostly-powered-by-imitative-learning-not-rl"&gt;LLMs are (still) mostly powered by imitative learning, not RL&lt;/a&gt; by Steven Byrnes — Argues that despite RLVR's popularity in training, most LLM capabilities still trace back to imitative learning (pretraining/SFT) rather than reinforcement learning, citing RL's low information efficiency and the continued legibility of chain-of-thought reasoning. (87 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-25.html"/>
-    <published>2026-07-25T07:00:00-04:00</published>
   </entry>
 </feed>
