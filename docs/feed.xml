@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-08T10:30:11.723270+00:00</updated>
+  <updated>2026-09-09T00:56:33.837943+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
@@ -13,15 +13,14 @@
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-08</id>
     <title>Daily Digest — Tuesday, September 8, 2026</title>
     <updated>2026-09-08T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Spider_pulsar"&gt;... that spider pulsars eat away their stellar mates by irradiating them?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Susan_Baur"&gt;... that turtle fan Susan Baur founded Old Ladies Against Underwater Garbage, a group of volunteers who dive to retrieve litter?&lt;/a&gt;&lt;/li&gt;
@@ -33,27 +32,26 @@
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ultimate_Robot_Knock-out_Legend"&gt;... that a life-sized humanoid robot kept fighting after having its head kicked off during the inaugural Ultimate Robot Knock-out Legend event?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_F._Hambitzer"&gt;... that Michigan State Treasurer Joseph F. Hambitzer, along with two other officials, was removed from office for gross neglect of duty?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r"&gt;1566 – Ottoman–Habsburg wars : Ottoman forces led by Suleiman the Magnificent captured the fortress of Szigetvár in Hungary, but were forced to end their campaign to take Vienna.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Geist_und_Seele_wird_verwirret,_BWV_35"&gt;1726 – J. S. Bach led the first performance of Geist und Seele wird verwirret, a solo cantata for alto voice.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Geist_und_Seele_wird_verwirret,_BWV_35"&gt;1726 – J. S. Bach led the first performance of Geist und Seele wird verwirret, a solo cantata for alto voice.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Bassano"&gt;1796 – French Revolutionary Wars : Led by Napoleon, French forces defeated the Austrians at the Battle of Bassano in Veneto, Italy.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Severn_Bridge"&gt;1966 – Queen Elizabeth II opened the Severn Bridge, linking South Gloucestershire in England and Monmouthshire in Wales.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Severn_Bridge"&gt;1966 – Queen Elizabeth II opened the Severn Bridge, linking South Gloucestershire in England and Monmouthshire in Wales.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gerald_Ford"&gt;1974 – Watergate scandal : U.S. president Gerald Ford gave his recently resigned predecessor Richard Nixon a controversial full and unconditional pardon for any crimes he committed while in office.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Hacker News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"&gt;De-Brainrot Vacations&lt;/a&gt; (486 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"&gt;Mistral raises €3B&lt;/a&gt; (476 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/iczelia/bzip3"&gt;bzip3&lt;/a&gt; (408 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"&gt;Bill Gates tries to install MovieMaker (2003)&lt;/a&gt; (397 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jellyfin.org/posts/jellyfin-release-12.0/"&gt;Jellyfin 12.0&lt;/a&gt; (382 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"&gt;De-Brainrot Vacations&lt;/a&gt; — A software engineer reflects on how AI and constant digital dopamine have dulled their focus, and how a slow, book-filled vacation (rediscovering reading and even calculus) helped reverse it. (&lt;a href="https://news.ycombinator.com/item?id=49597907"&gt;discussion&lt;/a&gt;, 486 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"&gt;Mistral raises €3B&lt;/a&gt; — Mistral closed a €3B Series D at a €21B+ valuation, led by Samsung Electronics, to scale its "sovereign," open-weight full-stack AI offering. (&lt;a href="https://news.ycombinator.com/item?id=49605767"&gt;discussion&lt;/a&gt;, 476 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/iczelia/bzip3"&gt;bzip3&lt;/a&gt; — A BZip2 successor with a context-mixing entropy coder and BWT-based compression that claims higher ratios and better performance, especially on text and code. (&lt;a href="https://news.ycombinator.com/item?id=49598291"&gt;discussion&lt;/a&gt;, 408 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"&gt;Bill Gates tries to install MovieMaker (2003)&lt;/a&gt; — A leaked 2003 email shows Bill Gates furiously recounting a maze of broken downloads, confusing Windows Update prompts, and forced reboots just to install Movie Maker. (&lt;a href="https://news.ycombinator.com/item?id=49599481"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;LessWrong&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6j3kBHdowGLCeqobg/dear-god-please-do-not-resign-in-protest"&gt;Dear God, Please Do Not Resign In Protest&lt;/a&gt; (137 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/S7e7swkWDyKdtvRqM/the-scramble-getting-in-position-to-pace-the-frontier"&gt;The Scramble: getting in position to pace the frontier&lt;/a&gt; (68 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ZxC23QApzYPgcYXpz/the-magnus-challenge"&gt;The Magnus Challenge&lt;/a&gt; (63 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6j3kBHdowGLCeqobg/dear-god-please-do-not-resign-in-protest"&gt;Dear God, Please Do Not Resign In Protest&lt;/a&gt; by Kabir Kumar — Argues that AI lab employees who refuse to work on ethically objectionable projects should let themselves be fired rather than resign, since a firing sends a stronger, costlier signal and pressures leadership more. (137 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/S7e7swkWDyKdtvRqM/the-scramble-getting-in-position-to-pace-the-frontier"&gt;The Scramble: getting in position to pace the frontier&lt;/a&gt; by Peter Wildeford — Sketches how a sudden presidential push to manage superintelligence risk might unfold as a Cuban Missile Crisis-style scramble followed by an interim deal and then a more durable international agreement. (68 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ZxC23QApzYPgcYXpz/the-magnus-challenge"&gt;The Magnus Challenge&lt;/a&gt; by Taylor G. Lunt — Works out, using Elo math and time-advantage scaling, the optimal number of proxy chess matches a 1500-rated player would need to have decent odds of eventually beating Magnus Carlsen, drawing an analogy to aligning successive AI systems. (63 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-08.html"/>
     <published>2026-09-08T07:00:00-04:00</published>
