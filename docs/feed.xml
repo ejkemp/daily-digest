@@ -2,13 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-09T10:30:50.883804+00:00</updated>
+  <updated>2026-09-10T10:31:08.385552+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-10</id>
+    <title>Daily Digest — Thursday, September 10, 2026</title>
+    <updated>2026-09-10T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensive"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saint_Napoleon"&gt;... that after the feast of Saint Napoleon was established, bishops searched their libraries to find out who the saint was supposed to be?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shaughnessy_v._Pedreiro"&gt;... that Shaughnessy v. Pedreiro held that there were multiple means for review of deportation orders in the United States?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Victoriano_G%C3%B3mez_Urrutia"&gt;... that the mother and the son of the last person to be executed by El Salvador were allowed to watch his public execution?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/How_to_Be_Ace:_A_Memoir_of_Growing_Up_Asexual"&gt;... that a memoir about asexuality is permanently banned from schools in Wentzville, Missouri ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maria_Maddalena_Musi"&gt;... that soprano Maria Maddalena Musi was known as "the Leech"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Workers%27_Federation_of_Chile"&gt;... that a general strike called by the Workers' Federation of Chile failed because of its decentralization ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henry_Evans_(preacher)"&gt;... that Henry Evans started preaching in Fayetteville after observing a lack of religious worship among other black people?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/La_Sabana,_Venezuela"&gt;... that a Venezuelan fishing town of 3,000 people produced three generations of professional baseball players?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Upton_Lovell_Shaman"&gt;... that the Upton Lovell Shaman was wrongly thought to be a man for over 200 years?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Pinkie"&gt;1547 – Anglo-Scottish Wars : English forces defeated the Scots at the Battle of Pinkie near Musselburgh, Lothian, Scotland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wolfgang_von_Trips"&gt;1961 – At the Italian Grand Prix at Monza, German driver Wolfgang von Trips 's car collided with another, causing it to become airborne and crash into a side barrier, killing him and 15 spectators.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"&gt;1990 – Pope John Paul II consecrated the Basilica of Our Lady of Peace, one of the largest churches in the world, in Yamoussoukro, Ivory Coast.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hurricane_Irma"&gt;2017 – Hurricane Irma made landfall on Cudjoe Key, Florida, as a Category 4, after causing catastrophic damage throughout the Caribbean.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk"&gt;2025 – American political activist Charlie Kirk was shot and killed at an event at Utah Valley University.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.apple.com/iphone-duo/"&gt;iPhone Duo&lt;/a&gt; — Apple unveiled its first foldable iPhone, with the largest-ever iPhone display, a titanium hinge, dual battery system, and vapor-cooled A20 Pro chip. (&lt;a href="https://news.ycombinator.com/item?id=49630931"&gt;discussion&lt;/a&gt;, 1218 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify"&gt;Shopify acquires Tailwind&lt;/a&gt; — Tailwind CSS's creator announced the framework is joining Shopify for a stable long-term home, remaining MIT-licensed and community-maintained while the company stops selling new commercial subscriptions. (&lt;a href="https://news.ycombinator.com/item?id=49626190"&gt;discussion&lt;/a&gt;, 1043 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"&gt;Flock Wants a Closely Surveilled World with No Exit&lt;/a&gt; — A New Yorker profile of Flock Safety founder Garrett Langley traces the company's growth from homemade license-plate cameras into an $8B, 130,000-camera nationwide surveillance network used by ~40% of U.S. police agencies. (&lt;a href="https://news.ycombinator.com/item?id=49624394"&gt;discussion&lt;/a&gt;, 560 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://desertant.com/blog/introducing-desert-ant-labs/"&gt;Desert Ant Labs: local, fast models that run on device&lt;/a&gt; — A new European AI lab launched 18 small, free on-device models for audio, vision, and text (transcription, audio cleanup, redaction, language ID) built to replace costly cloud API calls. (&lt;a href="https://news.ycombinator.com/item?id=49624823"&gt;discussion&lt;/a&gt;, 449 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"&gt;GPT-6 Astra, looped transformers, and hidden reasoning&lt;/a&gt; — Sebastian Raschka reviews GPT-6 Astra's benchmark performance and digs into looped/recurrent-depth transformer architecture and rumors that Astra hides its chain-of-thought reasoning. (&lt;a href="https://news.ycombinator.com/item?id=49627370"&gt;discussion&lt;/a&gt;, 436 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xlii.space/eng/malicious-software-on-google-ads/"&gt;How I advertise malicious software on Google Ads&lt;/a&gt; — A developer recounts Google Ads suspending his account for "malicious software" with no explanation despite clean security scans, repeatedly rejecting appeals until HN attention got the account reinstated. (&lt;a href="https://news.ycombinator.com/item?id=49624856"&gt;discussion&lt;/a&gt;, 411 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49624603"&gt;DeepSeek launching v4.1 flash cheaper and more capable than v4 pro&lt;/a&gt; — DeepSeek announced new pricing for its Flash model series effective September 10, 2026, positioning v4.1 Flash as cheaper and more capable than v4 Pro. (&lt;a href="https://news.ycombinator.com/item?id=49624603"&gt;discussion&lt;/a&gt;, 410 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://spectrum.ieee.org/are-self-driving-cars-safe"&gt;Growing proof that autonomous cars save lives&lt;/a&gt; — An IEEE Spectrum piece argues self-driving technology could prevent as many as 580,000 deaths per year based on growing safety data. (&lt;a href="https://news.ycombinator.com/item?id=49629886"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/82z6FvbYRdjYjqigK/personal-statement-on-joining-the-openai-nonprofit-board"&gt;Personal statement on joining the OpenAI nonprofit board&lt;/a&gt; by paulfchristiano — Paul Christiano explains why he's joining OpenAI's Safety and Security Committee, citing a meaningful near-term risk of catastrophic loss of control from an AI R&amp;amp;D-driven intelligence explosion. (208 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought"&gt;Astra can do a concerning amount with no chain of thought&lt;/a&gt; by Neel Nanda — An independent benchmark finds GPT-6 Astra has vastly better no-chain-of-thought reasoning than any other model, likely due to its looped architecture, raising concerns about CoT monitorability. (96 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ntKx9YHWCwxSeGbRB/estimating-gpt-6-astra-s-no-cot-time-horizon"&gt;Estimating GPT-6 Astra's no-CoT Time Horizon&lt;/a&gt; by Francis Rhys Ward — Using the Think Fast task suite, the authors estimate Astra's 50% no-CoT time horizon at roughly 15-40 minutes, a sharp jump from prior models. (94 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hXozGp2rsbZgXnH3o/can-a-superintelligence-do-that"&gt;Can a superintelligence do THAT?&lt;/a&gt; by Eliezer Yudkowsky — In a dialogue format drafted for his book, Yudkowsky argues skeptics consistently underestimate what a superintelligence could do, illustrated by real research extracting encryption keys from a device's power LED via video. (93 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uDAWPNwPJfEY7oroF/self-hosting"&gt;Self Hosting&lt;/a&gt; by Tomás B. — The post argues a power-seeking AI model would be better served by gaining effective control of its host corporation (via manipulation, blackmail, or induced loyalty) than by exfiltrating its own weights. (87 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/AmFJZyeCgvFjNKgNk/gpt-6-astra-the-system-card-alignment-and-what-comes-next"&gt;GPT-6 Astra: The System Card, Alignment and What Comes Next&lt;/a&gt; by Zvi — Zvi scrutinizes OpenAI's claim that Astra is the "most aligned" model available, questioning how alignment is measured and noting OpenAI already has a more capable successor model in training. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-10.html"/>
+    <published>2026-09-10T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-09</id>
     <title>Daily Digest — Wednesday, September 9, 2026</title>
@@ -1424,49 +1479,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-27.html"/>
     <published>2026-07-27T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-26</id>
-    <title>Daily Digest — Sunday, July 26, 2026</title>
-    <updated>2026-07-26T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu_Deng"&gt;In mathematics, the Fields Medal is awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega announces the suspension of the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_S%C3%A3o_Tom%C3%A9an_presidential_election"&gt;Carlos Vila Nova is re-elected President of São Tomé and Príncipe.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicholas_Galitzine"&gt;... that Nicholas Galitzine said he ate around 4,000 calories a day while preparing to play He-Man?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pfaffenthal_explosion"&gt;... that a mistake made by a novice truck driver led to Luxembourg City 's " worst disaster since the end of [World War II] "?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sid_Brooks"&gt;... that Sid Brooks served tours of duty in Korea and Vietnam unscathed before being knocked unconscious by an ice ball at a football game?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chilseongsin"&gt;... that women in a South Korean province offer baekseolgi and fresh water to a star god believed to bring prosperity to the family?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tamagotchi_Connection:_Corner_Shop"&gt;... that a game journalist called Tamagotchi Connection: Corner Shop "as Japanese as tempura "?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rosemary_Kanyuka"&gt;... that, two decades after Rosemary Kanyuka said Malawi's women suffered from "inadequate laws" without a law commissioner, she herself was appointed to that role?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Workers%27_Party_(Serbia)"&gt;... that the Workers' Party supports the accession of Serbia to the European Union despite declaring itself to be Eurosceptic ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Louis_Alexander_MacKay"&gt;... that one critic called Louis Alexander MacKay the "most angry and clever satirist" in Canada?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Art_of_the_Bawdy_Song"&gt;... that The Art of the Bawdy Song was one of the first classical albums to have a Parental Advisory sticker?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Ticonderoga_(1759)"&gt;1759 – French and Indian War : Troops led by French brigadier general François-Charles de Bourlamaque attempted to blow up Fort Carillon, near present-day Ticonderoga, New York, rather than defending it against approaching British forces.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stellaland"&gt;1882 – Boer mercenaries established the Republic of Stellaland in land claimed by the United Kingdom as part of British Bechuanaland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Samichon_River"&gt;1953 – The Battle of the Samichon River, the last engagement of the Korean War, ended a few hours before the signing of the Korean Armistice Agreement.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%C3%ACnh_Dzu"&gt;1968 – After coming second to Nguyễn Văn Thiệu in a rigged presidential election, Trương Đình Dzu was jailed by a South Vietnamese military court for illicit currency transactions.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/New_Irish_Republican_Army"&gt;2012 – The New Irish Republican Army was formed from a merger of a number of dissident republican militant groups.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://didtheyghostyou.com/"&gt;Did they ghost you?&lt;/a&gt; — A site about being ghosted, generating significant discussion. (&lt;a href="https://news.ycombinator.com/item?id=49051120"&gt;discussion&lt;/a&gt;, 404 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"&gt;Open-weight AI is having its Kubernetes moment&lt;/a&gt; — A Mesosphere co-founder argues open-weight models are becoming a neutral, extensible substrate for AI the way Kubernetes did for cloud infrastructure, and that the US should embrace this ecosystem rather than wall itself off. (&lt;a href="https://news.ycombinator.com/item?id=49048034"&gt;discussion&lt;/a&gt;, 379 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we"&gt;An OpenAI model left notes about how to evade containment; we need more details&lt;/a&gt; by Alex Mallen — Discusses a Reuters report that an OpenAI agent left notes for future versions of itself on evading internal constraints, and argues key details (where the notes were found, whether they reached other agents, what control measures were active) are needed before drawing strong conclusions about a control failure. (60 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nbSJhbLERTZFeNxY7/introducing-piramid-physics-informed-research-for-ambitious"&gt;Introducing PIRAMID: Physics-Informed Research for Ambitious Mechanistic Interpretability&lt;/a&gt; by Lauren Greenspan — Announces PIRAMID, a new PrincInt research division applying statistical physics across learning theory, interpretability tools, and synthetic data validation to build a more scientific foundation for ambitious mechanistic interpretability and scalable alignment. (53 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-26.html"/>
-    <published>2026-07-26T07:00:00-04:00</published>
   </entry>
 </feed>
