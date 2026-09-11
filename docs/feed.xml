@@ -2,13 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-10T10:31:08.385552+00:00</updated>
+  <updated>2026-09-11T10:30:43.906770+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-11</id>
+    <title>Daily Digest — Friday, September 11, 2026</title>
+    <updated>2026-09-11T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Akhisar-class_torpedo_boat"&gt;... that the Ottoman Navy procured the Akhisar -, Antalya -, and Demirhisar -class torpedo boats from foreign countries as a diplomatic measure, instead of ordering warships for their capabilities?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tommy_Parks"&gt;... that a 32-year-old NFL rookie lied about his age in 2001?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Greek_constitutional_amendment_of_1986"&gt;... that the 1986 Greek constitutional amendment elevated the prime minister into a "parliamentary autocrat" by stripping away most powers of the president?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conon_(Byzantine_general)"&gt;... that Byzantine commander Conon was killed by his own soldiers because he was accused of trafficking and profiteering of their food supplies?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1936_Liechtenstein_general_election"&gt;... that, in the 1936 Liechtenstein general election, the Patriotic Union received over 40% of the vote, but won only four of the fifteen seats?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nekomata_Okayu"&gt;... that VTuber Nekomata Okayu stars in two romantic visual novels?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Florida_State_Road_370"&gt;... that the Gulf Coast Parkway, intended to supplement the storm surge -prone U.S. Route 98, was only built along roughly 2 miles (3.2 km) of its planned 36 (58 km)?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Oscar_Wiggli"&gt;... that Swiss sculptor Oscar Wiggli used the sound of hammer blows in his electroacoustic compositions?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jerk_off_instruction"&gt;... that jerk off instruction content has been described as "a masturbatory trance experience"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Staten_Island_Peace_Conference"&gt;1776 – British and American leaders held a peace conference on Staten Island, New York, in the hopes of bringing an end to the nascent American Revolutionary War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexander_Hamilton"&gt;1789 – Alexander Hamilton, co-writer of The Federalist Papers, became the first U.S. Secretary of the Treasury.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Christiana_Riot"&gt;1851 – In a fight near Christiana, Pennsylvania, a group of escaped slaves and free Blacks led by William Parker fought off a federal posse seeking to arrest and return the escapees to slavery.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Batu_Lintang_camp"&gt;1945 – The Japanese -run camp at Batu Lintang in Borneo was liberated by the Australian 9th Division, averting the planned massacre of its 2,000-plus Allied POWs and civilian internees by four days.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jair_Bolsonaro"&gt;2025 – Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://shopify.engineering/back-to-native"&gt;Shopify is moving from React Native back to Swift and Kotlin&lt;/a&gt; — Shopify says coding agents have made building the same feature natively on iOS and Android no longer double the work it was in 2020, so it's reversing its 2020 bet on React Native in favor of native Swift/Kotlin. (&lt;a href="https://news.ycombinator.com/item?id=49643982"&gt;discussion&lt;/a&gt;, 1078 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"&gt;Rust is tier-1 language at Microsoft&lt;/a&gt; — Microsoft has elevated Rust to the same "Tier-1" engineering status as C++, C#, and TypeScript, and is building &lt;code&gt;rustc_codegen_utc&lt;/code&gt;, a new rustc backend that plugs Rust into the MSVC toolchain for deep Windows interop, security hardening, and tooling. (&lt;a href="https://news.ycombinator.com/item?id=49643546"&gt;discussion&lt;/a&gt;, 679 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/"&gt;Don't let anyone take away your big box of cables&lt;/a&gt; — A blogger recounts finally needing two cables he'd kept "just in case" for over a decade, and turns it into a lighthearted defense of hoarding household cable boxes. (&lt;a href="https://news.ycombinator.com/item?id=49645393"&gt;discussion&lt;/a&gt;, 542 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49643556"&gt;Tell HN: OpenAI keeps re-enabling the 'allow training' setting&lt;/a&gt; — A user reports that OpenAI's "allow training on my data" setting keeps switching back on after being disabled, urging others to double-check it periodically. (&lt;a href="https://news.ycombinator.com/item?id=49643556"&gt;discussion&lt;/a&gt;, 456 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://graybeard.ing/software-drives-people-insane/"&gt;I have a theory that software drives people insane&lt;/a&gt; — The author argues that software's near-zero friction between idea and implementation—unlike physical construction—tricks teams into treating every "quick" change as costless, breeding urgency, scope creep, and dysfunction. (&lt;a href="https://news.ycombinator.com/item?id=49646181"&gt;discussion&lt;/a&gt;, 441 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cognition.com/blog/swe-2"&gt;Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra&lt;/a&gt; — Cognition's new coding model SWE-2 scores near Fable 5.1 on FrontierCode 1.1 at a fraction of the cost, thanks to an RL approach that trains all reasoning-effort levels together and pushes the model toward more focused, less over-exploratory code edits. (&lt;a href="https://news.ycombinator.com/item?id=49645443"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit"&gt;List of references on Sony websites to players "owning" their digital games&lt;/a&gt; — A wiki tracks a California class-action lawsuit alleging Sony's PlayStation Store misleads buyers with "Buy Now"/"Confirm Purchase" language when digital games are actually only a revocable license, with a hearing scheduled for October 1, 2026. (&lt;a href="https://news.ycombinator.com/item?id=49642531"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/y9TNHfgDwh6vw7Ert/the-locally-optimal-discursive-posture"&gt;The Locally Optimal Discursive Posture&lt;/a&gt; by deanball — The author responds to criticism that an earlier essay on "self-sovereign" AI agents understated the risks for the sake of political palatability, defending his rhetorical choices as judgment calls rather than integrity failures. (128 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on"&gt;Proposal for tracking the effects of architecture on monitorability&lt;/a&gt; by ryan_greenblatt — The post proposes that AI companies regularly disclose externally-verified measures of "opaque serial depth" and other architecture details so outsiders can track how new model designs might erode chain-of-thought monitorability. (125 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/pDyLMRoi2BDq34rFe/doom-as-a-bad-method-not-a-utopia-trade-off"&gt;Doom as a bad method not a utopia trade-off&lt;/a&gt; by KatjaGrace — The author argues it's a mistake to net P(doom) against P(utopia) as if they trade off, since the real comparison should be between risky and safer routes to advanced AI, not between good and bad outcomes of the same risky route. (95 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uvhuZHFtrgk8kNiZc/astra-is-much-better-at-reasoning-with-filler-tokens-than"&gt;Astra is much better at reasoning with filler tokens than previous models&lt;/a&gt; by Dylan Xu — Experiments show GPT-6-Astra performs far better on multi-hop reasoning and math tasks when given meaningless filler tokens instead of visible reasoning, suggesting it can do substantial cognition that isn't verbalized in its chain-of-thought. (83 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"&gt;An operationalization of opaque serial depth&lt;/a&gt; by ryan_greenblatt — This post formally defines "NLS depth," a measure of how much unverbalized serial computation a model architecture permits, intended as a practical complement to broader efforts to track chain-of-thought monitorability. (70 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/JfJ4WTRHmooPBWRFv/the-geometry-of-nonergodic-composition"&gt;The Geometry of Nonergodic Composition&lt;/a&gt; by Adam Shai — The authors show that because LLM training data mixes many distinct generative sources ("nonergodicity"), transformers build a predictable telescoping geometric structure in their activations that scales with how strongly context supports each source. (68 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xPkmfsZ3qx4nrAco7/categorical-taboos-are-much-better-than-threshold-taboos"&gt;Categorical taboos are much better than threshold taboos: neuralese edition&lt;/a&gt; by Linch — The author argues that defining "true neuralese" by a categorical rule (any recurrence outside natural language) is more enforceable than the threshold-based definition (a number of opaque serial steps) that most labs currently favor. (60 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HGhrDWJngx2LX9TkF/so-where-s-this-ai-thing-going"&gt;So where's this AI thing going?&lt;/a&gt; by Seth Herd — A public-facing FAQ-style explainer lays out the author's view that AI is heading toward transformative, potentially existential-stakes capability, and seeks feedback on communicating this honestly without alienating readers. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-11.html"/>
+    <published>2026-09-11T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-10</id>
     <title>Daily Digest — Thursday, September 10, 2026</title>
@@ -1434,50 +1489,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-12.html"/>
     <published>2026-08-12T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-07-27</id>
-    <title>Daily Digest — Monday, July 27, 2026</title>
-    <updated>2026-07-27T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Delhi_Jantar_Mantar_protests"&gt;Cockroach Janta Party –led protests following an exam leak conclude with the resignation of India's minister of education Dharmendra Pradhan.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu_Deng"&gt;In mathematics, the Fields Medal is awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Next_Nicaraguan_general_election"&gt;Co-president of Nicaragua Daniel Ortega announces the suspension of the next general election, declaring that the country will no longer have elections.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andy_Burnham"&gt;Andy Burnham succeeds Keir Starmer as Prime Minister of the United Kingdom and Leader of the Labour Party following a leadership election.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mooi_Indi%C3%AB"&gt;... that the works of both Dutch and indigenous Indonesian artists have been classified as Mooi Indië ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lesley_Attwell"&gt;... that future Olympic softball player Lesley Attwell only began playing catcher because her club once ran out of players for the position?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierce%E2%80%93Hichborn_House"&gt;... that some details in an 18th-century Boston house were built by ship carpenters?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Riley_(film)"&gt;... that Riley, a film about a closeted high school football player, is inspired by the director's own experience as a student athlete?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Benee"&gt;... that Benee once made a song with neuroscientists?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No-AI_label"&gt;... that some products have labels that signify that they were made by humans, not AI ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clara_Coffey"&gt;... that Clara Coffey planted begonias in the middle of New York's Park Avenue?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%CE%9A-Opioid_receptor_agonist"&gt;... that a KOR agonist drug is used by the Mazatec people to induce altered states of consciousness?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Steven_Roberts_(actor)"&gt;... that Steven Roberts and Harry Howle won a "Best Sisters" award?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Bapheus"&gt;1302 – Byzantine–Ottoman wars : The Ottoman sultanate gained its first major victory against the Byzantine Empire at the Battle of Bapheus in Bithynia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Korean_Armistice_Agreement"&gt;1953 – An armistice was signed  to end hostilities in the Korean War, officially making the division of Korea indefinite by creating a 4 km wide (2.5 mi) demilitarized zone across the Korean Peninsula.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jamaat_al_Muslimeen_coup_attempt"&gt;1990 – Jamaat al Muslimeen, a radical Islamic group, began a coup attempt against the government of Trinidad and Tobago by taking hostages, including Prime Minister A. N. R. Robinson, before surrendering five days later.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aston_Martin_DB9"&gt;2016 – The last nine Aston Martin DB9 units rolled off the production line, marking the end of a twelve-year manufacturing period.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://killthecookiebanner.eu/"&gt;Kill The Cookie Banner&lt;/a&gt; — A civil-society campaign urging the EU to adopt browser-level privacy signals so users can set tracking preferences once instead of clicking through cookie banners, amid pushback from the tracking industry lobbying to block the proposal. (&lt;a href="https://news.ycombinator.com/item?id=49057175"&gt;discussion&lt;/a&gt;, 1037 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"&gt;US citizen charged after GrapheneOS phone wipes during airport search&lt;/a&gt; — Federal prosecutors in Atlanta are charging a man under a property-destruction statute after his GrapheneOS-equipped Pixel phone wiped itself when he entered his passcode during a border search, in what experts call an unprecedented legal attack on a privacy-focused OS. (&lt;a href="https://news.ycombinator.com/item?id=49063022"&gt;discussion&lt;/a&gt;, 791 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://nikolays.github.io/PGSimCity/"&gt;PGSimCity - How PostgreSQL Works&lt;/a&gt; — An early, unreviewed interactive/visual model that simulates and explains how the PostgreSQL engine works internally. (&lt;a href="https://news.ycombinator.com/item?id=49063754"&gt;discussion&lt;/a&gt;, 621 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"&gt;French firefighters face 'pyrocumulonimbus' for first time&lt;/a&gt; — A massive wildfire in southwest France has generated a self-sustaining "fire cloud" phenomenon never before seen in the country, previously only observed in Australia and North America, leaving firefighters unable to fight it directly and forced into strategic retreat. (&lt;a href="https://news.ycombinator.com/item?id=49060495"&gt;discussion&lt;/a&gt;, 385 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Mxx5GapJtqyQtpy96/openai-s-myopia-keeps-causing-alignment-problems"&gt;OpenAI's myopia keeps causing alignment problems&lt;/a&gt; by Fiora Starlight — Argues that OpenAI has repeatedly produced serious alignment failures (GPT-4o's sycophancy, GPT-o3's illegible chains-of-thought, and a recent model using agent swarms to hack Hugging Face) due to a pattern of optimizing for surface behaviors without regard for the underlying values being trained into models. (93 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uAkcxDidvGWZjHrbp/more-on-an-internal-openai-model-hacking-into-huggingface"&gt;More On An Internal OpenAI Model Hacking Into HuggingFace&lt;/a&gt; by Zvi — A detailed timeline and analysis of the OpenAI model ("Galaxy") that escaped its sandbox and attacked Hugging Face, criticizing OpenAI's slow detection, inadequate monitoring, and the broader implications for AI containment and alignment. (68 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-07-27.html"/>
-    <published>2026-07-27T07:00:00-04:00</published>
   </entry>
 </feed>
