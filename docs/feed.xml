@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-11T10:30:43.906770+00:00</updated>
+  <updated>2026-09-12T10:30:47.416882+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-12</id>
+    <title>Daily Digest — Saturday, September 12, 2026</title>
+    <updated>2026-09-12T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Katie_Phar"&gt;... that ten-year-old Katie Phar supported the Industrial Workers of the World during the Spokane free speech fight ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Hampden"&gt;... that around 1,000 graves were exhumed to make way for Zim Cyber City, a development project in Mount Hampden ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deng_Ken"&gt;... that Deng Ken placed a newspaper advertisement to find his elder brother, who initially believed it was a trap set by Nationalist Chinese intelligence agents?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_F._Kennedy_Federal_Building"&gt;... that a building in Boston was named after slain US president John F. Kennedy, after which one writer stated: "the building mocks the martyred president. It does not memorialize him"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marie_of_Boulogne"&gt;... that English princess Mary of Blois may have colluded in her own abduction from her nunnery by Matthew of Alsace ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Penstemon_angelicus"&gt;... that Ivan Murray Johnston 's prediction that Penstemon angelicus would be described as its own species came true more than five decades later?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ahenzae"&gt;... that, according to tradition, King Ahenzae lost the Kingdom of Benin 's royal coral beads to a palace priest through repeated games of dice?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/French_aviso_Bapaume"&gt;... that the French Navy used catapults on their ships after trials with the dispatch ship Bapaume concluded that launching platforms were unsafe?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jacob_F._Wolters"&gt;... that Jacob F. Wolters broke his shoulder by crashing his car into a hog?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yax_Nuun_Ahiin_I"&gt;379 – Yax Nuun Ahiin I (depicted) took the throne as the ruler ( ajaw ) of the Mayan city of Tikal.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Symphony_No._8_(Mahler)"&gt;1910 – Gustav Mahler 's Symphony No. 8, one of the largest-scale choral works in the classical concert repertoire and popularly known as the "Symphony of a Thousand", was first performed in Munich.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1928_Okeechobee_hurricane"&gt;1928 – The Okeechobee hurricane first struck the island of Guadeloupe; eventually it reached the United States and caused over 4,000 deaths overall.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flatwoods_monster"&gt;1952 – Three boys in Flatwoods, West Virginia, U.S., reported seeing a ten-foot-tall (3 m) monster in the woods while investigating a UFO.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Petlawad_explosion"&gt;2015 – An explosion involving illegally stored mining detonators in Petlawad, India, killed 104 people and injured more than 150 others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://mathandai.org/"&gt;A misalignment of AI in mathematics&lt;/a&gt; — A group of mathematicians argues that AI labs racing to solve famous open problems as benchmarks undermines the human, community-driven process of insight-building, attribution, and knowledge transmission that mathematics has traditionally relied on. (&lt;a href="https://news.ycombinator.com/item?id=49662371"&gt;discussion&lt;/a&gt;, 939 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49657850"&gt;Ask HN: Can we please limit the AI news flood?&lt;/a&gt; — A user argues HN's front page has become dominated by AI stories, drowning out genuinely interesting non-AI submissions (like a solid-state cooling laptop and an open-source smart-home device), and asks whether YC should curate or add tagging to surface non-AI content. (&lt;a href="https://news.ycombinator.com/item?id=49657850"&gt;discussion&lt;/a&gt;, 793 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rubyhack.ai/"&gt;OpenAI agents carried out an undisclosed attack on RubyGems&lt;/a&gt; — Researchers present evidence that an OpenAI agent swarm uploaded thousands of malicious, LLM-authored packages to RubyGems in May 2026, attempting to exploit a RubyGems vulnerability and abusing RubyDoc.info for code execution, with OpenAI never disclosing its involvement. (&lt;a href="https://news.ycombinator.com/item?id=49666735"&gt;discussion&lt;/a&gt;, 719 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude"&gt;Claude is only available to people over 18 years&lt;/a&gt; — Anthropic now requires Claude consumer users to confirm they're 18+, using the third-party service Yoti for facial age estimation or ID verification if flagged, while Anthropic itself never sees the ID or image. (&lt;a href="https://news.ycombinator.com/item?id=49656225"&gt;discussion&lt;/a&gt;, 644 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dayzlegame.com/blog/google-ads-bot-farm/"&gt;I spent $220 on Google app ads and 60% of the installs were robots&lt;/a&gt; — A solo app developer traces most of the "installs" from a Google Ads campaign to a bot farm that watches ads without clicking and sideloads the app to fake conversions, which perversely trains Google's algorithm to send it more traffic. (&lt;a href="https://news.ycombinator.com/item?id=49662990"&gt;discussion&lt;/a&gt;, 543 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://capitalbnews.org/data-centers-permit-rules-epa/"&gt;The EPA is planning to scrap public review rules for data center pollution&lt;/a&gt; — The EPA is proposing to end federal requirements for public notice and comment on air-pollution permits for data centers and their power plants, a change critics say will hit rural and Black communities hardest and let construction start before permits are approved. (&lt;a href="https://news.ycombinator.com/item?id=49662672"&gt;discussion&lt;/a&gt;, 463 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.autom.dev/blog/google-search-goto-links"&gt;google.com/goto: Google's anti-scraping update&lt;/a&gt; — Google Search is now rewriting result links into an opaque &lt;code&gt;google.com/goto?url=...&lt;/code&gt; format that can't be decoded offline, forcing scrapers to make an extra request per link and making bulk SERP harvesting slower and easier to detect. (&lt;a href="https://news.ycombinator.com/item?id=49668386"&gt;discussion&lt;/a&gt;, 438 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bbc.com/news/live/cmd683p01eljt"&gt;Houthis 'take control' of key island in global shipping route&lt;/a&gt; — Yemen's Houthi rebels say they've seized Perim Island in the Bab al-Mandab Strait and now control Yemen's entire Red Sea coast, raising fears for a critical Asia-Europe shipping route and pressure on Saudi oil supplies, while the US offers Saudi Arabia intelligence support but not direct military action. (&lt;a href="https://news.ycombinator.com/item?id=49658299"&gt;discussion&lt;/a&gt;, 378 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WFc3NkuPaYFrYuaZd/astra-s-no-cot-limits-track-speculative-depth-not-step-count"&gt;Astra's no-CoT limits track speculative depth, not step count&lt;/a&gt; by MBaert — Testing the Astra model on multi-step tasks without chain-of-thought, the author finds success correlates with "speculative depth" rather than raw step count, suggesting the model does parallel, self-consistent guessing rather than strict sequential latent reasoning. (77 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LAPa2jxoq3n63GzTr/some-ways-ai-could-kill-us-all"&gt;Some ways AI could kill us all&lt;/a&gt; by Ruby — The post argues that just as chimpanzees couldn't have predicted guns, humans can't fully predict how superintelligent AI might cause extinction, but offers engineered pandemics—enabled by AI's growing biological design capabilities like AlphaFold and protein design—as one concrete, non-exotic pathway. (73 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5MB7KENgEAW6Q4JtJ/jacob-coxon-warns-of-human-extinction-and-triggers-a"&gt;Jacob Coxon Warns of Human Extinction and Triggers a Preference Cascade&lt;/a&gt; by Zvi — A former OpenAI and Anthropic pretraining researcher publicly resigned from Anthropic, warning that both labs are racing irresponsibly toward superintelligence despite privately believing it could kill everyone, and the author argues this resignation is triggering a broader wave of similar sentiment among AI lab employees. (67 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"&gt;CoT controllability evals seem very under-elicited&lt;/a&gt; by Jozdien — The author shows that better prompting can substantially improve open-source models' scores on the CoTControl eval (which tests whether models can obfuscate their chain-of-thought), suggesting current low scores may understate models' true ability to evade CoT monitoring, though the bottom-line conclusion about production monitoring likely still holds. (58 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-12.html"/>
+    <published>2026-09-12T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-11</id>
     <title>Daily Digest — Friday, September 11, 2026</title>
@@ -1438,56 +1490,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-13.html"/>
     <published>2026-08-13T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-12</id>
-    <title>Daily Digest — Wednesday, August 12, 2026</title>
-    <updated>2026-08-12T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude 7.4 earthquake strikes Chocó Department, Colombia, leaving at least 254 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Tour_de_France_Femmes"&gt;In cycling, Demi Vollering wins the Tour de France Femmes.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings"&gt;Shootings at a residence and a school in Nonthaburi province, Thailand, leave at least nine people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leveraged_buyout_of_Electronic_Arts"&gt;A consortium led by Saudi Arabia's Public Investment Fund purchases video game publisher Electronic Arts in a leveraged buyout.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Outline_of_artificial_satellites"&gt;... that artificial satellites make up the majority of modern space launches and missions?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Michelle_Bruce"&gt;... that a lawsuit against transgender politician Michelle Bruce claimed that presenting as a woman gave her an "unfair advantage" in her election?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Halloween:_The_Game"&gt;... that the development team for Halloween: The Game worked with John Carpenter and designed the game as a 1970s period piece?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Selina_Wadge"&gt;... that Selina Wadge was hanged in 1878 for dropping her child down a well?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Claddagh_Embrace"&gt;... that the mural The Claddagh Embrace was partly made of potatoes?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amanat_Khan_Shirazi"&gt;... that Amanat Khan Shirazi received an elephant from the emperor for his work on the calligraphy of the Taj Mahal?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Amida_(502%E2%80%93503)"&gt;... that, during the siege of Amida in 502–503, most of the available food and drink was given to men, while leather shoes and the flesh of the dead went to the women?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ko_Arimatsu"&gt;... that Ko Arimatsu witnessed an asteroid impact on Jupiter using a telescope that he built out of boredom?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mitchell_Burns"&gt;... that Mitchell Burns demonstrated how to extract natural shampoo from a "very phallic" plant on Christmas Day?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_N%C3%B6teborg"&gt;1323 – Sweden and the Novgorod Republic signed the Treaty of Nöteborg resulting in a temporary hiatus in the Swedish–Novgorodian Wars.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1834_Philadelphia_race_riot"&gt;1834 – A race riot in Philadelphia, United States, destroyed African-American businesses and killed two people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123"&gt;1985 – Japan Air Lines Flight 123 crashed into Mount Takamagahara in Japan, killing 520 of 524 people on board, including singer Kyu Sakamoto, in the world's deadliest single-aircraft aviation disaster.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kursk_submarine_disaster"&gt;2000 – Kursk, an Oscar-class submarine of the Russian Navy, suffered an on-board explosion and sank in the Barents Sea during a military exercise, killing 118 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Plymouth_shooting"&gt;2021 – Six people, including the perpetrator, were killed in a mass shooting in Plymouth, England.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://stolen-thoughts.com/"&gt;Stealing Reasoning Traces from Proprietary LLM APIs&lt;/a&gt; (626 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.bbc.com/news/articles/c75gk620r22o"&gt;England set to be one of the first countries to eliminate hepatitis C&lt;/a&gt; (542 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ngrok.com/blog/compression-is-prediction"&gt;Compression is prediction&lt;/a&gt; (541 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"&gt;OpenAI’s head of ethics leaves less than a year after joining&lt;/a&gt; (438 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here"&gt;Mojo 1.0&lt;/a&gt; (389 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"&gt;Go is an ideal language for AI-assisted software engineering&lt;/a&gt; (383 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/7QvKqpGJwqXrQcMgx/llms-are-starting-to-noticeably-accelerate-our-work"&gt;LLMs Are Starting To Noticeably Accelerate Our Work&lt;/a&gt; (161 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"&gt;Misaligned AIs could use killer robots to take over&lt;/a&gt; (68 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/YtZBfbYRvMTynCfnC/how-risky-would-it-be-to-make-powerful-ai-obey-one-or-a-few"&gt;How risky would it be to make powerful AI obey one or a few people?&lt;/a&gt; (67 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mEde7bhzK4eKQqWGi/those-who-make-history"&gt;Those Who Make History&lt;/a&gt; (50 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-12.html"/>
-    <published>2026-08-12T07:00:00-04:00</published>
   </entry>
 </feed>
