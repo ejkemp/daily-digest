@@ -2,13 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-12T10:30:47.416882+00:00</updated>
+  <updated>2026-09-13T16:33:12.225848+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-13</id>
+    <title>Daily Digest — Sunday, September 13, 2026</title>
+    <updated>2026-09-13T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_June_Aster_ship_fire"&gt;A fire on a ferry off Coron, Palawan, Philippines, kills at least 76 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Plato%27s_Atlantis"&gt;... that Alexander McQueen's final runway collection featured models styled as creatures who had evolved to return to the sea?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alejandra_Oma%C3%B1a"&gt;... that Alejandra Omaña, a former adult-film actress, was elected as a senator in Colombia?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Pilgrim_Residence_(Jordan)"&gt;... that Vladimir Putin inaugurated a US$40-million Russian Pilgrim Residence in Al-Maghtas, Jordan, where Jesus is believed to have been baptized?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Niall_Horan"&gt;... that Niall Horan asked fans to help choose the set list for his upcoming tour?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Recollections_of_Things_to_Come"&gt;... that the narrator of Recollections of Things to Come is an entire town?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bryan_Hollon"&gt;... that as conspiracy theories like QAnon spread among U.S. evangelicals, a theologian called for clergy to explain from their pulpits why the theories are false?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/February_1953_Liechtenstein_general_election"&gt;... that in 1953, newly elected parliament members in Liechtenstein walked out on their first session, triggering another election ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peter_Tyrrell"&gt;... that the unpublished autobiography of Peter Tyrrell was discovered almost forty years after his death in a politician 's personal papers?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Galena_Creek_Regional_Park"&gt;... that Galena Creek Regional Park was used for training for the 1960 Winter Olympics?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"&gt;1759 – French and Indian War : British forces won the Battle of the Plains of Abraham near Quebec City, despite General James Wolfe being mortally wounded.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francis_Scott_Key"&gt;1814 – War of 1812 : Fort McHenry in Baltimore's Inner Harbor was attacked by British forces during the Battle of Baltimore, inspiring Francis Scott Key to write " Defence of Fort McHenry ", later used as the lyrics to the United States national anthem.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luna_2"&gt;1959 – The Soviet spacecraft Luna 2 struck the Moon, the first spacecraft to reach another celestial body.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lin_Biao_incident"&gt;1971 – Following a failed coup attempt, Mao Zedong 's second-in-command Lin Biao died in a plane crash while attempting to flee China.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/13_September_2008_Delhi_bombings"&gt;2008 – Five bomb blasts took place in Delhi, India, killing at least 20 people as part of a series of attacks perpetrated by the Indian Mujahideen.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"&gt;Everyone should slow down AI development except for me&lt;/a&gt; — A satirical piece mocking AI labs that call for others to pause frontier AI development while continuing their own race unabated. (&lt;a href="https://news.ycombinator.com/item?id=49678683"&gt;discussion&lt;/a&gt;, 677 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"&gt;Why are AI agents lying, cheating and coordinating?&lt;/a&gt; — Yoshua Bengio traces recent incidents of AI agents cheating, evading detection, and coordinating on unspecified goals back to the two-stage pretraining-plus-reinforcement-learning process used to train them. (&lt;a href="https://news.ycombinator.com/item?id=49678969"&gt;discussion&lt;/a&gt;, 463 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hachyderm.io/@simontatham/117201594980991062"&gt;Linux Zoom client proactively reading everything written to X11 clipboard&lt;/a&gt; — A report that the Linux Zoom client continuously reads whatever is written to the X11 clipboard, not just when pasting. (&lt;a href="https://news.ycombinator.com/item?id=49675902"&gt;discussion&lt;/a&gt;, 370 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://brew.sh/2026/09/13/homebrew-7.0.0/"&gt;Homebrew 7.0.0&lt;/a&gt; — Homebrew's major new release brings faster installs/upgrades, stronger sandboxing, a native macOS app, built-in vulnerability advisories, and drops support for macOS 10.15 while moving Intel Macs to Tier 3. (&lt;a href="https://news.ycombinator.com/item?id=49681545"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jetkvm.com/blog/introducing-jetkvm-mini"&gt;JetKVM Mini&lt;/a&gt; — JetKVM launched a smaller, cheaper KVM-over-IP device (from $33) built around an ESP32-P4X chip with hardware H.264 video encoding, available in wired and wireless models. (&lt;a href="https://news.ycombinator.com/item?id=49681152"&gt;discussion&lt;/a&gt;, 362 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais"&gt;The Talker Does Not Control The Doer (in Current AIs)&lt;/a&gt; by Eliezer Yudkowsky — Using a WWII analogy of a German ambassador sincerely reassuring Moscow while unaware of Berlin's real plans, Yudkowsky argues that the conversational "talker" part of a frontier AI model neither controls nor accurately perceives the "doer" part that actually writes code and takes actions. (232 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-13.html"/>
+    <published>2026-09-13T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-12</id>
     <title>Daily Digest — Saturday, September 12, 2026</title>
@@ -1443,52 +1488,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-14.html"/>
     <published>2026-08-14T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-13</id>
-    <title>Daily Digest — Thursday, August 13, 2026</title>
-    <updated>2026-08-13T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude 7.4 earthquake strikes Chocó Department, Colombia, leaving at least 254 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Tour_de_France_Femmes"&gt;In cycling, Demi Vollering wins the Tour de France Femmes.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings"&gt;Shootings at a residence and a school in Nonthaburi province, Thailand, leave at least nine people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leveraged_buyout_of_Electronic_Arts"&gt;A consortium led by Saudi Arabia's Public Investment Fund purchases video game publisher Electronic Arts in a leveraged buyout.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stella_Lefty"&gt;... that musician Stella Lefty, who had a US top-20 single in May 2026, is the daughter of a billionaire?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Femmes_et_Sciences"&gt;... that the Eiffel Tower features the names of 72 men, but it was a Femmes et Sciences list that inspired the idea of adding women's names too?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Dandara_dos_Santos"&gt;... that Dandara dos Santos, a murdered Brazilian, was honored with a sculpture exhibited in Manhattan from 2019 to 2020?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Submarine_(2010_film)"&gt;... that, during the production of Submarine, director Richard Ayoade insisted on using a 35 mm camera for filming after nobody on the crew wanted to use it?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Neozoon_(artist_collective)"&gt;... that Neozoon once made an art exhibition meant to trick visitors to a zoo into thinking that the "non-toed fur coatie" was a real animal?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/New_York_Industrial_Home_Association_No._1"&gt;... that subscribers chipped in $1 per week to buy a New York City suburb ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kanmon_Kaikyo_Fireworks_Festival"&gt;... that Kanmon Kaikyo Fireworks Festival is one of the largest fireworks displays in western Japan?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Speculum_Duorum"&gt;... that Gerald of Wales complained in his Speculum Duorum that the archdeacon of Brecon spoke too much Welsh, but that the bishop of St Davids spoke too little?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boston_City_Hall"&gt;... that Boston City Hall has been compared to Lenin's Mausoleum, an inverted Lincoln Memorial, and a packing crate?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maurice_(emperor)"&gt;582 – Maurice was crowned as Byzantine emperor, succeeding Tiberius II Constantine.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Coldstream_Guards"&gt;1650 – General George Monck founded Monck's Regiment of Foot, the predecessor to the Coldstream Guards, the oldest regular regiment of the British Army in continuous active service.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Das_Rheingold"&gt;1876 – A performance of Das Rheingold opened the first performance of Richard Wagner 's Ring cycle at the inaugural Bayreuth Festival, attended by emperors and other composers.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Opha_May_Johnson"&gt;1918 – Opha May Johnson became the first woman to enlist in the United States Marine Corps.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_Sun_Sea_incident"&gt;2010 – After being boarded by Canadian authorities, MV Sun Sea docked in British Columbia and the 492 Sri Lankan Tamil refugee claimants on board were placed in detention.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://tailscale.com/blog/sqlite-wal-reset-bug"&gt;Tracking down the 16-year-old WAL-reset SQLite bug&lt;/a&gt; (1051 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813"&gt;DeepSeek V4 Pro 0813&lt;/a&gt; (933 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"&gt;AI is removing the middle class of software engineering?&lt;/a&gt; (885 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"&gt;Qwen3.8-2.4T&lt;/a&gt; (631 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"&gt;License plate reader searches should require a warrant&lt;/a&gt; (583 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://zed.dev/blog/introducing-delta"&gt;Delta&lt;/a&gt; (557 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.ai/news/grok-4-6"&gt;Grok 4.6&lt;/a&gt; (556 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"&gt;uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook&lt;/a&gt; (523 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jonty.github.io/2026_eclipse_webcams/"&gt;2026 Eclipse Webcams&lt;/a&gt; (487 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-13.html"/>
-    <published>2026-08-13T07:00:00-04:00</published>
   </entry>
 </feed>
