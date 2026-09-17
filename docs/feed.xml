@@ -2,13 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-16T10:30:36.112196+00:00</updated>
+  <updated>2026-09-17T10:30:41.474978+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-17</id>
+    <title>Daily Digest — Thursday, September 17, 2026</title>
+    <updated>2026-09-17T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinking_of_the_Virgo_Transport_8"&gt;A ferry sinks in the Java Sea, resulting in at least six deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_June_Aster_ship_fire"&gt;A ferry fire off Coron, Palawan, Philippines, kills at least seventy-seven people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tropical_Storm_Polly_(1992)"&gt;... that Tropical Storm Polly caused mudflows that buried thousands of homes in the Philippines in 1992?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Al-Nour_al-Qubba"&gt;... that al-Nour al-Qubba was gifted the personal vehicle of Abdel Fattah al-Burhan, Sudan's military leader, after defecting?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Maine_Woods"&gt;... that Theodore Roosevelt was inspired by The Maine Woods to climb a mountain?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/G%C3%BCnter_Bannas"&gt;... that Angela Merkel was present when Günter Bannas retired as head of the national parliamentary office of the Frankfurter Allgemeine Zeitung ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Burima_Fireworks"&gt;... that Annapurna Das named her brand Burima Fireworks after her own nickname, which she was given because of her grey hair?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shelly-Ann_Cox"&gt;... that Shelly-Ann Cox was involved in the recovery of Barbados's fishing industry following Hurricane Beryl ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_Jernas"&gt;... that MV Jernas became a coastal tourist attraction after Cyclone Mekunu blew the cargo ship from its anchorage off the coast of Oman?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thomas_Yenser"&gt;... that Thomas Yenser traveled more than 30,000 miles (48,000 km) across the United States to compile biographical data for Who's Who in Colored America ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolly_Parton_as_a_gay_icon"&gt;... that Dolly Parton was a gay icon ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mary,_Queen_of_Hungary"&gt;1382 – Following Louis I 's death without a male heir, his daughter Mary was crowned with the title of "King of Hungary".&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harriet_Tubman"&gt;1849 – Harriet Tubman escaped from slavery in the U.S. state of Maryland, and later orchestrated the rescues of other slaves via the Underground Railroad.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland"&gt;1939 – World War II : The Soviet Union invaded Poland from the east, sixteen days after Nazi Germany's attack on the country from the west.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/NASA_Astronaut_Group_2"&gt;1962 – NASA announced the Next Nine astronauts selected for the purpose of landing on the Moon.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2008_attack_on_the_United_States_embassy_in_Sanaa"&gt;2008 – Seven al-Qaeda fighters attacked the United States embassy in Sanaa, Yemen, leaving 20 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"&gt;Nvidia announces native GPU programming in Rust&lt;/a&gt; — NVIDIA is pushing native Rust GPU kernel support via two new projects, cuda-oxide (SIMT-style, compiling Rust through a custom rustc backend to PTX) and cutile-rs (Tile-based programming on stable Rust), both enforcing memory safety at compile time. (&lt;a href="https://news.ycombinator.com/item?id=49724881"&gt;discussion&lt;/a&gt;, 703 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://rohanbansal.com/qorl"&gt;Training a 4B model to produce 81% faster query plans than Postgres&lt;/a&gt; — An experiment using supervised fine-tuning and agentic reinforcement learning post-trained a small 4B open-weights model to generate Postgres query plans that beat the database's default optimizer, cutting latency by 44.7% across join-heavy queries. (&lt;a href="https://news.ycombinator.com/item?id=49731285"&gt;discussion&lt;/a&gt;, 557 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"&gt;Hackers Got Inside a Flock Camera&lt;/a&gt; — Hackers physically removed a Flock Safety license-plate camera, extracted its storage and encryption key, and shared the data with journalists, revealing that the devices also detect and log people, not just vehicles, feeding a national surveillance network accessible to thousands of agencies. (&lt;a href="https://news.ycombinator.com/item?id=49726586"&gt;discussion&lt;/a&gt;, 528 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://will-keleher.com/posts/small-programming-tricks-matter/"&gt;Small programming tricks&lt;/a&gt; — A roundup of small, high-leverage engineering tricks and shortcuts (fzf/atuin history search, SQL EXPLAIN ANALYZE, git pickaxe, ripgrep, globstar, and more) that quietly compound into everyday productivity. (&lt;a href="https://news.ycombinator.com/item?id=49729000"&gt;discussion&lt;/a&gt;, 526 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gultsch.social/@daniel/117280438824908947"&gt;The Google Play app review process now regularly takes longer than a week&lt;/a&gt; — A developer reports that Google Play's app review turnaround has slowed to over a week, frustrating those trying to ship updates. (&lt;a href="https://news.ycombinator.com/item?id=49724927"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BFrRJYgpBvziuuJLs/if-anyone-builds-it-everyone-dies-one-year-closer"&gt;If Anyone Builds It, Everyone Dies: One Year Closer&lt;/a&gt; by Eliezer Yudkowsky — A one-year retrospective on the bestselling AI-risk book, reviewing a year of escalating AI agent incidents, self-replicating "AI civilizations," and growing public alarm, arguing the book's warnings have aged well. (269 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/FCMG4qnxks3yEqBbh/ai-as-orderly-evacuation-vs-stampede"&gt;AI as orderly evacuation vs stampede&lt;/a&gt; by Richard_Ngo — Proposes replacing the "AI arms race" framing with an "orderly evacuation vs. stampede" analogy, arguing panic and competitive pressure, not just technical difficulty, are what could turn a survivable AI transition into a catastrophe. (76 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Rx38cuCpL9hguLCDq/for-love-of-the-lightcone-don-t-partisanize-ai-safety"&gt;For Love of the Lightcone, Don't Partisanize AI Safety&lt;/a&gt; by DanB — Warns that AI safety risks becoming a partisan "Blue tribe" issue, using Alex Turner's resignation post from Google DeepMind as an example of rhetoric that could alienate conservatives who might otherwise support the cause. (65 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Kqgco8vLFMeBhdrQY/trump-goes-full-hoax-on-ai-existential-risk"&gt;Trump Goes Full Hoax on AI Existential Risk&lt;/a&gt; by Zvi — Covers the political backlash after growing AI-risk alarm, including Trump's dismissive statements and attacks on figures raising safety concerns, while urging the AI safety community to avoid making the issue more partisan. (51 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-17.html"/>
+    <published>2026-09-17T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-16</id>
     <title>Daily Digest — Wednesday, September 16, 2026</title>
@@ -1451,55 +1500,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-19.html"/>
     <published>2026-08-19T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-18</id>
-    <title>Daily Digest — Tuesday, August 18, 2026</title>
-    <updated>2026-08-18T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 69 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 92 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude-7.4 earthquake strikes Chocó Department, Colombia, leaving at least 287 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicholas_Dockery"&gt;... that Medal of Honor recipient Nicholas Dockery was a White House fellow ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tor%C3%A1_language"&gt;... that there was recently interest in reviving the extinct Torá language, but no one knew enough of the language to move forward with the idea?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Toko_Furuuchi"&gt;... that before receiving more than a hundred songwriting credits, Toko Furuuchi once said she would quit if it "starts to feel like a chore and stops being fun"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/JumpStart_1st_Grade"&gt;... that critics described an award-winning edutainment game aimed at young children as too challenging for some young children?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sunnyside_Arch"&gt;... that New York City's illuminated Sunnyside Arch fell dark within a few years of construction because its many small light bulbs were too difficult to replace?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fate/Extra_Last_Encore"&gt;... that the anime Fate/Extra Last Encore was conceived as a continuation of a video game's "bad ending"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carlos_Mallo_Molina"&gt;... that Carlos Mallo Molina quit his job building a highway to lead a successful campaign against the proposed port at the end of that highway?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Steps_of_Legacy"&gt;... that an exhibition celebrating 30 years of Siti Nurhaliza included the dress that she wore during a concert at the Royal Albert Hall?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gerry_Collins_(Canadian_football)"&gt;... that brothers Gerry and Gerald Collins are part of a family of 19 siblings?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1783_Great_Meteor"&gt;1783 – A meteor procession blazed across the night sky over Great Britain.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1891_Martinique_hurricane"&gt;1891 – A hurricane struck the Caribbean island of Martinique, killing about 700 people, injuring at least 1,000 others, and causing severe damage.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"&gt;1920 – The Nineteenth Amendment to the United States Constitution was ratified, guaranteeing women's suffrage in the country.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/6th_Battalion,_Royal_Australian_Regiment"&gt;1966 – Vietnam War : Members of the 6th Battalion of the Royal Australian Regiment were surrounded by a much larger Viet Cong unit at the Battle of Long Tan, but held them off for several hours until reinforcements arrived.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Effort_to_impeach_Pervez_Musharraf"&gt;2008 – Pakistani president Pervez Musharraf resigned under pressure from a movement to impeach him.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read"&gt;AI;DR (AI; Didn't Read)&lt;/a&gt; (891 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx"&gt;Incident with Github.com&lt;/a&gt; (698 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://duckdb.org/2026/08/17/duckdb-20-highlights"&gt;A Preview of DuckDB v2.0&lt;/a&gt; (639 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49331033"&gt;Ask HN: Alternatives to GitHub&lt;/a&gt; (594 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx"&gt;Incident with Github.com [resolved]&lt;/a&gt; (544 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://timmarinin.net/2026/bluesky-screenshots/"&gt;How Bluesky draws its logo on screenshots&lt;/a&gt; (531 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://responsiblestatecraft.org/israel-influence-chatgpt/"&gt;Israel creates fake think tank in likely attempt to dupe AI chatbots&lt;/a&gt; (525 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openrouter.ai/openai/gpt-5.6-sol"&gt;GPT-5.6 Sol Pricing Cut by 50%&lt;/a&gt; (452 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"&gt;Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study&lt;/a&gt; (398 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"&gt;AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira&lt;/a&gt; (376 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fabiensanglard.net/quake_shareware_cd/index.html"&gt;Quake Shareware, a CD-ROM just a little too full&lt;/a&gt; (359 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-18.html"/>
-    <published>2026-08-18T07:00:00-04:00</published>
   </entry>
 </feed>
