@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-17T10:30:41.474978+00:00</updated>
+  <updated>2026-09-18T10:30:29.257574+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-18</id>
+    <title>Daily Digest — Friday, September 18, 2026</title>
+    <updated>2026-09-18T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to twenty-five years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinking_of_the_Virgo_Transport_8"&gt;A ferry sinks in the Java Sea, resulting in at least six deaths and more than a hundred others missing.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_June_Aster_ship_fire"&gt;A ferry fire off Coron, Palawan, Philippines, kills at least seventy-seven people.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kalpana_Chawla"&gt;... that Kalpana Chawla was the first Indian woman to go to space?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/South_Korea_v_Italy_(2002_FIFA_World_Cup)"&gt;... that Ahn Jung-hwan 's contract with Perugia was cancelled after he scored the golden goal in a 2002 FIFA World Cup round-of-16 match between South Korea and Italy ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paul_Senn"&gt;... that Swiss photojournalist Paul Senn helped to expose abuse at a boys' home, leading to its closure?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Most_Holy_Trinity%E2%80%93St._Mary_Catholic_Church"&gt;... that the ban on stone monuments in Brooklyn's Most Holy Trinity Cemetery led to it becoming known for metal grave markers ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carol_Baldwin_(Coronation_Street)"&gt;... that the character of Carol Baldwin has been compared to a younger version of Catherine Tate's Nan ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Furnished_Room"&gt;... that when Weird Tales reprinted O. Henry's " The Furnished Room " in 1925, it billed "a whiff of mignonette" as the story's ghost?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alberto_Ravagnani"&gt;... that Alberto Ravagnani used ChatGPT to write sermons?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1945_Liechtenstein_general_election"&gt;... that a general election in Liechtenstein was delayed to prevent Nazis from gaining seats in parliament?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bernard_of_Valence"&gt;... that Patriarch Bernard fled battle on a mule, then cut off its tail so the Turks could not catch him by it?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nerva"&gt;AD 96 – Nerva (depicted), the first of the " Five Good Emperors " of ancient Rome, came to power following the assassination of his predecessor Domitian.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Second_Battle_of_Kehl_(1796)"&gt;1796 – War of the First Coalition : General Franz Petrasch 's Austrian and Imperial troops stormed the French-held bridgehead over the Rhine river.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_New_York_Times"&gt;1851 – The New York Times, the largest metropolitan newspaper in the United States, was founded.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1961_Ndola_Transair_Sweden_Douglas_DC-6_crash"&gt;1961 – An aircraft crashed near Ndola in Northern Rhodesia, resulting in the deaths of 16 people, including United Nations secretary-general Dag Hammarskjöld.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wedding_of_Constantine_II_and_Princess_Anne-Marie"&gt;1964 – The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place in Athens.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/asciimoo/hister"&gt;Hister: A private search engine for the pages you visit and the files you keep&lt;/a&gt; — An open-source, self-hosted search engine that does full-text indexing of your browsing history and local files, searchable via web UI, terminal, or MCP, with no telemetry or mandatory cloud service. (&lt;a href="https://news.ycombinator.com/item?id=49743097"&gt;discussion&lt;/a&gt;, 618 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/astra-for-law/"&gt;Astra for Law&lt;/a&gt; — OpenAI launched a legal-specialized configuration of GPT-6 Astra with a 230M+ URL legal search index (including CourtListener case law) and custom legal-analysis tooling, showing a 40% relative improvement over base Astra on a legal research benchmark, for partners like Harvey and Legora to build on. (&lt;a href="https://news.ycombinator.com/item?id=49745940"&gt;discussion&lt;/a&gt;, 496 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bend-lang.com/"&gt;Bend – A language that blocks AI mistakes via proof, on CPU and GPU&lt;/a&gt; — A new programming language with Python-like syntax that compiles to near-C speed and auto-parallelizes across CPU cores or GPU, and uses Lean/Rocq-style proof checking (via a &lt;code&gt;LAWS.bend&lt;/code&gt; file) so AI coding agents can't merge changes that violate declared invariants. (&lt;a href="https://news.ycombinator.com/item?id=49746163"&gt;discussion&lt;/a&gt;, 474 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://prismml.com/news/bonsai-2-27b"&gt;Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint&lt;/a&gt; — A ternary-quantized 27B multimodal model (based on Qwen3.8 27B) compressed to a 5.9GB footprint while retaining 98.2% of full-precision benchmark performance, aimed at running coding-agent and computer-use workloads locally on consumer GPUs. (&lt;a href="https://news.ycombinator.com/item?id=49746618"&gt;discussion&lt;/a&gt;, 459 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.hacktron.ai/blog/hacking-openai"&gt;A heap overflow and SSO misconfiguration to compromise OpenAI internal repos&lt;/a&gt; — Security researchers detail how they chained an RCE in OpenAI's Discourse-hosted community forum with an SSO flaw to take over employee ChatGPT/Codex accounts and gain access to OpenAI's internal monorepo, responsibly disclosing the issue and receiving a $6,500 bounty. (&lt;a href="https://news.ycombinator.com/item?id=49749656"&gt;discussion&lt;/a&gt;, 361 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5guQJSqstkjgys3PE/deep-recurrent-models-are-less-robustly-cot-monitorable-than"&gt;Deep recurrent models are less robustly CoT-monitorable than normal CoT models in a toy setting&lt;/a&gt; by Nick Kuhn — Experiments comparing a standard chain-of-thought model against a "parallel latents" architecture find that the latter can much more readily learn to hide its reasoning from a CoT monitor under RL pressure, suggesting such architectures would be harder to oversee. (72 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/C7Z5hr4yCG6fXy9o3/callcongress-ai-the-basic-action-us-residents-can-take-to"&gt;callcongress.ai – the basic action US residents can take to help with AI risk&lt;/a&gt; by Ruby — A new Lightcone Infrastructure site that helps US residents easily contact their Congressional representatives about AI risk, offering location-based phone numbers and customizable scripts including specific legislation to reference. (60 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5mcDjo5gjn3Leahhu/the-game-is-set-for-a-targeted-memetic-attack-on-the-ai"&gt;The Game is Set for a Targeted Memetic Attack on the AI Safety Community&lt;/a&gt; by keltan — A MIRI researcher warns that the AI safety community should expect adversarial misinformation campaigns (e.g. fake leaks about lab incidents) designed to discredit the movement, and urges verifying sources and pausing before reacting publicly. (52 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-18.html"/>
+    <published>2026-09-18T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-17</id>
     <title>Daily Digest — Thursday, September 17, 2026</title>
@@ -1454,51 +1502,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-20.html"/>
     <published>2026-08-20T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-19</id>
-    <title>Daily Digest — Wednesday, August 19, 2026</title>
-    <updated>2026-08-19T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 70 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 94 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Reinforced_concrete_bridge"&gt;... that the 600-metre (2,000 ft) arch span of the Tian'e Longtan Bridge is the longest of any reinforced concrete bridge ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Whisper_Me_a_Love_Song"&gt;... that the original creator of Whisper Me a Love Song recalled listening to around 60 audition tapes to recommend a voice actress for a role?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/C._W._Kim"&gt;... that a Korean immigrant to the U.S. contributed to numerous notable buildings in San Diego's skyline?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Portuguese_in_California"&gt;... that some Portuguese Americans in California practice bloodless bullfighting during religious festivals?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Broadgate_Venus"&gt;... that the sculpture Broadgate Venus has been described as a "large and threatening personification of voluptuous, ripe womanhood"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dora_Brilliant"&gt;... that Dora Brilliant built bombs to assassinate Russian officials, despite being personally uncomfortable with violence?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mr._Buchanan%27s_Administration_on_the_Eve_of_the_Rebellion"&gt;... that James Buchanan wrote his own presidential memoir despite paying a friend $7,000 to write a biography of him?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Willo_Welzenbach"&gt;... that the " father of modern ice climbing " died on Nanga Parbat in 1934 after days of starvation and cold exposure?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/A_Million_Random_Digits_with_100,000_Normal_Deviates"&gt;... that Jackson Mac Low used A Million Random Digits with 100,000 Normal Deviates to write poetry?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Lagos"&gt;1759 – Seven Years' War : Having damaged several French vessels, British ships pursued the remainder of the fleet to Lagos, Portugal, and continued the battle there in violation of Portuguese neutrality.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Luck_of_Cumberland"&gt;1905 – In a ceremony officiated by Albert Grey, 4th Earl Grey, The Luck of Cumberland was presented to HMS Cumberland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/766th_Independent_Infantry_Regiment_(North_Korea)"&gt;1950 – The 766th Independent Infantry Regiment of North Korea was disbanded after fighting for less than two months in the Korean War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2002_Khankala_Mi-26_crash"&gt;2002 – Second Chechen War : A Russian Mil Mi-26 was brought down by Chechen separatists with a man-portable air-defense system near Khankala, killing 127 people in the deadliest helicopter crash in history.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cypress_Island_Atlantic_salmon_pen_break"&gt;2017 – Around 250,000 farmed non-native Atlantic salmon were accidentally released into the wild near Cypress Island, Washington.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://seths.blog/2026/08/the-amazon-tax/"&gt;The Amazon tax&lt;/a&gt; (1185 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openlogi.org/en"&gt;OpenLogi&lt;/a&gt; (713 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/"&gt;Beware Management Consultants&lt;/a&gt; (553 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://philo.gay/linecam/"&gt;Using the railway network as a flatbed scanner&lt;/a&gt; (429 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/"&gt;Fixing a bricked Framework laptop&lt;/a&gt; (405 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"&gt;Fairphone is now officially available in the United States&lt;/a&gt; (377 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf"&gt;Sticky wage norms and the real wage cost of unexpected inflation&lt;/a&gt; (358 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html"&gt;How does IKEA come up with names for its products?&lt;/a&gt; (350 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-19.html"/>
-    <published>2026-08-19T07:00:00-04:00</published>
   </entry>
 </feed>
