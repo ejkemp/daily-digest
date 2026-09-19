@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-18T10:30:29.257574+00:00</updated>
+  <updated>2026-09-19T10:30:28.878663+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-19</id>
+    <title>Daily Digest — Saturday, September 19, 2026</title>
+    <updated>2026-09-19T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;A new species of tiger cat is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to twenty-five years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinking_of_the_Virgo_Transport_8"&gt;A ferry sinks in the Java Sea, resulting in at least nine deaths and more than a hundred others missing.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Janggyeong_Panjeon_of_Haeinsa"&gt;... that the design of the Janggyeong Panjeon of Haeinsa has allowed wooden printing blocks to be preserved for more than 600 years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bob_Krieger"&gt;... that Bob Krieger, while away from the NFL, flew more than 30 bomber missions over Germany during World War II?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anoplotheriidae"&gt;... that species of the extinct artiodactyl family Anoplotheriidae had estimated weights ranging from 13.2 kg (29 lb) to 266 kg (586 lb)?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robert_Iau"&gt;... that Robert Iau asked a question that led to the demolition of Singapore's National Theatre?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Timeline_of_the_1989_Pacific_hurricane_season"&gt;... that the first storm of the 1989 Pacific hurricane season formed more than four months before the season's official start date?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bahanur_%C5%9Eahin_G%C3%B6kalp"&gt;... that Bahanur Şahin Gökalp was part of the Turkey women's national beach and snow volleyball teams?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Impress_Holdings"&gt;... that Impress Holdings published the first email-based magazine in Japan?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stephan_Ludwig_Roth"&gt;... that pastor Stephan Ludwig Roth became a "martyr" among the Transylvanian Saxons after his 1849 execution because of his advocacy of social justice?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Punching_the_Clown_(album)"&gt;... that the title track of Lambchop 's album Punching the Clown features Gospel choirs cursing?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Poitiers"&gt;1356 – Hundred Years' War : English forces led by Edward the Black Prince decisively won the Battle of Poitiers and captured John II of France.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Giles_Corey"&gt;1692 – Salem witch trials : Giles Corey was crushed to death for refusing to enter a plea to charges of witchcraft, reportedly asking the sheriff for "more weight" during his execution.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette"&gt;1846 – Near La Salette-Fallavaux in southeastern France, shepherd children Mélanie Calvat and Maximin Giraud reported a Marian apparition, now known as Our Lady of La Salette.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"&gt;1976 – An unidentified flying object over Tehran in Iran was observed by multiple civilians and military personnel, which has been described as one of the most credible cases in ufology.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mariano_Rivera"&gt;2011 – Mariano Rivera surpassed Trevor Hoffman to become Major League Baseball 's all-time career leader in saves.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://grapheneos.social/@GrapheneOS/117282080803799576"&gt;Android 17 is the first since 3.x to add new APIs without releasing to the AOSP&lt;/a&gt; — GrapheneOS notes that Android 17 introduces new APIs without first releasing the corresponding code to the Android Open Source Project. (&lt;a href="https://news.ycombinator.com/item?id=49758736"&gt;discussion&lt;/a&gt;, 847 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hawksley.dev/blog/i-dont-like-passkeys"&gt;I don't like passkeys&lt;/a&gt; — An argument that while passkeys eliminate phishing risk, they trade it for a higher risk of permanent account lockout due to poor portability, hardware-key account limits, and platform lock-in with Apple/Google. (&lt;a href="https://news.ycombinator.com/item?id=49753211"&gt;discussion&lt;/a&gt;, 776 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://try.cloudflare.com/"&gt;Cloudflare Quick Tunnels&lt;/a&gt; — A single command exposes a local server via a public, encrypted Cloudflare URL with no account, DNS setup, or open inbound ports required. (&lt;a href="https://news.ycombinator.com/item?id=49754785"&gt;discussion&lt;/a&gt;, 710 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"&gt;US Military had close call after using AI for hallucinated intelligence report&lt;/a&gt; — A chatbot-generated intelligence report falsely claimed a Chinese ship was carrying nuclear weapons components, nearly triggering a US military boarding operation before officials caught the error. (&lt;a href="https://news.ycombinator.com/item?id=49757520"&gt;discussion&lt;/a&gt;, 454 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"&gt;Saving another 100TB of RAM&lt;/a&gt; — Cloudflare's engineers describe how tweaks to their consistent-hashing algorithm in the Pingora Backend Router cut memory usage enough to reclaim over 100TB of RAM globally. (&lt;a href="https://news.ycombinator.com/item?id=49758580"&gt;discussion&lt;/a&gt;, 364 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are"&gt;Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)&lt;/a&gt; by Steven Byrnes — Argues LLMs excel at math and code not because these domains are easy to verify but because the pretraining corpus for them (math literature, working code) is overwhelmingly correct, unlike the more error-ridden literature of many other fields. (95 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sDiSqZmctQ78hsLcP/the-preference-cascade-is-only-getting-started"&gt;The Preference Cascade Is Only Getting Started&lt;/a&gt; by Zvi — Argues that a growing wave of public and elite concern about AI existential risk is building momentum, citing rising survey estimates, polling, and prominent figures speaking out, but contends this cascade still needs to go much further. (63 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-19.html"/>
+    <published>2026-09-19T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-18</id>
     <title>Daily Digest — Friday, September 18, 2026</title>
@@ -1447,60 +1494,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-21.html"/>
     <published>2026-08-21T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-20</id>
-    <title>Daily Digest — Thursday, August 20, 2026</title>
-    <updated>2026-08-20T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 73 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 94 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Qeren_Naftali_fortress"&gt;... that a Jewish ritual bath at the Qeren Naftali fortress was later filled with non-kosher animal bones by a non-Jewish garrison?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Abdullah_Suriosubroto"&gt;... that the painter Abdullah Suriosubroto was adopted by a National Hero of Indonesia?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jimoto_Saiko!"&gt;... that the slice-of-life manga Jimoto Saiko! focuses on poverty, instead of the genre's usual focus on happy lives?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wedding_Band:_A_Love/Hate_Story_in_Black_and_White"&gt;... that Alice Childress 's play Wedding Band was based on a true story told by her grandmother?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Frank_Kauer"&gt;... that Frank Kauer related to his Hollyoaks character because he experienced "the challenges growing up mixed race brought"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1945_Zhijiang_surrender_ceremony"&gt;... that the 1945 Zhijiang surrender ceremony marked the beginning of China's acceptance of Japan's surrender in World War II?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Faiza_Ali"&gt;... that Faiza Ali, now New York City's commissioner of immigrant affairs, has said she first became an activist due to experiencing Islamophobia after 9/11 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rayman_Legends_Retold"&gt;... that a Rayman Legends Retold producer compared the moment two studios discovered that both wanted to make a Rayman game to the Spider-Man pointing meme ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucy_Poate_Stebbins"&gt;... that a novelist and her son wrote a biography on another novelist and her sons ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Saragossa"&gt;1710 – War of the Spanish Succession : A Spanish Bourbon army commanded by the Marquis de Bay was soundly defeated by a multinational army led by the Austrian commander Guido Starhemberg.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/National_Football_League"&gt;1920 – The American Professional Football Conference, a predecessor of the National Football League, was established in Canton, Ohio.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yellowstone_fires_of_1988"&gt;1988 – More than 150,000 acres (610 km 2 ) were burned on the worst day of the largest wildfire in the recorded history of Yellowstone National Park in the United States.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/O-Bahn_Busway"&gt;1989 – The final stage of the O-Bahn Busway in Adelaide, South Australia, was finished, completing at the time the world's longest and fastest guided busway, with buses travelling 12 km (7.5 mi) at speeds of up to 100 km/h (62 mph).&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Silent_Sam"&gt;2018 – Silent Sam, a Confederate monument on the campus of the University of North Carolina at Chapel Hill, was toppled by protestors.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"&gt;A joke domain purchase turned in geopolitical warfare&lt;/a&gt; (908 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"&gt;OpenRouter is joining Stripe&lt;/a&gt; (847 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://go.dev/blog/go1.27"&gt;Go 1.27&lt;/a&gt; (649 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://grapheneos.social/@GrapheneOS/117078064184215730"&gt;Devices with GrapheneOS support should be available in 2027&lt;/a&gt; (604 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://grapheneos.social/@GrapheneOS/117057099753905023"&gt;Google has stopped pushing Git tags for some Android source code&lt;/a&gt; (578 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees"&gt;Remote workers report the highest well-being in study of 7,700 employees&lt;/a&gt; (577 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787"&gt;Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma&lt;/a&gt; (564 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://yassa9.github.io/osint/gralhix-004/"&gt;Geolocating a random island using geometry and CUDA programming&lt;/a&gt; (482 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://shkspr.mobi/blog/2013/11/civic-hygiene/"&gt;Civic Hygiene – avoid building technologies that could be used by a police state (2013)&lt;/a&gt; (436 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"&gt;Casio F-B100W-1A&lt;/a&gt; (387 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/"&gt;PostgreSQL for Everything&lt;/a&gt; (372 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/L23poLi8MRgS6mXYF/rl-creates-split-personas"&gt;RL creates split personas&lt;/a&gt; (129 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dsou8dxCf9BubQ5NJ/some-reasons-alignment-doesn-t-generalise-well-1"&gt;Some reasons alignment doesn’t generalise well&lt;/a&gt; (89 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SqDHeuycNkERurtSc/a-circuit-prior-in-nn-bayes"&gt;A circuit prior in NN-bayes&lt;/a&gt; (64 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-20.html"/>
-    <published>2026-08-20T07:00:00-04:00</published>
   </entry>
 </feed>
