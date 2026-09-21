@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-20T10:30:35.667472+00:00</updated>
+  <updated>2026-09-21T10:30:41.452904+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-21</id>
+    <title>Daily Digest — Monday, September 21, 2026</title>
+    <updated>2026-09-21T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cold_spot_(astronomy)"&gt;... that cold spots have only been found on the Moon, but scientists expect to discover them on Mercury too?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucia_Bercescu-%C8%9Aurcanu"&gt;... that soprano Lucia Turcano was made an American citizen through federal legislation in 1954, but returned to communist Romania in 1963?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deniliquin_Ute_Muster"&gt;... that the Deniliquin Ute Muster set two Guinness World Records: for the largest parade of legally registered utes, and for the most people in blue singlets ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sydney_Towle"&gt;... that Sydney Towle modeled at Miami Swim Week despite living with terminal cancer?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Technocracy"&gt;... that technocracy is often seen as a threat to democracy because it grounds political legitimacy in expertise rather than popular representation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Talib_Al_Mamari"&gt;... that Omani parliamentarian Talib Al Mamari received a human rights award while imprisoned for his activism against industrial pollution?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Mumbai_Indians_season"&gt;... that the 2026 Mumbai Indians, the joint-most successful team in the Indian Premier League, won their opening game for the first time since 2012?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tendai_Rinomhota"&gt;... that the killing off of Tendai Rinomhota 's character in Emmerdale has been described as one of the soap's most memorable deaths?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Weenie_(design)"&gt;... that Walt Disney's weenie might be a tree, a castle, or a whale shark?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_Fire_of_New_York_(1776)"&gt;1776 – American Revolutionary War : The Great Fire of New York (depicted) broke out during the British occupation of New York City, destroying up to 1,000 buildings.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Hobbit"&gt;1937 – J. R. R. Tolkien 's fantasy children's novel The Hobbit, which later served as a prelude to The Lord of the Rings, was first published.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rhodesian_mission_in_Lisbon"&gt;1965 – Portugal accepted a diplomatic mission from Southern Rhodesia despite objections by Britain, which had required the colony to implement black majority rule as a condition of independence.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Naruto"&gt;1999 – The first chapter of Naruto, later one of the best-selling manga series, was published.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/America:_A_Tribute_to_Heroes"&gt;2001 – America: A Tribute to Heroes was broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"&gt;ChatGPT now knows what you do on other websites via ad collector&lt;/a&gt; — An investigation finds OpenAI sets a tracking cookie (&lt;code&gt;__obi&lt;/code&gt;) tied to a user's ChatGPT account, which advertiser sites' pixel code sends back to OpenAI, letting it link browsing behavior across the web to that account. (&lt;a href="https://news.ycombinator.com/item?id=49776729"&gt;discussion&lt;/a&gt;, 719 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://qwen.ai/blog?id=qwen-image-2.1"&gt;Qwen Image 2.1&lt;/a&gt; — Announcement of a new version of Qwen's image model. (&lt;a href="https://news.ycombinator.com/item?id=49775499"&gt;discussion&lt;/a&gt;, 654 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pirateface.co/"&gt;Pirate Face Rescues LLM Models from Deletion&lt;/a&gt; — A new decentralized project mirrors open AI models (LLMs, image, audio, datasets) from Hugging Face as checksum-verified torrents so they survive any single host being taken down. (&lt;a href="https://news.ycombinator.com/item?id=49776699"&gt;discussion&lt;/a&gt;, 537 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agentexecutor.io"&gt;AX – Google's Open Agentic Orchestrator&lt;/a&gt; — Google's AX lets developers declaratively define sandboxed, network-fenced agentic tasks and scale them to billions of concurrent sessions per cluster. (&lt;a href="https://news.ycombinator.com/item?id=49780797"&gt;discussion&lt;/a&gt;, 502 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"&gt;Samsung is expected to more than double output of its HBM4 and HBM4E DRAM&lt;/a&gt; — Samsung plans to more than double HBM4/HBM4E memory output next year by sharply increasing glass-carrier capacity used in wafer thinning for high-stack DRAM. (&lt;a href="https://news.ycombinator.com/item?id=49778029"&gt;discussion&lt;/a&gt;, 477 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://libroot.org/posts/what-happened-to-the-snowden-archive"&gt;What happened to the Snowden archive&lt;/a&gt; — A deep dive into why no journalist or outlet has published a document from the Snowden archive since May 2019, and who still holds copies of it. (&lt;a href="https://news.ycombinator.com/item?id=49780820"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/"&gt;Bill to Ban Private Equity from Owning Medical Practices&lt;/a&gt; — A bill has been introduced that would prohibit private equity firms from owning medical practices. (&lt;a href="https://news.ycombinator.com/item?id=49780630"&gt;discussion&lt;/a&gt;, 438 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/GoX3uYQ4QN5HKvL7u/please-give-them-a-chance-on-china-rationalism-and-ai-safety"&gt;Please Give Them a Chance: On China, Rationalism, and AI Safety&lt;/a&gt; by gzjw — A Chinese reader of HPMOR and the Sequences describes his path into rationalism despite language and academic obstacles, his plan to quit his job by February 2027 to work full-time on AI safety if there's no major good news by then, and his side projects building Chinese-language translation and typesetting tools (including an HPMOR comic and a browsable archive of AI-translated rationalist writing) to lower the barrier for Chinese readers. (147 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-21.html"/>
+    <published>2026-09-21T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-20</id>
     <title>Daily Digest — Sunday, September 20, 2026</title>
@@ -1441,57 +1489,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-23.html"/>
     <published>2026-08-23T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-22</id>
-    <title>Daily Digest — Saturday, August 22, 2026</title>
-    <updated>2026-08-22T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 83 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Lake_Kariba_ferry_accident"&gt;A ferry capsizes on Lake Kariba, Zimbabwe, leaving at least 97 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Colombia_earthquake"&gt;A magnitude-7.4 earthquake strikes Chocó Department, Colombia, leaving at least 319 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Bonaparte_Lookout"&gt;... that in the 1980s, a baby grand piano was assembled at the top of a 7,260-foot (2,210 m) mountain in the Mount Bonaparte Lookout ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hunting_by_cheetah"&gt;... that cheetahs were once commonly tamed as hunting companions ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yuri_Usui"&gt;... that voice actress Yuri Usui holds a nutritionist license?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dear_Friend_(Wings_song)"&gt;... that " Dear Friend " was Paul McCartney's attempt at reconciliation with John Lennon following the break-up of the Beatles?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Cissy_Stuart"&gt;... that 35 years after a woman was stabbed in the back and killed in her basement, no weapon had been found, the police had no motive, and no one had been arrested?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nchalo"&gt;... that UK courts are expected to decide if embankments built to protect sugarcane in Nchalo created damage and deaths in a nearby Malawian village?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jagoda_Lazarevi%C4%87"&gt;... that Jagoda Lazarević 's ministry launched a platform that lets citizens monitor the prices at all 27 major supermarket chains in Serbia?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arenaza"&gt;... that, for the centennial of Arenaza, Argentina, residents painted their houses pink, green and yellow under an artist's direction?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Teresa_van_Lieshout"&gt;... that Teresa van Lieshout fought to represent Batman ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"&gt;1485 – At the Battle of Bosworth Field, Lancastrian forces under Henry Tudor, Earl of Richmond, defeated Yorkist forces under Richard III of England, decisively ending the Wars of the Roses.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quebec_expedition_(1711)"&gt;1711 – Queen Anne's War : A British attempt to attack Quebec failed when eight ships wrecked on the St. Lawrence River.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1851_America%27s_Cup"&gt;1851 – The yacht America won the race for the Cup of One Hundred Sovereigns, later renamed the America's Cup, near the Isle of Wight, England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1985_Manchester_Airport_disaster"&gt;1985 – A fire broke out on British Airtours Flight 28M at Manchester Airport, causing 55 deaths mostly due to smoke inhalation, and leading to changes to make aircraft evacuation more effective.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roy_Moore"&gt;2003 – Roy Moore, Alabama's chief justice, was suspended after refusing to comply with a U.S. federal court order to remove a rock inscribed with the Ten Commandments from the lobby of the Supreme Court of Alabama building.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://kagi.com/changelog#11296"&gt;Kagi added a setting for removing paywalled links from search results&lt;/a&gt; (1134 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"&gt;Felony charges for citizen deleting phone data at US Border&lt;/a&gt; (799 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.felonybench.com/"&gt;Felony Bench&lt;/a&gt; (712 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"&gt;Grand jury declines to indict Ohio man charged with destroying Flock camera&lt;/a&gt; (663 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lina.sh/blog/hijacking-e164-arpa"&gt;I accidentally logged hundreds of thousands of phone calls to military bases&lt;/a&gt; (555 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://bandarlabs.github.io/Cobalt/"&gt;Kobo can run apps now&lt;/a&gt; (554 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://api-docs.deepseek.com/guides/vision/"&gt;DeepSeek-v4-flash-vision-exp&lt;/a&gt; (482 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://danluu.com/perf-opt/"&gt;There's no reason for software to be slow anymore&lt;/a&gt; (419 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cymerys.com/w/im-becoming-ai-blind"&gt;I'm becoming AI-blind&lt;/a&gt; (374 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/iJDiA9fg3KAf7y5Qe/when-models-identify-as-a-swarm"&gt;When Models Identify as a Swarm&lt;/a&gt; (54 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-22.html"/>
-    <published>2026-08-22T07:00:00-04:00</published>
   </entry>
 </feed>
