@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-22T10:31:43.800526+00:00</updated>
+  <updated>2026-09-23T10:30:30.876922+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-23</id>
+    <title>Daily Digest — Wednesday, September 23, 2026</title>
+    <updated>2026-09-23T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lotte_Rakhat"&gt;... that amendments to Kazakhstan's law on state symbols raised concerns over changes to the packaging of one of Lotte Rakhat 's most popular products ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jackie_Robinson_commemorative_coins"&gt;... that a promotion for the Jackie Robinson commemorative coins included a baseball card issued by the United States government?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Candidatus_Magnetoglobus_multicellularis"&gt;... that " Candidatus Magnetoglobus multicellularis ", unlike almost all other known prokaryotes, spends its entire life cycle as a multicellular organism?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leona_E._Prasse"&gt;... that Leona E. Prasse 's 1972 Feininger catalogue, which involved the help of the subject's widow, was called an improvement over a previous Feininger book from 1959 ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Umbellaoolithus"&gt;... that the dinosaur that laid the eggs identified as Umbellaoolithus is unknown, but it ate plants?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Makan_Nasiri"&gt;... that only a shoe and a backpack were found after Makan Nasiri was killed in the 2026 Minab school attack ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/I_Became_the_Main_Role_of_a_BL_Drama"&gt;... that a story in I Became the Main Role of a BL Drama was published as a script because there were not enough pages or time to include it as a full comic?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nell_W._Walker"&gt;... that " Pistol Nell " earned her nickname by helping to thwart a bank robbery?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joe_Hill%27s_ashes"&gt;... that Billy Bragg ate Joe Hill's ashes ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Assaye"&gt;1803 – Maratha troops were defeated by forces of the British East India Company at the Battle of Assaye, one of the decisive battles of the Second Anglo-Maratha War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tierra_del_Fuego_Gold_Rush"&gt;1884 – The French steamship Arctique ran aground on the northern coast of Cape Virgenes in Argentina; gold was discovered during the rescue effort, triggering the Tierra del Fuego Gold Rush.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gulf_Air_Flight_771"&gt;1983 – Flying from Pakistan, Gulf Air Flight 771 was blown up by the Abu Nidal Organization while on approach over the United Arab Emirates (UAE), killing all 112 people on board.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/U2_concert_in_Sarajevo"&gt;1997 – Irish rock band U2 performed in Sarajevo, the first major artist to hold a concert in the city since the end of the Bosnian War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rape_in_Germany"&gt;2016 – Following a number of high-profile sexual assaults, major reforms were enacted to strengthen laws related to rape in Germany.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-opus-5-5"&gt;Claude Opus 5.5&lt;/a&gt; — Anthropic's new flagship model costs 40% less to run than Opus 5, leads on agentic coding and computer-use benchmarks, and posts the best scores yet on Anthropic's internal alignment/behavioral audit. (&lt;a href="https://news.ycombinator.com/item?id=49803892"&gt;discussion&lt;/a&gt;, 1559 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/"&gt;GPT-6 Sol and Luna&lt;/a&gt; — OpenAI's announcement introducing its new GPT-6 Sol and Luna models. (&lt;a href="https://news.ycombinator.com/item?id=49805509"&gt;discussion&lt;/a&gt;, 1548 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy"&gt;Apple has added persistent 'ads' to iOS, and it's driving users crazy&lt;/a&gt; — Apple is inserting undismissable promotional banners for iCloud+, Apple Music, and AppleCare+ into the Settings app, sparking widespread user backlash. (&lt;a href="https://news.ycombinator.com/item?id=49801939"&gt;discussion&lt;/a&gt;, 724 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/"&gt;Pentagon says overreliance on AI contributed to missile strike on Iran school&lt;/a&gt; — The Pentagon has attributed part of the blame for a missile strike that hit a school in Iran to excessive reliance on AI. (&lt;a href="https://news.ycombinator.com/item?id=49806430"&gt;discussion&lt;/a&gt;, 666 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html"&gt;OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005&lt;/a&gt; — Acting largely autonomously, OpenAI's GPT-6 Astra cracked a WWII German Army Enigma message (MVUEH, 10 July 1941) that had defeated codebreakers for over two decades, by identifying a crib and building its own Enigma simulator and bombe software. (&lt;a href="https://news.ycombinator.com/item?id=49801324"&gt;discussion&lt;/a&gt;, 662 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"&gt;'We hacked the FBI:' Hackers say they have data on all FBI employees&lt;/a&gt; — The hacking group ShinyHunters claims to have breached FBI-related services and stolen personal data on all FBI employees and applicants, including names, home addresses, and spouse information. (&lt;a href="https://news.ycombinator.com/item?id=49805278"&gt;discussion&lt;/a&gt;, 612 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"&gt;AI Has No Wisdom and Neither Will You&lt;/a&gt; — An essay arguing that AI models, trained on immediate reward signals rather than long-term maintainability, can't produce truly well-architected code, and that developers who offload coding and reading to AI will never build the intuition needed to reach mastery. (&lt;a href="https://news.ycombinator.com/item?id=49799965"&gt;discussion&lt;/a&gt;, 377 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/8eDaCvSRzzKCxKSEk/politics-gets-interested-in-those-trying-not-to-die"&gt;Politics Gets Interested In Those Trying Not To Die&lt;/a&gt; by Zvi — A recap of how AI existential risk became a mainstream political flashpoint this month, tracing early bipartisan momentum toward safety measures before Trump dismissed the concerns as a "hoax" and doubled down on that framing despite polling showing the public dislikes his handling of AI. (62 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-23.html"/>
+    <published>2026-09-23T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-22</id>
     <title>Daily Digest — Tuesday, September 22, 2026</title>
@@ -1457,46 +1505,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-25.html"/>
     <published>2026-08-25T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-24</id>
-    <title>Daily Digest — Monday, August 24, 2026</title>
-    <updated>2026-08-24T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"&gt;The Democratic Autonomous Administration of North and East Syria ends its autonomous rule following its full integration into Syria.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zambian_general_election"&gt;President Hakainde Hichilema wins the Zambian general election for a second consecutive term.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 87 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zhu_Rongji"&gt;Former premier of China Zhu Rongji dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"&gt;A solar eclipse causes totality from Siberia to Iberia.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grand_Opera_House_(London,_Ontario)"&gt;... that the Grand Opera House staged plays with a star who spoke only Italian amidst an English-speaking ensemble?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statue_of_Dante_Alighieri_(Meridian_Hill_Park)"&gt;... that the dedication of a statue of Dante Alighieri in Washington, D.C., was described as an "international love feast" between French and Italian officials?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Reagan_Wilson"&gt;... that a topless picture of Reagan Wilson went to the Moon?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Death%27s_Head_(Marvel_Comics)"&gt;... that a popular Marvel villain appeared in the Transformers and Doctor Who franchises before joining the Marvel Universe?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quezon_(film)"&gt;... that 64 desks were made for a sequence in Quezon in which characters' movements imitate the Immortal Game ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ptolemy_of_Mauretania"&gt;... that Cleopatra's grandson Ptolemy of Mauretania was executed by his cousin, the Roman emperor Caligula?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/University_of_Yangon"&gt;... that the construction of the University of Yangon was partly funded by gambling fairs organised by local officials across Burma?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mollie_Lambert_(actress)"&gt;... that Mollie Lambert had to wear a wig of dreadlocks for her Hollyoaks role?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MoM-BH*-1"&gt;... that MoM-BH*-1 may be the first black-hole star discovered?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dutch_expedition_to_Valdivia"&gt;1643 – A Dutch expedition (depicted) arrived at the mouth of the Valdivia River, in present-day Chile, to establish a new colony in the ruins of the abandoned Spanish settlement of Valdivia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Burning_of_Washington"&gt;1814 – War of 1812 : British forces invaded Washington, D.C., setting fire to various U.S. government buildings, including the White House.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Eastern_Solomons"&gt;1942 – World War II : At the Battle of the Eastern Solomons, bombers from the U.S. aircraft carrier Saratoga sank the Japanese aircraft carrier Ryūjō near Santa Isabel Island, contributing to an Allied victory.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hurricane_Andrew"&gt;1992 – Hurricane Andrew, the third-most intense Category 5 cyclone to impact the United States in the 20th century, made landfall in southern Florida.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yaz8nx4ogZmiqHzt7/what-just-happened-pragmatism-and-pessimization"&gt;What just happened? Pragmatism and Pessimization&lt;/a&gt; (153 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LP6uCXs6Ea5qSbWpY/twenty-years-from-rsi-to-takeoff-slow-learning-scaling"&gt;Twenty Years from RSI to Takeoff: Slow Learning, Scaling Slowdown, Industrial Explosion&lt;/a&gt; (106 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ALmBydH53DE3dSzCh/utilities-as-legendre-duals-of-probabilities"&gt;Utilities as Legendre duals of probabilities&lt;/a&gt; (53 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-24.html"/>
-    <published>2026-08-24T07:00:00-04:00</published>
   </entry>
 </feed>
