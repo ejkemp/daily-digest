@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-24T10:30:55.777475+00:00</updated>
+  <updated>2026-09-25T10:30:20.600154+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-25</id>
+    <title>Daily Digest — Friday, September 25, 2026</title>
+    <updated>2026-09-25T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Topsail_Hill_Preserve_State_Park"&gt;... that the U.S. Fish and Wildlife Service considers Topsail Hill Preserve State Park a genetic "reservoir" for the endangered Choctawhatchee beach mouse ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Epic_of_Samba_Gueladio"&gt;... that the Epic of Samba Gueladio has been interpreted as both glorifying violence against slaves and celebrating alliances across ethnicities?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jasmine_Sokko"&gt;... that Jasmine Wong 's stage name refers to the Finnish word for 'blind'?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Parliament_House,_Adelaide"&gt;... that the construction of South Australia's new Parliament House in Adelaide began in 1885, but its eastern half was not completed until 1939?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Victor_Amalraj"&gt;... that Victor Amalraj captained three professional football clubs based in Kolkata?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/China"&gt;... that fewer than one in fifteen residents of China live in the western 64 percent of the country?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bahrija_Nuri_Had%C5%BEi%C4%87"&gt;... that Bahrija Nuri Hadžić was criticised by supporters of the Serbian Orthodox Church for her portrayal of Salome ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Meghalaya_border_fencing_protests"&gt;... that villages in India along the border with Bangladesh have protested against a proposed border fence that would leave them inside Indian territory, but beyond the fence?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clint_Reilly"&gt;... that one of Clint Reilly 's clients called him "Satan"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tacitus_(emperor)"&gt;275 – After the assassination of Aurelian, Tacitus (depicted) was chosen by the Senate to succeed him as Roman emperor.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"&gt;1066 – Harold Godwinson defeated King Harald III of Norway and his English ally Tostig Godwinson at the Battle of Stamford Bridge, ending the last Norse invasion of the British Isles.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Longue-Pointe"&gt;1775 – American Revolutionary War : Ethan Allen and a small force of American and Quebec militia failed to capture the city of Montreal from British forces.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Invasion_of_Cura%C3%A7ao_(1800)"&gt;1800 – French Revolutionary Wars : After U.S. ships became involved, French forces abandoned their invasion of the Batavian island of Curaçao.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pacific_Southwest_Airlines_Flight_182"&gt;1978 – While on approach to San Diego International Airport, Pacific Southwest Airlines Flight 182, a Boeing 727, collided with a Cessna 172, killing all 137 people on board both aircraft, along with 7 more on the ground.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"&gt;F-Droid 2.0&lt;/a&gt; — F-Droid has released a complete redesign of its Android app, rebuilt with Kotlin Compose and simplified into Discover, Search, and My Apps sections to make it easier to find and manage free and open source apps. (&lt;a href="https://news.ycombinator.com/item?id=49831968"&gt;discussion&lt;/a&gt;, 1259 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://macanorak.com/two-tier-encryption-in-the-uk/"&gt;Two-tier encryption in the UK&lt;/a&gt; — A look at how the UK's secret Technical Capability Notice against Apple, issued under the Investigatory Powers Act, led Apple to withdraw Advanced Data Protection for new UK iCloud users, creating two classes of iPhone owners with different encryption guarantees. (&lt;a href="https://news.ycombinator.com/item?id=49828731"&gt;discussion&lt;/a&gt;, 460 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dynomight.substack.com/p/liver"&gt;Why is the liver so weirdly regenerative?&lt;/a&gt; — An exploration of why the liver heals without scars and regrows after damage while most other organs (kidneys, brains, gums) degrade irreversibly, framed as a speculative unifying theory of why the body is built this way. (&lt;a href="https://news.ycombinator.com/item?id=49832938"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-25.html"/>
+    <published>2026-09-25T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-24</id>
     <title>Daily Digest — Thursday, September 24, 2026</title>
@@ -1456,58 +1496,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-27.html"/>
     <published>2026-08-27T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-26</id>
-    <title>Daily Digest — Wednesday, August 26, 2026</title>
-    <updated>2026-08-26T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolly_Parton"&gt;American singer-songwriter and actress Dolly Parton dies at the age of 80.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"&gt;The Democratic Autonomous Administration of North and East Syria ends its autonomous rule following its full integration into Syria.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zambian_general_election"&gt;President Hakainde Hichilema wins the Zambian general election for a second consecutive term.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Flores_earthquake"&gt;A magnitude-7.7 earthquake strikes off the coast of Flores, Indonesia, causing at least 100 deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Caroline_Bruce,_Countess_of_Ailesbury"&gt;... that the "unsuitable marriage" of Caroline Campbell to a man older than her father was described as "the admiration of the old, and the envy of the young"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dame_Louisa_Aldrich-Blake_Memorial"&gt;... that the Dame Louisa Aldrich-Blake Memorial in London honours the first woman to receive the degree of master of surgery?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robin_Rosenthal"&gt;... that politician and influencer Robin Rosenthal promoted voting by mail in 2024 by posing as though she were nude?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mama%27s_Boyfriend"&gt;... that Kanye West first performed his unreleased song " Mama's Boyfriend " at the offices of Facebook, rapping atop a table?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Layla_Taylor"&gt;... that The Secret Lives of Mormon Wives star Layla Taylor is no longer a member of the Mormon church?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/T%E1%BB%B1_Do"&gt;... that the Vietnamese refugee vessel Tự Do reached Australia after a 6,000-kilometre (3,700 mi) voyage guided by a compass and a map torn from a school desk?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/CJ_Rosser"&gt;... that basketball player and self-described "country boy" CJ Rosser was taken fishing by coaches on a college recruiting trip?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/El_Dorado"&gt;... that the supposed lake associated with El Dorado appeared on European maps of Guiana even though no European had seen it?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chuang_Chuang_and_Lin_Hui"&gt;... that the pandas Chuang Chuang and Lin Hui could not mate because Chuang Chuang was too obese?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Manzikert"&gt;1071 – Byzantine–Seljuk wars : Seljuk Turks led by Alp Arslan captured Byzantine emperor Romanos IV at the Battle of Manzikert, marking a decline in Byzantine fortunes.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quincy_Market"&gt;1826 – Quincy Market in Boston, Massachusetts, opened as a replacement for an overcrowded market in Faneuil Hall.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Le_Cateau"&gt;1914 – World War I : As the British Expeditionary Force and French Fifth Army began their retreat from Mons, the British II Corps delayed the pursuing Germans at the Battle of Le Cateau long enough for the main force to escape.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Donoghue_v_Stevenson"&gt;1928 – At a cafe in Paisley, Scotland, a woman found the remains of a snail in her bottle of ginger beer, giving rise to the landmark civil-action case Donoghue v Stevenson.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/August_1978_conclave"&gt;1978 – A conclave elected Albino Luciani as Pope John Paul I, succeeding Paul VI.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead"&gt;Dolly Parton has died&lt;/a&gt; (1476 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"&gt;Apple introduces M6 and M5 Ultra&lt;/a&gt; (1148 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/zedeus/nitter/issues/1442"&gt;Nitter and XCancel receive cease and desist notices&lt;/a&gt; (969 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"&gt;New Mac Studio with M5 Max and M5 Ultra&lt;/a&gt; (770 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://rorz.io/writing/my-friend-aaron"&gt;My Friend Aaron&lt;/a&gt; (571 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"&gt;New Mac mini, featuring M6 and M5 Pro&lt;/a&gt; (499 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"&gt;OpenAI Jalapeño: Better than Nvidia Blackwell&lt;/a&gt; (492 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"&gt;FDA authorizes first wearable device that monitors ketone and blood sugar levels&lt;/a&gt; (400 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1"&gt;Firefox 157 will include JPEG XL by default on all platforms&lt;/a&gt; (381 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://dontwordle.com/"&gt;Don't Wordle&lt;/a&gt; (355 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown"&gt;Building a backyard office, the build and cost breakdown&lt;/a&gt; (350 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/rA6pqn6kz8NvHyznT/on-writing-3"&gt;On Writing #3&lt;/a&gt; (51 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-26.html"/>
-    <published>2026-08-26T07:00:00-04:00</published>
   </entry>
 </feed>
