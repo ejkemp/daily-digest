@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-26T10:30:40.081288+00:00</updated>
+  <updated>2026-09-27T10:30:25.394645+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-27</id>
+    <title>Daily Digest — Sunday, September 27, 2026</title>
+    <updated>2026-09-27T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Troubles_of_a_Gnome"&gt;... that The Troubles of a Gnome, described as one of the finest introductions to Polish fairy-tale literature available in English, is set in its author's own manor and features her children?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jacek_Stryjenski"&gt;... that artist Jacek Stryjenski designed a ceiling studded with 1,200 illuminated glass stars for the Grand Théâtre de Genève ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Radiant_Nuclear"&gt;... that a factory making portable nuclear reactors is being built on an old Manhattan Project site in Tennessee?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tsuri_Sagi"&gt;... that Tsuri Sagi was personally gifted a bear cub by Kurdish rebel leader Mustafa Barzani ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Captive_audience_meeting"&gt;... that Trump's NLRB general counsel called for the re-legalization of captive audience meetings, in which employees are often coerced to listen to anti-union speeches?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roy_White_(American_football)"&gt;... that a future NFL player was on the first American vessel lost in World War I?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cikini_Incident"&gt;... that Sukarno interrupted a puppetry broadcast to announce that he had survived a 1957 assassination attempt ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Febb_Burn"&gt;... that the right of women to vote in the United States was decided by a single letter from a Tennessee schoolteacher ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Child_of_the_Sun"&gt;... that Frank Lloyd Wright used urine in the construction of a college campus ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Melno"&gt;1422 – The Treaty of Melno was signed, establishing the Prussian–Lithuanian border, which afterwards remained unchanged for about 500 years.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ellen_Southard"&gt;1875 – The merchant ship Ellen Southard was wrecked in a storm at Liverpool, England; the U.S. Congress subsequently awarded 27 Gold Lifesaving Medals to the men who rescued her crew.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tripartite_Pact"&gt;1940 – World War II : Nazi Germany, Fascist Italy and the Empire of Japan signed the Tripartite Pact in Berlin, officially forming a military alliance known as the Axis.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_China"&gt;1949 – Members of the Chinese People's Political Consultative Conference unanimously selected Zeng Liansong 's design for the flag of China.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2014_Mount_Ontake_eruption"&gt;2014 – Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gultsch.de/posts/breaking-up-with-google-play/"&gt;Breaking Up with Google Play: Why Conversations Is Now Free&lt;/a&gt; — The developer of the Conversations XMPP messaging app explains why, after a decade of Play Store revenue paying his rent, he's ending the paid model due to worsening app review delays, a 15% cut, and years of unresponsive support from Google. (&lt;a href="https://news.ycombinator.com/item?id=49855315"&gt;discussion&lt;/a&gt;, 665 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"&gt;I'm the mom in that viral Giants clip. Let me tell you about my husband&lt;/a&gt; — The woman from a viral baseball broadcast clip pushes back on internet commentary mocking her husband, describing the full context of their exchange and the personal grief he was quietly processing that night. (&lt;a href="https://news.ycombinator.com/item?id=49857899"&gt;discussion&lt;/a&gt;, 513 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-27.html"/>
+    <published>2026-09-27T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-26</id>
     <title>Daily Digest — Saturday, September 26, 2026</title>
@@ -1441,54 +1481,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-29.html"/>
     <published>2026-08-29T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-28</id>
-    <title>Daily Digest — Friday, August 28, 2026</title>
-    <updated>2026-08-28T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ratko_Mladi%C4%87"&gt;Bosnian Serb military officer and convicted war criminal Ratko Mladić dies in prison at the age of 84.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nepal_floods"&gt;At least 492 people are killed after flash flooding in the Rasuwa and Nuwakot Districts of Nepal and along the China–Nepal border.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolly_Parton"&gt;American singer-songwriter and actress Dolly Parton dies at the age of 80.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"&gt;The Democratic Autonomous Administration of North and East Syria ends its autonomous rule following its full integration into Syria.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Zambian_general_election"&gt;President Hakainde Hichilema wins the Zambian general election for a second consecutive term.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ole_Peterson_(Minnesota_politician,_born_1832)"&gt;... that Ole Peterson served with Ole Peterson in the Minnesota House of Representatives, but should not be confused with fellow state legislator Ole Peterson ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Giant_Spider_Invasion"&gt;... that the producers of The Giant Spider Invasion locked the scriptwriter in a cabin and had him write 10 to 15 pages a day or he would not be fed?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cai_Qi"&gt;... that Cai Qi was one of the few high-ranking Chinese officials to maintain a regular presence on social media?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Larkin_Administration_Building"&gt;... that Frank Lloyd Wright once entered a busy ladies' restroom at the Larkin Administration Building to show visitors the wall-mounted toilets?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kathy_Ormsby"&gt;... that runner Kathy Ormsby jumped off a bridge during the 1986 NCAA Division I Outdoor Track and Field Championships ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Blue_Journey"&gt;... that Blue Journey was a short-lived VTuber music group known for its moody material?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WNIN-FM"&gt;... that an Indiana radio station 's first studio building featured wasps, bird nests, and crickets that were audible on the air?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Felicity_Lott"&gt;... that Felicity Lott, among the leading voices in operas by Richard Strauss and operettas by Jacques Offenbach, had a special love for French mélodies and German lieder ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Colorado_(video_game)"&gt;... that Colorado is set in Louisiana ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Newburn"&gt;1640 – Bishops' Wars : Scottish Covenanter forces led by Alexander Leslie defeated the English army near Newburn, England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Enceladus"&gt;1789 – With the first use of his 1.2-metre (3.9 ft) telescope, then the largest in the world, William Herschel discovered a new moon of Saturn, later named Enceladus.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1909_Monterrey_hurricane"&gt;1909 – The 1909 Monterrey hurricane dissipated; one of the deadliest Atlantic tropical cyclones on record, it killed an estimated 4,000 people throughout Mexico.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/I_Have_a_Dream"&gt;1963 – American civil-rights leader Martin Luther King Jr. delivered the speech " I Have a Dream " during the March on Washington, calling for civil and economic rights and an end to racism in the United States.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/243_Ida"&gt;1993 – The NASA spacecraft Galileo flew by the asteroid 243 Ida and took photographs that later revealed the first known asteroid moon.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"&gt;Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache&lt;/a&gt; (771 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pollen-robotics.com/microduck/"&gt;Microduck&lt;/a&gt; (665 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://calv.info/small-models-have-arrived"&gt;Small Models Have Arrived&lt;/a&gt; (649 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://507movements.com/"&gt;507 Mechanical Movements&lt;/a&gt; (587 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://xkcd.com/3290/"&gt;Trade (and Tariffs)&lt;/a&gt; (513 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/oMwkcNP4MJh4rry3s/the-2028-presidential-primaries-could-be-crucial-for-ai"&gt;The 2028 presidential primaries could be crucial for AI outcomes&lt;/a&gt; (68 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/s7nMnmJ3urpvcQ2av/incomplete-alignment-to-servitude-isn-t-inherently-lethal"&gt;Incomplete alignment to servitude isn't inherently lethal&lt;/a&gt; (55 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-28.html"/>
-    <published>2026-08-28T07:00:00-04:00</published>
   </entry>
 </feed>
