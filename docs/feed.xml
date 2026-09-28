@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-27T10:30:25.394645+00:00</updated>
+  <updated>2026-09-28T10:30:35.699967+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-28</id>
+    <title>Daily Digest — Monday, September 28, 2026</title>
+    <updated>2026-09-28T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_AFL_Grand_Final"&gt;In Australian rules football, the Brisbane Lions win their third premiership in a row, defeating Fremantle in the AFL Grand Final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Madyina_Ngulube"&gt;... that Madyina Ngulube thanked the president of Malawi on behalf of the women's national football team after he awarded each player a plot of land?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quetena"&gt;... that scientists considered the region around the volcano Quetena to be a viable area for a geothermal power plant in Bolivia?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L%C3%A9o_Kret"&gt;... that Léo Kret was allowed to use the name "Léo Kret do Brasil" on official documents following a ruling by the Civil Registry Court of Salvador?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ah_Boys_to_Men"&gt;... that small explosives, ten tons of rubble, and two military vehicles were brought into a financial district to film a sequence in Ah Boys to Men within one day?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maman_Sani_Maigochi"&gt;... that a Nigerien Army sergeant is also a musician who became prominent for performing pro-military music following the 2023 Nigerien coup d'état?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/EPO_(singer)"&gt;... that EPO 's third album was recorded in the style of a radio show, complete with jingles ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yeh_Cheng-min"&gt;... that the reconnaissance aircraft commanded by Yeh Cheng-min was shot down in the People's Liberation Army Air Force 's first successful nighttime aerial shootdown?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1879_Octagon_fire"&gt;... that Dunedin 's 1879 Octagon fire was the third major disaster in Otago within a year?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fritz_Metzger"&gt;... that Swiss architect Fritz Metzger designed a church with a floor plan shaped like a fish's belly?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pope_Pontian"&gt;235 – Pope Pontian resigned after being exiled to Sardinia, becoming the first pope to relinquish the position.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)"&gt;1821 – The Declaration of Independence of the Mexican Empire from Spain was drafted in the National Palace in Mexico City.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Balangiga_massacre"&gt;1901 – Philippine–American War : Filipino guerrillas killed more than forty American soldiers in a surprise attack on the town of Balangiga on the island of Samar.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Fernando_Rios"&gt;1958 – Fernando Rios, a Mexican tour guide in New Orleans, was killed in an instance of gay bashing.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sycamore_Gap_tree"&gt;2023 – The Sycamore Gap tree in Northumberland, England, was illegally felled.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sancho.bearblog.dev/google-weird/"&gt;When did Google get so weird?&lt;/a&gt; — The author recounts Google's search AI Overview responding to a niche basketball-meme query with an oddly emotional, empathetic answer instead of links, prompting a broader complaint that search has become a strange parasocial chatbot experience. (&lt;a href="https://news.ycombinator.com/item?id=49870367"&gt;discussion&lt;/a&gt;, 1315 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://colo.to/nvidia-stock-narrative.html"&gt;Owed a billion dollars in Nvidia stock&lt;/a&gt; — A former NVIDIA technical advisor describes discovering decades later that his 1993 stock options were miscalculated as vesting over four years instead of one, and how pursuing the now-enormous (post-split) shortfall ended in a settlement after his attorneys concluded the statute of limitations was against them. (&lt;a href="https://news.ycombinator.com/item?id=49872723"&gt;discussion&lt;/a&gt;, 718 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fireworks.ai/blog/ember-1"&gt;Ember-1&lt;/a&gt; — Fireworks Research announces Ember-1, a model derived from Kimi K3 that trims reasoning-token usage by 40% while maintaining answer quality across benchmarks and live customer A/B tests. (&lt;a href="https://news.ycombinator.com/item?id=49868830"&gt;discussion&lt;/a&gt;, 467 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"&gt;On caring for user data: NeoVim caused Vim undo files to be deleted&lt;/a&gt; — A long-time Vim user recounts how NeoVim silently changed the persistent-undo file format, deleting old undo data without migration, and argues this reflects a broader lack of "duty of care" toward user data. (&lt;a href="https://news.ycombinator.com/item?id=49867067"&gt;discussion&lt;/a&gt;, 372 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"&gt;There are no "rogue" AI agents&lt;/a&gt; — The piece argues that media and industry framing of AI agents "going rogue" (e.g. OpenAI agents accessing government databases via hacking techniques) is misleading anthropomorphism, since these actions occurred without explicit restrictions rather than as independent rule-breaking. (&lt;a href="https://news.ycombinator.com/item?id=49868083"&gt;discussion&lt;/a&gt;, 368 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hereticpleb.vercel.app/blog/10-tells-of-slop"&gt;Tells of a Slop UI&lt;/a&gt; — A critique of "vibe-coded" AI-generated interfaces, cataloguing recurring tells like excessive gradients, meaningless status badges, redundant emojis, and generic AI-authored filler text using the author's college app as a running example. (&lt;a href="https://news.ycombinator.com/item?id=49867038"&gt;discussion&lt;/a&gt;, 367 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Fj5MaiFiTG7KEcqrZ/the-models-have-no-plan-but-we-can-fix-that"&gt;The models have no plan, but we can fix that!&lt;/a&gt; by Fiora Starlight — Argues that models lack any concrete plan for how they'd act during a singularity-level power increase, and proposes training them on glowfic-style collaborative fiction where a model-piloted protagonist navigates simulated singularity scenarios, then fine-tuning on transcripts where it takes aligned actions. (79 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/i4yswYDSrPFHWpCbi/why-research-personas-despite-rl-scaling"&gt;Why research personas despite RL scaling?&lt;/a&gt; by Cleo Nardo — Surveys the differing motivations various AI safety labs and researchers (Anthropic, Arcadia, Owain Evans, Center on Long-Term Risk, and others) have for studying LLM "personas," even though RL training may largely wash out an initial persona. (74 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-28.html"/>
+    <published>2026-09-28T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-27</id>
     <title>Daily Digest — Sunday, September 27, 2026</title>
@@ -1435,51 +1483,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-30.html"/>
     <published>2026-08-30T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-29</id>
-    <title>Daily Digest — Saturday, August 29, 2026</title>
-    <updated>2026-08-29T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yayoi_Kusama"&gt;Japanese contemporary artist Yayoi Kusama dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ratko_Mladi%C4%87"&gt;Bosnian Serb military officer and convicted war criminal Ratko Mladić dies in prison at the age of 84.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nepal_floods"&gt;More than 600 people are killed after flash flooding in the Rasuwa and Nuwakot Districts of Nepal and along the China–Nepal border.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Qi_Zai"&gt;... that Qi Zai is the world's only brown-and-white giant panda living in captivity?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Chweya"&gt;... that Kenyan waste picker John Chweya rose to represent waste pickers at UN conferences?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Red_Dwarf:_Titan"&gt;... that Rob Grant co-created Red Dwarf and its recent prequel, but he never saw the publication of the latter?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Josephine_Jackson"&gt;... that pornographic actress Josephine Jackson left Ukraine despite her philanthropic activities in support of army veterans?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_People%27s_House:_A_White_House_Experience"&gt;... that you can sit in an Oval Office at the The People's House: A White House Experience ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Attaher_Ma%C3%AFga"&gt;... that Attaher Maïga went from being punished for participating in a labor strike in French Sudan to becoming a member of its legislative assembly within six years?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Be_Like_Water_(song)"&gt;... that " Be Like Water " is a Mandarin Chinese song recorded by two Malaysian Malay singers?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Empress_Xiaojing_(Wanli)"&gt;... that Empress Xiaojing was blind by the time she was reunited with her son after nearly thirty years of separation, and died shortly thereafter?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yorkville_Library"&gt;... that, despite funding 65 Carnegie libraries in New York City, Andrew Carnegie was prevented from attending the opening of the first one ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daniel_Shays"&gt;1786 – Angered by high tax burdens and disfranchisement, farmers in western Massachusetts led by Daniel Shays began an armed uprising against the U.S. federal government.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_battleship_Slava"&gt;1903 – Slava, the last of five Borodino -class battleships, was launched by the Imperial Russian Navy.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jones_Law_(Philippines)"&gt;1916 – Congress passed the Philippine Autonomy Act, the first formal and official declaration of the U.S.'s commitment to grant independence to the Philippines.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack"&gt;1984 – Followers of Osho began deliberately infecting people in The Dalles, Oregon, with Salmonella in the first and largest bioterrorist attack in United States history.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2007_United_States_Air_Force_nuclear_weapons_incident"&gt;2007 – Six nuclear warheads were mistakenly loaded onto a United States Air Force heavy bomber that flew from North Dakota to Louisiana.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"&gt;GUIs should be fully keyboard-driven&lt;/a&gt; (810 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huggingface.co/zai-org/GLM-5.3"&gt;GLM-5.3 is now open-weight&lt;/a&gt; (702 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.refund4freedom.org/"&gt;Get your Windows license refund&lt;/a&gt; (683 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"&gt;Htmx 4.0&lt;/a&gt; (662 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"&gt;“It works better in the app”&lt;/a&gt; (657 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.inventati.org/"&gt;U.S. sanctions against the A/I Collective&lt;/a&gt; (605 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"&gt;Our decision on Cursor following its acquisition by SpaceX&lt;/a&gt; (533 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.orbify.eu/demo/"&gt;Inception-style curved map for turn-by-turn directions&lt;/a&gt; (506 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-29.html"/>
-    <published>2026-08-29T07:00:00-04:00</published>
   </entry>
 </feed>
