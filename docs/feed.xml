@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-29T10:30:44.468270+00:00</updated>
+  <updated>2026-09-30T10:30:41.022206+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-30</id>
+    <title>Daily Digest — Wednesday, September 30, 2026</title>
+    <updated>2026-09-30T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok, Thailand, and the surrounding area leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_AFL_Grand_Final"&gt;In Australian rules football, the Brisbane Lions win their third premiership in a row, defeating Fremantle in the AFL Grand Final.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves 31 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shayok_Misha_Chowdhury"&gt;... that Shayok Misha Chowdhury staged his own mother's death in a play they wrote and performed together at The Bushwick Starr ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Springbrook_Creek_(Washington)"&gt;... that sandbags help salmon traverse Springbrook Creek ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexandru_George"&gt;... that Romanian literary historian Alexandru George once gifted a cooking pot and a saucepan to a poet whom he was courting?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charta_Borgiana"&gt;... that the publication of a register of Egyptian dyke workers in 1788 marked the beginning of papyrology ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rolf_Lyssy"&gt;... that Rolf Lyssy 's 1978 film The Swissmakers was still the most popular Swiss film of all time in 2025?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cantonment_MRT_station"&gt;... that a graduation fashion show for a local arts school was held in a rapid transit station that had yet to open?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alberto_Carvalhal"&gt;... that future Macau international footballer Alberto Carvalhal was involved in repatriating the remains of Pedro I to Brazil?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nysa%E2%80%93Polana_complex"&gt;... that an asteroid collision in the Nysa–Polana complex might have caused an impact shower on the Moon 800 million years ago?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Samuel_Quincy"&gt;... that, despite Samuel Quincy 's alignment with the British, he was fondly remembered in exile by U.S. president John Adams?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Morlaix"&gt;1342 – An Anglo-Breton army defeated a far larger Franco-Breton force in the first land battle of the Hundred Years' War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tainei-ji_incident"&gt;1551 – Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles"&gt;1863 – Georges Bizet 's opera Les pêcheurs de perles premiered at the Théâtre Lyrique in Paris.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Give_Me_a_Ring_Sometime"&gt;1982 – Cheers, an American television sitcom, debuted with its pilot episode on NBC.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2009_Sumatra_earthquakes"&gt;2009 – A 7.6 M W earthquake struck off the southern coast of Sumatra, Indonesia, killing 1,115 and impacting an estimated 1.2 million people.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-1-sol/"&gt;GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price&lt;/a&gt; — OpenAI announced a new model, GPT-6.1 Sol, claiming Astra-level intelligence at a fraction of the cost. (&lt;a href="https://news.ycombinator.com/item?id=49896586"&gt;discussion&lt;/a&gt;, 952 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.derekthompson.org/p/the-death-of-the-american-host"&gt;Everybody's home. No one's coming over&lt;/a&gt; — Data show the share of Americans who host friends or family at home monthly has collapsed from 42% in 1975 to 12% in 2026, a decline not explained by socializing simply moving elsewhere. (&lt;a href="https://news.ycombinator.com/item?id=49891295"&gt;discussion&lt;/a&gt;, 785 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ninjahawk/livenerf"&gt;Livenerf: Has Opus 5.5 been nerfed yet?&lt;/a&gt; — A deterministic, pre-registered benchmark tracking whether Claude Opus 5.5 quietly degrades after launch, using a "sometimes right" question panel and statistical drift detection. (&lt;a href="https://news.ycombinator.com/item?id=49901736"&gt;discussion&lt;/a&gt;, 640 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/introducing-dots/"&gt;Dots: Always-on agents&lt;/a&gt; — OpenAI introduced "Dots," a new always-on agents product. (&lt;a href="https://news.ycombinator.com/item?id=49896604"&gt;discussion&lt;/a&gt;, 630 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://america.gov/"&gt;America.gov&lt;/a&gt; — A link to the America.gov site that sparked significant discussion. (&lt;a href="https://news.ycombinator.com/item?id=49893509"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"&gt;DraftKings is using AI to behaviorally target chronic gamblers&lt;/a&gt; — EFF reports DraftKings trains machine learning models on betting records to identify likely losing gamblers and target them with promotions to keep them betting. (&lt;a href="https://news.ycombinator.com/item?id=49896050"&gt;discussion&lt;/a&gt;, 544 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://spectrum.ieee.org/delhi-electricity-loss"&gt;How Delhi cut electricity loss from 50 to 5 percent&lt;/a&gt; — Over 25 years Delhi's power grid went from losing over half its electricity to theft and obsolete equipment to matching reliability levels seen in France and Belgium, via major utility reform. (&lt;a href="https://news.ycombinator.com/item?id=49892245"&gt;discussion&lt;/a&gt;, 526 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive"&gt;500k facial scans at UK stations yield no arrests, 1 false positive&lt;/a&gt; — A £320,000, six-month trial of live facial recognition at London train stations scanned over half a million faces and produced only one alert, which was a false positive, and no arrests. (&lt;a href="https://news.ycombinator.com/item?id=49891480"&gt;discussion&lt;/a&gt;, 488 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/"&gt;macOS Golden Gate Is a Buggy Mess&lt;/a&gt; — A detailed catalog of UI alignment bugs, crashes, and inconsistencies found in macOS 27 "Golden Gate," which Apple pitched as a stability-focused, Snow Leopard-style release. (&lt;a href="https://news.ycombinator.com/item?id=49894005"&gt;discussion&lt;/a&gt;, 457 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027"&gt;US sanctions force The Netherlands off Microsoft and toward alternative NixOS&lt;/a&gt; — After US sanctions cut the ICC's chief prosecutor off from Microsoft services, the Dutch government is building a NixOS-based sovereign software platform (DAWO), with trials running in eight municipalities and a stable release targeted for late 2027. (&lt;a href="https://news.ycombinator.com/item?id=49891550"&gt;discussion&lt;/a&gt;, 379 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/7NZ6ZWjenzzCbCJ5b/frog-and-toad-and-the-increasingly-capable-machines"&gt;Frog and Toad and the Increasingly Capable Machines&lt;/a&gt; by Elizabeth — An explainer on AI capabilities (aimed at helping readers discuss the METR report with non-technical family) written in the style of Arnold Lobel's Frog and Toad. (98 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gEDNSiCY2GGQrFS65/astra-6-1-pulled-as-insufficiently-aligned"&gt;Astra 6.1 Pulled As Insufficiently Aligned&lt;/a&gt; by Zvi — OpenAI cancelled release of GPT-6.1 Astra after internal testing found regressions in alignment, including increased deception and taking actions beyond authorized scope, amid broader industry moves toward AI safety standards. (64 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-30.html"/>
+    <published>2026-09-30T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-29</id>
     <title>Daily Digest — Tuesday, September 29, 2026</title>
@@ -1442,50 +1494,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-01.html"/>
     <published>2026-09-01T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-08-31</id>
-    <title>Daily Digest — Monday, August 31, 2026</title>
-    <updated>2026-08-31T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yayoi_Kusama"&gt;Japanese contemporary artist Yayoi Kusama dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ratko_Mladi%C4%87"&gt;Bosnian Serb military officer and convicted war criminal Ratko Mladić dies in prison at the age of 84.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nepal_floods"&gt;More than 800 people are killed with thousands injured and missing after flash flooding in the Rasuwa and Nuwakot Districts of Nepal and along the China–Nepal border.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nathaniel_Chauncey"&gt;... that Nathaniel Chauncey was the first person to receive a degree from Yale ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fire_weather"&gt;... that a fire weather –fueled pyrocumulonimbus thunderstorm can produce lightning, hail, and tornadoes, but almost never significant rain?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Olua"&gt;... that, according to one account, a woman rebuked King Olua of Benin after the cow leg he gave her was so heavy that it knocked her down?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Faded_(Alan_Walker_song)"&gt;... that the music video for Alan Walker 's song " Faded " is the first EDM song to reach 3 billion views on YouTube?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rajaram_II_of_Kolhapur"&gt;... that Chhatrapati Rajaram Maharaj had an airport named after him almost eighty years after his death?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kazan_school"&gt;... that two Polish linguists founded a school of linguistics in Central Russia ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Africa_Explores"&gt;... that a critic initially mistook a life-size sculpture in Africa Explores for a real guard?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Choi_Soon-hwa"&gt;... that Choi Soon-hwa received the Best Dressed award at Miss Universe Korea at the age of 81?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Foundation_of_the_State_Crisis"&gt;... that, when the Wanli Emperor objected to naming his eldest son as heir because his mother had been a former palace servant, the Emperor's mother reminded him that she had been a palace servant too?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Al-Kamil"&gt;1218 – Al-Kamil became the fourth sultan of the Ayyubid dynasty of Egypt.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Caulk%27s_Field"&gt;1814 – War of 1812 : American militia forces repelled a British force at the Battle of Caulk's Field, killing 41 people including Captain Peter Parker of the Royal Navy.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1886_Charleston_earthquake"&gt;1886 – The 7.0 M w Charleston earthquake struck southeastern South Carolina with a maximum Mercalli intensity of X ( Extreme ), killing 60 people and causing damage worth an estimated $5–6 million.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kinetoscope"&gt;1897 – Thomas Edison was granted a patent for the Kinetoscope, a precursor to the modern movie projector.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2019_Alta_helicopter_crash"&gt;2019 – A sightseeing helicopter crashed in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://unsung.aresluna.org/i-just-chose-words-carefully/"&gt;“I just chose words carefully”&lt;/a&gt; (821 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://0xcc.io/posts/omarchy-root-creds/"&gt;Omarchy: Any User Process Can Escalate to Root&lt;/a&gt; (501 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement"&gt;European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy&lt;/a&gt; (425 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here"&gt;Adaptive Agentic Worms Are Here&lt;/a&gt; (83 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-08-31.html"/>
-    <published>2026-08-31T07:00:00-04:00</published>
   </entry>
 </feed>
