@@ -2,13 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-09-30T10:30:41.022206+00:00</updated>
+  <updated>2026-10-01T10:30:24.453658+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-01</id>
+    <title>Daily Digest — Thursday, October 1, 2026</title>
+    <updated>2026-10-01T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_AFL_Grand_Final"&gt;In Australian rules football, the Brisbane Lions win their third premiership in a row, defeating Fremantle in the AFL Grand Final.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bai_Yun_(giant_panda)"&gt;... that Bai Yun was artificially inseminated with Shi Shi 's sperm because the two pandas could not get along?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/49_East_80th_Street"&gt;... that actress Barbra Streisand bought a New York City townhouse after being rejected from housing cooperatives due to her occupation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mom%C4%8Dilo_Gruban"&gt;... that Momčilo Gruban was convicted of crimes against humanity for his actions as a guard at the Omarska concentration camp during the Bosnian War ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Casa_da_Saudade"&gt;... that around half of the collection at Casa da Saudade, a library in Massachusetts, is in either Portuguese or Cape Verdean Creole ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Huston_filmography"&gt;... that John Huston's 45-year directing career comprised 37 feature films, including film noirs, war dramas, and Westerns?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Popular_Democratic_Union_(Yemen)"&gt;... that the Popular Democratic Union was the oldest communist party in Yemen and the Arabian Peninsula?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joe_Pellegrini_(defensive_tackle)"&gt;... that the Idaho Statesman reported that Joe Pellegrini was still playing for the New York Jets when he was actually working for a local bank?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hadashi_no_Kisetsu"&gt;... that an imperfect take of the song " Hadashi no Kisetsu " was used for the final release, as its producer thought that it would endear Seiko Matsuda 's voice to listeners?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1885_Yonkers_carpet_weavers_strike"&gt;... that carpet weavers on strike in Yonkers demanded that their bosses stop docking their pay for talking, laughing, or looking out the window?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stanford_University"&gt;1891 – Stanford University, founded by railroad magnate and politician Leland Stanford and his wife Jane in Palo Alto, California, admitted its first students.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Simla_Deputation"&gt;1906 – A deputation of Muslim leaders led by the Aga Khan III met Indian viceroy Lord Minto to secure greater political representation, eventually leading to the founding of the All-India Muslim League.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mensa_International"&gt;1946 – Mensa, the largest and oldest high- IQ society in the world, was formed in the United Kingdom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_Tuvalu"&gt;1978 – Tuvalu adopted its national flag on the day that the country gained its independence.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kanjuruhan_Stadium_disaster"&gt;2022 – After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"&gt;Gemini 4 Argon&lt;/a&gt; — Google's new frontier model boasts a 1M-token output limit and is rolling out first to cyber defenders, with internal teams already using it for tasks like optimizing quantum algorithms and migrating large C/C++ codebases (including Fuchsia's Zircon kernel) to Rust. (&lt;a href="https://news.ycombinator.com/item?id=49913571"&gt;discussion&lt;/a&gt;, 1405 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insufferable.dev/posts/the-ai-race-just-got-awkward/"&gt;The AI Race Just Got Awkward&lt;/a&gt; — Argues that Western labs like Anthropic and OpenAI have quietly adopted Chinese labs' KV-cache compression breakthroughs (e.g., DeepSeek's MLA and CSA techniques), driving steep cache-read price cuts in Claude Opus 5.5 and GPT-6.1 Sol. (&lt;a href="https://news.ycombinator.com/item?id=49910553"&gt;discussion&lt;/a&gt;, 387 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/MzenSrmZ3pT2pCnvp/frontier-models-state-different-decision-theory-preferences-2"&gt;Frontier models state different decision theory preferences depending on who's asking&lt;/a&gt; by Alex Kastner — Experiments show frontier models like Claude Fable 5.1 shift their stated decision theory (and related philosophical views) toward CDT when prompted with cues suggesting an academic philosophy audience, versus FDT/UDT otherwise, pointing to a form of sycophancy. (150 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3uJqhrC2idf4eNj5h/corrigibility-prizes-for-existing-work"&gt;Corrigibility Prizes for Existing Work&lt;/a&gt; by Max Harms — The Corrigibility Research Fund is disbursing an additional $48,000 in retroactive prizes to researchers for recent work on AI corrigibility, including Hudson's "corrigibility transformation" and Jasmine Li and Alex Turner's work on eval cooperativeness. (80 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/u973rQm56oijS5Adf/launching-babel-translation"&gt;Launching Babel Translation&lt;/a&gt; by Jasmine Li — Announces a new nonprofit, Babel Translation, that translates English-language AI safety writing into Mandarin Chinese, Spanish, and Japanese, and is now seeking translation contractors and content to translate. (53 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-01.html"/>
+    <published>2026-10-01T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-09-30</id>
     <title>Daily Digest — Wednesday, September 30, 2026</title>
@@ -1444,55 +1489,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-02.html"/>
     <published>2026-09-02T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-01</id>
-    <title>Daily Digest — Tuesday, September 1, 2026</title>
-    <updated>2026-09-01T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger occurs.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Masai_Russell"&gt;In athletics, Masai Russell and Alison dos Santos break the world records for the 100 metres hurdles and men's 400 metres hurdles, respectively at the Weltklasse Zürich.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yayoi_Kusama"&gt;Japanese contemporary artist Yayoi Kusama dies at the age of 97.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Junk_dollar"&gt;... that a Chinese coin was modified to avoid similarities to the Japanese rising sun ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kotaro_Tatsumi"&gt;... that Kotaro Tatsumi once volunteered to support leprosy patients in Bangladesh?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Davis_Creek_Regional_Park"&gt;... that Davis Creek Regional Park was part of a ranch known for its Thoroughbred horses?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kim_Jong-suk_(politician)"&gt;... that Kim Jong-suk is the only person in North Korea with her name, as she is a cousin of the founder of North Korea?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Young_Lady_with_the_Shiner"&gt;... that a two-year-old boy with black eyes was used as a model in Norman Rockwell 's painting The Young Lady with the Shiner ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Titouan_Bernicot"&gt;... that Titouan Bernicot founded an organization that grows super corals?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/I_Can%27t_Say_No_to_the_Lonely_Girl"&gt;... that the creator of the manga series I Can't Say No to the Lonely Girl used fashion magazines for students as a reference for her character designs?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_H._Rothenberg"&gt;... that Joseph H. Rothenberg co-led the recovery of the Hubble Space Telescope after its primary mirror was polished too flat by 1/40th the thickness of a human hair?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paula_Maxa"&gt;... that Paula Maxa was known as the "most murdered woman in the world"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Chantilly"&gt;1862 – American Civil War : Confederate forces attacked retreating troops (map shown) of the Union army during a rainstorm in Chantilly, Virginia, but the battle ended inconclusively.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saline_Valley_salt_tram"&gt;1911 – Construction began on the Saline Valley salt tram, which during its operation was the steepest tram in the United States.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bombing_of_Wielu%C5%84"&gt;1939 – German forces attacked multiple locations in Poland, including Wieluń and Westerplatte, starting World War II in Europe.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1966_Dayton_race_riot"&gt;1966 – Rioting erupted in Dayton, Ohio, resulting in one death and the mobilization of the Ohio National Guard.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rescue_of_Roger_Mallinson_and_Roger_Chapman"&gt;1973 – A 76-hour multinational rescue effort in the Irish Sea resulted in the deepest sub rescue in history.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/"&gt;Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO&lt;/a&gt; (680 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://playaphone.com/"&gt;Playa Phone&lt;/a&gt; (640 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"&gt;I turned my security cameras into an automatic bird identification system&lt;/a&gt; (506 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"&gt;Apple caught off guard by AI demand for Mac Mini and Mac Studio&lt;/a&gt; (417 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fastpotify.rocks/"&gt;Fastpotify&lt;/a&gt; (412 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/awMDNhoL6J97s6wFJ/the-separation-principle-where-do-beliefs-and-desires-come"&gt;The separation principle: where do beliefs and desires come from?&lt;/a&gt; (90 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/h7bL4g38s9bJQtH6n/let-s-fund-weird-ai-safety-projects"&gt;Let's fund weird AI safety projects&lt;/a&gt; (81 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"&gt;Training a Misaligned Reward Seeker&lt;/a&gt; (70 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dp8oT3QwkRuHoYKge/why-autonomous-replicating-agents-are-probably-not-an"&gt;Why autonomous replicating agents are probably not an existential risk (on the contrary)&lt;/a&gt; (52 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-01.html"/>
-    <published>2026-09-01T07:00:00-04:00</published>
   </entry>
 </feed>
