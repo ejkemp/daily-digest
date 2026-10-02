@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-01T10:30:24.453658+00:00</updated>
+  <updated>2026-10-02T10:36:08.651428+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-02</id>
+    <title>Daily Digest — Friday, October 2, 2026</title>
+    <updated>2026-10-02T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Moroccan_general_election"&gt;Fatima Ezzahra El Mansouri is appointed the first woman prime minister of Morocco after her party's victory in the general election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wendy_Barnes"&gt;... that Wendy Barnes had to fill 40 minutes of live radio airtime when her scheduled guest, Princess Margaret, was unwell and arrived late?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Tree_of_Ecstasy_and_Unbearable_Sadness"&gt;... that The Tree of Ecstasy and Unbearable Sadness features a tree that was described by its author as an allegory for bipolar disorder?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Trendon_Watford"&gt;... that Trendon Watford attended all of his brother's basketball games at Indiana University for four years, even though it meant driving for seven hours?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boston_Korea"&gt;... that the founder of Boston Korea at first wrote, edited, designed, and delivered the newspaper himself, on routes running from Boston to New Hampshire?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Otto_Djaya"&gt;... that Otto Djaya described his scholarship studies as part of an espionage mission?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Surname_Law"&gt;... that minorities in Turkey recognized under the Treaty of Lausanne were not required to change their surnames, as stipulated by the Surname Law ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alex_Sanders_(politician)"&gt;... that Alex Sanders led a successful campaign against the construction of a chemical plant near Hilton Head Island?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Television"&gt;... that the magazine The Television is known for its covers featuring celebrities holding a lemon?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jaha_Koo"&gt;... that South Korean theatre-maker Jaha Koo made rice cookers explode when trying to make them talk?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nottingham_cheese_riot"&gt;1766 – As part of wider food riots, citizens in Nottingham, England, looted large quantities of cheese; one man was killed during attempts to restore order.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Livadia"&gt;1879 – Qing China signed the Treaty of Livadia with the Russian Empire, but the terms were so unfavorable that the Chinese government refused to ratify the treaty.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shubert_Theatre_(Broadway)"&gt;1913 – The Shubert Theatre opened on Broadway with a production of Hamlet.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u"&gt;1971 – Nguyễn Văn Thiệu was re-elected unopposed as President of South Vietnam.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/West_Nickel_Mines_School_shooting"&gt;2006 – A gunman killed five Amish girls before committing suicide in a one-room schoolhouse in Nickel Mines, Pennsylvania.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://earendil.com/posts/pi-1-0/"&gt;Pi 1.0&lt;/a&gt; — Earendil shipped Pi 1.0, a hardened minimal agent harness, adding Codemode/MCP support, virtual-model extensions, cache warming for Anthropic models, and mid-conversation system messages, alongside a new experimental "Pi Durable" package for long-running agentic apps. (&lt;a href="https://news.ycombinator.com/item?id=49926069"&gt;discussion&lt;/a&gt;, 1300 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/streetcomplete/StreetComplete/issues/5421"&gt;StreetComplete on iOS is now in public beta&lt;/a&gt; — A tracking issue describes the plan to port the Kotlin-based OpenStreetMap editing app to iOS using Kotlin Multiplatform and Compose Multiplatform, sharing most of the codebase with the Android app. (&lt;a href="https://news.ycombinator.com/item?id=49920160"&gt;discussion&lt;/a&gt;, 567 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.cloudflare.com/clef-decision-models/"&gt;Clef: Open-weight decision models, and new RL fine-tuning platform&lt;/a&gt; — Cloudflare released two open-weight "decision model" models (Clef and Clef-flash) on Workers AI, Jev-API compatible and Apache 2.0 licensed, plus a new RL fine-tuning product, positioned as faster, cheaper alternatives to LLMs for classification-style agentic decisions. (&lt;a href="https://news.ycombinator.com/item?id=49923692"&gt;discussion&lt;/a&gt;, 517 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://earendil.com/posts/pi-durable/"&gt;Pi Durable&lt;/a&gt; — A companion experimental package to Pi 1.0, providing a storage-backed harness for building long-running, multi-surface agentic applications that can survive failures, using pluggable backends like SQLite, JSONL, or memory. (&lt;a href="https://news.ycombinator.com/item?id=49925969"&gt;discussion&lt;/a&gt;, 387 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.gitbutler.com/git-3-sha-256"&gt;Git 3.0's upcoming SHA-256 default will be a costly mistake&lt;/a&gt; — Argues that Git's planned switch to defaulting new repositories to SHA-256 hashing in the upcoming 3.0 release will be a costly mistake. (&lt;a href="https://news.ycombinator.com/item?id=49924179"&gt;discussion&lt;/a&gt;, 386 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"&gt;Returning from vacation? The government can search your phone without a warrant&lt;/a&gt; — An immigration activist is suing CBP after agents allegedly pressured him into handing over his phone at Miami airport and copied its data, highlighting the "border exception" to Fourth Amendment protections. (&lt;a href="https://news.ycombinator.com/item?id=49920234"&gt;discussion&lt;/a&gt;, 372 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"&gt;Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026&lt;/a&gt; — Micron's CEO says surging AI-driven demand means DRAM and storage supply will stay much tighter through 2027-2028 than in 2026, with no clear timeline for supply and demand to rebalance. (&lt;a href="https://news.ycombinator.com/item?id=49920932"&gt;discussion&lt;/a&gt;, 356 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china"&gt;On Social Reality in China&lt;/a&gt; by alkjash — Reflects on cultural differences — pervasive social-media filtering, the primacy of "face" and shame, a cynical "dark world" view of human nature, and insecurity-driven nationalism — that could complicate efforts to spread AI safety messaging in China. (110 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/aG4x74utw8pEJ5MZB/how-many-ai-agents-are-running-unattended-right-now-1"&gt;How many AI agents are running unattended right now?&lt;/a&gt; by Alexander Gietelink Oldenziel — Fermi-estimates suggest 300,000-1,000,000 AI agent loops are running globally at any moment, with roughly 5,000-25,000 unattended for more than 24 hours, drawing partly on Anthropic's internal agent-fleet report. (62 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/rktrjGjXEbWsg7zof/my-retrospective-from-mats-10-0"&gt;My retrospective from MATS 10.0&lt;/a&gt; by Nathaniel Mitrani — Recounts training "model organisms" of scheming behavior in open LLMs via fine-tuning in an Alignment-Faking-like setup, and reflects on lessons learned, including the value of directly interrogating the trained models. (60 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/CjZJLXRMDdbgAH3iG/scientists-on-the-manhattan-project-continued-developing-the"&gt;Scientists on the Manhattan Project continued developing the atomic bomb even after it was clear that there was no need to&lt;/a&gt; by shawnghu — Examines physicist Joseph Rotblat's account of why most Manhattan Project scientists kept working on the bomb even after Germany's defeat removed their original justification. (52 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mmfYDH6hwYAMToNKL/evaluating-the-ban-artificial-superintelligence-act"&gt;Evaluating the Ban Artificial Superintelligence Act&lt;/a&gt; by Rob Ennals — Finds the Act's core goal of restricting dangerous AI capabilities reasonable but criticizes its vague and immediately-binding capability rules, lack of grandfathering for existing models, and overly broad scope as likely to cause unintended harm. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-02.html"/>
+    <published>2026-10-02T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-01</id>
     <title>Daily Digest — Thursday, October 1, 2026</title>
@@ -1440,54 +1492,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-03.html"/>
     <published>2026-09-03T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-02</id>
-    <title>Daily Digest — Wednesday, September 2, 2026</title>
-    <updated>2026-09-02T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Keith Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"&gt;The Nancy Grace Roman Space Telescope is launched towards its Earth–Sun L2 operating orbit.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger fails.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_Uganda"&gt;... that the flag of Uganda features a crested crane, a symbol of fortune, longevity and wealth among the indigenous Baganda people ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marta_Canales"&gt;... that composer Marta Canales donated the manuscript of one of her pieces to a Carmelite monastery?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cents-Neudorf-Weimershof_bridge_and_elevator"&gt;... that a pedestrian bridge linking two Luxembourg City neighbourhoods began receiving opposition in the neighbourhood it crosses 18 years before its construction started?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Ad_Decimum"&gt;... that Vandal king Gelimer lost the Battle of Ad Decimum because he paused pursuit to mourn his brother?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Inori_(writer)"&gt;... that Inori 's debut novel received a publication offer when she had almost forgotten about it?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1644_historical_view"&gt;... that the 1644 historical view asserts that China suffered not one but three centuries of humiliation?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Weiss_(American_football)"&gt;... that John Weiss signed with the New York Giants in 1944 despite having no college or professional football experience?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lithuanian_Alliance_of_America"&gt;... that a burglary prompted a newspaper's operation to leave the Lithuanian Alliance of America clubhouse?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Streamer_University"&gt;... that Kai Cenat's Streamer University received more than 1 million applications within minutes of opening enrollment?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury"&gt;1789 – The United States Department of the Treasury was founded following financial concerns in the new nation.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Sedan"&gt;1870 – Franco-Prussian War : Prussian forces captured Napoleon III at the Battle of Sedan, which led to the collapse of the Second French Empire within days.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Big_stick_ideology"&gt;1901 – U.S. vice president Theodore Roosevelt first publicly used the phrase " speak softly and carry a big stick " at the Minnesota State Fair, describing his philosophy of negotiating peacefully while simultaneously threatening to use military force.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Interim_Government_of_India"&gt;1946 – The interim government of India, headed by Jawaharlal Nehru, was formed to assist the transition of India from British rule to independence.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Swissair_Flight_111"&gt;1998 – A fire in the cockpit on Swissair Flight 111, en route from New York City to Geneva, caused the aircraft to crash into the Atlantic Ocean near Canada, killing all 229 people on board.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-1"&gt;Claude Fable 5.1 and Claude Mythos 5.1&lt;/a&gt; (1259 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.newsonaut.com/articles/hang-on-to-your-firefox"&gt;Hang on to Your Firefox&lt;/a&gt; (835 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://danluu.com/zitron/"&gt;How accurate have Ed Zitron's AI skeptic predictions been?&lt;/a&gt; (715 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566"&gt;Play Store blocks AuroraStore, hurting GrapheneOS users&lt;/a&gt; (529 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"&gt;Introducing Ad Blocker for Firefox on iOS&lt;/a&gt; (481 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/"&gt;The ChatGPT/Codex app bundles a full copy of LibreOffice&lt;/a&gt; (416 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Bs8geGyWEitYvCzys/pauseai-has-officially-disendorsed-pauseai-us"&gt;PauseAI Has 'officially disendorsed' PauseAI-US&lt;/a&gt; (155 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"&gt;The Alignment Journal: Organization, Personnel, and Scope&lt;/a&gt; (60 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-02.html"/>
-    <published>2026-09-02T07:00:00-04:00</published>
   </entry>
 </feed>
