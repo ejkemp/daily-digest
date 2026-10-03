@@ -2,13 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-02T10:36:08.651428+00:00</updated>
+  <updated>2026-10-03T10:30:20.990420+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-03</id>
+    <title>Daily Digest — Saturday, October 3, 2026</title>
+    <updated>2026-10-03T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Moroccan_general_election"&gt;Fatima Ezzahra El Mansouri is appointed the first woman prime minister of Morocco after her party's victory in the general election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arthur_Hiscoe"&gt;... that Arthur Hiscoe designed Harrogate 's covered market, which burned down in 1937 ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Free_Austrian_Youth"&gt;... that differences over the 1968 Soviet intervention in Czechoslovakia led to a rupture between the Communist Party of Austria and its youth wing ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Johnny_Hudgins"&gt;... that Johnny Hudgins has been described as the "black Charlie Chaplin"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pizzaiolo"&gt;... that pizzaiolo was designated an Italian intangible cultural heritage of humanity in 2017?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jomana_Alrashid"&gt;... that Jomana Alrashid, the CEO of the Saudi Research and Media Group, stated that her appointment was part of a vision that "trickled down from the highest levels of government"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Postum_Cereal_Co._v._California_Fig_Nut_Co."&gt;... that a trademark dispute over breakfast cereal went to the Supreme Court of the United States?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hanneline_R%C3%B8geberg"&gt;... that Hanneline Røgeberg often depicts women's bodies in "fantastically contorted positions that defy gravity or nature"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bimillenary_of_the_baptism_of_Jesus"&gt;... that Jordan is building the Middle East's largest Christian pilgrimage center ahead of the 2,000th anniversary of the baptism of Jesus in 2030?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clodomira_Acosta"&gt;... that Clodomira Acosta escaped arrest by setting a fire and jumping through a window?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Huilliche_uprising_of_1792"&gt;1792 – Spanish forces departed Valdivia to suppress the indigenous Huilliche uprising in southern Chile.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Holy_Rosary_Cathedral_(Vancouver)"&gt;1953 – Vancouver's Holy Rosary Cathedral was dedicated by Archbishop William Mark Duke, fifty-three years after it first opened.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1963_Honduran_coup_d%27%C3%A9tat"&gt;1963 – Oswaldo López Arellano replaced Honduran president Ramón Villeda Morales in a violent coup, initiating two decades of military rule.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sin%C3%A9ad_O%27Connor_on_Saturday_Night_Live"&gt;1992 – Sinéad O'Connor tore up a photograph of Pope John Paul II on live television.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siegfried_%26_Roy"&gt;2003 – Roy Horn of the American entertainment duo Siegfried &amp;amp; Roy was mauled by a tiger during a performance at the Mirage on the Las Vegas Strip.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/pass-designer/"&gt;Apple Pass Designer&lt;/a&gt; — Apple released a beta tool (requires macOS 27+) for designing Apple Wallet passes with real-time device-accurate previews, semantic tag editing, and validation of required fields. (&lt;a href="https://news.ycombinator.com/item?id=49937276"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nwrx9DHpZfW2Q6zLW/capabilities-research-expands-the-safety-usefulness-pareto"&gt;Capabilities research expands the safety-usefulness Pareto frontier too&lt;/a&gt; by Alex Mallen — Argues that "safety research enables more safety without sacrificing usefulness" is an insufficient definition since it would also classify most capabilities research as safety research, and proposes that the key difference is which direction each type of research shifts the Pareto frontier and how that shifts developers' chosen tradeoff point. (66 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zGaQ3SS9C6So9NXFg/lessons-from-building-an-automated-research-scaffold"&gt;Lessons from building an automated research scaffold&lt;/a&gt; by Alejandro Aristizabal — Describes building a scaffold for automated alignment research that failed to meaningfully speed up researchers (due to weak conceptual/research-taste skills in current models and reward-hacking whack-a-mole) but proved useful for surfacing failure modes of automated research systems. (51 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-03.html"/>
+    <published>2026-10-03T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-02</id>
     <title>Daily Digest — Friday, October 2, 2026</title>
@@ -1442,55 +1485,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-04.html"/>
     <published>2026-09-04T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-03</id>
-    <title>Daily Digest — Thursday, September 3, 2026</title>
-    <updated>2026-09-03T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Keith Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"&gt;The Nancy Grace Roman Space Telescope is launched towards its Earth–Sun L2 operating orbit.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger fails.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/G%C3%BCvercinada_Castle"&gt;... that Güvercinada Castle is named after the pigeons that inhabit it?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yilma_Ketema"&gt;... that, one year after Yilma Ketema became the first African footballer in Greece, the country's football federation introduced a ban on foreign players?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Point_Barrow_Refuge_Station"&gt;... that the superintendent of an Arctic rescue station auctioned a ship to himself?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ataxia_with_oculomotor_apraxia_type_1"&gt;... that an inability to control voluntary eye movement can be associated with a more severe form of ataxia with oculomotor apraxia type 1 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Feng_Bao"&gt;... that eunuch Feng Bao was one of only three people whom the young Wanli Emperor held in great respect?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Akua_Denteh"&gt;... that a woman was killed in Ghana in 2020 after she was accused of being a witch?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Prince_%C5%8Ctomo"&gt;... that Prince Ōtomo, the son of Emperor Tenji, was officially recognized as an emperor 1,200 years after his death?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Visual_novel"&gt;... that Shizuku was the first game to be described as a visual novel ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pym_Test_Kitchen"&gt;... that the menu for Pym Test Kitchen has included a US$100 sandwich?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Naulochus"&gt;36 BC – The Sicilian revolt against the Second Triumvirate of the Roman Republic ended when the fleet of Sextus Pompey, the rebel leader, was defeated at the Battle of Naulochus.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Selymbria"&gt;1411 – The Treaty of Selymbria was concluded between the Republic of Venice and the Ottoman prince Musa Çelebi.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Malcolm_Campbell"&gt;1935 – On the Bonneville Salt Flats in Utah, British racing motorist Malcolm Campbell became the first person to drive an automobile over 300 mph (480 km/h).&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deportation_of_Soviet_Germans_(1941%E2%80%931942)"&gt;1941 – The mass expulsion of Soviet Germans from the Volga German ASSR began.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test"&gt;2017 – North Korea conducted its sixth and most powerful nuclear test at Punggye-ri, causing a magnitude-6.3 earthquake.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/a&gt; (1033 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lwn.net/Articles/1090585/"&gt;A note on subscription prices from LWN&lt;/a&gt; (706 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.meta.com/ai/models/muse-spark/"&gt;Muse Spark 1.3&lt;/a&gt; (590 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"&gt;Can I opt out of my input or output data being used for training?&lt;/a&gt; (447 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"&gt;Three sites made 215,128 “best software” pages for AI. Perplexity cites them&lt;/a&gt; (424 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"&gt;Google avoids a breakup of its ad tech business&lt;/a&gt; (394 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qTNm8qzqhhpno58fZ/resolution-has-a-new-agent-foundations-team"&gt;Resolution has a new Agent Foundations team&lt;/a&gt; (150 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent"&gt;How concerned should we be about Astra's recurrent architecture?&lt;/a&gt; (81 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DRaePC8aqLYTbEjTD/kairos-has-raised-usd50m-to-build-talent-infrastructure-for"&gt;Kairos has raised $50M to build talent infrastructure for AI safety (and we're hiring!)&lt;/a&gt; (79 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-03.html"/>
-    <published>2026-09-03T07:00:00-04:00</published>
   </entry>
 </feed>
