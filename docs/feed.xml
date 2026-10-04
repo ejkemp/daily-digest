@@ -2,13 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-03T10:30:20.990420+00:00</updated>
+  <updated>2026-10-04T10:30:30.880297+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-04</id>
+    <title>Daily Digest — Sunday, October 4, 2026</title>
+    <updated>2026-10-04T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Moroccan_general_election"&gt;Fatima Ezzahra El Mansouri is appointed the first woman prime minister of Morocco after her party's victory in the general election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87"&gt;Serbian president Aleksandar Vučić resigns to run for prime minister in the upcoming parliamentary elections.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ernst_Frey"&gt;... that a man born in Austria became one of the first colonels of the People's Army of Vietnam?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alarms_in_the_Heart"&gt;... that the melodies of Alarms in the Heart were likened to Gregorian chants?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cindy_Rostron"&gt;... that Australian model Cindy Rostron also had a career as an Indigenous ranger?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Youth_of_the_African_Democratic_Revolution"&gt;... that from 1959 all Guinean people aged 7 to 35 years old statutorily belonged to the Youth of the African Democratic Revolution ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grady_Prestage"&gt;... that Grady Prestage was the first African American elected to the Fort Bend County commissioners' court since Reconstruction?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Audubon_Park,_Manhattan"&gt;... that John James Audubon gave his wife ownership of his Manhattan estate to prevent debt collectors from seizing it?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Philoxenos_Yuhanon_Dolabani"&gt;... that Philoxenos Yuhanon Dolabani defied church policy against Assyrian nationalism through anonymous poetry?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sabrina_Online"&gt;... that the anthropomorphic skunk Sabrina has been called "one of the most famous furry comics stars"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marcus_Hunter-Neill"&gt;... that drag queen Marcus Hunter-Neill once donated £20,000 worth of clothes to charity?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albanian%E2%80%93Venetian_War"&gt;1448 – Skanderbeg and Gjergj Arianiti signed a peace treaty to end the Albanian–Venetian War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Smolensk_(1632%E2%80%931633)"&gt;1633 – Smolensk War : Forces from the Polish–Lithuanian Commonwealth broke the Russian siege of Smolensk (depicted).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Galveston_Harbor_(1862)"&gt;1862 – American Civil War : After a naval battle in Galveston Harbor, Texas, Confederate commanders negotiated the surrender of the city to Union forces.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1925_Hama_uprising"&gt;1925 – Great Syrian Revolt : Rebels led by Fawzi al-Qawuqji captured the city of Hama from the French Mandate of Syria.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Rushmore"&gt;1927 – Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49949438"&gt;Tell HN: Bob Cringely has died&lt;/a&gt; — Bob Cringely (real name Mark Stevens), an early Apple employee best known for PBS documentaries like "Triumph of the Nerds," has died in his sleep. (&lt;a href="https://news.ycombinator.com/item?id=49949438"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"&gt;We're going to need default hard budget caps on pretty much everything&lt;/a&gt; — Simon Willison argues that pay-by-usage services and cloud providers need hard (not just soft) spending caps by default, especially as coding/personal agents make it easier to accidentally rack up huge bills, noting AWS and Google Cloud have both recently launched spend-limit features. (&lt;a href="https://news.ycombinator.com/item?id=49949235"&gt;discussion&lt;/a&gt;, 441 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"&gt;Federal judge calls Flock "indiscriminate mass surveillance"&lt;/a&gt; — A federal judge ruled that a Tulsa sheriff's deputy violated a woman's Fourth Amendment rights by warrantlessly searching Flock Safety's license-plate database, suppressing resulting drug evidence and calling the system a tool of indiscriminate mass surveillance. (&lt;a href="https://news.ycombinator.com/item?id=49948254"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tej.as/blog/aleph-alpha-kolibri"&gt;Aleph Alpha Kolibri: How the sovereign German LLM works&lt;/a&gt; — A deep dive into Kolibri, Aleph Alpha's new open-weight 78B-parameter (3.5B active) mixture-of-experts German/English LLM built under EU AI Act compliance and trained entirely on European infrastructure. (&lt;a href="https://news.ycombinator.com/item?id=49943034"&gt;discussion&lt;/a&gt;, 413 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-04.html"/>
+    <published>2026-10-04T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-03</id>
     <title>Daily Digest — Saturday, October 3, 2026</title>
@@ -1432,58 +1473,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-05.html"/>
     <published>2026-09-05T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-04</id>
-    <title>Daily Digest — Friday, September 4, 2026</title>
-    <updated>2026-09-04T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"&gt;The Nancy Grace Roman Space Telescope is launched towards its Earth–Sun L2 operating orbit.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger fails.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boy_with_Baby_Carriage"&gt;... that Boy with Baby Carriage was the first of 322 cover illustrations produced by Norman Rockwell for The Saturday Evening Post ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ernest_Dezentj%C3%A9"&gt;... that President Sukarno entrusted his first-born son to the painter Ernest Dezentjé during the Indonesian National Revolution?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Beautiful_Fighting_Girl"&gt;... that a 2001 academic text psychoanalyzed the sexuality of otaku ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Defr%C3%A8re"&gt;... that operatic baritone Désiré Defrère had such a wide vocal range that he could replace high tenors and female singers in emergencies?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charolais_(cheese)"&gt;... that the French goat cheese charolais has a "slight cellar perfume" according to the Ark of Taste?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chris_McEleny"&gt;... that a judge ruled that supporting Scottish independence is protected under the Equality Act 2010 in a legal case launched by councillor Chris McEleny ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sesame_Street:_Elmo%27s_Preschool"&gt;... that a critic for Personal Computer World said that Sesame Street: Elmo's Preschool would "eventually drive any normal adult up the wall"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stourbridge_Glass_Museum"&gt;... that Stourbridge Glass Museum has a restored 1969 panel from the Churchill Memorial Screen that had been vandalised in a shopping centre?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ling-Ling_and_Hsing-Hsing"&gt;... that U.S. President Richard Nixon requested that Ling-Ling and Hsing-Hsing spend more time in China so they could learn how to have sex?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Odoacer"&gt;476 – Germanic leader Odoacer captured Ravenna and deposed Emperor Romulus Augustus, marking the fall of the Western Roman Empire.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_Fire_of_London"&gt;1666 – The most destructive damage from the Great Fire of London (depicted) occurred.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albanian_revolt_of_1912"&gt;1912 – The Albanian revolt ended when the Ottoman government agreed to meet most of the rebels' demands.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Golden_Dragon_massacre"&gt;1977 – The Golden Dragon massacre occurred in Chinatown, San Francisco, United States, leaving five people dead and spurring police to end Chinese gang violence in the city.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1995_Okinawa_rape_incident"&gt;1995 – Three U.S. servicemen stationed at Camp Hansen in Okinawa, Japan, raped a 12-year-old girl, after kidnapping, beating, and torturing her.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://neil.fraser.name/news/2026/09/03/"&gt;.name Termination&lt;/a&gt; (1843 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/gpt-6-astra/"&gt;GPT-6 Astra&lt;/a&gt; (1830 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"&gt;Audacity 4.0&lt;/a&gt; (1105 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://anyhumanever.com/"&gt;Any Human Ever – One life, drawn at random from all who have ever lived&lt;/a&gt; (593 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://inference-docs.cerebras.ai/models/overview"&gt;Qwen 3.8 27B available on Cerebras at 1500 tokens/s&lt;/a&gt; (567 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49551096"&gt;Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?&lt;/a&gt; (373 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://chatgpt.com/"&gt;ChatGPT outage – Resolved&lt;/a&gt; (361 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DnPyiDGWLozY4XdiX/sen-bernie-sanders-i-vt-and-rep-greg-casar-d-tx-introduce"&gt;Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) introduce legislation to ban Artificial Superintelligence and temporarily pause advanced AI development &lt;/a&gt; (176 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems"&gt;Cat-Belling Problems&lt;/a&gt; (137 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/wYZMmdWEt5QLM3m3e/steering-towards-automated-grading-degrades-alignment"&gt;Steering towards “automated grading” degrades alignment&lt;/a&gt; (104 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-04.html"/>
-    <published>2026-09-04T07:00:00-04:00</published>
   </entry>
 </feed>
