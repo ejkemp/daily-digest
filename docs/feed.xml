@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-05T10:30:35.327614+00:00</updated>
+  <updated>2026-10-06T10:30:37.520269+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-06</id>
+    <title>Daily Digest — Tuesday, October 6, 2026</title>
+    <updated>2026-10-06T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charlotte_Jordan"&gt;... that actress Charlotte Jordan was once in a girl group that she said changed names so many times it was referred to simply as "The Band"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Royal_Khmer_Socialist_Youth"&gt;... that in 1967 the Cambodian Civil War began with a rebel assault on a Royal Khmer Socialist Youth co-operative farm?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stephanie_Williams_(comics)"&gt;... that Stephanie Williams wrote a fan comic about Monica Rambeau before writing for the character officially?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Leagues_Cup_final"&gt;... that the 2026 Leagues Cup final featured a yellow card just eight seconds into the match?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hank_Molt"&gt;... that " the godfather of reptile smuggling " called himself "a man of mystery somewhat by design"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anglaise_(dance)"&gt;... that traditional dances from England were popularized across Continental Europe by the French?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Morton_Bryan_Wharton"&gt;... that Baptist pastor Morton Bryan Wharton said he coined the term "pastorium" because other Christian denominations already used other terms for clergy houses?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lamplight_Lounge"&gt;... that a Pixar-themed restaurant has a secret dining room?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fat_Papi"&gt;... that Fat Papi became the first Kurd on the Billboard Hot 100 because of a woman with a bob ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Manila_(1762)"&gt;1762 – Seven Years' War : The Battle of Manila concluded with a British victory over Spain, leading to a twenty-month occupation.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Forts_Clinton_and_Montgomery"&gt;1777 – American Revolutionary War : Fort Clinton and Fort Montgomery were captured by British forces under Sir Henry Clinton, dismantling the Hudson River Chains.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Badr_(1973)"&gt;1973 – The Egyptian Armed Forces crossed the Suez Canal to attack occupying Israel Defense Forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/51_Pegasi_b"&gt;1995 – Astronomers Michel Mayor and Didier Queloz reported the discovery of a planet orbiting 51 Pegasi as the first known exoplanet around a main-sequence star.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carlos_%C3%81lvarez_(Argentine_politician)"&gt;2000 – Denouncing corruption in Argentine president Fernando de la Rúa 's administration and the Senate, Vice President Carlos Álvarez resigned.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"&gt;Web Search API&lt;/a&gt; — Cloudflare launched a beta Web Search API that lets AI agents ground responses in live web results via three providers (Ceramic.ai, Exa, Linkup), routed through AI Gateway with no markup on provider pricing. (&lt;a href="https://news.ycombinator.com/item?id=49963171"&gt;discussion&lt;/a&gt;, 551 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://reflection.ai/blog/introducing-beam"&gt;Beam: Reflection's 501B open-weight model&lt;/a&gt; — Reflection AI unveiled Beam, a 501B-parameter (23B active) open-weight MoE model trained with a massive high-compute RL run on 10.5K GB300 GPUs, aimed at efficient coding and agentic performance competitive with larger open models. (&lt;a href="https://news.ycombinator.com/item?id=49969183"&gt;discussion&lt;/a&gt;, 462 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"&gt;ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons&lt;/a&gt; — ChatGPT has been generating fake New Yorker-style cartoons and falsely signing them with the real signatures of more than 15 working cartoonists, who say it misattributes AI images as their own work. (&lt;a href="https://news.ycombinator.com/item?id=49971846"&gt;discussion&lt;/a&gt;, 449 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped"&gt;Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped&lt;/a&gt; — GrapheneOS indicates the upcoming Pixel 11 may not meet its security bar and could be left unsupported, per the forum thread title (article content unavailable). (&lt;a href="https://news.ycombinator.com/item?id=49964303"&gt;discussion&lt;/a&gt;, 417 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"&gt;Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates&lt;/a&gt; — A team using AI agents designed one candidate and identified a second, previously known since 1999, material predicted to exhibit "Luttinger compensated" magnetism useful for faster, denser spintronic memory. (&lt;a href="https://news.ycombinator.com/item?id=49970667"&gt;discussion&lt;/a&gt;, 360 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nzNuDimMtF954xihw/notes-on-paying-attention"&gt;Notes on Paying Attention&lt;/a&gt; by jenn — A reflection on how slowing down to pay attention can enrich experience, while cautioning against over-relying on others' tastes instead of discovering one's own "secret thread" of preference. (63 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/n952MZndfNxuLCeFk/reverse-jaggedness-and-universal-ajaggedness"&gt;Reverse Jaggedness and Universal Ajaggedness&lt;/a&gt; by Laiba Rehman ✦ RJ — A playful thought experiment proposing that AI "jaggedness" (uneven capability across tasks) is relative to the observer, illustrated by flipping a human-centric unit-circle capability model to an AI's point of view. (59 karma)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-06.html"/>
+    <published>2026-10-06T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-05</id>
     <title>Daily Digest — Monday, October 5, 2026</title>
@@ -1417,52 +1464,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-07.html"/>
     <published>2026-09-07T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-06</id>
-    <title>Daily Digest — Sunday, September 6, 2026</title>
-    <updated>2026-09-06T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"&gt;The Nancy Grace Roman Space Telescope is launched towards its Earth–Sun L2 operating orbit.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"&gt;An attempted coup against the military junta in Niger fails.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harald_V"&gt;King Harald V of Norway dies at the age of 89 and is succeeded by Haakon VIII.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Masai_Russell"&gt;In athletics, Masai Russell and Alison dos Santos break the world records for the 100 metres hurdles and men's 400 metres hurdles, respectively at the Weltklasse Zürich.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Avenue_Estate"&gt;... that the First Avenue Estate and the York Avenue Estate, two tenement blocks, were protected, unprotected, and then re-protected as New York City landmarks?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quingnam_language"&gt;... that the Quingnam language, despite being the language of a Peruvian empire, is known from only a handful of words?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ohuan"&gt;... that oral traditions describe King Ohuan either as mistaken for a woman, or as born female and transformed into a man through medicine?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Project_Panama"&gt;... that Anthropic began scanning and destroying millions of rare books in 2024 to train their AI model Claude ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Herbert_William_Parke"&gt;... that Irish historian Herbert William Parke took a break from teaching during World War II to serve as the principal of the Board of Trade in London?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garrison_Hall"&gt;... that an official of the University of Texas at Austin suggested that a bat infestation at Garrison Hall could be cleared with fire extinguishers?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/YH_incident"&gt;... that a 1979 sit-in protest by female garment workers in South Korea helped spark a chain of events that led to the assassination of President Park Chung Hee ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sisters_of_the_Little_Way"&gt;... that the Sisters of the Little Way is a religious order dedicated to working with people who experienced abuse within the Catholic Church?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Penny_the_Polar_Bear"&gt;... that a speech in the Russian parliament cited a Peppa Pig character with two mothers as an example of LGBT propaganda?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"&gt;1566 – Suleiman the Magnificent, the longest-reigning sultan of the Ottoman Empire, died at the age of 71.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"&gt;Private German rocket makes history, reaches orbit from European soil&lt;/a&gt; (609 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/"&gt;The Real Luxuries In Life&lt;/a&gt; (482 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cloudinabottle.org/blog/launch-post"&gt;Cloud in a Bottle: making self-hosting accessible to everyone&lt;/a&gt; (422 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lapcatsoftware.com/articles/2026/9/1.html"&gt;Chrome again exempts Google from user site data settings&lt;/a&gt; (409 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"&gt;The revolt of the reader&lt;/a&gt; (365 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/"&gt;Flock used &amp;gt;100 times to track veteran who recorded traffic stop&lt;/a&gt; (359 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/8hEhxnd3XkN5DrpfQ/evaluation"&gt;Evaluation&lt;/a&gt; (98 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-06.html"/>
-    <published>2026-09-06T07:00:00-04:00</published>
   </entry>
 </feed>
