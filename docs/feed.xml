@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-07T10:30:54.344946+00:00</updated>
+  <updated>2026-10-08T10:30:11.053332+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-08</id>
+    <title>Daily Digest — Thursday, October 8, 2026</title>
+    <updated>2026-10-08T07:00:00-04:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American computer scientist Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_lyc%C3%A9e_protests"&gt;High school students in France and Belgium launch mass protests for better conditions, starting fires and causing 400 schools to be closed.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ebony_Stevenson"&gt;... that 16-year-old 3x3 wheelchair basketball player Ebony Stevenson wore footwear decorated by an indigenous artist at the 2026 Commonwealth Games?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/133_East_80th_Street"&gt;... that the top of a Manhattan apartment building was likened to a "mountain castle redoubt in a Harry Potter movie"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zayn_Malik"&gt;... that Zayn Malik auditioned for The X Factor "for fun, to see what would happen"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suga_Shrine_(Shinjuku)"&gt;... that a shrine 's staircase is a popular destination for fans of the 2016 film Your Name ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Teodor_Mazilu"&gt;... that Romanian satirist Teodor Mazilu demanded "a proper hat" as his dying wish?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Mammes"&gt;... that the Berbers waited for the departure of Byzantine general Belisarius to rebel, leading to the first battle at Mammes against his trusted commander, Solomon ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Manami_%C5%8Cno"&gt;... that veteran actress Takako Tokiwa called Manami Ōno an "exceptional talent" after co-starring in Ōno's debut television drama?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Justice_sensitivity"&gt;... that justice sensitivity is a personality trait describing how readily people notice injustice, and how forcefully they react to it?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WAR_(newspaper)"&gt;... that WAR described itself as "the most racist newspaper on Earth"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Perryville"&gt;1862 – American Civil War : The Battle of Perryville was fought west of Perryville, Kentucky.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harrow_and_Wealdstone_rail_crash"&gt;1952 – Three trains collided at Harrow &amp;amp; Wealdstone station in London, killing 112 people and injuring 340 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Days_of_Rage"&gt;1969 – Demonstrations organized by the Weather Underground known as the Days of Rage began in Chicago, aimed at ending U.S. involvement in the Vietnam War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Southern_Move"&gt;1995 – The Croatian Army and Croatian Defence Council launched Operation Southern Move, their last offensive in the Bosnian War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2019_Baku_protests"&gt;2019 – Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"&gt;Margaret Hamilton has died&lt;/a&gt; (1562 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-haiku-5-5"&gt;Claude Haiku 5.5&lt;/a&gt; (890 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/gpt-6-for-everyone/"&gt;GPT‑6 and Intelligent UI for everyone&lt;/a&gt; (642 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome"&gt;Shipping JPEG XL in Chrome&lt;/a&gt; (551 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"&gt;Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees&lt;/a&gt; (547 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bigwords.page/"&gt;Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app&lt;/a&gt; (510 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ascii.rest/"&gt;Animated ASCII Art for Web Pages&lt;/a&gt; (362 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"&gt;Are OpenAI's math results "creative" in an important way? &lt;/a&gt; (80 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/QW2kPrAyZQvRtBXHG/benchmarking-jev-against-no-cot-llms"&gt;Benchmarking Jev against no-CoT LLMs&lt;/a&gt; (56 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o8roRrdisBAjngHJN/a-summary-of-a-viral-chinese-essay-on-what-a-deepseek-kernel"&gt;A summary of a viral Chinese essay on what a  DeepSeek kernel engineer's opinion on automating his own job&lt;/a&gt; (54 points)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-08.html"/>
+    <published>2026-10-08T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-07</id>
     <title>Daily Digest — Wednesday, October 7, 2026</title>
@@ -1414,52 +1466,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-09.html"/>
     <published>2026-09-09T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-08</id>
-    <title>Daily Digest — Tuesday, September 8, 2026</title>
-    <updated>2026-09-08T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Spider_pulsar"&gt;... that spider pulsars eat away their stellar mates by irradiating them?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Susan_Baur"&gt;... that turtle fan Susan Baur founded Old Ladies Against Underwater Garbage, a group of volunteers who dive to retrieve litter?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garmin_Instinct"&gt;... that the Garmin Instinct line of GPS watches includes a model marketed towards truck drivers?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Spring_High"&gt;... that during Operation Spring High, American aircraft attacked a fake target made of bamboo that lured them into a trap?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rhoda_Roberts"&gt;... that Indigenous Australian cultural leader Rhoda Roberts coined the term " Welcome to Country " for a ceremony now used at the opening of Parliament and most major events?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_songs_by_Joe_Hill"&gt;... that many of Joe Hill's anti-capitalist songs borrowed the melodies of hymns and show tunes ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dominic_Thopia"&gt;... that Albanian archbishop Dominic Thopia used his influence to support his nephew after he took over Durrës in 1368?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ultimate_Robot_Knock-out_Legend"&gt;... that a life-sized humanoid robot kept fighting after having its head kicked off during the inaugural Ultimate Robot Knock-out Legend event?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_F._Hambitzer"&gt;... that Michigan State Treasurer Joseph F. Hambitzer, along with two other officials, was removed from office for gross neglect of duty?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r"&gt;1566 – Ottoman–Habsburg wars : Ottoman forces led by Suleiman the Magnificent captured the fortress of Szigetvár in Hungary, but were forced to end their campaign to take Vienna.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Geist_und_Seele_wird_verwirret,_BWV_35"&gt;1726 – J. S. Bach led the first performance of Geist und Seele wird verwirret, a solo cantata for alto voice.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Bassano"&gt;1796 – French Revolutionary Wars : Led by Napoleon, French forces defeated the Austrians at the Battle of Bassano in Veneto, Italy.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Severn_Bridge"&gt;1966 – Queen Elizabeth II opened the Severn Bridge, linking South Gloucestershire in England and Monmouthshire in Wales.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gerald_Ford"&gt;1974 – Watergate scandal : U.S. president Gerald Ford gave his recently resigned predecessor Richard Nixon a controversial full and unconditional pardon for any crimes he committed while in office.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"&gt;De-Brainrot Vacations&lt;/a&gt; — A software engineer reflects on how AI and constant digital dopamine have dulled their focus, and how a slow, book-filled vacation (rediscovering reading and even calculus) helped reverse it. (&lt;a href="https://news.ycombinator.com/item?id=49597907"&gt;discussion&lt;/a&gt;, 486 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"&gt;Mistral raises €3B&lt;/a&gt; — Mistral closed a €3B Series D at a €21B+ valuation, led by Samsung Electronics, to scale its "sovereign," open-weight full-stack AI offering. (&lt;a href="https://news.ycombinator.com/item?id=49605767"&gt;discussion&lt;/a&gt;, 476 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/iczelia/bzip3"&gt;bzip3&lt;/a&gt; — A BZip2 successor with a context-mixing entropy coder and BWT-based compression that claims higher ratios and better performance, especially on text and code. (&lt;a href="https://news.ycombinator.com/item?id=49598291"&gt;discussion&lt;/a&gt;, 408 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"&gt;Bill Gates tries to install MovieMaker (2003)&lt;/a&gt; — A leaked 2003 email shows Bill Gates furiously recounting a maze of broken downloads, confusing Windows Update prompts, and forced reboots just to install Movie Maker. (&lt;a href="https://news.ycombinator.com/item?id=49599481"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6j3kBHdowGLCeqobg/dear-god-please-do-not-resign-in-protest"&gt;Dear God, Please Do Not Resign In Protest&lt;/a&gt; by Kabir Kumar — Argues that AI lab employees who refuse to work on ethically objectionable projects should let themselves be fired rather than resign, since a firing sends a stronger, costlier signal and pressures leadership more. (137 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/S7e7swkWDyKdtvRqM/the-scramble-getting-in-position-to-pace-the-frontier"&gt;The Scramble: getting in position to pace the frontier&lt;/a&gt; by Peter Wildeford — Sketches how a sudden presidential push to manage superintelligence risk might unfold as a Cuban Missile Crisis-style scramble followed by an interim deal and then a more durable international agreement. (68 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ZxC23QApzYPgcYXpz/the-magnus-challenge"&gt;The Magnus Challenge&lt;/a&gt; by Taylor G. Lunt — Works out, using Elo math and time-advantage scaling, the optimal number of proxy chess matches a 1500-rated player would need to have decent odds of eventually beating Magnus Carlsen, drawing an analogy to aligning successive AI systems. (63 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-08.html"/>
-    <published>2026-09-08T07:00:00-04:00</published>
   </entry>
 </feed>
