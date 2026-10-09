@@ -9,7 +9,7 @@ feed_url = "https://ejkemp.github.io/daily-digest/feed.xml"
 
 [content]
 # Per-link article scraping, so the digest summarizes real content rather than
-# inventing it from the title. Applies to Hacker News links and LessWrong posts.
+# inventing it from the title. Applies to Hacker News, LessWrong, and Marginal Revolution.
 max_chars = 4000          # cap per-item text so the prompt stays a sane size
 fetch_timeout_seconds = 15
 
@@ -22,6 +22,10 @@ max_items = 30
 min_karma = 50
 window_hours = 24
 max_items = 20
+
+[marginalrevolution]
+# Previous calendar day (midnight to midnight), excluding assorted links posts.
+timezone = "America/New_York"
 
 [digest]
 # Model passed to `claude -p --model ...`. sonnet keeps subscription usage light;

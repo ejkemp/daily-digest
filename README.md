@@ -5,7 +5,8 @@ sources, has Claude (headless `claude -p`) write a digest, and publishes it as a
 feed via GitHub Pages.
 
 **Sources:** Wikipedia Main Page (Topics in the news · Did you know · On this day) ·
-Hacker News (≥ score threshold) · LessWrong (≥ karma threshold).
+Hacker News (≥ score threshold) · LessWrong (≥ karma threshold) · Marginal Revolution
+(previous calendar day's posts, excluding “assorted links”, with one-sentence summaries).
 
 ## Pipeline
 
@@ -74,6 +75,8 @@ launchctl print "gui/$(id -u)/com.ethan.daily-digest" | grep -iE 'state|runs|las
 
 - `hackernews.min_score`, `lesswrong.min_karma` — inclusion thresholds
 - `digest.claude_model` — model for `claude -p` (default `sonnet`)
+- `marginalrevolution.timezone` — timezone for the previous calendar day (default
+  `America/New_York`); full post text comes from the paginated RSS feed.
 
 ## Manual run / debugging
 
