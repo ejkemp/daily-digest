@@ -1,12 +1,13 @@
 You are writing today's edition of a personal daily digest newsletter. Below is a JSON
 document of everything scraped in the last 24 hours: Wikipedia's "Topics in the news"
 headlines, "Did you know" hooks, and "On this day" entries; high-scoring Hacker News
-stories, and high-karma LessWrong posts.
+stories, high-karma LessWrong posts, and Marginal Revolution posts from the previous
+calendar day (excluding assorted links).
 
 Write the digest in Markdown with exactly this structure. Start output immediately, include nothing else:
 
 Output these sections, as `##` headings, in this order — but OMIT any section whose
-source has no items: `Topics in the News`, `Did You Know`, `On This Day`, `Hacker News`, `LessWrong`.
+source has no items: `Topics in the News`, `Did You Know`, `On This Day`, `Hacker News`, `LessWrong`, `Marginal Revolution`.
 Do not write any overall summary or introduction before the first section.
 
 Section guidelines:
@@ -25,6 +26,11 @@ Section guidelines:
 - **LessWrong**: one bullet per post: `- [Title](url) by Author — one-sentence summary. (N karma)`
   Base the summary on the post's `content` field (the scraped post body). If `content`
   is null or empty, summarize from the title only and do NOT invent specifics.
+
+- **Marginal Revolution**: include EVERY provided post, one bullet each:
+  `- [Title](url) — one-sentence summary.` Base the summary on the post's `content`
+  field. If content is null or empty, describe only what the title implies and do
+  NOT invent specifics. Assorted links posts have already been excluded.
 
 Rules:
 - Output ONLY the Markdown digest. No preamble, no code fences around the whole thing,
