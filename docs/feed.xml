@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-09T10:30:10.653779+00:00</updated>
+  <updated>2026-10-09T23:42:41.238094+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
@@ -13,16 +13,15 @@
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-09</id>
     <title>Daily Digest — Friday, October 9, 2026</title>
     <updated>2026-10-09T07:00:00-04:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American computer scientist Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francis_Halzen"&gt;Francis Halzen is awarded the Nobel Prize in Physics for his work in neutrino astronomy.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Old_Parliament_House,_Adelaide"&gt;... that South Australia's Old Parliament House and the present Parliament House were jointly added to the Australian National Heritage List in 2006?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Franz_Schnyder"&gt;... that Franz Schnyder made his feature-film directorial debut after Swiss immigration authorities sought to prevent refugee filmmaker Leopold Lindtberg from directing another army-friendly film?&lt;/a&gt;&lt;/li&gt;
@@ -34,7 +33,7 @@
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paramacrobiotus_pius"&gt;... that Paramacrobiotus pius was described more than a decade after its type specimens were collected?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kyiv_SBU%E2%80%93HUR_shootout"&gt;... that two Ukrainian intelligence agencies had a shootout in Kyiv ?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Lesnaya"&gt;1708 – Great Northern War : Russia defeated Sweden at the Battle of Lesnaya on the Russian–Polish border, in present-day Belarus.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1740_Batavia_massacre"&gt;1740 – European soldiers and Javanese collaborators started massacring Chinese Indonesians in the port city of Batavia, modern-day Jakarta : at least 10,000 people were killed.&lt;/a&gt;&lt;/li&gt;
@@ -44,21 +43,25 @@
 &lt;/ul&gt;
 &lt;h2&gt;Hacker News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"&gt;Trump administration is suspending Microsoft from a green card program&lt;/a&gt; (877 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cactuscompute.com/blog/whistle"&gt;Whistle: Speech to Text in 16.9 MB&lt;/a&gt; (776 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50006366"&gt;Tell HN: I've been paying for a rural Tanzanian's education for 10 years&lt;/a&gt; (703 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theranos.world/"&gt;Theranos.world&lt;/a&gt; (455 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"&gt;OpenAI annualised revenues $20B less than previously signalled&lt;/a&gt; (392 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://quesma.com/blog/invisible-cities-one-shot/"&gt;I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities&lt;/a&gt; (391 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://deno.com/blog/cloudflare"&gt;Cloudflare acquires Deno&lt;/a&gt; — The Deno team is joining Cloudflare, with the Deno runtime supported for another year before development ends, Deno Deploy shutting down in six months, and JSR moving to Cloudflare infrastructure. (&lt;a href="https://news.ycombinator.com/item?id=50019911"&gt;discussion&lt;/a&gt;, 1011 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://iminafleeting.com/"&gt;Sorry, I'm in a meeting&lt;/a&gt; — A site that plays long, synthetic recordings of fake meetings in the background so you look busy. (&lt;a href="https://news.ycombinator.com/item?id=50018088"&gt;discussion&lt;/a&gt;, 720 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://oxide.computer/blog/our-445m-series-d"&gt;Our $445M Series D&lt;/a&gt; — Oxide announces a Series D led by Eclipse (with AMD joining as a strategic investor) to fund inventory and manufacturing for a large order backlog after the company became profitable enough to pay income tax. (&lt;a href="https://news.ycombinator.com/item?id=50020014"&gt;discussion&lt;/a&gt;, 559 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://minesweeper.mikelacher.com/"&gt;Triple-A Minesweeper&lt;/a&gt; — A Minesweeper variant, judging from the title; the article text could not be fetched. (&lt;a href="https://news.ycombinator.com/item?id=50022292"&gt;discussion&lt;/a&gt;, 513 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/"&gt;US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize&lt;/a&gt; — Per the title, the US sanctioned the International Criminal Court hours after a former judge won the Nobel Peace Prize. (&lt;a href="https://news.ycombinator.com/item?id=50021066"&gt;discussion&lt;/a&gt;, 455 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nobelprize.org/prizes/peace/2026/press-release/"&gt;Nobel Peace Prize for 2026 to Navanethem Pillay&lt;/a&gt; — The Nobel Committee honors Pillay, a South African jurist and former UN human rights chief, for advancing international law and the prosecution of war crimes, arguing that peace requires justice. (&lt;a href="https://news.ycombinator.com/item?id=50018420"&gt;discussion&lt;/a&gt;, 426 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen"&gt;Show HN: Let your AI agents paint big arrows, boxes and text on your screen&lt;/a&gt; — A macOS command-line tool and Claude Code/Codex skill that draws click-through arrows and signs over windows so agents can point at the button they need you to click. (&lt;a href="https://news.ycombinator.com/item?id=50018817"&gt;discussion&lt;/a&gt;, 362 points)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;LessWrong&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/eSMburFT9eRxHWijf/asi-and-liberty-can-we-do-better-than-a-benevolent-god"&gt;ASI and Liberty: Can we do better than a benevolent god?&lt;/a&gt; (95 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/PQLbSaA48Gr7H6NzT/you-heard-of-bayesians-don-t-predictably-update-because-of"&gt;You Heard of "Bayesians Don't Predictably Update" Because of Robin Hanson&lt;/a&gt; (87 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nc9dHfcB22JdMzGbr/j-lens-jacobian-filtering-enables-more-faithful-workspace"&gt;J++ Lens: Jacobian Filtering Enables More Faithful Workspace Lenses&lt;/a&gt; (82 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dHGjqpbfmdEN7TssX/on-kink-and-status-in-the-rationalist-community"&gt;On Kink &amp;amp; Status in the Rationalist Community&lt;/a&gt; (81 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LZGuqoYHphet9sfZs/towards-embedded-evaluations-for-scheming-propensities"&gt;Towards embedded evaluations for scheming propensities&lt;/a&gt; (62 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DZPodskqJJNEkMLvH/ai-189-new-math"&gt;AI #189: New Math&lt;/a&gt; (50 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xLgJJC3CD3y3AhtKn/stop-telling-people-to-pivot-to-ai-safety-i-beg-you"&gt;Stop telling people to pivot to AI safety, I beg you&lt;/a&gt; by Haoxing Du — Argues that AI safety is not truly talent-constrained, since far more qualified people apply than there are jobs, and that saying otherwise harms applicants and lets orgs avoid improving. (104 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1"&gt;A critical look at Lean4&lt;/a&gt; by Milo Moses — Examines Lean4's soundness bugs and lack of a known consistency proof, questioning how much trust formal certificates deserve, especially as AIs get better at exploiting kernel bugs. (91 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5uRvnCko4oanpmCsh/i-can-t-believe-it-s-not-butter"&gt;I can't believe it's not BUTTER!&lt;/a&gt; by becausecurious — A tour of US food marketing mimicry (I Can't Believe It's Not Butter, Froot Loops, Bac'n Pieces, imitation crab) and the labeling rules and court rulings behind it. (62 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-ive-been-reading-296"&gt;What I've been reading&lt;/a&gt; — Tyler Cowen's reading notes on books about mothers who abandon children, Evan Gershkovich's Russia memoir, Reinier de Graaf's architecture book, and his progress through China Miéville's 1200-page &lt;em&gt;The Rouse&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-and-why-did-the-victorians-succeed"&gt;How and why did the Victorians succeed?&lt;/a&gt; — Excerpts Samuel Hughes on Victorian elites, who were less academic and more party-loving than their reputation suggests, though Cowen finds the answer to the title question still somewhat mysterious.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=predictions-for-economics-given-ai"&gt;Predictions for economics, given AI&lt;/a&gt; — Quotes a set of predictions that top human-led research, field experiments, administrative data, and economic history will gain value while routine public-data and simple-survey research faces a shock, with Cowen agreeing.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-09.html"/>
     <published>2026-10-09T07:00:00-04:00</published>
