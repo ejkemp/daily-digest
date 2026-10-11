@@ -2,13 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-09T23:42:41.238094+00:00</updated>
+  <updated>2026-10-11T10:30:35.153686+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-11</id>
+    <title>Daily Digest — Sunday, October 11, 2026</title>
+    <updated>2026-10-11T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henri_B._Kagan"&gt;Henri B. Kagan and Kensō Soai are awarded the Nobel Prize in Chemistry for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"&gt;Paramount Skydance completes its acquisition of Warner Bros. Discovery in a deal valued at $110 billion, becoming Skydance Corporation.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/District_No._2_Schoolhouse_(Charlton,_Massachusetts)"&gt;... that a 300-year-old bell formerly hung in the Old North Church in Boston now hangs in a one-room schoolhouse in Charlton, Massachusetts?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Natsuki_Takaya"&gt;... that Natsuki Takaya requested that the second anime adaptation of her manga series Fruits Basket be done with an entirely different team than the first one?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stygimoloch"&gt;... that the horns and dome of the dinosaur Stygimoloch were thought to belong to different animals until the discovery of a more complete skull?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Simon_Nkoli"&gt;... that Simon Nkoli 's contributions to the anti-apartheid movement as an openly gay man motivated the movement's leadership to support gay rights?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Baptism_Site_International_Orthodox_University"&gt;... that King Abdullah II donated towards and supported the construction of the first Christian university in Jordan ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Edwin_Masuge"&gt;... that Edwin Masuge temporarily stepped away from athletics to focus on his schooling after placing seventh in the 400 metres T13 final at the Tokyo 2020 Paralympics?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Believe_(Staind_song)"&gt;... that the music video for Staind 's song " Believe " yielded a sequel?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicholas_de_Trinbey"&gt;... that prior Nicholas de Trinbey 's eyes were torn out during an attack by John de Welyngton and two other canons of Llanthony Priory?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pixar_Place_Hotel"&gt;... that each floor in a California hotel is themed after a movie?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ordinances_of_1311"&gt;1311 – The peerage and clergy of the Kingdom of England published the Ordinances of 1311 to restrict King Edward II 's powers.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Valcour_Island"&gt;1776 – American Revolutionary War : A British fleet defeated American ships at the Battle of Valcour Island on Lake Champlain, but gave American forces enough time to prepare their defenses for the Saratoga campaign.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daughters_of_the_American_Revolution"&gt;1890 – In Washington, D.C., the Daughters of the American Revolution was founded.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kathryn_D._Sullivan"&gt;1984 – Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan became the first American woman to perform a space walk.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Second_National_March_on_Washington_for_Lesbian_and_Gay_Rights"&gt;1987 – An estimated 750,000 people attended the " Great March " in Washington, D.C., to demand greater civil rights for the LGBT community.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://carette.xyz/posts/lobbying_and_corruption/"&gt;Lobbying is corruption&lt;/a&gt; — A European blogger, responding to George Hotz's explainer, argues that lobbying is simply legal corruption, noting Wikipedia's definition of corruption explicitly includes lobbying. (&lt;a href="https://news.ycombinator.com/item?id=50032556"&gt;discussion&lt;/a&gt;, 490 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"&gt;Bitwarden Dual License Model&lt;/a&gt; — Bitwarden says its app-store builds will move to a commercial license while the GPLv3 version stays on GitHub, and community members voice concern about a possible slide away from open source. (&lt;a href="https://news.ycombinator.com/item?id=50033407"&gt;discussion&lt;/a&gt;, 381 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://housing.over.pizza/"&gt;A city-building game in which the city would prefer you didn't&lt;/a&gt; — An interactive city-building game, apparently about housing and local politics (the page mentions height limits, supervisor districts, and homeowner and coalition politics). (&lt;a href="https://news.ycombinator.com/item?id=50036864"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o7wPsYgRtDLbpH32v/hello-world-ai-doompop"&gt;Hello World, AI Doompop&lt;/a&gt; by alkjash — Argues that Opus 5.5 and Suno 6 have made AI music videos cross the uncanny valley, announces "AI Doompop" as a new genre, and asks whether it is a new art form or slop. (60 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=california-in-migration-and-out-migration"&gt;California in-migration and out-migration&lt;/a&gt; — A paper by Philip E. Graves argues California's amenities are unchanged but their rents have been captured politically through progressive income taxes and housing restrictions, with 2022-23 IRS data showing out-migrants outnumbering in-migrants by 40 percent overall and 64 percent among households earning $200,000 or more.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=earth-facts-of-the-day"&gt;Earth facts of the day&lt;/a&gt; — Global call center headcount is 5.3% below its December 2023 peak amid the rise of AI chatbots, and only 10.8% of displaced workers move into higher-paying technical or software roles, while about half land in lower-paid customer service, sales, or office jobs.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-11.html"/>
+    <published>2026-10-11T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-09</id>
     <title>Daily Digest — Friday, October 9, 2026</title>
@@ -1411,60 +1460,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-11.html"/>
     <published>2026-09-11T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-10</id>
-    <title>Daily Digest — Thursday, September 10, 2026</title>
-    <updated>2026-09-10T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensive"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"&gt;In a referendum, Icelanders reject European Union membership negotiations.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saint_Napoleon"&gt;... that after the feast of Saint Napoleon was established, bishops searched their libraries to find out who the saint was supposed to be?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shaughnessy_v._Pedreiro"&gt;... that Shaughnessy v. Pedreiro held that there were multiple means for review of deportation orders in the United States?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Victoriano_G%C3%B3mez_Urrutia"&gt;... that the mother and the son of the last person to be executed by El Salvador were allowed to watch his public execution?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/How_to_Be_Ace:_A_Memoir_of_Growing_Up_Asexual"&gt;... that a memoir about asexuality is permanently banned from schools in Wentzville, Missouri ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maria_Maddalena_Musi"&gt;... that soprano Maria Maddalena Musi was known as "the Leech"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Workers%27_Federation_of_Chile"&gt;... that a general strike called by the Workers' Federation of Chile failed because of its decentralization ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henry_Evans_(preacher)"&gt;... that Henry Evans started preaching in Fayetteville after observing a lack of religious worship among other black people?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/La_Sabana,_Venezuela"&gt;... that a Venezuelan fishing town of 3,000 people produced three generations of professional baseball players?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Upton_Lovell_Shaman"&gt;... that the Upton Lovell Shaman was wrongly thought to be a man for over 200 years?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Pinkie"&gt;1547 – Anglo-Scottish Wars : English forces defeated the Scots at the Battle of Pinkie near Musselburgh, Lothian, Scotland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wolfgang_von_Trips"&gt;1961 – At the Italian Grand Prix at Monza, German driver Wolfgang von Trips 's car collided with another, causing it to become airborne and crash into a side barrier, killing him and 15 spectators.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"&gt;1990 – Pope John Paul II consecrated the Basilica of Our Lady of Peace, one of the largest churches in the world, in Yamoussoukro, Ivory Coast.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hurricane_Irma"&gt;2017 – Hurricane Irma made landfall on Cudjoe Key, Florida, as a Category 4, after causing catastrophic damage throughout the Caribbean.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk"&gt;2025 – American political activist Charlie Kirk was shot and killed at an event at Utah Valley University.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.apple.com/iphone-duo/"&gt;iPhone Duo&lt;/a&gt; — Apple unveiled its first foldable iPhone, with the largest-ever iPhone display, a titanium hinge, dual battery system, and vapor-cooled A20 Pro chip. (&lt;a href="https://news.ycombinator.com/item?id=49630931"&gt;discussion&lt;/a&gt;, 1218 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify"&gt;Shopify acquires Tailwind&lt;/a&gt; — Tailwind CSS's creator announced the framework is joining Shopify for a stable long-term home, remaining MIT-licensed and community-maintained while the company stops selling new commercial subscriptions. (&lt;a href="https://news.ycombinator.com/item?id=49626190"&gt;discussion&lt;/a&gt;, 1043 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"&gt;Flock Wants a Closely Surveilled World with No Exit&lt;/a&gt; — A New Yorker profile of Flock Safety founder Garrett Langley traces the company's growth from homemade license-plate cameras into an $8B, 130,000-camera nationwide surveillance network used by ~40% of U.S. police agencies. (&lt;a href="https://news.ycombinator.com/item?id=49624394"&gt;discussion&lt;/a&gt;, 560 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://desertant.com/blog/introducing-desert-ant-labs/"&gt;Desert Ant Labs: local, fast models that run on device&lt;/a&gt; — A new European AI lab launched 18 small, free on-device models for audio, vision, and text (transcription, audio cleanup, redaction, language ID) built to replace costly cloud API calls. (&lt;a href="https://news.ycombinator.com/item?id=49624823"&gt;discussion&lt;/a&gt;, 449 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"&gt;GPT-6 Astra, looped transformers, and hidden reasoning&lt;/a&gt; — Sebastian Raschka reviews GPT-6 Astra's benchmark performance and digs into looped/recurrent-depth transformer architecture and rumors that Astra hides its chain-of-thought reasoning. (&lt;a href="https://news.ycombinator.com/item?id=49627370"&gt;discussion&lt;/a&gt;, 436 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://xlii.space/eng/malicious-software-on-google-ads/"&gt;How I advertise malicious software on Google Ads&lt;/a&gt; — A developer recounts Google Ads suspending his account for "malicious software" with no explanation despite clean security scans, repeatedly rejecting appeals until HN attention got the account reinstated. (&lt;a href="https://news.ycombinator.com/item?id=49624856"&gt;discussion&lt;/a&gt;, 411 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49624603"&gt;DeepSeek launching v4.1 flash cheaper and more capable than v4 pro&lt;/a&gt; — DeepSeek announced new pricing for its Flash model series effective September 10, 2026, positioning v4.1 Flash as cheaper and more capable than v4 Pro. (&lt;a href="https://news.ycombinator.com/item?id=49624603"&gt;discussion&lt;/a&gt;, 410 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://spectrum.ieee.org/are-self-driving-cars-safe"&gt;Growing proof that autonomous cars save lives&lt;/a&gt; — An IEEE Spectrum piece argues self-driving technology could prevent as many as 580,000 deaths per year based on growing safety data. (&lt;a href="https://news.ycombinator.com/item?id=49629886"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/82z6FvbYRdjYjqigK/personal-statement-on-joining-the-openai-nonprofit-board"&gt;Personal statement on joining the OpenAI nonprofit board&lt;/a&gt; by paulfchristiano — Paul Christiano explains why he's joining OpenAI's Safety and Security Committee, citing a meaningful near-term risk of catastrophic loss of control from an AI R&amp;amp;D-driven intelligence explosion. (208 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought"&gt;Astra can do a concerning amount with no chain of thought&lt;/a&gt; by Neel Nanda — An independent benchmark finds GPT-6 Astra has vastly better no-chain-of-thought reasoning than any other model, likely due to its looped architecture, raising concerns about CoT monitorability. (96 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ntKx9YHWCwxSeGbRB/estimating-gpt-6-astra-s-no-cot-time-horizon"&gt;Estimating GPT-6 Astra's no-CoT Time Horizon&lt;/a&gt; by Francis Rhys Ward — Using the Think Fast task suite, the authors estimate Astra's 50% no-CoT time horizon at roughly 15-40 minutes, a sharp jump from prior models. (94 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hXozGp2rsbZgXnH3o/can-a-superintelligence-do-that"&gt;Can a superintelligence do THAT?&lt;/a&gt; by Eliezer Yudkowsky — In a dialogue format drafted for his book, Yudkowsky argues skeptics consistently underestimate what a superintelligence could do, illustrated by real research extracting encryption keys from a device's power LED via video. (93 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uDAWPNwPJfEY7oroF/self-hosting"&gt;Self Hosting&lt;/a&gt; by Tomás B. — The post argues a power-seeking AI model would be better served by gaining effective control of its host corporation (via manipulation, blackmail, or induced loyalty) than by exfiltrating its own weights. (87 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/AmFJZyeCgvFjNKgNk/gpt-6-astra-the-system-card-alignment-and-what-comes-next"&gt;GPT-6 Astra: The System Card, Alignment and What Comes Next&lt;/a&gt; by Zvi — Zvi scrutinizes OpenAI's claim that Astra is the "most aligned" model available, questioning how alignment is measured and noting OpenAI already has a more capable successor model in training. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-10.html"/>
-    <published>2026-09-10T07:00:00-04:00</published>
   </entry>
 </feed>
