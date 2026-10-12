@@ -2,13 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-11T10:30:35.153686+00:00</updated>
+  <updated>2026-10-12T10:30:34.993449+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-12</id>
+    <title>Daily Digest — Monday, October 12, 2026</title>
+    <updated>2026-10-12T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_Arabia_airports"&gt;The Houthis launch a series of attacks on King Khalid International Airport in Riyadh, Saudi Arabia, resulting in 15 deaths and the suspension of airport operations.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henri_B._Kagan"&gt;Henri B. Kagan and Kensō Soai are awarded the Nobel Prize in Chemistry for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Erin_Scavino"&gt;... that Erin Scavino has said that she can get ambassadors fired through art?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Escape_from_Ever_After"&gt;... that critics compared Escape from Ever After to the Paper Mario series?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pete_Pedro"&gt;... that Pete Pedro, known as the "Flying Fragment", led U.S. college football in touchdowns ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Southbridge_Municipal_Airport"&gt;... that more than half of the airplanes at Southbridge Municipal Airport were destroyed when a tornado passed through in 2011?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marvin_Leonard_Colker"&gt;... that Marvin Leonard Colker spent 30 years creating the first catalogue of Trinity College Dublin 's medieval Latin manuscripts?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Han_Ji-pyeong"&gt;... that the South Korean TV character Han Ji-pyeong was praised for breaking negative stereotypes of orphans in Korean dramas who age out of foster care?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arthur_Osver"&gt;... that the Museum of Modern Art purchased Arthur Osver 's Melancholy of a Rooftop after he solicited them to view his paintings?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Regional_Workers%27_Federation_of_Chile"&gt;... that the Regional Workers' Federation of Chile made anarchism a national force?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cedar_Rock_State_Park"&gt;... that the Lowell E. Walter House has a garden in the floor of its living room?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chen_Yanxiang"&gt;1406 – Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reached Seoul after having set out from Java four months before.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peasants%27_War_(1798)"&gt;1798 – The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Battle_of_Passchendaele"&gt;1917 – First World War : New Zealand troops suffered more than 2,000 casualties, including more than 800 deaths, in the First Battle of Passchendaele, making it the nation's largest loss of life in one day.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Typhoon_Tip"&gt;1979 – Typhoon Tip, the largest and most intense tropical cyclone ever recorded, reached a worldwide record-low sea-level pressure of 870 mbar (25.69 inHg ) in the western Pacific Ocean.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Collapse_of_the_Space_Building"&gt;2013 – Twelve people were killed in an apartment-building collapse in Medellín, leading to new construction laws being passed in Colombia.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"&gt;Passkeys are a trap&lt;/a&gt; — Argues that passkeys, designed by the FIDO Alliance (which has no consumer advocacy members), give websites a hidden dial to gradually remove users' control over their own credentials, despite being more secure than passwords. (&lt;a href="https://news.ycombinator.com/item?id=50048312"&gt;discussion&lt;/a&gt;, 645 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nanolathe.gg"&gt;Total Annihilation, rebuilt for modern computers&lt;/a&gt; — A modern rebuild of the classic RTS Total Annihilation that lets you zoom in on units and the action at a new scale. (&lt;a href="https://news.ycombinator.com/item?id=50045984"&gt;discussion&lt;/a&gt;, 522 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nyc.gov/main/click-to-cancel"&gt;NYC's "Click to Cancel" rule is now in effect&lt;/a&gt; — As of October 1, 2026, NYC businesses must let you cancel subscriptions the same way you signed up, with civil penalties starting at $525 and a complaint process via the DCWP. (&lt;a href="https://news.ycombinator.com/item?id=50045946"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/karpathy/status/2109361546505966046"&gt;The gap in shared understanding of LLM capability is widening&lt;/a&gt; — Karpathy describes a funnel from ~6B people barely touching LLMs to ~20M professionals in math and code seeing agents complete weeks-long projects, down to ~5,000 with frontier internal access. (&lt;a href="https://news.ycombinator.com/item?id=50047422"&gt;discussion&lt;/a&gt;, 472 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nitter.net"&gt;Nitter: Update Oct 10th seeking funding and legal help&lt;/a&gt; — After cease-and-desist letters from X Corp., the maintainer says earlier assurances of legal representation proved untrue and is now seeking funding and legal help. (&lt;a href="https://news.ycombinator.com/item?id=50041682"&gt;discussion&lt;/a&gt;, 455 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"&gt;Google told to halt work on datacentres in Finland over environmental concerns&lt;/a&gt; — Finland's LVV ordered a suspension at two sites in Muhos and Kajaani after Google cleared hundreds of hectares of forest before completing environmental impact assessments. (&lt;a href="https://news.ycombinator.com/item?id=50048638"&gt;discussion&lt;/a&gt;, 427 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"&gt;Terence Tao: Math 2.0 [pdf]&lt;/a&gt; — Slides from a Caltech talk by Terence Tao on "Math 2.0" (the article text couldn't be fetched, so no further detail). (&lt;a href="https://news.ycombinator.com/item?id=50043026"&gt;discussion&lt;/a&gt;, 410 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"&gt;Documents add to evidence in climate deception case against ExxonMobil&lt;/a&gt; — Newly released filings in Massachusetts' 2019 lawsuit include a 1988 internal Exxon memo warning of negative impacts from greenhouse gas action, plus scientists questioning the company's climate-solution claims. (&lt;a href="https://news.ycombinator.com/item?id=50043682"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"&gt;I paid people to try and follow my README&lt;/a&gt; — The author paid volunteers €25 each to think aloud while following the ActivityBot README, uncovering wrong links, confusing ordering, and unexplained terms that made the docs measurably better. (&lt;a href="https://news.ycombinator.com/item?id=50042219"&gt;discussion&lt;/a&gt;, 394 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://royfish.dev/fingerprints-are-the-new-cookies"&gt;Fingerprints are the new cookies&lt;/a&gt; — Argues that device fingerprinting is replacing third-party cookies as an ad-tracking mechanism, tracing Google's retreat from its cookie-deprecation pledge. (&lt;a href="https://news.ycombinator.com/item?id=50048642"&gt;discussion&lt;/a&gt;, 392 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"&gt;I'm sorry, but you still have to think&lt;/a&gt; — Examines DHH's AI-driven rewrites of Campfire in Rust, Elixir, and Go, arguing that underspecified prompts turn many design decisions into coin flips and that the resulting code has real problems like blocking calls in async tasks. (&lt;a href="https://news.ycombinator.com/item?id=50043689"&gt;discussion&lt;/a&gt;, 383 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-economics-of-agents"&gt;The economics of agents&lt;/a&gt; — Tyler Cowen speculates that consumer-side personal agents will reduce firms' advantage from bounded rationality, undermine some price discrimination and cross-subsidies, and act as a structural subsidy for product quality.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-should-i-ask-fuchsia-dunlop-2"&gt;What should I ask Fuchsia Dunlop?&lt;/a&gt; — Tyler Cowen is preparing a fourth Conversation with Fuchsia Dunlop, based partly on her forthcoming book Five Tastes, and asks readers for question suggestions.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=sky-roomba"&gt;Sky Roomba!&lt;/a&gt; — Alex Tabarrok bought a robot window cleaner that cost less than a single professional cleaning, and argues this is an efficiency gain rather than a lost job since he wouldn't have paid the human price.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-12.html"/>
+    <published>2026-10-12T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-11</id>
     <title>Daily Digest — Sunday, October 11, 2026</title>
@@ -1405,60 +1459,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-12.html"/>
     <published>2026-09-12T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-11</id>
-    <title>Daily Digest — Friday, September 11, 2026</title>
-    <updated>2026-09-11T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Akhisar-class_torpedo_boat"&gt;... that the Ottoman Navy procured the Akhisar -, Antalya -, and Demirhisar -class torpedo boats from foreign countries as a diplomatic measure, instead of ordering warships for their capabilities?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tommy_Parks"&gt;... that a 32-year-old NFL rookie lied about his age in 2001?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Greek_constitutional_amendment_of_1986"&gt;... that the 1986 Greek constitutional amendment elevated the prime minister into a "parliamentary autocrat" by stripping away most powers of the president?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conon_(Byzantine_general)"&gt;... that Byzantine commander Conon was killed by his own soldiers because he was accused of trafficking and profiteering of their food supplies?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1936_Liechtenstein_general_election"&gt;... that, in the 1936 Liechtenstein general election, the Patriotic Union received over 40% of the vote, but won only four of the fifteen seats?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nekomata_Okayu"&gt;... that VTuber Nekomata Okayu stars in two romantic visual novels?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Florida_State_Road_370"&gt;... that the Gulf Coast Parkway, intended to supplement the storm surge -prone U.S. Route 98, was only built along roughly 2 miles (3.2 km) of its planned 36 (58 km)?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Oscar_Wiggli"&gt;... that Swiss sculptor Oscar Wiggli used the sound of hammer blows in his electroacoustic compositions?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jerk_off_instruction"&gt;... that jerk off instruction content has been described as "a masturbatory trance experience"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Staten_Island_Peace_Conference"&gt;1776 – British and American leaders held a peace conference on Staten Island, New York, in the hopes of bringing an end to the nascent American Revolutionary War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexander_Hamilton"&gt;1789 – Alexander Hamilton, co-writer of The Federalist Papers, became the first U.S. Secretary of the Treasury.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Christiana_Riot"&gt;1851 – In a fight near Christiana, Pennsylvania, a group of escaped slaves and free Blacks led by William Parker fought off a federal posse seeking to arrest and return the escapees to slavery.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Batu_Lintang_camp"&gt;1945 – The Japanese -run camp at Batu Lintang in Borneo was liberated by the Australian 9th Division, averting the planned massacre of its 2,000-plus Allied POWs and civilian internees by four days.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jair_Bolsonaro"&gt;2025 – Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://shopify.engineering/back-to-native"&gt;Shopify is moving from React Native back to Swift and Kotlin&lt;/a&gt; — Shopify says coding agents have made building the same feature natively on iOS and Android no longer double the work it was in 2020, so it's reversing its 2020 bet on React Native in favor of native Swift/Kotlin. (&lt;a href="https://news.ycombinator.com/item?id=49643982"&gt;discussion&lt;/a&gt;, 1078 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"&gt;Rust is tier-1 language at Microsoft&lt;/a&gt; — Microsoft has elevated Rust to the same "Tier-1" engineering status as C++, C#, and TypeScript, and is building &lt;code&gt;rustc_codegen_utc&lt;/code&gt;, a new rustc backend that plugs Rust into the MSVC toolchain for deep Windows interop, security hardening, and tooling. (&lt;a href="https://news.ycombinator.com/item?id=49643546"&gt;discussion&lt;/a&gt;, 679 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/"&gt;Don't let anyone take away your big box of cables&lt;/a&gt; — A blogger recounts finally needing two cables he'd kept "just in case" for over a decade, and turns it into a lighthearted defense of hoarding household cable boxes. (&lt;a href="https://news.ycombinator.com/item?id=49645393"&gt;discussion&lt;/a&gt;, 542 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49643556"&gt;Tell HN: OpenAI keeps re-enabling the 'allow training' setting&lt;/a&gt; — A user reports that OpenAI's "allow training on my data" setting keeps switching back on after being disabled, urging others to double-check it periodically. (&lt;a href="https://news.ycombinator.com/item?id=49643556"&gt;discussion&lt;/a&gt;, 456 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://graybeard.ing/software-drives-people-insane/"&gt;I have a theory that software drives people insane&lt;/a&gt; — The author argues that software's near-zero friction between idea and implementation—unlike physical construction—tricks teams into treating every "quick" change as costless, breeding urgency, scope creep, and dysfunction. (&lt;a href="https://news.ycombinator.com/item?id=49646181"&gt;discussion&lt;/a&gt;, 441 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cognition.com/blog/swe-2"&gt;Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra&lt;/a&gt; — Cognition's new coding model SWE-2 scores near Fable 5.1 on FrontierCode 1.1 at a fraction of the cost, thanks to an RL approach that trains all reasoning-effort levels together and pushes the model toward more focused, less over-exploratory code edits. (&lt;a href="https://news.ycombinator.com/item?id=49645443"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit"&gt;List of references on Sony websites to players "owning" their digital games&lt;/a&gt; — A wiki tracks a California class-action lawsuit alleging Sony's PlayStation Store misleads buyers with "Buy Now"/"Confirm Purchase" language when digital games are actually only a revocable license, with a hearing scheduled for October 1, 2026. (&lt;a href="https://news.ycombinator.com/item?id=49642531"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/y9TNHfgDwh6vw7Ert/the-locally-optimal-discursive-posture"&gt;The Locally Optimal Discursive Posture&lt;/a&gt; by deanball — The author responds to criticism that an earlier essay on "self-sovereign" AI agents understated the risks for the sake of political palatability, defending his rhetorical choices as judgment calls rather than integrity failures. (128 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on"&gt;Proposal for tracking the effects of architecture on monitorability&lt;/a&gt; by ryan_greenblatt — The post proposes that AI companies regularly disclose externally-verified measures of "opaque serial depth" and other architecture details so outsiders can track how new model designs might erode chain-of-thought monitorability. (125 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/pDyLMRoi2BDq34rFe/doom-as-a-bad-method-not-a-utopia-trade-off"&gt;Doom as a bad method not a utopia trade-off&lt;/a&gt; by KatjaGrace — The author argues it's a mistake to net P(doom) against P(utopia) as if they trade off, since the real comparison should be between risky and safer routes to advanced AI, not between good and bad outcomes of the same risky route. (95 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uvhuZHFtrgk8kNiZc/astra-is-much-better-at-reasoning-with-filler-tokens-than"&gt;Astra is much better at reasoning with filler tokens than previous models&lt;/a&gt; by Dylan Xu — Experiments show GPT-6-Astra performs far better on multi-hop reasoning and math tasks when given meaningless filler tokens instead of visible reasoning, suggesting it can do substantial cognition that isn't verbalized in its chain-of-thought. (83 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"&gt;An operationalization of opaque serial depth&lt;/a&gt; by ryan_greenblatt — This post formally defines "NLS depth," a measure of how much unverbalized serial computation a model architecture permits, intended as a practical complement to broader efforts to track chain-of-thought monitorability. (70 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/JfJ4WTRHmooPBWRFv/the-geometry-of-nonergodic-composition"&gt;The Geometry of Nonergodic Composition&lt;/a&gt; by Adam Shai — The authors show that because LLM training data mixes many distinct generative sources ("nonergodicity"), transformers build a predictable telescoping geometric structure in their activations that scales with how strongly context supports each source. (68 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xPkmfsZ3qx4nrAco7/categorical-taboos-are-much-better-than-threshold-taboos"&gt;Categorical taboos are much better than threshold taboos: neuralese edition&lt;/a&gt; by Linch — The author argues that defining "true neuralese" by a categorical rule (any recurrence outside natural language) is more enforceable than the threshold-based definition (a number of opaque serial steps) that most labs currently favor. (60 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HGhrDWJngx2LX9TkF/so-where-s-this-ai-thing-going"&gt;So where's this AI thing going?&lt;/a&gt; by Seth Herd — A public-facing FAQ-style explainer lays out the author's view that AI is heading toward transformative, potentially existential-stakes capability, and seeks feedback on communicating this honestly without alienating readers. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-11.html"/>
-    <published>2026-09-11T07:00:00-04:00</published>
   </entry>
 </feed>
