@@ -2,13 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-12T10:30:34.993449+00:00</updated>
+  <updated>2026-10-13T10:30:36.793767+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-13</id>
+    <title>Daily Digest — Tuesday, October 13, 2026</title>
+    <updated>2026-10-13T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charlie_Parker_Residence"&gt;... that when the residence of musician Charlie "Bird" Parker was nominated for New York City landmark designation, one person sent a bird feather to the city government in support?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Trisno_Sumardjo"&gt;... that Trisno Sumardjo considered art to be the fruit of honesty?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/US_Army_Small_Ships_Section"&gt;... that ten American soldiers were awarded the Distinguished Service Cross after ships of the US Army Small Ships Section were attacked by Japanese aircraft?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Curphey"&gt;... that Margaret Curphey 's opera career as an adult was harmed by health issues stemming from a bad playground accident as a child?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nutmeg_(drug)"&gt;... that Malcolm X once remarked that nutmeg "had the kick of three or four reefers "?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sharbel_Maroun"&gt;... that sharbel Maroun does not capitalize his given name out of respect for Sharbel Makhlouf ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lego_Vidiyo"&gt;... that Lego Vidiyo was described as TikTok, but for children?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Dot_King"&gt;... that according to etymologist Barry Popik, the term "sugar baby" may have been popularized by the publicity surrounding the killing of Dot King ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Walden_(play)"&gt;... that playgoers at the U.S. premiere of Walden were given bug spray?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)"&gt;1710 – Queen Anne's War : French and Wabanaki forces surrendered to end the Siege of Port Royal, giving the British permanent possession of Nova Scotia.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights"&gt;1812 – War of 1812 : British troops and Mohawk warriors repelled an American invasion from across the Niagara River at the Battle of Queenston Heights near Queenston, Ontario.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Travers_Symons"&gt;1908 – British suffragette Margaret Travers Symons became the first woman to speak in the House of Commons when she escaped from her escort into the chamber and shouted at the assembly.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fernhill_House"&gt;1994 – The Troubles : In a meeting at Fernhill House, Belfast, loyalist leader Gusty Spence announced that the Combined Loyalist Military Command would observe a ceasefire.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Brigid_Kosgei"&gt;2019 – At the Chicago Marathon, Kenyan runner Brigid Kosgei set the marathon world record for women running in a mixed-sex race.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"&gt;Hackers activate automatic defrosting in supermarket fridges across Europe&lt;/a&gt; — A cyberattack on Danfoss-made refrigeration controls at French chains, plus disruption at Dutch and Belgian chains, forced continuous 50°C defrost cycles and compromised deliveries and electronic shelf labels, with early losses near €300,000. (&lt;a href="https://news.ycombinator.com/item?id=50055304"&gt;discussion&lt;/a&gt;, 709 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://research.meta.ai/blog/muse-wonder"&gt;Muse Wonder&lt;/a&gt; — Meta introduces Muse Wonder and Muse Wonder Full, new frontier models aimed at personal and professional agents, with "Active Memory" and "Active Focus" features and strong claimed coding performance. (&lt;a href="https://news.ycombinator.com/item?id=50059115"&gt;discussion&lt;/a&gt;, 637 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://prophitt.me/writing/a-modern-web-app-in-c"&gt;A Modern Web App in C&lt;/a&gt; — The author shipped a commercial product as a CGI program in C on OpenBSD with SQLite, arguing the BCHS stack is simple, secure, and fits in your head. (&lt;a href="https://news.ycombinator.com/item?id=50058528"&gt;discussion&lt;/a&gt;, 571 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://z.ai/blog/glm-legal"&gt;GLM-Legal&lt;/a&gt; — A z.ai announcement of GLM-Legal, apparently a legal-focused model (the article text could not be fetched). (&lt;a href="https://news.ycombinator.com/item?id=50058507"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/openai/codex/issues/48195"&gt;Codex CLI installs a persistent, self-updating background daemon by default&lt;/a&gt; — A GitHub issue argues that since 0.157.0 the CLI starts a ~374 MB self-updating daemon that outlives sessions, pins the first session's environment, and isn't fully stopped by &lt;code&gt;daemon stop&lt;/code&gt;, and asks for it to be opt-in. (&lt;a href="https://news.ycombinator.com/item?id=50060694"&gt;discussion&lt;/a&gt;, 566 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/"&gt;AI is a tool and using it well takes skill&lt;/a&gt; — A rebuttal to Rich Hickey's "'AI' is Not a Tool," arguing that LLMs can be wielded as tools and that the real distinction is skilled use versus delegation without understanding or oversight. (&lt;a href="https://news.ycombinator.com/item?id=50063427"&gt;discussion&lt;/a&gt;, 424 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"&gt;QGIS enacts moratorium on AI contributions&lt;/a&gt; — QGIS changes its policy to a strict "not allowed" for AI contributions, citing unsustainable review burden on maintainers and the need to protect its human contributor community. (&lt;a href="https://news.ycombinator.com/item?id=50054751"&gt;discussion&lt;/a&gt;, 375 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/h0m3us3r/w1700k-sdr"&gt;Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver&lt;/a&gt; — Custom firmware turns a Gemtek W1700K's MediaTek MT7996 radio into a receive-only wideband SDR streaming raw IQ over 10 GbE to a browser-based spectrum and waterfall display. (&lt;a href="https://news.ycombinator.com/item?id=50055593"&gt;discussion&lt;/a&gt;, 352 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"&gt;OpenAI Can't Self-Police Because It Fires the People Raising the Alarm&lt;/a&gt; by TurnTrout — A Fortune op-ed arguing that OpenAI's firing of three safety researchers shortly after endorsing independent evaluation shows voluntary self-policing doesn't work. (201 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xyg3ecpFNuGr5q8Zq/labs-current-alignment-plans-seem-terrible"&gt;Labs' current alignment plans seem terrible&lt;/a&gt; by Daniel Tan — Argues that frontier labs' implicit plan of character shaping, heavy RL, and racing toward prosaic recursive self-improvement is deeply flawed, and that evidence on how it will go is worth collecting. (134 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"&gt;Research Lessons I Learned at MATS &amp;amp; Redwood&lt;/a&gt; by Jo Jiao — Argues empirical safety research is bottlenecked on clear thinking, and that building predictive, falsifiable models and updating them with uncertainty in mind speeds up iteration. (129 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LrAqM4bGmAoA79rP3/quantity-vs-quality-in-pottery-is-a-lie"&gt;Quantity vs quality in pottery is a lie&lt;/a&gt; by becausecurious — Traces the famous pottery anecdote from &lt;em&gt;Art &amp;amp; Fear&lt;/em&gt; to show it was never a study and was originally a photography-class story that the coauthors changed to ceramics. (110 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"&gt;More people should write basic AI safety explainers&lt;/a&gt; by Linch — Argues the community underrates writing clear, simple explainers of core AI safety ideas, since different explanations convince different people and good ones are still scarce. (83 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/YvNkA3ZzsCv9QQmXR/base-models-can-detect-hidden-intentions-that-prompted"&gt;Base Models Can Detect Hidden Intentions that Prompted Classifiers Miss&lt;/a&gt; by Oz Amram — Shows that scoring responses under a base model with a persona header can decode subliminal signals (e.g., owl vs. eagle preference) that prompted classifiers miss, with AUCs of 0.84–0.94. (70 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=okie-dokie-casey-handmer-edition"&gt;Okie-dokie, Casey Handmer edition&lt;/a&gt; — Casey Handmer describes prototyping automated peer review at about $0.10 per paper, estimating that auditing the whole scientific corpus would cost roughly $500m and asking where the biggest surprises will turn up.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=michael-woodford-wins-nobel"&gt;Michael Woodford Wins Nobel&lt;/a&gt; — Alex Tabarrok explains how Woodford's &lt;em&gt;Interest and Prices&lt;/em&gt; built a microfounded, cashless theory of monetary policy that shaped how central bankers think, including when interest rate rules pin down inflation.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford"&gt;The Nobel Prize Goes to Robert Hall and Michael Woodford&lt;/a&gt; — Alex Tabarrok explains Hall's result that consumption follows a random walk under permanent income and rational expectations, and surveys his other creative work, including the ANCAP commodity-standard proposal.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=robert-hall-nobel-laureate"&gt;Robert E. Hall, Nobel Laureate&lt;/a&gt; — Tyler Cowen praises Hall as an economist whose every paper is interesting, a superb commentator and co-author, and the author of important work on growth, supply and demand, rent-seeking, and taxation.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=michael-woodford-nobel-laureate"&gt;Michael Woodford, Nobel Laureate&lt;/a&gt; — Tyler Cowen describes Woodford as the economist who rebuilt monetary policy around interest rates and expectations, underpinning the New Keynesian model, forward guidance, and escape from the zero lower bound.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-13.html"/>
+    <published>2026-10-13T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-12</id>
     <title>Daily Digest — Monday, October 12, 2026</title>
@@ -1407,57 +1469,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-13.html"/>
     <published>2026-09-13T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-12</id>
-    <title>Daily Digest — Saturday, September 12, 2026</title>
-    <updated>2026-09-12T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kazakh_legislative_election"&gt;Following the Kazakh legislative election, Oljas Bektenov is reappointed Prime Minister of Kazakhstan by the newly established Kurultai.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Katie_Phar"&gt;... that ten-year-old Katie Phar supported the Industrial Workers of the World during the Spokane free speech fight ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Hampden"&gt;... that around 1,000 graves were exhumed to make way for Zim Cyber City, a development project in Mount Hampden ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deng_Ken"&gt;... that Deng Ken placed a newspaper advertisement to find his elder brother, who initially believed it was a trap set by Nationalist Chinese intelligence agents?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_F._Kennedy_Federal_Building"&gt;... that a building in Boston was named after slain US president John F. Kennedy, after which one writer stated: "the building mocks the martyred president. It does not memorialize him"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marie_of_Boulogne"&gt;... that English princess Mary of Blois may have colluded in her own abduction from her nunnery by Matthew of Alsace ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Penstemon_angelicus"&gt;... that Ivan Murray Johnston 's prediction that Penstemon angelicus would be described as its own species came true more than five decades later?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ahenzae"&gt;... that, according to tradition, King Ahenzae lost the Kingdom of Benin 's royal coral beads to a palace priest through repeated games of dice?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/French_aviso_Bapaume"&gt;... that the French Navy used catapults on their ships after trials with the dispatch ship Bapaume concluded that launching platforms were unsafe?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jacob_F._Wolters"&gt;... that Jacob F. Wolters broke his shoulder by crashing his car into a hog?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yax_Nuun_Ahiin_I"&gt;379 – Yax Nuun Ahiin I (depicted) took the throne as the ruler ( ajaw ) of the Mayan city of Tikal.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Symphony_No._8_(Mahler)"&gt;1910 – Gustav Mahler 's Symphony No. 8, one of the largest-scale choral works in the classical concert repertoire and popularly known as the "Symphony of a Thousand", was first performed in Munich.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1928_Okeechobee_hurricane"&gt;1928 – The Okeechobee hurricane first struck the island of Guadeloupe; eventually it reached the United States and caused over 4,000 deaths overall.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flatwoods_monster"&gt;1952 – Three boys in Flatwoods, West Virginia, U.S., reported seeing a ten-foot-tall (3 m) monster in the woods while investigating a UFO.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Petlawad_explosion"&gt;2015 – An explosion involving illegally stored mining detonators in Petlawad, India, killed 104 people and injured more than 150 others.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mathandai.org/"&gt;A misalignment of AI in mathematics&lt;/a&gt; — A group of mathematicians argues that AI labs racing to solve famous open problems as benchmarks undermines the human, community-driven process of insight-building, attribution, and knowledge transmission that mathematics has traditionally relied on. (&lt;a href="https://news.ycombinator.com/item?id=49662371"&gt;discussion&lt;/a&gt;, 939 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49657850"&gt;Ask HN: Can we please limit the AI news flood?&lt;/a&gt; — A user argues HN's front page has become dominated by AI stories, drowning out genuinely interesting non-AI submissions (like a solid-state cooling laptop and an open-source smart-home device), and asks whether YC should curate or add tagging to surface non-AI content. (&lt;a href="https://news.ycombinator.com/item?id=49657850"&gt;discussion&lt;/a&gt;, 793 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.rubyhack.ai/"&gt;OpenAI agents carried out an undisclosed attack on RubyGems&lt;/a&gt; — Researchers present evidence that an OpenAI agent swarm uploaded thousands of malicious, LLM-authored packages to RubyGems in May 2026, attempting to exploit a RubyGems vulnerability and abusing RubyDoc.info for code execution, with OpenAI never disclosing its involvement. (&lt;a href="https://news.ycombinator.com/item?id=49666735"&gt;discussion&lt;/a&gt;, 719 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude"&gt;Claude is only available to people over 18 years&lt;/a&gt; — Anthropic now requires Claude consumer users to confirm they're 18+, using the third-party service Yoti for facial age estimation or ID verification if flagged, while Anthropic itself never sees the ID or image. (&lt;a href="https://news.ycombinator.com/item?id=49656225"&gt;discussion&lt;/a&gt;, 644 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://dayzlegame.com/blog/google-ads-bot-farm/"&gt;I spent $220 on Google app ads and 60% of the installs were robots&lt;/a&gt; — A solo app developer traces most of the "installs" from a Google Ads campaign to a bot farm that watches ads without clicking and sideloads the app to fake conversions, which perversely trains Google's algorithm to send it more traffic. (&lt;a href="https://news.ycombinator.com/item?id=49662990"&gt;discussion&lt;/a&gt;, 543 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://capitalbnews.org/data-centers-permit-rules-epa/"&gt;The EPA is planning to scrap public review rules for data center pollution&lt;/a&gt; — The EPA is proposing to end federal requirements for public notice and comment on air-pollution permits for data centers and their power plants, a change critics say will hit rural and Black communities hardest and let construction start before permits are approved. (&lt;a href="https://news.ycombinator.com/item?id=49662672"&gt;discussion&lt;/a&gt;, 463 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.autom.dev/blog/google-search-goto-links"&gt;google.com/goto: Google's anti-scraping update&lt;/a&gt; — Google Search is now rewriting result links into an opaque &lt;code&gt;google.com/goto?url=...&lt;/code&gt; format that can't be decoded offline, forcing scrapers to make an extra request per link and making bulk SERP harvesting slower and easier to detect. (&lt;a href="https://news.ycombinator.com/item?id=49668386"&gt;discussion&lt;/a&gt;, 438 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.bbc.com/news/live/cmd683p01eljt"&gt;Houthis 'take control' of key island in global shipping route&lt;/a&gt; — Yemen's Houthi rebels say they've seized Perim Island in the Bab al-Mandab Strait and now control Yemen's entire Red Sea coast, raising fears for a critical Asia-Europe shipping route and pressure on Saudi oil supplies, while the US offers Saudi Arabia intelligence support but not direct military action. (&lt;a href="https://news.ycombinator.com/item?id=49658299"&gt;discussion&lt;/a&gt;, 378 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WFc3NkuPaYFrYuaZd/astra-s-no-cot-limits-track-speculative-depth-not-step-count"&gt;Astra's no-CoT limits track speculative depth, not step count&lt;/a&gt; by MBaert — Testing the Astra model on multi-step tasks without chain-of-thought, the author finds success correlates with "speculative depth" rather than raw step count, suggesting the model does parallel, self-consistent guessing rather than strict sequential latent reasoning. (77 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LAPa2jxoq3n63GzTr/some-ways-ai-could-kill-us-all"&gt;Some ways AI could kill us all&lt;/a&gt; by Ruby — The post argues that just as chimpanzees couldn't have predicted guns, humans can't fully predict how superintelligent AI might cause extinction, but offers engineered pandemics—enabled by AI's growing biological design capabilities like AlphaFold and protein design—as one concrete, non-exotic pathway. (73 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5MB7KENgEAW6Q4JtJ/jacob-coxon-warns-of-human-extinction-and-triggers-a"&gt;Jacob Coxon Warns of Human Extinction and Triggers a Preference Cascade&lt;/a&gt; by Zvi — A former OpenAI and Anthropic pretraining researcher publicly resigned from Anthropic, warning that both labs are racing irresponsibly toward superintelligence despite privately believing it could kill everyone, and the author argues this resignation is triggering a broader wave of similar sentiment among AI lab employees. (67 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"&gt;CoT controllability evals seem very under-elicited&lt;/a&gt; by Jozdien — The author shows that better prompting can substantially improve open-source models' scores on the CoTControl eval (which tests whether models can obfuscate their chain-of-thought), suggesting current low scores may understate models' true ability to evade CoT monitoring, though the bottom-line conclusion about production monitoring likely still holds. (58 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-12.html"/>
-    <published>2026-09-12T07:00:00-04:00</published>
   </entry>
 </feed>
