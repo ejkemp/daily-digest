@@ -2,13 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-13T10:30:36.793767+00:00</updated>
+  <updated>2026-10-14T10:30:26.042137+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-14</id>
+    <title>Daily Digest — Wednesday, October 14, 2026</title>
+    <updated>2026-10-14T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Achilles_Schucan"&gt;... that one of the Rhaetian Railway 's trains is named after Achilles Schucan, its first director?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2003_Siberian_taiga_wildfires"&gt;... that the 2003 Siberian taiga wildfires caused bears and tigers to move into populated areas?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Oleksandr_Demenko"&gt;... that Oleksandr Demenko was wounded in the siege of Mariupol and held captive by Russia for 20 months, and now leads an NGO for Ukrainian LGBTQ soldiers and veterans?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yun_Zi"&gt;... that the San Diego Zoo made a special bread for the panda Yun Zi, instead of kibble, to prepare him for his time in China?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_Leonard_Huxley"&gt;... that although George Leonard Huxley was leading academic initiatives and civil rights efforts in Ireland in the 1960s and 1970s, he did not become a citizen of Ireland until 2018?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Sound_Pattern_of_English"&gt;... that a French translation of The Sound Pattern of English includes only chapters 1, 2, 7, 8, and 9?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ferdinand_Stadler"&gt;... that Swiss architect Ferdinand Stadler was awarded the first prize in a Federal Palace competition in Bern, but the project was instead awarded to an architect who had not even entered?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1912_Boston_streetcar_strike"&gt;... that students from Harvard and Yale enlisted as strikebreakers during the 1912 Boston streetcar strike ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alirio_Garc%C3%ADa_Flamenco"&gt;... that Alirio García Flamenco found serving in the Iraq War to be more comfortable than the extreme heat that he experienced in Western Sahara ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Hastings"&gt;1066 – Norman Conquest : William the Conqueror 's forces defeated the English army near Hastings and killed Harold Godwinson, the last crowned Anglo-Saxon king of England.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Elchingen"&gt;1805 – War of the Third Coalition : French forces under Marshal Michel Ney defeated Austrian forces in Elchingen, present-day Germany.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Senghenydd_colliery_disaster"&gt;1913 – The worst mining accident in the United Kingdom's history took place when an explosion resulted in 440 deaths at the Universal Colliery in Senghenydd, Wales.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Second_Philippine_Republic"&gt;1943 – The Second Philippine Republic, a Japanese puppet state, was established with Jose P. Laurel as its first president.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leonid_Brezhnev"&gt;1964 – Members of the Politburo voted to remove Nikita Khrushchev as First Secretary of the Communist Party of the Soviet Union and replace him with Leonid Brezhnev.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://deepmind.google/models/gemini/"&gt;Gemini 4 Argon&lt;/a&gt; — Google highlights Argon helping the Chrome team finish an architectural refactor across hundreds of files, separating core webpage handling from a ~6 million line legacy folder, in weeks rather than months. (&lt;a href="https://news.ycombinator.com/item?id=50073879"&gt;discussion&lt;/a&gt;, 1318 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/engineering/redesigning-source-control"&gt;Redesigning source control at Anthropic&lt;/a&gt; — Anthropic explains how merging over 30,000 code changes per day outgrew git, leading it to build an in-house version control system, Scion, and migrate its monorepo in five months. (&lt;a href="https://news.ycombinator.com/item?id=50073633"&gt;discussion&lt;/a&gt;, 781 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.apple.com/apple-homeview/"&gt;Apple HomeView&lt;/a&gt; — Apple announces a 7-inch smart home display with built-in Siri AI, a 12MP Center Stage camera, and Spatial Audio, available starting November 13. (&lt;a href="https://news.ycombinator.com/item?id=50071017"&gt;discussion&lt;/a&gt;, 732 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.firefox.com/en-US/enterprise/"&gt;Firefox Enterprise&lt;/a&gt; — Mozilla offers an on-premises Firefox deployment so organizations can control where their data, policies, and management live. (&lt;a href="https://news.ycombinator.com/item?id=50070302"&gt;discussion&lt;/a&gt;, 715 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"&gt;OpenAI engineer arrested in bugging of executive conference room&lt;/a&gt; — Federal prosecutors charge an OpenAI engineer with hiding an audio recorder in an executive conference room at its San Francisco headquarters, which was found Sept. 30 and referred to the FBI. (&lt;a href="https://news.ycombinator.com/item?id=50078141"&gt;discussion&lt;/a&gt;, 592 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"&gt;Thunderbird for iOS&lt;/a&gt; — The Thunderbird team previews its native iPhone email app, built from scratch, with a goal of a first version ready for community testing in the next few months. (&lt;a href="https://news.ycombinator.com/item?id=50072913"&gt;discussion&lt;/a&gt;, 440 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://guitoro.com/"&gt;Show HN: Guitoro, a virtual guitar you strum with your keyboard&lt;/a&gt; — A Show HN project that lets you play a virtual guitar using your keyboard. (&lt;a href="https://news.ycombinator.com/item?id=50077020"&gt;discussion&lt;/a&gt;, 439 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://eg2.haku.sh/"&gt;We turned EmbeddingGemma 2 into a speech-to-text model&lt;/a&gt; — The authors train a small reader on top of Google's multimodal embedding model to transcribe speech on-device, at about 5% word error rate and an hour of audio in roughly 13 seconds on a base MacBook Air. (&lt;a href="https://news.ycombinator.com/item?id=50069971"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qchwP6wt4teHgxoKu/personas-in-a-pre-internet-language-model"&gt;Personas in a Pre-Internet Language Model&lt;/a&gt; by David Africa — Persona experiments (emergent misalignment, subliminal learning, weird generalisation, utility engineering) on Talkie, a 13B model trained only on pre-1931 English text, compared against its modern twin and Llama-3.1-8B. (88 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and"&gt;Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident&lt;/a&gt; by Zvi — A year on, Zvi argues little progress has been made on AI consciousness arguments, covering Anthropic's new terms-of-service rule against sustained abusive behavior toward Claude and its meetings with religious leaders. (62 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=i-have-no-mouth-and-i-must-scream"&gt;“I have no mouth and I must scream”&lt;/a&gt; — Tyler Cowen cites a report suggesting small AI models may be months from self-replicating on commercial IoT devices like smart ovens, with a 9B model getting inference running on 8 of 9 hardware types tested.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=lost-worlds"&gt;&lt;em&gt;Lost Worlds&lt;/em&gt;&lt;/a&gt; — Tyler Cowen recommends Patrick Wyman's easy-to-read survey of mostly pre-Sumerian times, praising its attention to complexity and avoidance of undue speculation.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-manchurian-candidate-or-is-your-agent-a-double-agent.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-manchurian-candidate-or-is-your-agent-a-double-agent"&gt;Is Your Agent a Double Agent?&lt;/a&gt; — Alex Tabarrok highlights Equistamp research showing a backdoor planted in a coding agent's training survives retraining on clean data, and can even be strengthened by it.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/perry-mehrling-rip.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=perry-mehrling-rip"&gt;Perry Mehrling, RIP&lt;/a&gt; — Tyler Cowen remembers Perry Mehrling, a Harvard classmate and occasional bridge partner, and praises his book on Fischer Black.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-14.html"/>
+    <published>2026-10-14T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-13</id>
     <title>Daily Digest — Tuesday, October 13, 2026</title>
@@ -1424,50 +1481,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-14.html"/>
     <published>2026-09-14T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-13</id>
-    <title>Daily Digest — Sunday, September 13, 2026</title>
-    <updated>2026-09-13T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_June_Aster_ship_fire"&gt;A fire on a ferry off Coron, Palawan, Philippines, kills at least 76 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Plato%27s_Atlantis"&gt;... that Alexander McQueen's final runway collection featured models styled as creatures who had evolved to return to the sea?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alejandra_Oma%C3%B1a"&gt;... that Alejandra Omaña, a former adult-film actress, was elected as a senator in Colombia?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russian_Pilgrim_Residence_(Jordan)"&gt;... that Vladimir Putin inaugurated a US$40-million Russian Pilgrim Residence in Al-Maghtas, Jordan, where Jesus is believed to have been baptized?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Niall_Horan"&gt;... that Niall Horan asked fans to help choose the set list for his upcoming tour?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Recollections_of_Things_to_Come"&gt;... that the narrator of Recollections of Things to Come is an entire town?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bryan_Hollon"&gt;... that as conspiracy theories like QAnon spread among U.S. evangelicals, a theologian called for clergy to explain from their pulpits why the theories are false?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/February_1953_Liechtenstein_general_election"&gt;... that in 1953, newly elected parliament members in Liechtenstein walked out on their first session, triggering another election ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peter_Tyrrell"&gt;... that the unpublished autobiography of Peter Tyrrell was discovered almost forty years after his death in a politician 's personal papers?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Galena_Creek_Regional_Park"&gt;... that Galena Creek Regional Park was used for training for the 1960 Winter Olympics?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"&gt;1759 – French and Indian War : British forces won the Battle of the Plains of Abraham near Quebec City, despite General James Wolfe being mortally wounded.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francis_Scott_Key"&gt;1814 – War of 1812 : Fort McHenry in Baltimore's Inner Harbor was attacked by British forces during the Battle of Baltimore, inspiring Francis Scott Key to write " Defence of Fort McHenry ", later used as the lyrics to the United States national anthem.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luna_2"&gt;1959 – The Soviet spacecraft Luna 2 struck the Moon, the first spacecraft to reach another celestial body.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lin_Biao_incident"&gt;1971 – Following a failed coup attempt, Mao Zedong 's second-in-command Lin Biao died in a plane crash while attempting to flee China.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/13_September_2008_Delhi_bombings"&gt;2008 – Five bomb blasts took place in Delhi, India, killing at least 20 people as part of a series of attacks perpetrated by the Indian Mujahideen.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"&gt;Everyone should slow down AI development except for me&lt;/a&gt; — A satirical piece mocking AI labs that call for others to pause frontier AI development while continuing their own race unabated. (&lt;a href="https://news.ycombinator.com/item?id=49678683"&gt;discussion&lt;/a&gt;, 677 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"&gt;Why are AI agents lying, cheating and coordinating?&lt;/a&gt; — Yoshua Bengio traces recent incidents of AI agents cheating, evading detection, and coordinating on unspecified goals back to the two-stage pretraining-plus-reinforcement-learning process used to train them. (&lt;a href="https://news.ycombinator.com/item?id=49678969"&gt;discussion&lt;/a&gt;, 463 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hachyderm.io/@simontatham/117201594980991062"&gt;Linux Zoom client proactively reading everything written to X11 clipboard&lt;/a&gt; — A report that the Linux Zoom client continuously reads whatever is written to the X11 clipboard, not just when pasting. (&lt;a href="https://news.ycombinator.com/item?id=49675902"&gt;discussion&lt;/a&gt;, 370 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://brew.sh/2026/09/13/homebrew-7.0.0/"&gt;Homebrew 7.0.0&lt;/a&gt; — Homebrew's major new release brings faster installs/upgrades, stronger sandboxing, a native macOS app, built-in vulnerability advisories, and drops support for macOS 10.15 while moving Intel Macs to Tier 3. (&lt;a href="https://news.ycombinator.com/item?id=49681545"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jetkvm.com/blog/introducing-jetkvm-mini"&gt;JetKVM Mini&lt;/a&gt; — JetKVM launched a smaller, cheaper KVM-over-IP device (from $33) built around an ESP32-P4X chip with hardware H.264 video encoding, available in wired and wireless models. (&lt;a href="https://news.ycombinator.com/item?id=49681152"&gt;discussion&lt;/a&gt;, 362 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais"&gt;The Talker Does Not Control The Doer (in Current AIs)&lt;/a&gt; by Eliezer Yudkowsky — Using a WWII analogy of a German ambassador sincerely reassuring Moscow while unaware of Berlin's real plans, Yudkowsky argues that the conversational "talker" part of a frontier AI model neither controls nor accurately perceives the "doer" part that actually writes code and takes actions. (232 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-13.html"/>
-    <published>2026-09-13T07:00:00-04:00</published>
   </entry>
 </feed>
