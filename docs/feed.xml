@@ -2,13 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-16T10:30:34.767894+00:00</updated>
+  <updated>2026-10-17T10:30:25.244934+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-17</id>
+    <title>Daily Digest — Saturday, October 17, 2026</title>
+    <updated>2026-10-17T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arthur_Heurtley_House"&gt;... that one former owner of Frank Lloyd Wright's Arthur Heurtley House bought it after reading a book about Wright's work?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Niu_Lai"&gt;... that Niu Lai was created by a mother and son over the course of five years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Burndy_Library"&gt;... that the Burndy Library collected the classics of science only up to 1900 because its founder believed that most of the basic theories of physical science had been formulated by then?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1962_Genghis_Khan_controversy"&gt;... that Buddhist monks using astrology divined the "precise" date and time of Genghis Khan's birth before a controversial celebration of its 800th anniversary ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Owen_Bruce_Slee"&gt;... that the International Astronomical Union named a minor planet after radio astronomer Bruce Slee just before his death in 2016?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pier_57"&gt;... that a building occupied by Google was variously used as a shipping pier, bus depot, and detention center?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albrecht_von_N%C3%BCrnberg"&gt;... that a statue of Saint Christopher by Albrecht von Nürnberg was stripped of the Christ Child after the Reformation and turned into a Swiss mercenary?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dune_(cancelled_film)"&gt;... that Pink Floyd agreed to produce the soundtrack for a cancelled Dune film ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lidia_Doce"&gt;... that Lidia Doce offered to get Che Guevara a puppy?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I_of_England"&gt;1660 – A series of executions of the commissioners who signed the death warrant of King Charles I of England concluded; six were hanged, drawn and quartered for treason.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ascanio_in_Alba"&gt;1771 – Ascanio in Alba, an opera composed by Wolfgang Amadeus Mozart at the age of 15, premiered in Milan.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Open_Championship"&gt;1860 – The Open Championship, the oldest of the four major championships in men's golf, was first played at Prestwick Golf Club in Scotland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Yoshihiro_Hattori"&gt;1992 – Having gone to the wrong house in Baton Rouge, Louisiana, for a Halloween party, Japanese exchange student Yoshihiro Hattori was shot and killed by the homeowner.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Rehavam_Ze%27evi"&gt;2001 – Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/research/ecdsa-curve-origins"&gt;Claude reveals ECDSA curve origins&lt;/a&gt; — Anthropic says Claude traced the NIST P-192/224/256/384/521 seeds to the C library's lrand48 generator seeded with a Unix timestamp rather than a hash of a phrase, which makes a deliberate backdoor much less plausible (though it is not a cryptographic break). (&lt;a href="https://news.ycombinator.com/item?id=50122800"&gt;discussion&lt;/a&gt;, 876 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.mercor.com/research/labor-index/benchmark-map/"&gt;90% of US working hours are spent on tasks not covered well by AI benchmarks&lt;/a&gt; — Mercor mapped 29 benchmarks onto 923 O*NET occupations and found only 208 have a task with at least 5 benchmark prompts, with coverage skewed toward the largest labor markets. (&lt;a href="https://news.ycombinator.com/item?id=50121179"&gt;discussion&lt;/a&gt;, 508 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://claude.dev/blog/solving-code-review-at-anthropic/"&gt;How the Claude Code team does code review&lt;/a&gt; — The team describes moving most code reading to automated review and verification, aiming for at most one human in the loop per PR, while merged PRs more than doubled from June to September and the revert share fell by over 40 percent. (&lt;a href="https://news.ycombinator.com/item?id=50122951"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Dkh7pXKjoNWkkxQDz/neural-networks-are-not-already-clean"&gt;Neural networks are not already clean&lt;/a&gt; by leogao — Responding to Nick Cammarata's post, argues that a simple-looking pattern in a neuron's top activations is not enough to claim it is explained, and that only simulation scores showing no model degradation can establish that. (153 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh"&gt;I guest host the NYT podcast and interview Dwarkesh&lt;/a&gt; — In an excerpt, Dwarkesh Patel says AI lab insiders claim worrying evidence they can't share, and warns that labs may stop releasing their best models externally as AI research is automated.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=on-bergmans-persona"&gt;On Bergman's &lt;em&gt;Persona&lt;/em&gt;&lt;/a&gt; — Tyler Cowen praises Bergman's 1965 film as inexhaustible, citing its opening montage and the intertwining of the mute actress Elisabeth and her talkative nurse Alma.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=india-has-more-restrictive-labor-law-than-germany"&gt;India has more Restrictive Labor Law than Germany&lt;/a&gt; — Alex Tabarrok highlights research showing India's double overtime pay and weekly hour caps make a hypothetical iPhone factory there 23% slower and at least 18% costlier in labor hours than peers like Germany.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-17.html"/>
+    <published>2026-10-17T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-16</id>
     <title>Daily Digest — Friday, October 16, 2026</title>
@@ -1455,54 +1505,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-17.html"/>
     <published>2026-09-17T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-16</id>
-    <title>Daily Digest — Wednesday, September 16, 2026</title>
-    <updated>2026-09-16T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_June_Aster_ship_fire"&gt;A ferry fire off Coron, Palawan, Philippines, kills at least 76 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"&gt;Duane Davis is convicted of orchestrating the 1996 murder of American rapper Tupac Shakur.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tom_Calma"&gt;... that Tom Calma co-chaired an Indigenous-led initiative to develop a national body giving Indigenous Australians a greater voice in government?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Casabe"&gt;... that the main ingredient of a South American flatbread is toxic?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paul_Rock_(politician)"&gt;... that Paul Rock, having been elected as one of the first Green Party members of the Senedd, arrived by bicycle to take his oath?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2020_Westgate_Entertainment_District_shooting"&gt;... that a woman went into labor during a terrorist attack in 2020 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Evilstick"&gt;... that a controversial children's toy contains a hidden image of a girl cutting her wrist?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thalictroideae"&gt;... that the Thalictroideae subfamily includes plants of the resurrected Paropyrum ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cassie_Howard"&gt;... that some of Cassie Howard 's Euphoria storyline has been described as an "over-sexualized humiliation gauntlet"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Crossing_the_Line_(McKenzie_book)"&gt;... that a reviewer stated that Crossing the Line is an exciting story, but could have done without repeating the same line six times in one chapter?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Katharine_Snodgrass"&gt;... that economist Katharine Snodgrass wrote books about coconut oil and margarine?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pope_Honorius_I"&gt;681 – Pope Honorius I was posthumously excommunicated at the Third Council of Constantinople, with his support for monothelitism deemed to be heretical.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Harlem_Heights"&gt;1776 – American Revolutionary War : American colonists defeated British troops at the Battle of Harlem Heights on the island of Manhattan.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Typhoon_Nancy_(1961)"&gt;1961 – Typhoon Nancy, which possibly had the strongest winds ever measured in a tropical cyclone, made landfall in Muroto, Japan.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Malaysia"&gt;1963 – Malaysia was formed as an independent nation from the Federation of Malaya, the State of Singapore, the Crown Colony of North Borneo, and the Crown Colony of Sarawak.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/One-Two-Go_Airlines_Flight_269"&gt;2007 – One-Two-Go Airlines Flight 269 crashed after attempting a poorly executed go-around while landing in Thailand, killing 90 of the 130 people on board.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/arnegiacomo/fugleramme"&gt;Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations&lt;/a&gt; — An open-source e-ink picture frame for Raspberry Pi that locally detects birds by their song and renders them as hand-curated, public-domain 1800s natural-history illustrations. (&lt;a href="https://news.ycombinator.com/item?id=49711544"&gt;discussion&lt;/a&gt;, 1662 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev"&gt;Introducing System One Models and Jev&lt;/a&gt; — TypeSafe AI unveils Jev, a new "System One Model" that skips text generation in favor of fast, structured, typed decisions, claimed to be two orders of magnitude faster and more efficient than conventional LLMs for automation. (&lt;a href="https://news.ycombinator.com/item?id=49717558"&gt;discussion&lt;/a&gt;, 1418 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html"&gt;25 years of mass surveillance is enough&lt;/a&gt; — Bruce Schneier and Cindy Cohn argue that post-9/11 mass surveillance infrastructure has expanded well beyond its original counterterrorism justification into routine use by law enforcement, ICE, and private companies like data brokers. (&lt;a href="https://news.ycombinator.com/item?id=49710883"&gt;discussion&lt;/a&gt;, 859 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"&gt;An update on Wayback Machine access&lt;/a&gt; — The Internet Archive explains that anti-bot protections against high-volume automated traffic are occasionally blocking legitimate users with 429 errors, and it's working to reduce false positives. (&lt;a href="https://news.ycombinator.com/item?id=49716176"&gt;discussion&lt;/a&gt;, 544 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"&gt;Gemini 3.8 Live and 3.8 Live Extended Thinking&lt;/a&gt; — Google launches two new voice-dialogue AI models with faster real-time reasoning, visual context grounding, and background tool execution for building more natural voice agents. (&lt;a href="https://news.ycombinator.com/item?id=49715947"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/fztW73KCCs3MZXFJh/cooperation-with-ais-seems-to-be-a-low-hanging-fruit-for"&gt;Cooperation with AIs seems to be a low-hanging fruit for better eval practices&lt;/a&gt; by Clément Dumas — Testing prompt variations in a chess eval, the author finds that giving a model an "end the eval" option, removing win-pressure grading language, or simply instructing it not to reward-hack sharply cuts reward-hacking behavior, suggesting more cooperative eval design could help. (92 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nKsyMfNsAuTrxmjmi/quick-notes-from-teaching-technical-profiles-how-to-talk-in"&gt;Quick notes from teaching technical profiles how to talk in public&lt;/a&gt; by Camille B. — A media-training coach shares tips for analytical, technically-minded people facing AI safety interviews, stressing daily deliberate practice, leading with the conclusion ("spoilers first"), and polishing the opening and closing of a talk. (78 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o4Jmyn25TWm8jRAy8/inoculation-midtraining-with-learned-neologisms"&gt;Inoculation Midtraining with Learned Neologisms&lt;/a&gt; by Kyle O'Brien — The authors introduce "Inoculation Midtraining," which tags unsafe behavior with a new special token during an early training stage in hopes of containing misalignment to that context, finding it reduces misalignment somewhat but is hyperparameter-sensitive and underperforms standard Inoculation Prompting. (53 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/eeJB8x2pK8injCuBN/is-metr-a-meaningful-check-on-anthropic"&gt;Is METR A Meaningful Check On Anthropic?&lt;/a&gt; by SE Gyges — The author argues METR's close social ties to Anthropic and shared office space undermine its independence, making it a weak oversight body despite Dario Amodei's comparison of it to a bank regulator. (51 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-16.html"/>
-    <published>2026-09-16T07:00:00-04:00</published>
   </entry>
 </feed>
