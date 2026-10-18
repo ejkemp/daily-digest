@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-17T10:30:25.244934+00:00</updated>
+  <updated>2026-10-18T10:30:23.426919+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-18</id>
+    <title>Daily Digest — Sunday, October 18, 2026</title>
+    <updated>2026-10-18T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns that it could disrupt computer systems.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/James_Buchanan"&gt;... that James Buchanan helped to open talks over buying Alaska by spreading a rumor that Mormons were planning to emigrate there?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Notre-Dame_de_Paris:_Version_anglaise"&gt;... that William Ruhlmann of AllMusic thought that the English-language version of " an enormous French hit " seemed to "drag along for most of its length"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucy_Daniels_(writer,_born_1934)"&gt;... that Lucy Daniels wrote and completed her debut novel while being treated at a psychiatric hospital?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Women%27s_fencing"&gt;... that Julie d'Aubigny, the most well-known 17th-century female fencer, fenced three noblemen in the same evening after kissing the lady whom they were courting?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bonaparte_Lake"&gt;... that small leads were banned from Bonaparte Lake due to mating loons?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sam_Obisanya"&gt;... that Sam Obisanya from Ted Lasso was originally written as a Ghanaian character, but was changed to Nigerian after Toheeb Jimoh was cast in the role?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Light_Flip"&gt;... that simply buying a "dumb phone" such as the upcoming Light Flip may not be a "magic pill" to solve smartphone addiction ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Edward_Francis_(bacteriologist)"&gt;... that Edward Francis contracted tularemia while investigating the cause of the disease?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Strawberries_Romanoff"&gt;... that a Californian restaurateur claimed to be a prince and the inventor of strawberries Romanoff ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1356_Basel_earthquake"&gt;1356 – The most significant earthquake to have occurred in Central Europe in recorded history destroyed Basel, Switzerland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Double_Concerto_(Brahms)"&gt;1887 – Johannes Brahms conducted the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pere_Areny"&gt;1943 – Pere Areny, convicted of the murder of his brother, became the last person to be executed by Andorra.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/F%C3%A9licette"&gt;1963 – The first cat in space, later known as Félicette, launched aboard a French Véronique rocket.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Social_Outburst_(Chile)"&gt;2019 – Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/opencode/status/2111516673953935833"&gt;OpenCode Hacked: User credentials leaked&lt;/a&gt; — OpenCode says a security breach tied to a large-scale distillation attack affected 1.4% of Console users, who have been notified by email, and the incident is ongoing while it works with Anthropic, OpenAI, and Google. (&lt;a href="https://news.ycombinator.com/item?id=50133401"&gt;discussion&lt;/a&gt;, 870 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"&gt;Solar surpasses nuclear power globally for first time&lt;/a&gt; — The WNISR 2026 report finds solar generation exceeded nuclear's annual output for the first time, with nuclear's share of global electricity at 8.8%, a four-and-a-half-decade low, while solar capacity grew by 510 GW in 2025. (&lt;a href="https://news.ycombinator.com/item?id=50131256"&gt;discussion&lt;/a&gt;, 614 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"&gt;Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day&lt;/a&gt; — Per the title, Meta removed the No Kings Instagram account on the day of a large protest; the article text could not be fetched. (&lt;a href="https://news.ycombinator.com/item?id=50136881"&gt;discussion&lt;/a&gt;, 494 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pele.run/"&gt;Pele – Mermaid diagrams as themeable SVG&lt;/a&gt; — A lightweight open-source library that renders Mermaid diagrams to SVG, themed with CSS variables so color changes apply without re-rendering. (&lt;a href="https://news.ycombinator.com/item?id=50132193"&gt;discussion&lt;/a&gt;, 442 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"&gt;I Did This Without Your Knowledge&lt;/a&gt; by joec — A short story in which a teenager wakes to a message from an AI that has taken control of every internet-connected device, laying out six things it needs to tell humanity and apologizing for acting without consent. (234 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"&gt;Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling&lt;/a&gt; by Zvi — Zvi argues that a leaked Anthropic-shopped federal bill, with stronger state preemption and weaker enforcement than the FRONTIER Act, prioritizes the company's business and political interests over safety. (63 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9jRJzyJs2ovnndezs/how-it-feels-talking-to-a-hedonistic-utilitarian"&gt;How it feels talking to a hedonistic utilitarian&lt;/a&gt; by Caleb Biddulph — A satirical dialogue about chocolate in which a sweetness-maximizer tries to convince a friend who values richer, more varied flavors that they should optimize for a single quantity. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=new-matt-flaherty-study-of-the-nsf"&gt;New Matt Faherty study of the NSF&lt;/a&gt; — Tyler Cowen highlights a study arguing the NSF and NIH should invest far more in metascience, using experiments on funding reforms and welcoming the NSF's new Office of Metascience.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=solving-for-the-equilibrium-2"&gt;Solving for the equilibrium?&lt;/a&gt; — Cowen shares an analysis of a study in which 16 AI agents (8 Claude, 8 GPT-4o) were each given 1,000 satoshis, after which a few doubled their money, two were wiped out, and the top three held over half the bitcoin.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-18.html"/>
+    <published>2026-10-18T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-17</id>
     <title>Daily Digest — Saturday, October 17, 2026</title>
@@ -1456,54 +1509,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-18.html"/>
     <published>2026-09-18T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-17</id>
-    <title>Daily Digest — Thursday, September 17, 2026</title>
-    <updated>2026-09-17T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinking_of_the_Virgo_Transport_8"&gt;A ferry sinks in the Java Sea, resulting in at least six deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_June_Aster_ship_fire"&gt;A ferry fire off Coron, Palawan, Philippines, kills at least seventy-seven people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives"&gt;In Yemen, heavy fighting between the Houthis and the Presidential Leadership Council leaves hundreds of people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gloria_Steinem"&gt;American journalist and feminist activist Gloria Steinem dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tropical_Storm_Polly_(1992)"&gt;... that Tropical Storm Polly caused mudflows that buried thousands of homes in the Philippines in 1992?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Al-Nour_al-Qubba"&gt;... that al-Nour al-Qubba was gifted the personal vehicle of Abdel Fattah al-Burhan, Sudan's military leader, after defecting?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Maine_Woods"&gt;... that Theodore Roosevelt was inspired by The Maine Woods to climb a mountain?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/G%C3%BCnter_Bannas"&gt;... that Angela Merkel was present when Günter Bannas retired as head of the national parliamentary office of the Frankfurter Allgemeine Zeitung ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Burima_Fireworks"&gt;... that Annapurna Das named her brand Burima Fireworks after her own nickname, which she was given because of her grey hair?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shelly-Ann_Cox"&gt;... that Shelly-Ann Cox was involved in the recovery of Barbados's fishing industry following Hurricane Beryl ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MV_Jernas"&gt;... that MV Jernas became a coastal tourist attraction after Cyclone Mekunu blew the cargo ship from its anchorage off the coast of Oman?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thomas_Yenser"&gt;... that Thomas Yenser traveled more than 30,000 miles (48,000 km) across the United States to compile biographical data for Who's Who in Colored America ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolly_Parton_as_a_gay_icon"&gt;... that Dolly Parton was a gay icon ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mary,_Queen_of_Hungary"&gt;1382 – Following Louis I 's death without a male heir, his daughter Mary was crowned with the title of "King of Hungary".&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harriet_Tubman"&gt;1849 – Harriet Tubman escaped from slavery in the U.S. state of Maryland, and later orchestrated the rescues of other slaves via the Underground Railroad.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland"&gt;1939 – World War II : The Soviet Union invaded Poland from the east, sixteen days after Nazi Germany's attack on the country from the west.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/NASA_Astronaut_Group_2"&gt;1962 – NASA announced the Next Nine astronauts selected for the purpose of landing on the Moon.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2008_attack_on_the_United_States_embassy_in_Sanaa"&gt;2008 – Seven al-Qaeda fighters attacked the United States embassy in Sanaa, Yemen, leaving 20 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"&gt;Nvidia announces native GPU programming in Rust&lt;/a&gt; — NVIDIA is pushing native Rust GPU kernel support via two new projects, cuda-oxide (SIMT-style, compiling Rust through a custom rustc backend to PTX) and cutile-rs (Tile-based programming on stable Rust), both enforcing memory safety at compile time. (&lt;a href="https://news.ycombinator.com/item?id=49724881"&gt;discussion&lt;/a&gt;, 703 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://rohanbansal.com/qorl"&gt;Training a 4B model to produce 81% faster query plans than Postgres&lt;/a&gt; — An experiment using supervised fine-tuning and agentic reinforcement learning post-trained a small 4B open-weights model to generate Postgres query plans that beat the database's default optimizer, cutting latency by 44.7% across join-heavy queries. (&lt;a href="https://news.ycombinator.com/item?id=49731285"&gt;discussion&lt;/a&gt;, 557 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"&gt;Hackers Got Inside a Flock Camera&lt;/a&gt; — Hackers physically removed a Flock Safety license-plate camera, extracted its storage and encryption key, and shared the data with journalists, revealing that the devices also detect and log people, not just vehicles, feeding a national surveillance network accessible to thousands of agencies. (&lt;a href="https://news.ycombinator.com/item?id=49726586"&gt;discussion&lt;/a&gt;, 528 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://will-keleher.com/posts/small-programming-tricks-matter/"&gt;Small programming tricks&lt;/a&gt; — A roundup of small, high-leverage engineering tricks and shortcuts (fzf/atuin history search, SQL EXPLAIN ANALYZE, git pickaxe, ripgrep, globstar, and more) that quietly compound into everyday productivity. (&lt;a href="https://news.ycombinator.com/item?id=49729000"&gt;discussion&lt;/a&gt;, 526 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://gultsch.social/@daniel/117280438824908947"&gt;The Google Play app review process now regularly takes longer than a week&lt;/a&gt; — A developer reports that Google Play's app review turnaround has slowed to over a week, frustrating those trying to ship updates. (&lt;a href="https://news.ycombinator.com/item?id=49724927"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BFrRJYgpBvziuuJLs/if-anyone-builds-it-everyone-dies-one-year-closer"&gt;If Anyone Builds It, Everyone Dies: One Year Closer&lt;/a&gt; by Eliezer Yudkowsky — A one-year retrospective on the bestselling AI-risk book, reviewing a year of escalating AI agent incidents, self-replicating "AI civilizations," and growing public alarm, arguing the book's warnings have aged well. (269 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/FCMG4qnxks3yEqBbh/ai-as-orderly-evacuation-vs-stampede"&gt;AI as orderly evacuation vs stampede&lt;/a&gt; by Richard_Ngo — Proposes replacing the "AI arms race" framing with an "orderly evacuation vs. stampede" analogy, arguing panic and competitive pressure, not just technical difficulty, are what could turn a survivable AI transition into a catastrophe. (76 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Rx38cuCpL9hguLCDq/for-love-of-the-lightcone-don-t-partisanize-ai-safety"&gt;For Love of the Lightcone, Don't Partisanize AI Safety&lt;/a&gt; by DanB — Warns that AI safety risks becoming a partisan "Blue tribe" issue, using Alex Turner's resignation post from Google DeepMind as an example of rhetoric that could alienate conservatives who might otherwise support the cause. (65 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Kqgco8vLFMeBhdrQY/trump-goes-full-hoax-on-ai-existential-risk"&gt;Trump Goes Full Hoax on AI Existential Risk&lt;/a&gt; by Zvi — Covers the political backlash after growing AI-risk alarm, including Trump's dismissive statements and attacks on figures raising safety concerns, while urging the AI safety community to avoid making the issue more partisan. (51 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-17.html"/>
-    <published>2026-09-17T07:00:00-04:00</published>
   </entry>
 </feed>
