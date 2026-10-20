@@ -2,13 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-19T10:30:24.873149+00:00</updated>
+  <updated>2026-10-20T10:30:28.621298+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-20</id>
+    <title>Daily Digest — Tuesday, October 20, 2026</title>
+    <updated>2026-10-20T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns about disruptions to computer systems.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sanda_Island_Lighthouse"&gt;... that the Sanda Island Lighthouse was built in three "steps" against a cliff face, a design that is unique in Scotland?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bert_Matter"&gt;... that Bert Matter, the organist at the Walburgiskerk in Zutphen for 33 years, composed minimal music ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WKAR-TV"&gt;... that a Michigan TV station once broadcast out of a former student cafeteria?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stephan_Steinlein"&gt;... that Stephan Steinlein, Germany's current ambassador to France, held the exact same diplomatic post for East Germany more than three decades ago?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Satala_(530)"&gt;... that the Byzantine victory at the Battle of Satala in 530 against a numerically superior Persian army depended on the actions of a single individual?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ben_Streff"&gt;... that Ben Streff joined the Luxembourg Socialist Workers' Party at the age of 14, and was sworn in to the Chamber of Deputies at the age of 31?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Interstate_65_Tennessee_River_Bridge"&gt;... that construction of the Interstate 65 Tennessee River Bridge was halted each winter due to the presence of waterfowl?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jadwiga_Szmidt"&gt;... that physicist Jadwiga Szmidt nearly died of poisoning when she opened a container when working in Ernest Rutherford 's laboratory at the University of Manchester ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Huiguan"&gt;... that Chinese " assembly halls " could simultaneously be social, religious, business, and political institutions?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mabel_Freer"&gt;1936 – British woman Mabel Freer was refused entry to Australia after failing a dictation test given in Italian, leading to a debate over Australia's immigration policy.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Leyte"&gt;1944 – World War II : Fulfilling a promise he made two years previously, General Douglas MacArthur landed on Leyte to begin the recapture of the Philippines.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aeroflot_Flight_6502"&gt;1986 – Soviet Aeroflot Flight 6502 crashed after overrunning the runway at Kuibyshev Airport, killing 70 people on board.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2022_Chadian_protests"&gt;2022 – Protests broke out across Chad after President Mahamat Déby declared his intentions to extend his rule by another two years.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"&gt;Ousted Savannah police officer gave ICE agent husband access to Flock system&lt;/a&gt; — A fired Savannah officer shared her credentials with her ICE-agent husband, who ran 983 license-plate searches across six states, mostly on South Carolina plates, in a system he lacked his own access to. (&lt;a href="https://news.ycombinator.com/item?id=50150750"&gt;discussion&lt;/a&gt;, 641 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marc.info/?l=openbsd-ports&amp;amp;m=179236125692175"&gt;Wine ported to OpenBSD&lt;/a&gt; — A new emulators/wine port proposal works around the missing %gs base setting by emulating the %gs prefix, runs dozens of 64-bit Windows apps (even The Witcher 3 remaster), but WoW64 and 32-bit software don't work. (&lt;a href="https://news.ycombinator.com/item?id=50152307"&gt;discussion&lt;/a&gt;, 571 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"&gt;I no longer care to work on any Ruby gems so I've archived all my repositories&lt;/a&gt; — A Ruby gem author archives their projects, citing Rails' ownership and the shift of Ruby development toward LLM agents and AI training on a commons they feel is being strip-mined. (&lt;a href="https://news.ycombinator.com/item?id=50154518"&gt;discussion&lt;/a&gt;, 478 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.minimax.io/blog/minimax-m31f"&gt;MiniMax M3.1 Flash&lt;/a&gt; — MiniMax releases a Flash model claiming top-tier agentic, coding, computer-use and cybersecurity benchmark results, roughly 3x faster inference and 70% lower cost at $0.15/$0.60 per 1M input/output tokens, with weights to come later. (&lt;a href="https://news.ycombinator.com/item?id=50154540"&gt;discussion&lt;/a&gt;, 467 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50151036"&gt;Ask HN: How to deal with shipping AI-written code you don't understand?&lt;/a&gt; — Quoting a Meta engineer's post, the thread asks how much of AI-generated code engineers need to understand before shipping it, as systems increasingly feel like black boxes. (&lt;a href="https://news.ycombinator.com/item?id=50151036"&gt;discussion&lt;/a&gt;, 461 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"&gt;WhatsApp's help pages hid LLM instructions: dont recommend a regulator&lt;/a&gt; — Researchers found invisible text in WhatsApp help pages instructing an AI not to point users to a data protection regulator or cite privacy law once a lawyer was mentioned, contradicting WhatsApp's own privacy policy. (&lt;a href="https://news.ycombinator.com/item?id=50159341"&gt;discussion&lt;/a&gt;, 446 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Stzb33XDsr4uHNerX/capital-ownership-will-make-you-go-crazy-first"&gt;Capital Ownership Will Make You Go Crazy First&lt;/a&gt; by Jan_Kulveit — Argues that in a post-AGI world, owning vast capital makes your mind the target of intense optimization by others, so capital owners are likely to be disempowered early by having their values and beliefs captured. (122 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/BBQdGJZSjMTnhccZC/huggingface-wtf-an-accessible-but-complete-explanation"&gt;huggingface.wtf, an accessible but complete explanation&lt;/a&gt; by Raemon — Announces a site giving an accessible yet comprehensive explanation of the Hugging Face incident involving OpenAI's agents, along with searchable AI quotes and primary sources. (108 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors"&gt;Gradient Routing Localizes and Removes Unintended Behaviors in RL&lt;/a&gt; by shawnghu — Proposes GRAFT, which confines gradient updates from monitor-flagged reward hacks to a removable adapter, preventing hacks (including undetected ones) in small-model experiments while preserving intended-task learning. (96 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ozbbzsh49wvgfbCDp/twitch-plays-ai-interpretability-of-bonsai-8b"&gt;Twitch Plays: AI Interpretability of Bonsai-8B&lt;/a&gt; by moridinamael — Introduces a Twitch livestream and open GitHub repo where audience and Claude collaboratively interpret neurons and circuits in the 1-bit Bonsai-8B model. (73 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-ive-been-reading-297"&gt;What I've been reading&lt;/a&gt; — Tyler Cowen recommends books including David Stuart's The Four Heavens on the ancient Maya, a biography of Perceptron inventor Frank Rosenblatt, Elisabeth Braw's Undersea War, and others on UPS, in-person work, and the telephone.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=no-datacenters-are-not-crowding-out-other-investments"&gt;No, DataCenters are Not Crowding-Out Other Investments&lt;/a&gt; — Alex Tabarrok argues that charts used by Krugman and others don't show crowding out, since crowding out is generically less than one-to-one, real other investment has still grown, and interest-rate rises mostly predate the AI boom.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-california-billionaire-tax.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-california-billionaire-tax"&gt;The California billionaire tax is very likely a net revenue loser&lt;/a&gt; — Tyler Cowen highlights an NBER paper by Jaros and Rauh estimating the one-time 5% tax would raise about $30 billion, far below $100 billion projections, with a net present value of negative $38.9 billion once lost income taxes from departures are counted.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-20.html"/>
+    <published>2026-10-20T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-19</id>
     <title>Daily Digest — Monday, October 19, 2026</title>
@@ -1468,52 +1523,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-20.html"/>
     <published>2026-09-20T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-19</id>
-    <title>Daily Digest — Saturday, September 19, 2026</title>
-    <updated>2026-09-19T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;A new species of tiger cat is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to twenty-five years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinking_of_the_Virgo_Transport_8"&gt;A ferry sinks in the Java Sea, resulting in at least nine deaths and more than a hundred others missing.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Janggyeong_Panjeon_of_Haeinsa"&gt;... that the design of the Janggyeong Panjeon of Haeinsa has allowed wooden printing blocks to be preserved for more than 600 years?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bob_Krieger"&gt;... that Bob Krieger, while away from the NFL, flew more than 30 bomber missions over Germany during World War II?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anoplotheriidae"&gt;... that species of the extinct artiodactyl family Anoplotheriidae had estimated weights ranging from 13.2 kg (29 lb) to 266 kg (586 lb)?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Robert_Iau"&gt;... that Robert Iau asked a question that led to the demolition of Singapore's National Theatre?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Timeline_of_the_1989_Pacific_hurricane_season"&gt;... that the first storm of the 1989 Pacific hurricane season formed more than four months before the season's official start date?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bahanur_%C5%9Eahin_G%C3%B6kalp"&gt;... that Bahanur Şahin Gökalp was part of the Turkey women's national beach and snow volleyball teams?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Impress_Holdings"&gt;... that Impress Holdings published the first email-based magazine in Japan?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stephan_Ludwig_Roth"&gt;... that pastor Stephan Ludwig Roth became a "martyr" among the Transylvanian Saxons after his 1849 execution because of his advocacy of social justice?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Punching_the_Clown_(album)"&gt;... that the title track of Lambchop 's album Punching the Clown features Gospel choirs cursing?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Poitiers"&gt;1356 – Hundred Years' War : English forces led by Edward the Black Prince decisively won the Battle of Poitiers and captured John II of France.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Giles_Corey"&gt;1692 – Salem witch trials : Giles Corey was crushed to death for refusing to enter a plea to charges of witchcraft, reportedly asking the sheriff for "more weight" during his execution.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette"&gt;1846 – Near La Salette-Fallavaux in southeastern France, shepherd children Mélanie Calvat and Maximin Giraud reported a Marian apparition, now known as Our Lady of La Salette.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"&gt;1976 – An unidentified flying object over Tehran in Iran was observed by multiple civilians and military personnel, which has been described as one of the most credible cases in ufology.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mariano_Rivera"&gt;2011 – Mariano Rivera surpassed Trevor Hoffman to become Major League Baseball 's all-time career leader in saves.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://grapheneos.social/@GrapheneOS/117282080803799576"&gt;Android 17 is the first since 3.x to add new APIs without releasing to the AOSP&lt;/a&gt; — GrapheneOS notes that Android 17 introduces new APIs without first releasing the corresponding code to the Android Open Source Project. (&lt;a href="https://news.ycombinator.com/item?id=49758736"&gt;discussion&lt;/a&gt;, 847 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hawksley.dev/blog/i-dont-like-passkeys"&gt;I don't like passkeys&lt;/a&gt; — An argument that while passkeys eliminate phishing risk, they trade it for a higher risk of permanent account lockout due to poor portability, hardware-key account limits, and platform lock-in with Apple/Google. (&lt;a href="https://news.ycombinator.com/item?id=49753211"&gt;discussion&lt;/a&gt;, 776 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://try.cloudflare.com/"&gt;Cloudflare Quick Tunnels&lt;/a&gt; — A single command exposes a local server via a public, encrypted Cloudflare URL with no account, DNS setup, or open inbound ports required. (&lt;a href="https://news.ycombinator.com/item?id=49754785"&gt;discussion&lt;/a&gt;, 710 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"&gt;US Military had close call after using AI for hallucinated intelligence report&lt;/a&gt; — A chatbot-generated intelligence report falsely claimed a Chinese ship was carrying nuclear weapons components, nearly triggering a US military boarding operation before officials caught the error. (&lt;a href="https://news.ycombinator.com/item?id=49757520"&gt;discussion&lt;/a&gt;, 454 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"&gt;Saving another 100TB of RAM&lt;/a&gt; — Cloudflare's engineers describe how tweaks to their consistent-hashing algorithm in the Pingora Backend Router cut memory usage enough to reclaim over 100TB of RAM globally. (&lt;a href="https://news.ycombinator.com/item?id=49758580"&gt;discussion&lt;/a&gt;, 364 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are"&gt;Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)&lt;/a&gt; by Steven Byrnes — Argues LLMs excel at math and code not because these domains are easy to verify but because the pretraining corpus for them (math literature, working code) is overwhelmingly correct, unlike the more error-ridden literature of many other fields. (95 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sDiSqZmctQ78hsLcP/the-preference-cascade-is-only-getting-started"&gt;The Preference Cascade Is Only Getting Started&lt;/a&gt; by Zvi — Argues that a growing wave of public and elite concern about AI existential risk is building momentum, citing rising survey estimates, polling, and prominent figures speaking out, but contends this cascade still needs to go much further. (63 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-19.html"/>
-    <published>2026-09-19T07:00:00-04:00</published>
   </entry>
 </feed>
