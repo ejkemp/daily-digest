@@ -2,13 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-22T10:30:41.779190+00:00</updated>
+  <updated>2026-10-23T10:30:40.504877+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-23</id>
+    <title>Daily Digest — Friday, October 23, 2026</title>
+    <updated>2026-10-23T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to effectively abolish the leap second over concerns about disruptions to computer systems.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rancho_San_Rafael_Regional_Park"&gt;... that there were two elephants at the grand opening of Rancho San Rafael Regional Park ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicolas_Gessner"&gt;... that Jodie Foster walked off the set when Swiss director Nicolas Gessner called for a nude scene?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/She_Knows_Too_Much"&gt;... that the music video for Thundercat and Mac Miller's " She Knows Too Much " consists of several animated mediums?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jeffrey_Gildenhorn"&gt;... that restaurateur Jeffrey Gildenhorn ran for mayor of Washington, D.C., on a platform of legalizing prostitution?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1985_Greek_constitutional_crisis"&gt;... that the 1985 Greek constitutional crisis "raised a potential danger to the balance of power in the Mediterranean"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucio_Huaycho"&gt;... that teacher Lucio Huaycho was elected to the parliament of Bolivia partly thanks to the high social standing of educators in rural areas?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Everett_Transit"&gt;... that Everett Transit has a licensed Matchbox toy bus?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Muhammad_Tayrab"&gt;... that Darfurian sultan Muhammad Tayrab cut off the beard of a rebellious chief whom he had defeated, and displayed it as a trophy in his house?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SMS_Taku"&gt;... that Taku, Taku, Taku, and Takou comprised the Taku -class destroyers ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Grathe_Heath"&gt;1157 – The Battle of Grathe Heath ended the Danish Civil War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alberto_Santos-Dumont"&gt;1906 – Alberto Santos-Dumont flew his biplane 14-bis for 50 metres (160 ft) at an altitude of about four metres (13 ft).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"&gt;1956 – The Hungarian Revolution began as a peaceful student demonstration that attracted thousands while marching through central Budapest to the parliament building.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2011_Malaysian_motorcycle_Grand_Prix"&gt;2011 – During the Malaysian motorcycle Grand Prix, Marco Simoncelli collided with two other riders, resulting in his death due to serious trauma to the head, neck, and chest.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://quad9.net/news/blog/au-revoir-france/"&gt;Quad9 to exit France&lt;/a&gt; — After a French court ordered it to block DNS resolution for domains named by beIN over sports-piracy claims, the Swiss nonprofit resolver says compliance is technically infeasible and will withdraw from France on November 24. (&lt;a href="https://news.ycombinator.com/item?id=50195959"&gt;discussion&lt;/a&gt;, 1222 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"&gt;eMudhra to exit global SSL/TLS certificate business&lt;/a&gt; — Following a recent incident in which affected CAs were revoked within 14 hours, the company is withdrawing from public TLS certificates (about 1% of revenue) while keeping its other trust services. (&lt;a href="https://news.ycombinator.com/item?id=50195110"&gt;discussion&lt;/a&gt;, 1065 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/"&gt;Woman charged with computer fraud due to scam CashApp account being in her name&lt;/a&gt; — A Pennsylvania woman was arrested over a CashApp account a scammer opened with her identity details, and she says CashApp won't give her account information because she can't prove ownership. (&lt;a href="https://news.ycombinator.com/item?id=50194833"&gt;discussion&lt;/a&gt;, 637 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"&gt;Docker is weird&lt;/a&gt; — Lessons from building a toy container runtime: containers are ordinary processes combining several kernel features, and Go's threading model forces runc into awkward workarounds. (&lt;a href="https://news.ycombinator.com/item?id=50202681"&gt;discussion&lt;/a&gt;, 506 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/oosexgang/hackios-xnu-kernel"&gt;Run full iOS 16.5 firmware on Android Devices&lt;/a&gt; — A research project that boots Apple's open-source XNU kernel and the unmodified iOS 16.5 userland on a POCO X5 Pro or in QEMU, with Apple's files fetched from Apple's CDN rather than shipped. (&lt;a href="https://news.ycombinator.com/item?id=50196718"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"&gt;Every AI model has the same "controversial" take on humans&lt;/a&gt; — Twelve text models asked for their most controversial view on humans mostly said people conform to their group and then invent reasons, while image models mostly drew phone-addicted consumers. (&lt;a href="https://news.ycombinator.com/item?id=50197313"&gt;discussion&lt;/a&gt;, 431 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations"&gt;Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions&lt;/a&gt; — A Vanity Fair excerpt claims Dutch intelligence, after turning a GRU hacker, found screenshots of Kushner's iPhone and saw him accessing a UAE bank account that had received hundreds of millions of dollars from Azerbaijan. (&lt;a href="https://news.ycombinator.com/item?id=50201259"&gt;discussion&lt;/a&gt;, 428 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://edjefferson.com/localwiki/"&gt;Local Wikipedia: Wikipedia, but only for things a half hour walk from you&lt;/a&gt; — A project that shows Wikipedia content limited to places within a half-hour walk of you; the article text wasn't available, so this is described from the title only. (&lt;a href="https://news.ycombinator.com/item?id=50202285"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/NVIDIA/OpenShell"&gt;OpenShell – A safe, private runtime for fleets of autonomous AI agents&lt;/a&gt; — NVIDIA's runtime sandboxes agents with kernel-level policy enforcement, injects credentials only for approved endpoints, and uses formal verification to flag risky policy changes for human review. (&lt;a href="https://news.ycombinator.com/item?id=50198675"&gt;discussion&lt;/a&gt;, 402 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pwn.watch/"&gt;What's getting pwned right now&lt;/a&gt; — A tracker of recent vulnerabilities and patch status, currently highlighting leaked unpatched Linux kernel reports (including ksmbd RCEs) and a Fearless Wallet extension that leaked private keys. (&lt;a href="https://news.ycombinator.com/item?id=50195543"&gt;discussion&lt;/a&gt;, 367 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/research/formal-verification"&gt;LLMs are making formal software verification feasible at a much larger scale&lt;/a&gt; — Anthropic and Theorem report using Claude to prove assembly-level (RISC-V) safety properties across 123 open-source libraries, uncovering long-hidden bugs along the way. (&lt;a href="https://news.ycombinator.com/item?id=50202217"&gt;discussion&lt;/a&gt;, 350 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/pY76hHbdD4jduX3YH/wah-wah-wah-wah-do-more-ai-r-and-d"&gt;Wah wah wah wah do more AI R&amp;amp;D&lt;/a&gt; by TsviBT — Using a child tuning out a parent's explanation to hear only "no ice cream," the author argues that the many clever justifications for advancing AI capabilities in the name of safety all boil down to "do more AI R&amp;amp;D." (125 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WRvxRHMCmc3Qt4axz/greater-good-arguments-in-ai-safety"&gt;Greater good arguments in AI safety&lt;/a&gt; by Dean Valentine — Compares the old leftist critique that charity props up capitalism to recent arguments that prosaic AI safety work is net-negative because it eases pressure for a pause, and treats both as fraught second-order reasoning. (108 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xGucXHQ3NLkHZL3Cg/the-alignment-journal-our-approach-and-related-projects"&gt;The Alignment Journal: Our Approach and Related Projects&lt;/a&gt; by Dan MacKinlay — The journal, now open for submissions, lays out its theory of change, the incentive economics of publishing, and lessons from prior efforts like TMLR, The Unjournal, and Distill. (66 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects"&gt;Do mass shootings in universities lead to permanent effects?&lt;/a&gt; — A job-market paper finds no effect on time to degree but a 4.2% drop in further study among exposed undergraduates and a shift toward health degrees that persists in later cohorts.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai"&gt;A simple point about the intertemporal regulation of AI&lt;/a&gt; — Cowen argues that because regulated sectors tend to end up overregulated, AI may be best left underregulated for now.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=modern-principles-of-economics-3"&gt;Modern Principles of Economics!&lt;/a&gt; — Tabarrok promotes the Modern Principles textbook and its supporting materials to instructors.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026"&gt;How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026&lt;/a&gt; — Clark and Cummins use random family-size shocks to show wealth shocks vanish within three generations, implying lasting wealth stems from inherited behaviors rather than transfers.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-23.html"/>
+    <published>2026-10-23T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-22</id>
     <title>Daily Digest — Thursday, October 22, 2026</title>
@@ -1495,56 +1555,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-23.html"/>
     <published>2026-09-23T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-22</id>
-    <title>Daily Digest — Tuesday, September 22, 2026</title>
-    <updated>2026-09-22T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Guntur_Soekarnoputra"&gt;... that Guntur Soekarnoputra stalled a kidnapping attempt by breastfeeding?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Denfaminico_Gamer"&gt;... that Denfaminico Gamer was made as a collaboration between four previously rival gaming media companies?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mlle_Saint-Christophle"&gt;... that a French soprano abandoned her opera career to become a nun?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Saint_Anne_in_Haitian_Vodou"&gt;... that a version of Saint Anne in Haitian Vodou was the guiding spirit to the first emperor of Haiti?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maude_Davey"&gt;... that actress Maude Davey spent five or six hours in makeup to look like a 90-year-old character in the 2026 supernatural horror film Evil Dead Burn ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shaare_Tefila_Congregation_v._Cobb"&gt;... that the U.S. Supreme Court ruled in Shaare Tefila Congregation v. Cobb that a synagogue could sue for damages from antisemitic vandalism on the basis of racial discrimination?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leo_Lomski"&gt;... that Leo Lomski lost a boxing world championship by one second?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jia_Yueyue_and_Jia_Panpan"&gt;... that Jia Yueyue and Jia Panpan were the first giant pandas to be born in Canada?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ellen_Fullard-Leo"&gt;... that an American amateur-swimming enthusiast fought the government for nine years over the ownership of a Pacific atoll?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Saule"&gt;1236 – Livonian Crusade : The Livonian Brothers of the Sword were soundly defeated by pagan Samogitian and Semigallian troops at the Battle of Saule.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wer_Dank_opfert,_der_preiset_mich,_BWV_17"&gt;1726 – Bach led the first performance of his cantata Wer Dank opfert, der preiset mich, BWV 17, in Leipzig.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vela_incident"&gt;1979 – An American Vela satellite detected an unidentified flash of light near the Prince Edward Islands in the Indian Ocean, thought to be a nuclear weapons test.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nordhordland_Bridge"&gt;1994 – The Nordhordland Bridge, crossing Salhusfjorden between Klauvaneset and Flatøy in Vestland, and Norway's second-longest bridge, officially opened.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peshawar_church_bombing"&gt;2013 – Insurgency in Khyber Pakhtunkhwa : All Saints Church in Peshawar, Pakistan, was attacked by two suicide bombers who killed 127 people.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://alicegg.tech/2026/09/21/attention"&gt;Attention is all you have&lt;/a&gt; — An essay arguing that algorithmic feeds (YouTube, Spotify, LinkedIn, Reddit) have hijacked our attention and quietly shape our thoughts, and makes the case for returning to a more intentional, bookmark-driven internet. (&lt;a href="https://news.ycombinator.com/item?id=49787726"&gt;discussion&lt;/a&gt;, 821 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"&gt;I don't want to read what you didn't write&lt;/a&gt; — A critique of AI-generated design docs, pull request summaries, and messages, arguing they strip out context, voice, and vulnerability, making them exhausting and impersonal to read. (&lt;a href="https://news.ycombinator.com/item?id=49794330"&gt;discussion&lt;/a&gt;, 698 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://zuckoff.app/"&gt;ZuckOff Know when a camera is in the room&lt;/a&gt; — An iPhone app that listens for Bluetooth signatures from camera glasses like Ray-Ban Meta, Oakley Meta, and Snap Spectacles to alert you when one is nearby. (&lt;a href="https://news.ycombinator.com/item?id=49785429"&gt;discussion&lt;/a&gt;, 599 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"&gt;What Sun got wrong&lt;/a&gt; — Bryan Cantrill reflects on Sun Microsystems' downfall, arguing the company became bored with the mechanics of running a business even as its technical strategy succeeded. (&lt;a href="https://news.ycombinator.com/item?id=49787436"&gt;discussion&lt;/a&gt;, 596 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://brand.io/article/spymarks/"&gt;Spymarks, Not Watermarks&lt;/a&gt; — Coins the term "spymark" for hidden tracking signals (like Google's SynthID) embedded in AI-generated images, audio, and text that can encode identifying data about the creator. (&lt;a href="https://news.ycombinator.com/item?id=49794615"&gt;discussion&lt;/a&gt;, 453 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://poloclub.github.io/transformer-explainer/"&gt;Transformers Explained Visually&lt;/a&gt; — An interactive visual explainer of the transformer architecture. (&lt;a href="https://news.ycombinator.com/item?id=49792342"&gt;discussion&lt;/a&gt;, 423 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/Lon/status/2101793422487204027"&gt;Fable 5 – Median thinking declined in August&lt;/a&gt; — A tweet reportedly noting a decline in "median thinking" during August. (&lt;a href="https://news.ycombinator.com/item?id=49789224"&gt;discussion&lt;/a&gt;, 391 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"&gt;NASA's Mars Sample Return mission is dead&lt;/a&gt; — Reports that NASA's Mars Sample Return mission has been cancelled. (&lt;a href="https://news.ycombinator.com/item?id=49791939"&gt;discussion&lt;/a&gt;, 389 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling"&gt;Swarm Scaling&lt;/a&gt; by Toby_Ord — Analyzes recent OpenAI agent swarms (including a 10,000-agent swarm that cracked a Navier-Stokes problem) to work out how capability scales with swarm size versus chain-of-thought length, finding that larger swarms need proportionally more total tokens for the same performance. (100 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mMERyrvEJ4xbiozie/what-if-not-circuits"&gt;What if not Circuits?&lt;/a&gt; by CarolusRenniusVitellius — Questions whether "circuits" and "computation" are the right ontology for understanding LLMs, drawing on representational drift in neuroscience and sketching an alternative "co-selectionist" view. (90 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/QH86EzNsjRw3wtCGs/alignment-midtraining-cracks-under-pressure"&gt;Alignment Midtraining Cracks Under Pressure&lt;/a&gt; by J Bostock — Presents experiments showing alignment midtraining is easily overridden by a small amount of competing fine-tuning data and generalizes poorly to unseen deployment situations. (89 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-22.html"/>
-    <published>2026-09-22T07:00:00-04:00</published>
   </entry>
 </feed>
