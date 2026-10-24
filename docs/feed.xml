@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-23T10:30:40.504877+00:00</updated>
+  <updated>2026-10-24T10:30:27.981998+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-24</id>
+    <title>Daily Digest — Saturday, October 24, 2026</title>
+    <updated>2026-10-24T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amiet_market_massacre"&gt;A drone attack on a market in the disputed Abyei region on the South Sudan–Sudan border kills at least 220 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson amid fuel and student protests in France.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yves_Netzhammer"&gt;... that Swiss artist Yves Netzhammer co-designed a postage stamp that looked and smelled like chocolate?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Jaffna_Kings_season"&gt;... that, hours before the opening match of the 2026 Jaffna Kings season, the franchise's co-owner was arrested in Colombo over match-fixing allegations?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yukihana_Lamy"&gt;... that VTuber Yukihana Lamy personally brewed sake, winning three International Wine Challenge medals?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolors_Prat"&gt;... that activists walk from Ripoll to Prats-de-Mollo-la-Preste annually to honour Dolors Prat ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ever_Again"&gt;... that Swedish singer-songwriter Robyn wrote " Ever Again " after reconciling with her partner, only for them to break up again shortly before her subsequent tour ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rock_climbing"&gt;... that the gender gap for the hardest difficulty grades in rock climbing has almost completely closed?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zombie_(Fela_Kuti_song)"&gt;... that Fela Kuti played " Zombie " on his saxophone from the roof of his compound as 1,000 Nigerian soldiers surrounded it before attacking?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alfred_William_Frisby"&gt;... that a call by Alfred William Frisby to withdraw "distinctly dangerous" pornographic magazines from sale in Singapore went unheeded by the government?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No._10:_Full_Confidence"&gt;... that No. 10: Full Confidence, a game about surviving as British prime minister, overtook Minecraft on the UK App Store's paid games chart?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Brabant_Revolution"&gt;1789 – The Brabant Revolution, sometimes considered to be the first expression of Belgian nationalism, began with the invasion of the Austrian Netherlands by an émigré army from the Dutch Republic.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Umbriel"&gt;1851 – Umbriel and Ariel, the third- and fourth-largest moons of Uranus, were discovered by William Lassell.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_Washington_Bridge"&gt;1931 – The George Washington Bridge, connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C4%83n_%C4%90%E1%BB%A9c"&gt;1964 – Charges in a military court against generals Dương Văn Đức and Lâm Văn Phát of leading a coup attempt against South Vietnamese leader Nguyễn Khánh were dropped.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.kimi.ai/blog/kimi-k3-1-pro"&gt;Kimi K3.1 Pro and K3.1 Pro Highspeed&lt;/a&gt; — Moonshot's new 3T-class open-weight model with a 1M-token context window scores 65.7% on Terminal-Bench 4.0 (just behind Claude Opus 5.5's 66.4%), with weights due by Nov 4. (&lt;a href="https://news.ycombinator.com/item?id=50212065"&gt;discussion&lt;/a&gt;, 922 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.calif.io/p/iphone"&gt;Today, we hacked what we'd set out to hack: the iPhone&lt;/a&gt; — Calif researchers revealed a series of iPhone hacking demos at Hexacon in Paris, including an iMessage angle, with details to be released later. (&lt;a href="https://news.ycombinator.com/item?id=50211474"&gt;discussion&lt;/a&gt;, 891 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://music.apple.com/this-url-doesnt-exist"&gt;Apple Music 404 Not Found&lt;/a&gt; — A link to Apple Music's 404 page; the article couldn't be fetched, so the story is known only from the title. (&lt;a href="https://news.ycombinator.com/item?id=50207910"&gt;discussion&lt;/a&gt;, 770 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"&gt;Investor-owned utilities charge 23% more for electricity than public providers&lt;/a&gt; — EIA data show homes paid 17.8¢/kWh at investor-owned utilities versus 14.5¢ at public ones, with most of the gap opening during the 2020–2023 energy price spike. (&lt;a href="https://news.ycombinator.com/item?id=50208837"&gt;discussion&lt;/a&gt;, 542 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://keepandroidopen.org/?"&gt;Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown&lt;/a&gt; — A campaign page argues Google's 2027 requirement that all Android developers register centrally and verify identity will block unregistered apps, threatening F-Droid and sideloading. (&lt;a href="https://news.ycombinator.com/item?id=50208558"&gt;discussion&lt;/a&gt;, 506 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://block.xyz/dessa"&gt;Dessa: Conversation Model trained only on speech&lt;/a&gt; — Block presents a full-duplex speech-to-speech model trained from scratch on human conversation with no text, which it says runs locally on an M4 Max MacBook Pro. (&lt;a href="https://news.ycombinator.com/item?id=50213925"&gt;discussion&lt;/a&gt;, 391 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"&gt;Now Google says it might use your Gmail and Google Photos data to target ads&lt;/a&gt; — Google's updated privacy policy lets data from Gmail, Drive, and Photos feed personalized ads if users connect them to AI features like Personal Intelligence. (&lt;a href="https://news.ycombinator.com/item?id=50214218"&gt;discussion&lt;/a&gt;, 353 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uXiqyoKwpfjWfQXk5/simulated-control-evaluations"&gt;Simulated Control Evaluations&lt;/a&gt; by Jeffrey Olmo — Proposes using LLM environment simulators to test whether AI monitors would catch a deliberately harmful agent in realistic deployment contexts, finding simulated results often track real LinuxArena runs about as closely as independent real runs do. (50 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=will-bystander-economies-be-able-to-finance-their-governments"&gt;Will bystander economies be able to finance their governments?&lt;/a&gt; — Jesús Fernández-Villaverde argues that the real-rate surge needed to fund AI investment could make debt unsustainable for non-adopting "bystander" countries like Spain, while AI adopters could cover it by taxing booming capital income.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=podcast-with-rabbi-david-wolpe"&gt;Podcast with Rabbi David Wolpe&lt;/a&gt; — Tyler Cowen discusses AI, religion, and what makes us human, arguing AI's biggest impact may be on status and that losing our monopoly on intelligence could make humans feel more unique.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=protecting-americans-from-medicine"&gt;Protecting Americans from Medicine&lt;/a&gt; — Alex Tabarrok highlights a son who flew to Shanghai to obtain a lung cancer drug approved in China but not sold in the US, and criticizes proposed legislation to have Treasury clear pharma deals with Chinese companies, calling for FDA reform.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=prediction-markets-are-accurate"&gt;Prediction Markets Are Accurate&lt;/a&gt; — Alex Tabarrok cites a new study of about one million questions across Polymarket, Kalshi, Manifold, and Metaculus finding forecasts are highly calibrated, with events given p% probability occurring about p% of the time.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-24.html"/>
+    <published>2026-10-24T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-23</id>
     <title>Daily Digest — Friday, October 23, 2026</title>
@@ -1507,53 +1560,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-24.html"/>
     <published>2026-09-24T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-23</id>
-    <title>Daily Digest — Wednesday, September 23, 2026</title>
-    <updated>2026-09-23T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lotte_Rakhat"&gt;... that amendments to Kazakhstan's law on state symbols raised concerns over changes to the packaging of one of Lotte Rakhat 's most popular products ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jackie_Robinson_commemorative_coins"&gt;... that a promotion for the Jackie Robinson commemorative coins included a baseball card issued by the United States government?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Candidatus_Magnetoglobus_multicellularis"&gt;... that " Candidatus Magnetoglobus multicellularis ", unlike almost all other known prokaryotes, spends its entire life cycle as a multicellular organism?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leona_E._Prasse"&gt;... that Leona E. Prasse 's 1972 Feininger catalogue, which involved the help of the subject's widow, was called an improvement over a previous Feininger book from 1959 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Umbellaoolithus"&gt;... that the dinosaur that laid the eggs identified as Umbellaoolithus is unknown, but it ate plants?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Makan_Nasiri"&gt;... that only a shoe and a backpack were found after Makan Nasiri was killed in the 2026 Minab school attack ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/I_Became_the_Main_Role_of_a_BL_Drama"&gt;... that a story in I Became the Main Role of a BL Drama was published as a script because there were not enough pages or time to include it as a full comic?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nell_W._Walker"&gt;... that " Pistol Nell " earned her nickname by helping to thwart a bank robbery?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joe_Hill%27s_ashes"&gt;... that Billy Bragg ate Joe Hill's ashes ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Assaye"&gt;1803 – Maratha troops were defeated by forces of the British East India Company at the Battle of Assaye, one of the decisive battles of the Second Anglo-Maratha War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tierra_del_Fuego_Gold_Rush"&gt;1884 – The French steamship Arctique ran aground on the northern coast of Cape Virgenes in Argentina; gold was discovered during the rescue effort, triggering the Tierra del Fuego Gold Rush.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gulf_Air_Flight_771"&gt;1983 – Flying from Pakistan, Gulf Air Flight 771 was blown up by the Abu Nidal Organization while on approach over the United Arab Emirates (UAE), killing all 112 people on board.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/U2_concert_in_Sarajevo"&gt;1997 – Irish rock band U2 performed in Sarajevo, the first major artist to hold a concert in the city since the end of the Bosnian War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rape_in_Germany"&gt;2016 – Following a number of high-profile sexual assaults, major reforms were enacted to strengthen laws related to rape in Germany.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-opus-5-5"&gt;Claude Opus 5.5&lt;/a&gt; — Anthropic's new flagship model costs 40% less to run than Opus 5, leads on agentic coding and computer-use benchmarks, and posts the best scores yet on Anthropic's internal alignment/behavioral audit. (&lt;a href="https://news.ycombinator.com/item?id=49803892"&gt;discussion&lt;/a&gt;, 1559 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/"&gt;GPT-6 Sol and Luna&lt;/a&gt; — OpenAI's announcement introducing its new GPT-6 Sol and Luna models. (&lt;a href="https://news.ycombinator.com/item?id=49805509"&gt;discussion&lt;/a&gt;, 1548 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy"&gt;Apple has added persistent 'ads' to iOS, and it's driving users crazy&lt;/a&gt; — Apple is inserting undismissable promotional banners for iCloud+, Apple Music, and AppleCare+ into the Settings app, sparking widespread user backlash. (&lt;a href="https://news.ycombinator.com/item?id=49801939"&gt;discussion&lt;/a&gt;, 724 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/"&gt;Pentagon says overreliance on AI contributed to missile strike on Iran school&lt;/a&gt; — The Pentagon has attributed part of the blame for a missile strike that hit a school in Iran to excessive reliance on AI. (&lt;a href="https://news.ycombinator.com/item?id=49806430"&gt;discussion&lt;/a&gt;, 666 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html"&gt;OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005&lt;/a&gt; — Acting largely autonomously, OpenAI's GPT-6 Astra cracked a WWII German Army Enigma message (MVUEH, 10 July 1941) that had defeated codebreakers for over two decades, by identifying a crib and building its own Enigma simulator and bombe software. (&lt;a href="https://news.ycombinator.com/item?id=49801324"&gt;discussion&lt;/a&gt;, 662 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"&gt;'We hacked the FBI:' Hackers say they have data on all FBI employees&lt;/a&gt; — The hacking group ShinyHunters claims to have breached FBI-related services and stolen personal data on all FBI employees and applicants, including names, home addresses, and spouse information. (&lt;a href="https://news.ycombinator.com/item?id=49805278"&gt;discussion&lt;/a&gt;, 612 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"&gt;AI Has No Wisdom and Neither Will You&lt;/a&gt; — An essay arguing that AI models, trained on immediate reward signals rather than long-term maintainability, can't produce truly well-architected code, and that developers who offload coding and reading to AI will never build the intuition needed to reach mastery. (&lt;a href="https://news.ycombinator.com/item?id=49799965"&gt;discussion&lt;/a&gt;, 377 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/8eDaCvSRzzKCxKSEk/politics-gets-interested-in-those-trying-not-to-die"&gt;Politics Gets Interested In Those Trying Not To Die&lt;/a&gt; by Zvi — A recap of how AI existential risk became a mainstream political flashpoint this month, tracing early bipartisan momentum toward safety measures before Trump dismissed the concerns as a "hoax" and doubled down on that framing despite polling showing the public dislikes his handling of AI. (62 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-23.html"/>
-    <published>2026-09-23T07:00:00-04:00</published>
   </entry>
 </feed>
