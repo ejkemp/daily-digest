@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-24T10:30:27.981998+00:00</updated>
+  <updated>2026-10-25T10:30:31.653230+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-25</id>
+    <title>Daily Digest — Sunday, October 25, 2026</title>
+    <updated>2026-10-25T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amiet_market_massacre"&gt;A drone attack on a market in the disputed Abyei region on the South Sudan–Sudan border kills at least 220 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson amid fuel and student protests in France.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sea_balls"&gt;... that sea balls are also known by a word for "wild goat fur" because they look like hairballs regurgitated by goats?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kurt_Gloor"&gt;... that Swiss filmmaker Kurt Gloor 's final film was about prison inmates and people with disabilities on a trekking tour?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Via_Mansuerisca"&gt;... that parts of an ancient road were exposed following wildfires in Belgium in the summer of 2026?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Erika_Yoshida"&gt;... that Erika Yoshida once adapted a Vocaloid song into a light novel, a manga, and a film?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(Kanye_West_song)"&gt;... that Kanye West recorded " Beauty and the Beast " in his Tokyo hotel room?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jessie_Waddell"&gt;... that Jessie Waddell, who founded New York City's West Indian Day Parade, timed it to fall on the anniversary of her son's death?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Neottia_confusa"&gt;... that a species of orchid was named for having a smaller lip than others in its genus?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chew_Hock_Leong"&gt;... that Singaporean banker Chew Hock Leong sold a camera device patent to Kodak in 1930?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wendy_(coyote)"&gt;... that Wendy was known by Studio City residents for her deformed face, which was the result of an infected gunshot wound?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hartog_Plate"&gt;1616 – Dutch explorer Dirk Hartog left a plate on an island in Shark Bay, the oldest-known artefact of European exploration in Australia still in existence.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Marais_des_Cygnes"&gt;1864 – American Civil War : During Price's Missouri Expedition, Union troops defeated Sterling Price 's Confederate army in three successive battles: Marais des Cygnes, Mine Creek, and Marmiton River.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statue_of_Industry"&gt;1929 – Hundreds of students at Armstrong College in Newcastle, England, tarred and feathered Statue of Industry, a sculpture by Herbert Maryon.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Windows_XP"&gt;2001 – Windows XP, one of the most popular and widely used versions of the Microsoft Windows operating system, was released for retail sale.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"&gt;No signs of AI payoff outside the tech sector&lt;/a&gt; — Apollo argues that revenue per worker and profit margins are rising for the Mag 7 but flat for the rest of the S&amp;amp;P 500, with no sign of AI-driven productivity growth. (&lt;a href="https://news.ycombinator.com/item?id=50224463"&gt;discussion&lt;/a&gt;, 555 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stealmybitcoin.com/"&gt;Show HN: Steal My Bitcoin&lt;/a&gt; — A challenge with roughly $500 of bitcoin hidden on a server running a PHP version from before the PHP2SHELL CVEs; the first person to extract it wins. (&lt;a href="https://news.ycombinator.com/item?id=50224916"&gt;discussion&lt;/a&gt;, 490 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/"&gt;Elon Musk Just Gave Europe a Reason to Replace American Technology&lt;/a&gt; — Steve Blank argues from the title that Musk's actions should push Europe to replace American technology (the scraped text was only site navigation, so no further detail is available). (&lt;a href="https://news.ycombinator.com/item?id=50220913"&gt;discussion&lt;/a&gt;, 447 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://danluu.com/ambitious/"&gt;We should be more ambitious with the software we build&lt;/a&gt; — Dan Luu uses Michael Malis's thoroughly tested pgrust (which has already surfaced real Postgres bugs) to argue that AI-assisted builders can now attempt larger projects despite the flood of low-quality "vibeslop." (&lt;a href="https://news.ycombinator.com/item?id=50225695"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aardappel.github.io/goose/"&gt;The Goose Programming Language&lt;/a&gt; — A memory-safe systems language with no heap, GC, or lifetime annotations, which claims to beat C++ and safe Rust on its own benchmarks while using less memory. (&lt;a href="https://news.ycombinator.com/item?id=50224100"&gt;discussion&lt;/a&gt;, 412 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"&gt;America has lost 200k of jobs in media, film and the arts. How much is AI?&lt;/a&gt; — Apricitas notes over 200k creative-industry jobs lost in four years, with Hollywood hit hardest, and weighs AI against consolidation, offshoring, and the shift to social media creators. (&lt;a href="https://news.ycombinator.com/item?id=50226419"&gt;discussion&lt;/a&gt;, 370 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"&gt;Slower Animated Diagrams&lt;/a&gt; by XelaP — Argues that explanatory animations are too fast and should hold each critical stage in clear view for at least 1–2 seconds, illustrated by comparing good and bad examples. (52 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor"&gt;I guest host an NYT podcast with Michael Kratsios, Trump science advisor&lt;/a&gt; — Tyler Cowen presses Kratsios on whether shifting federal science funding toward AI starves the rest of the science ecosystem, and Kratsios replies that the aim is applying AI to scientific discovery as part of a portfolio approach.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=cybersecurity-etf"&gt;Cybersecurity ETF&lt;/a&gt; — A brief post quoting Joe Weisenthal: "The Red Line is the day that Anthropic introduced Mythos."&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=why-are-cybersecurity-losses-not-worse"&gt;Why are cybersecurity losses not worse?&lt;/a&gt; — Quoting Joshua Saxe, Cowen notes that most cybercriminals are lower-skill workers in lower-income countries (mostly scam call centers and ransomware gangs) rather than organized geniuses, which helps explain why losses aren't worse.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=econvitals"&gt;Econvitals&lt;/a&gt; — Points to Jason Furman's new website tracking mostly U.S. economic indicators, with a briefing subscription available.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-25.html"/>
+    <published>2026-10-25T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-24</id>
     <title>Daily Digest — Saturday, October 24, 2026</title>
@@ -1506,59 +1558,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-25.html"/>
     <published>2026-09-25T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-24</id>
-    <title>Daily Digest — Thursday, September 24, 2026</title>
-    <updated>2026-09-24T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kaltrina_Krasniqi"&gt;... that, when director Kaltrina Krasniqi first read the script of Vera Dreams of the Sea, she was shocked at the similarities between its lead character and her own mother?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2009_FIFA_U-20_World_Cup_final"&gt;... that a Ghanaian player was told not to take off his jersey during a FIFA youth tournament's final match because his physique made him look older than the tournament's age bracket?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amadu_Bansang_Jobarteh"&gt;... that Amadu Bansang Jobarteh was called a "library" of African history by Gambian politician Sidia Jatta ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wang_Wang_and_Fu_Ni"&gt;... that 175 families helped to plant bamboo in Wang Wang and Fu Ni 's enclosure at Adelaide Zoo ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ephraim_Kishon"&gt;... that Holocaust survivor Ephraim Kishon had to play chess "well enough to stay alive but not so well that the commandant would kill him in a moment of anger"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_seaplane_carriers_of_China"&gt;... that six different ships were used as seaplane carriers in China ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gelimer"&gt;... that Vandal king Gelimer repeated the phrase "vanity of vanities, all is vanity" during his retirement of his royal rights before the Byzantine emperor Justinian I ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Canadian_Association_of_Stand-up_Comedians"&gt;... that the Canadian Association of Stand-up Comedians has lobbied to have stand-up comedy recognized as an art form?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francis_Clifford_Smith"&gt;... that Francis Clifford Smith was in prison in nine different decades?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Raj_of_Sarawak"&gt;1841 – Raja Muda Hashim, the uncle of Omar Ali Saifuddin II, Sultan of Brunei, conceded land to the British adventurer James Brooke to establish the Raj of Sarawak.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/HMA_No._1"&gt;1911 – His Majesty's Airship No. 1, Britain's first rigid airship, was wrecked by strong winds before her maiden flight at Barrow-in-Furness.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mogilev_Conference"&gt;1941 – Operation Barbarossa : A Wehrmacht training event known as the Mogilev Conference began, marking an increase in violence against Jews and other civilians in the areas under General Max von Schenckendorff 's command.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chinchaga_fire"&gt;1950 – The "Great Smoke Pall", generated by the Chinchaga fire, the largest recorded fire in North American history, was first recorded in present-day Nunavut and may eventually have circled the entire globe.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Warren_Commission"&gt;1964 – The Warren Commission released its report to the U.S. president, concluding that Lee Harvey Oswald acted alone in the assassination of John F. Kennedy.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"&gt;Italian parliament votes for return to nuclear energy&lt;/a&gt; — Italy's parliament has voted to return to nuclear energy. (&lt;a href="https://news.ycombinator.com/item?id=49819221"&gt;discussion&lt;/a&gt;, 798 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"&gt;Claude discovers a novel enzyme system with CRISPR-like repeats&lt;/a&gt; — Anthropic's new life-sciences research group had Claude autonomously search DNA databases and discover a novel enzyme system with an array of repeats reminiscent of CRISPR, a step toward AI-accelerated biological discovery. (&lt;a href="https://news.ycombinator.com/item?id=49820134"&gt;discussion&lt;/a&gt;, 659 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"&gt;Claude Code reads AGENTS.md only when telemetry is on [fixed]&lt;/a&gt; — A deep-dive shows Claude Code silently skips loading a project's AGENTS.md instructions unless a remote telemetry-gated feature flag can be fetched, meaning users who disable telemetry never get the file read, with no warning shown. (&lt;a href="https://news.ycombinator.com/item?id=49814947"&gt;discussion&lt;/a&gt;, 470 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pointinthecloud.com/2026-04-11-211700.html"&gt;Fixing the Portobello Police Station Clock&lt;/a&gt; — A volunteer recounts climbing into the 19th-century clock tower of a community-owned former police station in Portobello to figure out how to reset the mechanical clock's time and chime mechanism. (&lt;a href="https://news.ycombinator.com/item?id=49817469"&gt;discussion&lt;/a&gt;, 448 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"&gt;Linux support is coming to Snapdragon X2 Series&lt;/a&gt; — Qualcomm announced that Linux support is coming to its Snapdragon X2 Series chips. (&lt;a href="https://news.ycombinator.com/item?id=49823582"&gt;discussion&lt;/a&gt;, 425 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://michaelheap.com/i-dont-want-the-details/"&gt;I don't want the details&lt;/a&gt; — An essay argues that executives who say "I don't want the details" after an incident aren't being dismissive — they're pushing teams past reassuring explanations toward actual systemic fixes. (&lt;a href="https://news.ycombinator.com/item?id=49815466"&gt;discussion&lt;/a&gt;, 406 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/"&gt;Seattle City Council votes to ban surveillance pricing in sale of groceries&lt;/a&gt; — Seattle's City Council passed a bill barring grocers from using shoppers' personal data to show them different prices, which would make it the first U.S. city to ban such surveillance pricing if signed. (&lt;a href="https://news.ycombinator.com/item?id=49816374"&gt;discussion&lt;/a&gt;, 350 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/cmdbNijFsopqfqEq7/jensen-huang-says-if-we-cannot-align-ai-shut-down-the-ai"&gt;Jensen Huang Says If We Cannot Align AI, Shut Down the AI Labs&lt;/a&gt; by Ben Pace — Highlights NVIDIA CEO Jensen Huang's surprising on-record statement that labs should not ship AI they can't align, despite his history of dismissing AI risk talk. (138 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/jszKCKwvzfmsNetNZ/miri-s-position-on-the-ban-artificial-superintelligence-act"&gt;MIRI's Position on the Ban Artificial Superintelligence Act of 2026&lt;/a&gt; by Aaron_Scher — MIRI endorses the Ban Artificial Superintelligence Act as the first legislation that directly confronts extinction risk from ASI, while flagging gaps like the lack of AI chip tracking. (120 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HekpnSkrt89tMm3Dc/i-am-an-ai-safety-researcher"&gt;"I am an AI Safety Researcher"&lt;/a&gt; by Ashe Vazquez Nuñez — Argues the "safety" vs. "capabilities" distinction in AI research is fraught, using interpretability's drift toward incrementalism as an example, and proposes how researchers can avoid contributing to capabilities. (78 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl"&gt;Why I'm scared of RL&lt;/a&gt; by owencb — Explains growing unease about reinforcement learning as a source of misaligned agency, citing recent incidents and the risk that RL environments could teach manipulation. (77 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"&gt;Latent reasoning architectures would undermine CoT, our strongest oversight tool&lt;/a&gt; by Lukas Finnveden — Argues that a shift to latent reasoning architectures replacing chain-of-thought would remove one of the best current tools for monitoring AI cognition, making oversight of large agent swarms much harder. (75 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ZprfxCZthEir5WNev/the-first-american-bill-to-ban-superintelligent-ai-is-here"&gt;The First American Bill to Ban Superintelligent AI Is Here&lt;/a&gt; by Andrea_Miotti — ControlAI reacts to Sen. Sanders and Rep. Casar's newly introduced Ban Artificial Superintelligence Act, praising its focus on banning ASI at home and abroad while suggesting a more narrowly tailored approach. (66 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/csRby7mZgjL5jCoLL/thoughts-on-the-persona-selection-model"&gt;Thoughts on the persona selection model&lt;/a&gt; by Sam Marks — Revisits the "persona selection model" of LLM behavior, arguing it's often over-applied to claim AI takeover risk is low, and that observed personas seem narrower and more conditional than expected. (56 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-24.html"/>
-    <published>2026-09-24T07:00:00-04:00</published>
   </entry>
 </feed>
