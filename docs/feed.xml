@@ -2,13 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-25T10:30:31.653230+00:00</updated>
+  <updated>2026-10-26T10:30:31.802503+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-26</id>
+    <title>Daily Digest — Monday, October 26, 2026</title>
+    <updated>2026-10-26T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amiet_market_massacre"&gt;A drone attack on a market in the disputed Abyei region on the South Sudan–Sudan border kills at least 220 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson amid fuel and student protests in France.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Da_Mao_and_Er_Shun"&gt;... that the male panda Da Mao replaced Er Shun's female companion after zoologists discovered that Er Shun was actually female?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Somyev_language"&gt;... that the Somyev language, spoken by just two people in 2010, became endangered due in part to the importation of hoes?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/How_to_DAD"&gt;... that How to DAD has made a video titled "How to get a baby to clean the house"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rossini_in_Wildbad"&gt;... that Rossini in Wildbad is an annual festival of bel canto opera held at the spa in Bad Wildbad, where Gioachino Rossini stayed in 1856?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Esperanza_S%C3%A1nchez_Mastrapa"&gt;... that the first Afro-Cuban woman elected to the Congress of Cuba was both a communist and a pharmacist?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rider_Tavern"&gt;... that the Marquis de Lafayette stopped at the Rider Tavern during his 1824 US tour and reviewed the local militia?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Todoroki_Hajime"&gt;... that Todoroki Hajime 's viral song "Konkokonkonkonkonkonkon" derives from a noise that she made while playing a horror game?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ordinary_World_(film)"&gt;... that Billie Joe Armstrong smashed eight guitars while filming Ordinary World ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Invention_Secrecy_Act"&gt;... that the U.S. government can use the Invention Secrecy Act to make new inventions classified?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Byzantine_civil_war_of_1341%E2%80%931347"&gt;1341 – The Byzantine army proclaimed chief minister John VI Kantakouzenos as emperor, triggering a civil war between his supporters and those of John V Palaiologos, the heir to the throne.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1871_Liberian_coup_d%27%C3%A9tat"&gt;1871 – Liberian president Edward James Roye was overthrown in modern Africa's first coup d'état.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Illinois_Memorial"&gt;1906 – The Illinois Memorial, honoring Union army soldiers from Illinois who fought at the Siege of Vicksburg, was dedicated at Vicksburg National Military Park.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty"&gt;1994 – Israel and Jordan signed a peace treaty, settling relations between the two countries and pledging that neither would allow its territory to become a staging ground for military strikes by a third country.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lynchlab.net/llm-skin-cancer"&gt;A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis&lt;/a&gt; — On 200 biopsy-proven lesions, a fine-tuned Inception v3 named the right diagnosis for 62% versus 42% for GPT-6 Astra and Claude Fable 5.1, though the author cautions the sample is small and each LLM case was run once. (&lt;a href="https://news.ycombinator.com/item?id=50233779"&gt;discussion&lt;/a&gt;, 566 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://imaginationlibrary.com/"&gt;Dolly Parton's Imagination Library&lt;/a&gt; — The program, started in 1995, mails free books monthly to children from birth to age five in the US, Canada, UK, Australia and Ireland through funding from Parton and local partners. (&lt;a href="https://news.ycombinator.com/item?id=50234474"&gt;discussion&lt;/a&gt;, 549 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://talkweb.eu/openweb/4558/"&gt;I refuse to accept a censored Internet. Join Me at FOSDEM 27&lt;/a&gt; — A call for speakers to the Digital Dissident devroom, which aims to examine the whole chain of tools (circumvention, private messaging, evidence handling, safe publishing) that people under authoritarian regimes depend on. (&lt;a href="https://news.ycombinator.com/item?id=50233929"&gt;discussion&lt;/a&gt;, 476 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"&gt;Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop&lt;/a&gt; — Eugene quoted Double Sided Media about $2.48 million for records on an officer's alleged misconduct, which the piece argues is a deliberate effort to deter the request by refusing to narrow the search. (&lt;a href="https://news.ycombinator.com/item?id=50234232"&gt;discussion&lt;/a&gt;, 460 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"&gt;Lula wins election after final votes tallied&lt;/a&gt; — Reuters live coverage of Brazil's presidential runoff reports that Lula won once the final votes were counted; the article text wasn't available, so there are no further details. (&lt;a href="https://news.ycombinator.com/item?id=50237485"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic"&gt;Some Memories of Early Anthropic&lt;/a&gt; by Ivan Vendrov — A personal account of a junior role at Anthropic between October 2022 and May 2023, covering what drew the author in and their growing doubts about the work. (81 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight"&gt;San Francisco State University in Twilight&lt;/a&gt; by Zack_M_Davis — A reflective personal piece about sitting in on an advanced math class and attending a spectral graph theory seminar while feeling that the time left for such pursuits is short. (78 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in"&gt;From overeliciting to undereliciting LLM propensities in just a few months&lt;/a&gt; by David Africa — Argues that safety research has swung from over-eliciting misaligned behavior to under-eliciting it, with causes including models spotting tests, rapid capability gains and possible training against evals. (77 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/drteSvhc4fX3Tu9y7/a-cat-belling-problem-for-fdt"&gt;A cat-belling problem for FDT&lt;/a&gt; by jessicata — Argues that functional decision theory depends on "computational logical counterfactuals," which the author thinks are ill-posed, so FDT cannot be adequately formalized. (56 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=emergent-ventures-india-20th-cohort"&gt;Emergent Ventures India, 20th cohort&lt;/a&gt; — Lists the latest grant recipients, whose projects range from digitizing Zoroastrian manuscripts and AI tools for shopkeepers to biomolecular design, spacecraft servicing and low-cost fuel cell membranes.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-central-bankers-spend-their-time"&gt;How central bankers spend their time&lt;/a&gt; — An NBER paper analyzing the calendars of Bernanke, Yellen and Powell finds Fed Chairs spend over 30% of documented meetings with staff, and that Powell met lawmakers significantly more often.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=facts-about-breastfeeding"&gt;Facts about breastfeeding&lt;/a&gt; — A paper by Louis Henderson and Jane Humphries estimates the economic value of unpaid breastfeeding over five centuries, finding it was likely the largest human capital investment in early modern England and that rates probably fell as incomes rose.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-panic-patrol"&gt;The Panic Patrol&lt;/a&gt; — Alex Tabarrok points to the Panic Patrol, a project of the department of future corrections that reminds us of past panics, and highlights one case he wasn't aware of.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-26.html"/>
+    <published>2026-10-26T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-25</id>
     <title>Daily Digest — Sunday, October 25, 2026</title>
@@ -1518,45 +1572,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-26.html"/>
     <published>2026-09-26T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-25</id>
-    <title>Daily Digest — Friday, September 25, 2026</title>
-    <updated>2026-09-25T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Topsail_Hill_Preserve_State_Park"&gt;... that the U.S. Fish and Wildlife Service considers Topsail Hill Preserve State Park a genetic "reservoir" for the endangered Choctawhatchee beach mouse ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Epic_of_Samba_Gueladio"&gt;... that the Epic of Samba Gueladio has been interpreted as both glorifying violence against slaves and celebrating alliances across ethnicities?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jasmine_Sokko"&gt;... that Jasmine Wong 's stage name refers to the Finnish word for 'blind'?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Parliament_House,_Adelaide"&gt;... that the construction of South Australia's new Parliament House in Adelaide began in 1885, but its eastern half was not completed until 1939?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Victor_Amalraj"&gt;... that Victor Amalraj captained three professional football clubs based in Kolkata?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/China"&gt;... that fewer than one in fifteen residents of China live in the western 64 percent of the country?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bahrija_Nuri_Had%C5%BEi%C4%87"&gt;... that Bahrija Nuri Hadžić was criticised by supporters of the Serbian Orthodox Church for her portrayal of Salome ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Meghalaya_border_fencing_protests"&gt;... that villages in India along the border with Bangladesh have protested against a proposed border fence that would leave them inside Indian territory, but beyond the fence?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clint_Reilly"&gt;... that one of Clint Reilly 's clients called him "Satan"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tacitus_(emperor)"&gt;275 – After the assassination of Aurelian, Tacitus (depicted) was chosen by the Senate to succeed him as Roman emperor.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"&gt;1066 – Harold Godwinson defeated King Harald III of Norway and his English ally Tostig Godwinson at the Battle of Stamford Bridge, ending the last Norse invasion of the British Isles.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Longue-Pointe"&gt;1775 – American Revolutionary War : Ethan Allen and a small force of American and Quebec militia failed to capture the city of Montreal from British forces.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Invasion_of_Cura%C3%A7ao_(1800)"&gt;1800 – French Revolutionary Wars : After U.S. ships became involved, French forces abandoned their invasion of the Batavian island of Curaçao.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pacific_Southwest_Airlines_Flight_182"&gt;1978 – While on approach to San Diego International Airport, Pacific Southwest Airlines Flight 182, a Boeing 727, collided with a Cessna 172, killing all 137 people on board both aircraft, along with 7 more on the ground.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"&gt;F-Droid 2.0&lt;/a&gt; — F-Droid has released a complete redesign of its Android app, rebuilt with Kotlin Compose and simplified into Discover, Search, and My Apps sections to make it easier to find and manage free and open source apps. (&lt;a href="https://news.ycombinator.com/item?id=49831968"&gt;discussion&lt;/a&gt;, 1259 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://macanorak.com/two-tier-encryption-in-the-uk/"&gt;Two-tier encryption in the UK&lt;/a&gt; — A look at how the UK's secret Technical Capability Notice against Apple, issued under the Investigatory Powers Act, led Apple to withdraw Advanced Data Protection for new UK iCloud users, creating two classes of iPhone owners with different encryption guarantees. (&lt;a href="https://news.ycombinator.com/item?id=49828731"&gt;discussion&lt;/a&gt;, 460 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://dynomight.substack.com/p/liver"&gt;Why is the liver so weirdly regenerative?&lt;/a&gt; — An exploration of why the liver heals without scars and regrows after damage while most other organs (kidneys, brains, gums) degrade irreversibly, framed as a speculative unifying theory of why the body is built this way. (&lt;a href="https://news.ycombinator.com/item?id=49832938"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-25.html"/>
-    <published>2026-09-25T07:00:00-04:00</published>
   </entry>
 </feed>
