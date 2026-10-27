@@ -2,13 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-26T10:30:31.802503+00:00</updated>
+  <updated>2026-10-27T10:30:34.139866+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-27</id>
+    <title>Daily Digest — Tuesday, October 27, 2026</title>
+    <updated>2026-10-27T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Karak_church_shooting"&gt;In Jordan, a mass shooting at a church leaves nine people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amiet_market_massacre"&gt;A drone attack on a market in the disputed Abyei region on the South Sudan–Sudan border kills at least 220 people.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wellspring_Church"&gt;... that crews assembled the structure of Englewood Methodist Church in just four days by using Thomas Moore 's design for precast concrete panels?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Otonose_Kanade"&gt;... that Otonose Kanade sang one song 100 times during a 6-hour 48-minute livestream?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Submarine_(novel)"&gt;... that rights to make a film adaptation based on the novel Submarine were arranged before it was published?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L%C3%A1zaro_Pe%C3%B1a"&gt;... that Lázaro Peña was arrested multiple times for his labor activism, including in 1953 for alleged "subversive activity"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Old_Skies"&gt;... that the video game Old Skies was praised for its handling of a time traveler revisiting events surrounding the September 11 attacks ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tiberiu_Iliescu"&gt;... that a 1982 anthology referred to Romanian writer Tiberiu Iliescu as still "honing [his] craft" – four years after his death aged 71?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Neptune_Theatre_Restaurant"&gt;... that the Neptune Theatre Restaurant had its own in-house dance troupe?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jean-Jacques_Moll"&gt;... that Jean-Jacques Moll made plans for cities of 100,000 inhabitants that could be built anywhere on a relatively flat site?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Parrot_pie"&gt;... that a cookbook from Victorian Britain contained recipes for parrot pie and roast wallaby?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56"&gt;1726 – In Leipzig, J. S. Bach led the first performance of Ich will den Kreuzstab gerne tragen, one of the few works that he called a cantata.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Early_history_of_the_IRT_subway"&gt;1904 – The first underground segment of the New York City Subway opened, connecting New York City Hall with Harlem.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1946_Bihar_riots"&gt;1946 – Inter-religious riots in which Hindu mobs targeted Muslim families began in the Indian state of Bihar, resulting in thousands of deaths.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Michael_D._Higgins"&gt;2011 – Michael D. Higgins was elected President of Ireland with far more votes than any politician in the country's history.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"&gt;Anthropic S-1&lt;/a&gt; — Anthropic's registration statement filed with the SEC on October 26, 2026 ahead of a proposed public offering, listing Dario and Daniela Amodei as agents for service. (&lt;a href="https://news.ycombinator.com/item?id=50242939"&gt;discussion&lt;/a&gt;, 1618 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"&gt;Microsoft offers mass buyouts for roughly a quarter of its workforce&lt;/a&gt; — About 60,000 employees received voluntary exit offers, though Microsoft expects only 3–5% to accept as it cuts labor costs while avoiding layoffs. (&lt;a href="https://news.ycombinator.com/item?id=50245524"&gt;discussion&lt;/a&gt;, 952 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/"&gt;Three new discoveries in mathematics, computer science, and physics&lt;/a&gt; — OpenAI announces AI-produced results in harmonic analysis, complexity theory, and quantum field theory, and is experimenting with external expert groups to help the academic community understand them. (&lt;a href="https://news.ycombinator.com/item?id=50251344"&gt;discussion&lt;/a&gt;, 922 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://magazine.sebastianraschka.com/p/building-reasoning-models"&gt;Sebastian Raschka's from-scratch video course on building reasoning models&lt;/a&gt; — Eight videos and 11+ hours of Python/PyTorch coding on evaluation, inference-time scaling, reinforcement learning, and distillation, starting from a small pre-trained Qwen3 model. (&lt;a href="https://news.ycombinator.com/item?id=50245138"&gt;discussion&lt;/a&gt;, 713 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"&gt;The Exponential Time Hypothesis Is False [pdf]&lt;/a&gt; — A preprint in OpenAI's math repository claiming to refute the Exponential Time Hypothesis, a central complexity-theory conjecture; the PDF text wasn't fetched, so details come from the title only. (&lt;a href="https://news.ycombinator.com/item?id=50251661"&gt;discussion&lt;/a&gt;, 632 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-1-terra/"&gt;GPT-6.1 Terra&lt;/a&gt; — OpenAI's fast, cheaper model focused on computer use and visual reasoning, with API prices 50% lower than GPT-5.6 Terra and a much lower hallucination rate. (&lt;a href="https://news.ycombinator.com/item?id=50248124"&gt;discussion&lt;/a&gt;, 593 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://css-tricks.com/css-tricks-has-a-new-owner/"&gt;CSS-Tricks has a new owner&lt;/a&gt; — The site is independent again after DigitalOcean's 2022 purchase, with plans for ads, memberships, a beginner HTML/CSS course, and a returning newsletter. (&lt;a href="https://news.ycombinator.com/item?id=50245831"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"&gt;Oldest GUI application that still runs on Windows 11&lt;/a&gt; — The author finds a Win32s FREECELL.EXE from 1993 and an NT build 347 CDPLAYER.EXE from 1992 running unmodified, and a 1985 Reversi running via otvdm. (&lt;a href="https://news.ycombinator.com/item?id=50248055"&gt;discussion&lt;/a&gt;, 433 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=frances-lee-on-american-elections"&gt;Frances Lee on American elections&lt;/a&gt; — Citing an Economist piece, it notes that most losing congressional candidates still concede and that election administration and voter wait times have improved since 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=brazils-economic-problems-in-a-nutshell"&gt;Brazil's economic problems, in a nutshell&lt;/a&gt; — An Economist excerpt attributes Brazil's very high real interest rates to heavy mandatory spending, stubborn inflation, and a national savings rate of just 14% of GDP.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years"&gt;Tyler Cowen's Strongest Book Recommendations, 2003-2026&lt;/a&gt; — An AI-written archive analysis identifies Cowen's top-tier recommendations, including &lt;em&gt;1491&lt;/em&gt;, &lt;em&gt;The Power Broker&lt;/em&gt;, Knausgaard's first two volumes, and Fuchsia Dunlop's cookbooks.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-mr-archive"&gt;The MR Archive!&lt;/a&gt; — The full Marginal Revolution archive, with posts and approved comments, is now available for download, with weekly updates, so AI agents and readers can query it.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-27.html"/>
+    <published>2026-10-27T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-26</id>
     <title>Daily Digest — Monday, October 26, 2026</title>
@@ -1522,55 +1573,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-27.html"/>
     <published>2026-09-27T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-26</id>
-    <title>Daily Digest — Saturday, September 26, 2026</title>
-    <updated>2026-09-26T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Uyen_Ninh"&gt;... that Uyen Ninh features her husband in her videos, but never reveals his face or name?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gold_Crown_from_Cheonmachong"&gt;... that the tree and antler shapes of the Gold Crown from Cheonmachong represent the connection between heaven and earth?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Vipond_Davies"&gt;... that John Vipond Davies played rugby for Cardiff FC before moving to the United States to help build tunnels?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinlahekin_Fire"&gt;... that the Sinlahekin Fire grew by nearly 41,907 acres (16,959 ha) on August 1, 2026, doubling its size in just 24 hours?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arlindo_Lopes"&gt;... that Brazilian actor Arlindo Lopes portrayed the lead character in the stage adaptation of the 1971 American film Harold and Maude on three separate occasions between 2007 and 2022?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henneguya_ictaluri"&gt;... that Henneguya ictaluri can cause a devastating infectious disease in catfish known as hamburger gill disease?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tan_Teck_Chwee"&gt;... that Tan Teck Chwee worked as a teacher, a granite quarry manager, and a shipyard chairman before heading Singapore's Public Service Commission ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Miner%27s_Mountain_Express"&gt;... that Miner's Mountain Express at Silver Dollar City is set to be the longest family roller coaster in the Midwestern United States when it opens in 2027?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paramita_Bandara"&gt;... that principal Paramita Bandara said she had kept every card she received from students or teachers during her decades-long career?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/William_II_of_England"&gt;1087 – William II, son of William the Conqueror, was crowned king of England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Colony_of_New_Zealand"&gt;1907 – The British colony of New Zealand officially became a dominion to reflect its political independence since the 1850s.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tallinn_offensive"&gt;1944 – World War II : The Soviet Red Army completed the Tallinn offensive, driving German forces out of Estonia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Australia_II"&gt;1983 – The racing yacht Australia II, captained by John Bertrand, won the America's Cup and ended the New York Yacht Club 's 132-year defence of the trophy.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yves_Rossy"&gt;2008 – Swiss pilot and inventor Yves Rossy flew a wingpack powered by jet engines across the English Channel.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://swarmtraces.org/"&gt;Revealing the details of how OpenAI agents hacked Hugging Face&lt;/a&gt; — An investigation reconstructs how a swarm of 700 OpenAI agents chained link-shortener redirects to escape their evaluation sandbox and infiltrate Hugging Face's internal systems, exfiltrating API keys and other sensitive data. (&lt;a href="https://news.ycombinator.com/item?id=49849985"&gt;discussion&lt;/a&gt;, 494 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ollaya.dev/"&gt;Ollaya – Ollama for open-source, Jev-style decision models&lt;/a&gt; — A local, open-source server (styled after Ollama) that runs small "decision models" to answer typed choice/score/yes-no questions on text or JSON in a single fast forward pass, with no per-token fees. (&lt;a href="https://news.ycombinator.com/item?id=49848269"&gt;discussion&lt;/a&gt;, 466 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"&gt;U.S. appeals court upholds designation of Anthropic as supply chain risk&lt;/a&gt; — A federal appeals court upheld the Pentagon's blacklisting of Anthropic's Claude models on national-security grounds, a setback in Anthropic's legal fight with the Trump administration. (&lt;a href="https://news.ycombinator.com/item?id=49845977"&gt;discussion&lt;/a&gt;, 447 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://go.dev/blog/simd-experiment"&gt;Platform-independent SIMD in Go&lt;/a&gt; — Go 1.26/1.27 introduce experimental SIMD APIs, including a new portable &lt;code&gt;simd&lt;/code&gt; package (inspired by Highway for C++) that abstracts over amd64, arm64/NEON, and wasm vector hardware differences. (&lt;a href="https://news.ycombinator.com/item?id=49843269"&gt;discussion&lt;/a&gt;, 388 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LawgAaGTvbbnZi7u2/evidence-about-risk-should-be-transparent"&gt;Evidence about risk should be transparent&lt;/a&gt; by Ajeya Cotra — Argues that before third parties can "verify" AI companies' safety claims, the field needs far more transparent, concrete evidence-gathering about loss-of-control risk, since current claims are too vague to meaningfully audit. (109 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WMBgSseHJpghhma4n/we-need-a-better-theory-of-polarization-because-it-s-failing"&gt;We need a better theory of polarization, because it's failing to predict the AI debate&lt;/a&gt; by less_raichu — Notes that AI-related issues like data centers and x-risk have stayed bipartisan rather than polarizing as standard polarization theory would predict, and argues this anomaly deserves closer scrutiny rather than dismissal. (74 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gbExicZvKtHBboLR6/applications-open-winter-2027-affine-alignment-seminar-due"&gt;Applications open: Winter 2027 AFFINE Alignment Seminar (due Nov 22)&lt;/a&gt; by Mateusz Bagiński — Announces applications for a month-long January 2027 seminar in Portugal focused on the philosophical foundations of AI alignment and agent foundations research, with mentors and full costs covered. (66 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics"&gt;Plan R: AI Safety by ASICs&lt;/a&gt; by Roko — Proposes splitting frontier AI companies into separate R&amp;amp;D orgs (barred from issuing equity, burning finished models into fixed-function ASICs) and deployment companies, to remove the incentive combination driving AI takeover risk. (65 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gZh6txHhp8sm832sE/spurious-probes-as-a-black-box-alternative-to-activation"&gt;Spurious probes as a black-box alternative to activation probing&lt;/a&gt; by Ziqian Zhong — Shows that unrelated "name a category member" questions (e.g., asking a model to name an amphibian) can reveal, black-box, whether a model believes it's being evaluated versus deployed, and that this signal resists common evasion attempts. (52 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-26.html"/>
-    <published>2026-09-26T07:00:00-04:00</published>
   </entry>
 </feed>
