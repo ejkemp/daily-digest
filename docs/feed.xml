@@ -2,13 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-27T10:30:34.139866+00:00</updated>
+  <updated>2026-10-28T10:30:35.079893+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-28</id>
+    <title>Daily Digest — Wednesday, October 28, 2026</title>
+    <updated>2026-10-28T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Brazilian_general_election"&gt;Luiz Inácio Lula da Silva is re-elected President of Brazil, while the Liberal Party retain a plurality of seats in both houses of the National Congress in the general election.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Karak_church_shooting"&gt;In Jordan, a mass shooting at a church leaves nine people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quaking_pudding"&gt;... that quaking puddings were sometimes flavored with ambergris ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sarah_Jakes_Roberts"&gt;... that pastor Sarah Jakes Roberts once removed her wig while preaching?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Uruguayan_Regional_Workers%27_Federation"&gt;... that a general strike by the Uruguayan Regional Workers' Federation forced the government to establish an eight-hour working day?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ramon_Borrego"&gt;... that Ramon Borrego retired from professional baseball because he was too small?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WD_J1330%2B6435"&gt;... that the white dwarf star WD J1330+6435 has been described as having a green hue?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lauren_Aston"&gt;... that the knitter Lauren Aston was stunned to discover that her stockings were bought by the Beckhams?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/IPhone_Duo"&gt;... that Apple had to redesign its operating system to accommodate the iPhone Duo 's form factor?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Phillip_Butah"&gt;... that Phillip Butah won an award organised by Ed Sheeran's parents, and went on to illustrate the cover of the singer's debut album?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Waipiro_Stream"&gt;... that " putrid, stinking water " once ran through what is now New Zealand's parliament?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"&gt;312 – Civil wars of the Tetrarchy : Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"&gt;1453 – Ladislaus the Posthumous was crowned King of Bohemia, although George of Poděbrady remained in control of the government.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statue_of_Liberty"&gt;1886 – In New York Harbor, U.S. president Grover Cleveland dedicated the Statue of Liberty, a gift from France commemorating the Declaration of Independence.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2013_Tiananmen_Square_attack"&gt;2013 – Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ghostty.org/docs/install/release-notes/1-4-0"&gt;Ghostty 1.4&lt;/a&gt; — A major release with performance and memory gains, a complete Kitty graphics implementation, and fixes for a batch of security advisories including paste protection, tmux control mode, and macOS hyperlink handling. (&lt;a href="https://news.ycombinator.com/item?id=50261998"&gt;discussion&lt;/a&gt;, 1040 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"&gt;US Government is hiding a secret court ruling about how it spies on Americans&lt;/a&gt; — Senators Wyden and Schiff say the administration is withholding a FISA court ruling on Section 702 search filters past its 180-day release window while pressing Congress to reauthorize the program. (&lt;a href="https://news.ycombinator.com/item?id=50259604"&gt;discussion&lt;/a&gt;, 945 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"&gt;Genie 4&lt;/a&gt; — A DeepMind post announcing Genie 4, described as a new generation of world simulation; the article text wasn't retrievable, so details are limited to the title. (&lt;a href="https://news.ycombinator.com/item?id=50261319"&gt;discussion&lt;/a&gt;, 905 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://oioannou.com/blog/ai-promised-less-work/"&gt;AI promised less work. I've never worked more&lt;/a&gt; — An engineering executive uses their GitHub history to show that managing many parallel AI agents has pushed their activity back to or above early-career levels, and that the constant context switching is draining. (&lt;a href="https://news.ycombinator.com/item?id=50257325"&gt;discussion&lt;/a&gt;, 641 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"&gt;Anthropic trained Claude on illegally obtained Stanford professors' books&lt;/a&gt; — The Stanford Daily reports that professors whose books were pirated for training opted out of the Bartz settlement and filed a separate suit seeking higher statutory damages and an injunction. (&lt;a href="https://news.ycombinator.com/item?id=50260814"&gt;discussion&lt;/a&gt;, 523 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"&gt;Python's experimental JIT to be removed&lt;/a&gt; — After the steering council paused work and requested a standards-track PEP, the JIT maintainers withdrew PEP 836, leaving development of CPython's experimental JIT apparently at an end. (&lt;a href="https://news.ycombinator.com/item?id=50257419"&gt;discussion&lt;/a&gt;, 512 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"&gt;Wikipedia's Cleanup of AI-Generated Content&lt;/a&gt; — IEEE Spectrum looks at how WikiProject AI Cleanup editors work to keep Wikipedia human-written even as AI text gets harder to spot. (&lt;a href="https://news.ycombinator.com/item?id=50257326"&gt;discussion&lt;/a&gt;, 479 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"&gt;Police are using AI to pull over drivers for 'suspicious' behavior&lt;/a&gt; — The ACLU warns that license plate readers and AI tools are being used to flag drivers for travel patterns alone, amid growing backlash against vendors like Flock. (&lt;a href="https://news.ycombinator.com/item?id=50261819"&gt;discussion&lt;/a&gt;, 371 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"&gt;New 14‑inch MacBook Pro with M6&lt;/a&gt; — Apple announces the M6 14-inch MacBook Pro, claiming up to 1.3x gains over M5 in LLM prompt processing and builds, with pre-orders from October 28 and shipping from November 6. (&lt;a href="https://news.ycombinator.com/item?id=50261352"&gt;discussion&lt;/a&gt;, 365 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.brangus.io/survival-llm"&gt;Survival LLM: AI assistant and emergency library that runs on your own computer&lt;/a&gt; — A free, open-source offline assistant that answers from a local library of medical, emergency, and repair references (including Wikipedia) and shows the sources behind each answer. (&lt;a href="https://news.ycombinator.com/item?id=50264853"&gt;discussion&lt;/a&gt;, 358 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HuQAuWjc2Z5tqCjyw/scattered-thoughts-on-how-doing-math-feels-these-days"&gt;Scattered thoughts on how doing math feels these days&lt;/a&gt; by dynomight — A mathematician's time capsule on AI making them roughly 50% more productive, with humans still needed because AI is poor at abstraction and clear writing. (127 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ea9fGFKxJhh2bF9rp/ai-speeds-up-3rd-party-safety-researchers-by-1-6x-via-self"&gt;AI speeds up 3rd party safety researchers by ~1.6x (via self-reports)&lt;/a&gt; by Angel Martinez — A survey of 52 third-party AI safety professionals found a median self-reported speedup of 1.58x, concentrated in building and running experiments rather than conceptual work. (81 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=is-whos-on-first-funny"&gt;Is “Who’s on First?” funny?&lt;/a&gt; — Tyler Cowen says the skit isn't funny but offers a reading of it as commentary on the establishment stonewalling an immigrant, while noting it plays on ethnic prejudices.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=nyt-debate-on-the-rules-for-ai-companies"&gt;NYT debate on the rules for AI companies&lt;/a&gt; — Tyler Cowen shares an excerpt from a five-person NYT symposium in which he defends federal pre-emption of state AI laws, noting most of the panel disagreed with him.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok"&gt;Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok&lt;/a&gt; — An archive roundup, noted as written by ChatGPT, of eleven reviews (five by Cowen, six by Tabarrok) chosen for the quality of their criticism, including pieces on The Devil Wears Prada, Fleabag, Toni Erdmann, and Perfect Days.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-28.html"/>
+    <published>2026-10-28T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-27</id>
     <title>Daily Digest — Tuesday, October 27, 2026</title>
@@ -1533,45 +1590,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-28.html"/>
     <published>2026-09-28T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-27</id>
-    <title>Daily Digest — Sunday, September 27, 2026</title>
-    <updated>2026-09-27T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/78th_Primetime_Emmy_Awards"&gt;At the Primetime Emmy Awards, Widow's Bay wins Outstanding Comedy Series, and The Pitt wins Outstanding Drama Series.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Turkish_LGBTQ_raids"&gt;In Turkey, hundreds of people are arrested in a crackdown on LGBTQ expression and subsequent protests.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Troubles_of_a_Gnome"&gt;... that The Troubles of a Gnome, described as one of the finest introductions to Polish fairy-tale literature available in English, is set in its author's own manor and features her children?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jacek_Stryjenski"&gt;... that artist Jacek Stryjenski designed a ceiling studded with 1,200 illuminated glass stars for the Grand Théâtre de Genève ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Radiant_Nuclear"&gt;... that a factory making portable nuclear reactors is being built on an old Manhattan Project site in Tennessee?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tsuri_Sagi"&gt;... that Tsuri Sagi was personally gifted a bear cub by Kurdish rebel leader Mustafa Barzani ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Captive_audience_meeting"&gt;... that Trump's NLRB general counsel called for the re-legalization of captive audience meetings, in which employees are often coerced to listen to anti-union speeches?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roy_White_(American_football)"&gt;... that a future NFL player was on the first American vessel lost in World War I?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cikini_Incident"&gt;... that Sukarno interrupted a puppetry broadcast to announce that he had survived a 1957 assassination attempt ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Febb_Burn"&gt;... that the right of women to vote in the United States was decided by a single letter from a Tennessee schoolteacher ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Child_of_the_Sun"&gt;... that Frank Lloyd Wright used urine in the construction of a college campus ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Melno"&gt;1422 – The Treaty of Melno was signed, establishing the Prussian–Lithuanian border, which afterwards remained unchanged for about 500 years.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ellen_Southard"&gt;1875 – The merchant ship Ellen Southard was wrecked in a storm at Liverpool, England; the U.S. Congress subsequently awarded 27 Gold Lifesaving Medals to the men who rescued her crew.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tripartite_Pact"&gt;1940 – World War II : Nazi Germany, Fascist Italy and the Empire of Japan signed the Tripartite Pact in Berlin, officially forming a military alliance known as the Axis.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_China"&gt;1949 – Members of the Chinese People's Political Consultative Conference unanimously selected Zeng Liansong 's design for the flag of China.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2014_Mount_Ontake_eruption"&gt;2014 – Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://gultsch.de/posts/breaking-up-with-google-play/"&gt;Breaking Up with Google Play: Why Conversations Is Now Free&lt;/a&gt; — The developer of the Conversations XMPP messaging app explains why, after a decade of Play Store revenue paying his rent, he's ending the paid model due to worsening app review delays, a 15% cut, and years of unresponsive support from Google. (&lt;a href="https://news.ycombinator.com/item?id=49855315"&gt;discussion&lt;/a&gt;, 665 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"&gt;I'm the mom in that viral Giants clip. Let me tell you about my husband&lt;/a&gt; — The woman from a viral baseball broadcast clip pushes back on internet commentary mocking her husband, describing the full context of their exchange and the personal grief he was quietly processing that night. (&lt;a href="https://news.ycombinator.com/item?id=49857899"&gt;discussion&lt;/a&gt;, 513 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-27.html"/>
-    <published>2026-09-27T07:00:00-04:00</published>
   </entry>
 </feed>
