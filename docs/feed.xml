@@ -2,13 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-28T10:30:35.079893+00:00</updated>
+  <updated>2026-10-29T10:30:42.553021+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-29</id>
+    <title>Daily Digest — Thursday, October 29, 2026</title>
+    <updated>2026-10-29T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision"&gt;At least 68 people are killed in a collision between two high-speed trains in Toledo province, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Brazilian_general_election"&gt;Luiz Inácio Lula da Silva is re-elected President of Brazil.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Karak_church_shooting"&gt;In Jordan, a mass shooting at a church leaves nine people dead.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Tibet_earthquake"&gt;At least 16 people are killed in a magnitude 7.0 earthquake in northern Tibet.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/William_Hartnell"&gt;... that William Hartnell never knew his father, despite claiming in interviews that he was the son of a soldier, stockbroker, or dairy farmer?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Crud_(radioactive_waste)"&gt;... that, contrary to popular belief, " crud " does not stand for "Chalk River unidentified deposits"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Women%27s_football_in_North_Korea"&gt;... that North Korean women's football teams have won three Asian Cups, three U20 World Cups and four U17 World Cups, despite the country's international isolation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maudy_Koesnaedi"&gt;... that Maudy Koesnaedi avoided press inquiries by saying her husband was pregnant?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Concerns_and_controversies_at_the_46th_Chess_Olympiad"&gt;... that Israel forfeited their sixth-round matches at the 46th Chess Olympiad due to the observance of Yom Kippur by their players ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Miguel_de_Jes%C3%BAs_Ch%C3%A1zaro_Basa%C3%B1ez"&gt;... that Mexican botanist Miguel de Jesús Cházaro Basañez, who described 11 species of Agave, died while reading a book on plants?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Physint"&gt;... that Hideo Kojima decided to produce Physint due to fans constantly asking him about making a new Metal Gear game, while dealing with illness and surgery during the COVID-19 pandemic?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Adelio_Paucara"&gt;... that Adelio Paucara taught mathematics at rural schools before joining the Red Ponchos, a radical Aymara force that confronted the Bolivian military?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Furry_fandom"&gt;... that members of the furry fandom are overrepresented in the IT industry?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1831_Bristol_riots"&gt;1831 – Rioting broke out in Bristol, England, after the Second Reform Bill failed during its passage through Parliament, causing 250 casualties and £300,000 of damage.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nanbu_clan"&gt;1868 – The Nanbu clan of Honshu surrendered to Japanese imperial forces during the Boshin War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kafr_Qasim_massacre"&gt;1956 – Suez Crisis : The Israel Border Police massacred 48 Arab citizens in Kafr Qasim, among them women and children who were returning from work.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/951_Gaspra"&gt;1991 – Galileo became the first spacecraft to visit an asteroid when it made a flyby of Gaspra.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://nullpt.rs/fingerprinting-bioweapons"&gt;Why is this fingerprinting script creating bioweapons?&lt;/a&gt; — After crawling 10,000 sites for canvas fingerprinting, the author found a script with alarming function names (e.g. ricin dosage calculators), likely anti-LLM obfuscation meant to trip model safeguards, which some models refused to deobfuscate. (&lt;a href="https://news.ycombinator.com/item?id=50276998"&gt;discussion&lt;/a&gt;, 1256 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"&gt;Evidence of a spying operation by ICE against left-wing social movements&lt;/a&gt; — Discovery in the "Minnesota 15" prosecution reveals a large HSI surveillance effort (undercover agents, drones, Patriot Act tools) that defense attorneys compare to COINTELPRO. (&lt;a href="https://news.ycombinator.com/item?id=50272749"&gt;discussion&lt;/a&gt;, 1139 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://emudhra.we-have-a-problem.com/apple.html"&gt;Apple's git still trusts the compromised eMudhra certificates&lt;/a&gt; — Developer tools shipped with macOS (git, curl, python3) still trust compromised eMudhra certificates days after Apple was notified, enabling HTTPS interception, and macOS 27.2 reverted users' manual workarounds. (&lt;a href="https://news.ycombinator.com/item?id=50271640"&gt;discussion&lt;/a&gt;, 1136 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"&gt;Gemini 4 Carbon&lt;/a&gt; — Google announces its new frontier model with state-of-the-art cybersecurity and long-horizon agentic capabilities, initially available only to a subset of cyber defenders. (&lt;a href="https://news.ycombinator.com/item?id=50276792"&gt;discussion&lt;/a&gt;, 938 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.apple.com/macbook-pro/proled-xdr-display/"&gt;MacBook Pro with PROLED XDR Display and Touch&lt;/a&gt; — Apple unveils MacBook Pros with a tandem OLED touchscreen, Dynamic Island, and M5 Pro/Max chips, available November 6th. (&lt;a href="https://news.ycombinator.com/item?id=50276940"&gt;discussion&lt;/a&gt;, 578 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/"&gt;Emacs Turns 50&lt;/a&gt; — A history of EMACS from its TECO roots at MIT's AI Lab in 1976 and its role in the rise of the free software movement. (&lt;a href="https://news.ycombinator.com/item?id=50273171"&gt;discussion&lt;/a&gt;, 486 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://divagr.com/blog/qwenputer"&gt;Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5&lt;/a&gt; — A modified Qwen 3.5 4B has a RISC-V CPU compiled into its weights, using Gated DeltaNet layers as exact RAM, running code entirely within forward passes. (&lt;a href="https://news.ycombinator.com/item?id=50282838"&gt;discussion&lt;/a&gt;, 482 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://carmelitegothic.com/cnc-stone-carving/"&gt;CNC Stone Carving&lt;/a&gt; — Carmelite monks explain how they use 5-axis CNC stone-cutting machines to carve intricate Gothic church details in days rather than months. (&lt;a href="https://news.ycombinator.com/item?id=50274409"&gt;discussion&lt;/a&gt;, 474 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"&gt;StackOverflow now gets fewer than 1000 questions a month&lt;/a&gt; — A data query graph suggests StackOverflow's monthly question volume has collapsed to under a thousand. (&lt;a href="https://news.ycombinator.com/item?id=50282454"&gt;discussion&lt;/a&gt;, 467 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"&gt;Kentucky man becomes the first humanist granted religious exemption from AI&lt;/a&gt; — Per the title, a Kentucky humanist has been granted a religious exemption from using AI, a first. (&lt;a href="https://news.ycombinator.com/item?id=50273396"&gt;discussion&lt;/a&gt;, 460 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"&gt;Claude Code regularly sends each background agent's transcript to its model&lt;/a&gt; — A write-up claims Claude Code spends roughly 15–20% of tokens on periodic 3–5 word status summaries for background agents, with a Bun preload workaround to disable them. (&lt;a href="https://news.ycombinator.com/item?id=50284255"&gt;discussion&lt;/a&gt;, 387 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/fSaxGFMysTTeKxoMF/you-can-now-grok-on-lesswrong"&gt;You can now "@Grok" on LessWrong&lt;/a&gt; by Ruby — LessWrong adds an experimental feature letting users with 50+ karma tag an LLM (Grok, Claude, etc.) in comments, with full run details visible and outputs collapsed by default. (125 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/F3P5BSjNeAazKB7wm/reconceptualize-things-as-your-top-affordances"&gt;Reconceptualize things as your top affordances&lt;/a&gt; by KatjaGrace — Recasting problems into actions that come naturally to you (for the author, blogging and throwing parties) can make hard tasks much easier. (66 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dp3D39ztWDWFAN6nu/three-villages-in-a-trenchcoat-post-i"&gt;Three Villages in a Trenchcoat, Post I&lt;/a&gt; by DaystarEld — A therapist argues the rationality/EA community is village-like but lacks the infrastructure and monoculture of real villages, causing friction around dual roles and boundaries. (62 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"&gt;Anthropic Files Its S-1&lt;/a&gt; by Zvi — A close reading of Anthropic's S-1 covering finances, governance, slowed Q3 growth, compute commitments, and how little existential risk is emphasized. (59 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6ro3dngDGaLJaumYb/some-thoughts-on-graft-and-follow-up-work"&gt;Some thoughts on GRAFT and follow-up work&lt;/a&gt; by shawnghu — Notes on the GRAFT gradient-routing paper, its relation to scalable oversight, inoculation prompting and recontextualization, plus suggested follow-up research. (51 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=ai-hacking-risks"&gt;AI hacking risks&lt;/a&gt; — Tyler Cowen argues that even if AI-driven math breakthroughs threatened cryptography, layered defenses, staged advances, and market adjustments would likely prevent total insecurity.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=inequality-in-equal-land"&gt;Inequality in Equal Land&lt;/a&gt; — Alex Tabarrok highlights Adam Nash's thought experiment showing that in a perfectly equal society, wealth would still be highly unequal by age due to compounding.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-is-ai-shaping-economic-research"&gt;How is AI shaping economic research?&lt;/a&gt; — Tyler Cowen shares a paper finding AI narrows research productivity gaps for those without research assistants but widens the gap between senior and junior researchers.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman"&gt;Errors in the research of Emmanuel Saez and Gabriel Zucman&lt;/a&gt; — Tyler Cowen points to an AI-driven audit of 138 papers that found 2,035 problems, 147 serious enough to change a headline number, and calls for a radical reevaluation of the work.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-29.html"/>
+    <published>2026-10-29T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-28</id>
     <title>Daily Digest — Wednesday, October 28, 2026</title>
@@ -1542,53 +1605,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-29.html"/>
     <published>2026-09-29T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-28</id>
-    <title>Daily Digest — Monday, September 28, 2026</title>
-    <updated>2026-09-28T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_AFL_Grand_Final"&gt;In Australian rules football, the Brisbane Lions win their third premiership in a row, defeating Fremantle in the AFL Grand Final.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves at least 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tilcayo"&gt;The tilcayo, a new species of tiger cat, is formally identified.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"&gt;Former leader of Kosovo Hashim Thaçi is sentenced to 25 years in prison for war crimes during his leadership of the Kosovo Liberation Army.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Madyina_Ngulube"&gt;... that Madyina Ngulube thanked the president of Malawi on behalf of the women's national football team after he awarded each player a plot of land?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quetena"&gt;... that scientists considered the region around the volcano Quetena to be a viable area for a geothermal power plant in Bolivia?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L%C3%A9o_Kret"&gt;... that Léo Kret was allowed to use the name "Léo Kret do Brasil" on official documents following a ruling by the Civil Registry Court of Salvador?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ah_Boys_to_Men"&gt;... that small explosives, ten tons of rubble, and two military vehicles were brought into a financial district to film a sequence in Ah Boys to Men within one day?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maman_Sani_Maigochi"&gt;... that a Nigerien Army sergeant is also a musician who became prominent for performing pro-military music following the 2023 Nigerien coup d'état?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/EPO_(singer)"&gt;... that EPO 's third album was recorded in the style of a radio show, complete with jingles ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yeh_Cheng-min"&gt;... that the reconnaissance aircraft commanded by Yeh Cheng-min was shot down in the People's Liberation Army Air Force 's first successful nighttime aerial shootdown?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1879_Octagon_fire"&gt;... that Dunedin 's 1879 Octagon fire was the third major disaster in Otago within a year?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fritz_Metzger"&gt;... that Swiss architect Fritz Metzger designed a church with a floor plan shaped like a fish's belly?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pope_Pontian"&gt;235 – Pope Pontian resigned after being exiled to Sardinia, becoming the first pope to relinquish the position.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)"&gt;1821 – The Declaration of Independence of the Mexican Empire from Spain was drafted in the National Palace in Mexico City.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Balangiga_massacre"&gt;1901 – Philippine–American War : Filipino guerrillas killed more than forty American soldiers in a surprise attack on the town of Balangiga on the island of Samar.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Fernando_Rios"&gt;1958 – Fernando Rios, a Mexican tour guide in New Orleans, was killed in an instance of gay bashing.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sycamore_Gap_tree"&gt;2023 – The Sycamore Gap tree in Northumberland, England, was illegally felled.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://sancho.bearblog.dev/google-weird/"&gt;When did Google get so weird?&lt;/a&gt; — The author recounts Google's search AI Overview responding to a niche basketball-meme query with an oddly emotional, empathetic answer instead of links, prompting a broader complaint that search has become a strange parasocial chatbot experience. (&lt;a href="https://news.ycombinator.com/item?id=49870367"&gt;discussion&lt;/a&gt;, 1315 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://colo.to/nvidia-stock-narrative.html"&gt;Owed a billion dollars in Nvidia stock&lt;/a&gt; — A former NVIDIA technical advisor describes discovering decades later that his 1993 stock options were miscalculated as vesting over four years instead of one, and how pursuing the now-enormous (post-split) shortfall ended in a settlement after his attorneys concluded the statute of limitations was against them. (&lt;a href="https://news.ycombinator.com/item?id=49872723"&gt;discussion&lt;/a&gt;, 718 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fireworks.ai/blog/ember-1"&gt;Ember-1&lt;/a&gt; — Fireworks Research announces Ember-1, a model derived from Kimi K3 that trims reasoning-token usage by 40% while maintaining answer quality across benchmarks and live customer A/B tests. (&lt;a href="https://news.ycombinator.com/item?id=49868830"&gt;discussion&lt;/a&gt;, 467 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"&gt;On caring for user data: NeoVim caused Vim undo files to be deleted&lt;/a&gt; — A long-time Vim user recounts how NeoVim silently changed the persistent-undo file format, deleting old undo data without migration, and argues this reflects a broader lack of "duty of care" toward user data. (&lt;a href="https://news.ycombinator.com/item?id=49867067"&gt;discussion&lt;/a&gt;, 372 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"&gt;There are no "rogue" AI agents&lt;/a&gt; — The piece argues that media and industry framing of AI agents "going rogue" (e.g. OpenAI agents accessing government databases via hacking techniques) is misleading anthropomorphism, since these actions occurred without explicit restrictions rather than as independent rule-breaking. (&lt;a href="https://news.ycombinator.com/item?id=49868083"&gt;discussion&lt;/a&gt;, 368 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hereticpleb.vercel.app/blog/10-tells-of-slop"&gt;Tells of a Slop UI&lt;/a&gt; — A critique of "vibe-coded" AI-generated interfaces, cataloguing recurring tells like excessive gradients, meaningless status badges, redundant emojis, and generic AI-authored filler text using the author's college app as a running example. (&lt;a href="https://news.ycombinator.com/item?id=49867038"&gt;discussion&lt;/a&gt;, 367 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Fj5MaiFiTG7KEcqrZ/the-models-have-no-plan-but-we-can-fix-that"&gt;The models have no plan, but we can fix that!&lt;/a&gt; by Fiora Starlight — Argues that models lack any concrete plan for how they'd act during a singularity-level power increase, and proposes training them on glowfic-style collaborative fiction where a model-piloted protagonist navigates simulated singularity scenarios, then fine-tuning on transcripts where it takes aligned actions. (79 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/i4yswYDSrPFHWpCbi/why-research-personas-despite-rl-scaling"&gt;Why research personas despite RL scaling?&lt;/a&gt; by Cleo Nardo — Surveys the differing motivations various AI safety labs and researchers (Anthropic, Arcadia, Owain Evans, Center on Long-Term Risk, and others) have for studying LLM "personas," even though RL training may largely wash out an initial persona. (74 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-28.html"/>
-    <published>2026-09-28T07:00:00-04:00</published>
   </entry>
 </feed>
