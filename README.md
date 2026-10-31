@@ -6,7 +6,9 @@ feed via GitHub Pages.
 
 **Sources:** Wikipedia Main Page (Topics in the news · Did you know · On this day) ·
 Hacker News (≥ score threshold) · LessWrong (≥ karma threshold) · Marginal Revolution
-(previous calendar day's posts, excluding “assorted links”, with one-sentence summaries).
+(previous calendar day's posts, excluding “assorted links”, with one-sentence summaries). Every
+digest ends with a link to Rate Your Music's [new music](https://rateyourmusic.com/new-music/)
+page (the page itself can't be scraped: it requires a human Cloudflare check).
 
 ## Pipeline
 
