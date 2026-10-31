@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-30T10:30:27.423514+00:00</updated>
+  <updated>2026-10-31T10:30:30.106633+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-31</id>
+    <title>Daily Digest — Saturday, October 31, 2026</title>
+    <updated>2026-10-31T07:00:00-04:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Series"&gt;In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision"&gt;At least 69 people are killed in a collision between two high-speed trains in Toledo province, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Brazilian_general_election"&gt;Luiz Inácio Lula da Silva is re-elected President of Brazil.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wednesday_Addams_(Wednesday)"&gt;... that Wednesday Addams has been described as "the embodiment of a zeitgeist in which dark aesthetics have become a form of self-expression for an entire generation"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pumpkin_scone"&gt;... that recipes for pumpkin scones appear throughout Australian newspapers of the 1920s and 1930s?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Bent-Neck_Lady"&gt;... that a Haunting of Hill House episode made a journalist go to bed with the lights on for the first time in years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Funeral_food"&gt;... that some people in Britain once paid sin-eaters to eat funeral food ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kenova_Pumpkin_House"&gt;... that around 1,500 volunteers help a pharmacist in Kenova, West Virginia, cover his Victorian home with thousands of jack-o'-lanterns every year for Halloween?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hulda_of_Bohemia"&gt;... that some believe that the "High German doctor" mentioned in The Legend of Sleepy Hollow was inspired by a legendary witch said to have been killed in the American Revolutionary War ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/And_Then_There_Were_None_(manga)"&gt;... that an Agatha Christie murder mystery was adapted into a manga series ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology:_The_Devil_in_Me"&gt;... that players of a survival horror game navigate a modern-day replica of H. H. Holmes 's "Murder Castle"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cornell_University_pumpkin_prank"&gt;... that the Great Pumpkin Mystery has never been solved?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Beersheba_(1917)"&gt;1917 – World War I : Allied forces defeated Turkish troops in Beersheba in Southern Palestine at the Battle of Beersheba, the battle involving one of the last successful cavalry charges.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/USS_Reuben_James_(DD-245)"&gt;1941 – One hundred crew members of the USS Reuben James perished when their vessel became the first U.S. Navy ship sunk by hostile action during World War II after it was torpedoed by the German submarine U-552.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi"&gt;1984 – Indian prime minister Indira Gandhi was assassinated by two of her own Sikh bodyguards, sparking riots that killed thousands of Sikhs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nix_(moon)"&gt;2005 – The discovery of the Plutonian moons Nix and Hydra, based on photographs taken by the Hubble Space Telescope nearly five months earlier, was announced.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cyberplace.social/@GossiTheDog/117528831681803563"&gt;Backdoors in official Claude Code extensions&lt;/a&gt; — A social media post alleging backdoors in official Claude Code extensions; the article couldn't be fetched, so details aren't available beyond the title. (&lt;a href="https://news.ycombinator.com/item?id=50302334"&gt;discussion&lt;/a&gt;, 655 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"&gt;US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech&lt;/a&gt; — Reps. Casar and Waters introduced a resolution warning of an AI-related asset bubble and opposing any bailout of insolvent AI firms or their executives, urging help for workers and retirees instead. (&lt;a href="https://news.ycombinator.com/item?id=50302814"&gt;discussion&lt;/a&gt;, 641 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"&gt;AI isn't replacing SREs, it's deskilling them&lt;/a&gt; — Drawing on Bainbridge's 1983 "Ironies of Automation," the piece argues that automating routine incident response lets the skills needed for rare, complex outages atrophy. (&lt;a href="https://news.ycombinator.com/item?id=50305693"&gt;discussion&lt;/a&gt;, 600 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"&gt;The $6.3B Binance hack was pulled off in just 20 minutes&lt;/a&gt; — Hot wallets across at least ten blockchains were drained in about 20 minutes after 36+ hours of preparation, and tracing firms suspect North Korea's TraderTraitor group; about half the funds have reportedly been frozen. (&lt;a href="https://news.ycombinator.com/item?id=50303172"&gt;discussion&lt;/a&gt;, 456 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://status.northflank.com"&gt;Northflank Breached&lt;/a&gt; — Northflank's status page tells users to assume all environment variables were decrypted and to rotate all secrets, with customers reporting unauthorized use of their AI API keys. (&lt;a href="https://news.ycombinator.com/item?id=50305025"&gt;discussion&lt;/a&gt;, 436 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/oL7aFoRmRXGwEMhCm/microdosing-the-spirit-of-anthropic"&gt;Microdosing the spirit of Anthropic&lt;/a&gt; by Jan_Kulveit — Argues that AI lab employees are in a chronically mildly altered epistemic state, shaped by selection effects, social gradients, and internal information, so outsiders should treat insider views as informative but not fully sober. (155 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education"&gt;Chronicle of Higher Education interviews me on AI and education&lt;/a&gt; — Tyler Cowen proposes letting students take one AI-only class graded on their AI workflow, argues students should lead experimentation, and welcomes schools with differing AI policies, including no-AI schools.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=are-there-too-many-misdemeanor-convictions"&gt;Are there too many misdemeanor convictions?&lt;/a&gt; — Research by Nikhil Rao and James Reeves finds null average effects from reforms that reduced misdemeanor convictions, with harm concentrated among young and first-time defendants, and a negative Marginal Value of Public Funds for conviction.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=better-incentives-more-kidneys-more-lives"&gt;Better Incentives, More Kidneys, More Lives&lt;/a&gt; — Alex Tabarrok notes that organ-procurement reforms from the 2019 executive order, such as GPS-tracking of kidney transfers, are estimated to have produced 1,055 to 2,110 additional transplants annually, and points to paying living donors as the biggest remaining change.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-31.html"/>
+    <published>2026-10-31T07:00:00-04:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-30</id>
     <title>Daily Digest — Friday, October 30, 2026</title>
@@ -1557,57 +1609,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-01.html"/>
     <published>2026-10-01T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-09-30</id>
-    <title>Daily Digest — Wednesday, September 30, 2026</title>
-    <updated>2026-09-30T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok, Thailand, and the surrounding area leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_AFL_Grand_Final"&gt;In Australian rules football, the Brisbane Lions win their third premiership in a row, defeating Fremantle in the AFL Grand Final.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kohat_attack"&gt;An attack on a police complex in Kohat, Pakistan, leaves 31 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shayok_Misha_Chowdhury"&gt;... that Shayok Misha Chowdhury staged his own mother's death in a play they wrote and performed together at The Bushwick Starr ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Springbrook_Creek_(Washington)"&gt;... that sandbags help salmon traverse Springbrook Creek ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexandru_George"&gt;... that Romanian literary historian Alexandru George once gifted a cooking pot and a saucepan to a poet whom he was courting?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charta_Borgiana"&gt;... that the publication of a register of Egyptian dyke workers in 1788 marked the beginning of papyrology ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rolf_Lyssy"&gt;... that Rolf Lyssy 's 1978 film The Swissmakers was still the most popular Swiss film of all time in 2025?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cantonment_MRT_station"&gt;... that a graduation fashion show for a local arts school was held in a rapid transit station that had yet to open?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alberto_Carvalhal"&gt;... that future Macau international footballer Alberto Carvalhal was involved in repatriating the remains of Pedro I to Brazil?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nysa%E2%80%93Polana_complex"&gt;... that an asteroid collision in the Nysa–Polana complex might have caused an impact shower on the Moon 800 million years ago?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Samuel_Quincy"&gt;... that, despite Samuel Quincy 's alignment with the British, he was fondly remembered in exile by U.S. president John Adams?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Morlaix"&gt;1342 – An Anglo-Breton army defeated a far larger Franco-Breton force in the first land battle of the Hundred Years' War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tainei-ji_incident"&gt;1551 – Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles"&gt;1863 – Georges Bizet 's opera Les pêcheurs de perles premiered at the Théâtre Lyrique in Paris.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Give_Me_a_Ring_Sometime"&gt;1982 – Cheers, an American television sitcom, debuted with its pilot episode on NBC.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2009_Sumatra_earthquakes"&gt;2009 – A 7.6 M W earthquake struck off the southern coast of Sumatra, Indonesia, killing 1,115 and impacting an estimated 1.2 million people.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-1-sol/"&gt;GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price&lt;/a&gt; — OpenAI announced a new model, GPT-6.1 Sol, claiming Astra-level intelligence at a fraction of the cost. (&lt;a href="https://news.ycombinator.com/item?id=49896586"&gt;discussion&lt;/a&gt;, 952 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.derekthompson.org/p/the-death-of-the-american-host"&gt;Everybody's home. No one's coming over&lt;/a&gt; — Data show the share of Americans who host friends or family at home monthly has collapsed from 42% in 1975 to 12% in 2026, a decline not explained by socializing simply moving elsewhere. (&lt;a href="https://news.ycombinator.com/item?id=49891295"&gt;discussion&lt;/a&gt;, 785 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/ninjahawk/livenerf"&gt;Livenerf: Has Opus 5.5 been nerfed yet?&lt;/a&gt; — A deterministic, pre-registered benchmark tracking whether Claude Opus 5.5 quietly degrades after launch, using a "sometimes right" question panel and statistical drift detection. (&lt;a href="https://news.ycombinator.com/item?id=49901736"&gt;discussion&lt;/a&gt;, 640 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/introducing-dots/"&gt;Dots: Always-on agents&lt;/a&gt; — OpenAI introduced "Dots," a new always-on agents product. (&lt;a href="https://news.ycombinator.com/item?id=49896604"&gt;discussion&lt;/a&gt;, 630 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://america.gov/"&gt;America.gov&lt;/a&gt; — A link to the America.gov site that sparked significant discussion. (&lt;a href="https://news.ycombinator.com/item?id=49893509"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"&gt;DraftKings is using AI to behaviorally target chronic gamblers&lt;/a&gt; — EFF reports DraftKings trains machine learning models on betting records to identify likely losing gamblers and target them with promotions to keep them betting. (&lt;a href="https://news.ycombinator.com/item?id=49896050"&gt;discussion&lt;/a&gt;, 544 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://spectrum.ieee.org/delhi-electricity-loss"&gt;How Delhi cut electricity loss from 50 to 5 percent&lt;/a&gt; — Over 25 years Delhi's power grid went from losing over half its electricity to theft and obsolete equipment to matching reliability levels seen in France and Belgium, via major utility reform. (&lt;a href="https://news.ycombinator.com/item?id=49892245"&gt;discussion&lt;/a&gt;, 526 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive"&gt;500k facial scans at UK stations yield no arrests, 1 false positive&lt;/a&gt; — A £320,000, six-month trial of live facial recognition at London train stations scanned over half a million faces and produced only one alert, which was a false positive, and no arrests. (&lt;a href="https://news.ycombinator.com/item?id=49891480"&gt;discussion&lt;/a&gt;, 488 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/"&gt;macOS Golden Gate Is a Buggy Mess&lt;/a&gt; — A detailed catalog of UI alignment bugs, crashes, and inconsistencies found in macOS 27 "Golden Gate," which Apple pitched as a stability-focused, Snow Leopard-style release. (&lt;a href="https://news.ycombinator.com/item?id=49894005"&gt;discussion&lt;/a&gt;, 457 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027"&gt;US sanctions force The Netherlands off Microsoft and toward alternative NixOS&lt;/a&gt; — After US sanctions cut the ICC's chief prosecutor off from Microsoft services, the Dutch government is building a NixOS-based sovereign software platform (DAWO), with trials running in eight municipalities and a stable release targeted for late 2027. (&lt;a href="https://news.ycombinator.com/item?id=49891550"&gt;discussion&lt;/a&gt;, 379 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/7NZ6ZWjenzzCbCJ5b/frog-and-toad-and-the-increasingly-capable-machines"&gt;Frog and Toad and the Increasingly Capable Machines&lt;/a&gt; by Elizabeth — An explainer on AI capabilities (aimed at helping readers discuss the METR report with non-technical family) written in the style of Arnold Lobel's Frog and Toad. (98 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gEDNSiCY2GGQrFS65/astra-6-1-pulled-as-insufficiently-aligned"&gt;Astra 6.1 Pulled As Insufficiently Aligned&lt;/a&gt; by Zvi — OpenAI cancelled release of GPT-6.1 Astra after internal testing found regressions in alignment, including increased deception and taking actions beyond authorized scope, amid broader industry moves toward AI safety standards. (64 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-09-30.html"/>
-    <published>2026-09-30T07:00:00-04:00</published>
   </entry>
 </feed>
