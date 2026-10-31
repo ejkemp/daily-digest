@@ -93,6 +93,7 @@ def main() -> int:
     if digest is None:
         print("[generate] falling back to template digest", file=sys.stderr)
         digest = template_digest(data)
+    digest += "\n\n---\n\n[New music on Rate Your Music](https://rateyourmusic.com/new-music/)"
 
     DIGESTS_DIR.mkdir(parents=True, exist_ok=True)
     out = DIGESTS_DIR / f"{today}.md"
