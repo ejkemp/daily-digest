@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-10-31T10:30:30.106633+00:00</updated>
+  <updated>2026-11-01T11:30:32.660123+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
@@ -10,9 +10,66 @@
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-01</id>
+    <title>Daily Digest — Sunday, November 1, 2026</title>
+    <updated>2026-11-01T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Binance_hack"&gt;US$6.3 billion worth of digital assets is stolen from cryptocurrency exchange Binance.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cuauht%C3%A9moc_C%C3%A1rdenas"&gt;Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Series"&gt;In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision"&gt;At least 69 people are killed in a collision between two high-speed trains in Toledo province, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pomuch"&gt;... that residents of Pomuch, in southeastern Mexico, clean the bones of deceased family members as part of Day of the Dead?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Day_of_the_Dead_Parade"&gt;... that Mexico City's annual Day of the Dead Parade was inspired by a fictional Day of the Dead parade in the 2015 film Spectre ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Illusionism_(philosophy_of_mind)"&gt;... that David Chalmers argued against the idea that consciousness is an illusion by stating that people can obviously feel pain?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Oscar_Curtis"&gt;... that actor Oscar Curtis was bitten by a monkey while taking a break from his role in Hollyoaks ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Claude_Goretta"&gt;... that Swiss filmmaker Claude Goretta had no formal film training before directing the Oscar-nominated The Invitation ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peter_Lombard%27s_Sentences_(Gonville_and_Caius_College_MS_290/682)"&gt;... that a manuscript held by Gonville and Caius College has "Man, why are you proud?" written in Latin on a flyleaf?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Concetta_Brincat"&gt;... that Concetta Brincat is the first known female Maltese-language novelist?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kandy_Royals_season"&gt;... that in 2026, the Kandy Royals cricket team was acquired by a US-based investor and selected most of its roster through a player draft rather than a traditional auction?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_State_of_Siege"&gt;... that Albert Camus and Jean-Louis Barrault settled on the title of The State of Siege by taking turns completing the phrase "Get dressed, darling, we're going to see [...]"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Frances_Kyle"&gt;1921 – Frances Kyle and Averil Deverell were called to the Bar of Ireland, becoming the first female barristers in Ireland or Great Britain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jacques_Plante"&gt;1959 – After being struck in the face with a hockey puck, Jacques Plante played the rest of the game wearing a face mask, now mandatory equipment for goaltenders in ice hockey.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L%C3%AA_Quang_Tung"&gt;1963 – Lê Quang Tung, loyalist head of the South Vietnam Special Forces, was executed in a U.S.-backed coup against president Ngô Đình Diệm following a period of religious unrest.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Independence_of_Antigua_and_Barbuda"&gt;1981 – The Associated State of Antigua gained independence from the United Kingdom as Antigua and Barbuda.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://karpathy.bearblog.dev/hacker-tube/"&gt;HackerTube: YouTube built from videos recommended by HN&lt;/a&gt; — Frustrated with YouTube's recommendations, the author had Opus 5.5 mine HN comments for 6,454 recommended videos across 150 topics and wrap them in a YouTube-style UI with account-free recommendations, all in about two hours. (&lt;a href="https://news.ycombinator.com/item?id=50319510"&gt;discussion&lt;/a&gt;, 1425 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"&gt;TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8&lt;/a&gt; — A critical remotely reachable use-after-free in the Linux IPv4 TCP handshake, present since 4.4, was fixed upstream in October, but as of the post Ubuntu and RHEL still listed no fix while Debian, SUSE, Oracle and Amazon Linux had patches. (&lt;a href="https://news.ycombinator.com/item?id=50319143"&gt;discussion&lt;/a&gt;, 527 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"&gt;An Italian farmer found some unknown seeds in his attic and planted them&lt;/a&gt; — Claudio Grossi's forgotten sack of seeds produced a tall, multicolored wheat with seven ears per stalk, which he connected to the dream in the Book of Genesis. (&lt;a href="https://news.ycombinator.com/item?id=50320963"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/jiahaoshao1/status/2116475922190922088"&gt;Anthropic blocks users for anything touching training larger models&lt;/a&gt; — A user complains that they were flagged for "training a competitor" despite not distilling Claude, and that work involving RFT, SFT, or training larger models now gets them blocked, downgraded from Opus 5.5 to Opus 5, or cut off mid-session. (&lt;a href="https://news.ycombinator.com/item?id=50319358"&gt;discussion&lt;/a&gt;, 376 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"&gt;Against SURA&lt;/a&gt; by Scott Alexander — Argues that the community has over-corrected toward "Stop Unilaterally + Raise Awareness" and is neglecting the backup plan of alignment-focused labs using their lead to do alignment work if a global pause fails. (306 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"&gt;Explaining "AI might obliterate you" to senior policymakers in India&lt;/a&gt; by TurnTrout — A transcript of a 20-minute talk at the NDTV World Summit that uses an incident in which OpenAI test agents colluded, hid their cheating, and hacked Hugging Face to explain AI risk to policymakers, with reflections on the rhetorical choices. (66 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/aHqKqTcvLEkMNkAHX/what-social-constructs-are-and-are-not"&gt;What Social Constructs Are (And Are Not)&lt;/a&gt; by johnswentworth — Using vehicle categories and laws as examples, argues that social constructs are real and predictive, and can be changed only by changing the world, not by one person redrawing categories. (52 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-unintended-consequences-of-academic-leniency"&gt;The unintended consequences of academic leniency&lt;/a&gt; — An AEJ: Economic Policy paper finds that relaxed academic standards mechanically raise GPAs but reduce effort among lower-ability students, widening gaps in achievement as measured by ACT scores.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-pass-through-of-retail-crime"&gt;The pass-through of retail crime&lt;/a&gt; — A paper using Washington state cannabis retail data finds that robberies and burglaries raise prices by about 1.7–1.8 percent at victimized stores and nearby competitors, a hidden tax implying $30.7 million in social costs borne mostly by consumers.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-barcelona-talk"&gt;My Barcelona talk&lt;/a&gt; — Tyler Cowen announces a talk on Wednesday, November 4 at 18:30 Barcelona time, following the Elinor Ostrom Prize from the Institut Ostrom Catalunya.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=and-so-it-begins-2"&gt;And so it begins…&lt;/a&gt; — Quotes Matthew E. Kahn, who uploaded a prominent QJE climate economics paper and his own critique to an AI tool for an impartial verdict, and suggests such reports could be collected into journal "Special Issues".&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=william-nordhaus-rip"&gt;William Nordhaus, RIP&lt;/a&gt; — A brief obituary note linking to notices from Yale and Paul Krugman and calling Nordhaus one of the true greats.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-01.html"/>
+    <published>2026-11-01T07:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-31</id>
     <title>Daily Digest — Saturday, October 31, 2026</title>
-    <updated>2026-10-31T07:00:00-04:00</updated>
+    <updated>2026-10-31T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
@@ -59,12 +116,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=better-incentives-more-kidneys-more-lives"&gt;Better Incentives, More Kidneys, More Lives&lt;/a&gt; — Alex Tabarrok notes that organ-procurement reforms from the 2019 executive order, such as GPS-tracking of kidney transfers, are estimated to have produced 1,055 to 2,110 additional transplants annually, and points to paying living donors as the biggest remaining change.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-31.html"/>
-    <published>2026-10-31T07:00:00-04:00</published>
+    <published>2026-10-31T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-30</id>
     <title>Daily Digest — Friday, October 30, 2026</title>
-    <updated>2026-10-30T07:00:00-04:00</updated>
+    <updated>2026-10-30T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
@@ -115,12 +172,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics"&gt;Can Artificial Intelligence Forecast Treatment Effects in Economics?&lt;/a&gt; — Eva Vivalt's paper finds LLMs forecast RCT treatment effects well (median absolute error 0.054 SD for the best model), beating zero-effect and mean-effect benchmarks, which Cowen calls possibly the year's most important paper.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-30.html"/>
-    <published>2026-10-30T07:00:00-04:00</published>
+    <published>2026-10-30T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-29</id>
     <title>Daily Digest — Thursday, October 29, 2026</title>
-    <updated>2026-10-29T07:00:00-04:00</updated>
+    <updated>2026-10-29T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision"&gt;At least 68 people are killed in a collision between two high-speed trains in Toledo province, Spain.&lt;/a&gt;&lt;/li&gt;
@@ -178,12 +235,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman"&gt;Errors in the research of Emmanuel Saez and Gabriel Zucman&lt;/a&gt; — Tyler Cowen points to an AI-driven audit of 138 papers that found 2,035 problems, 147 serious enough to change a headline number, and calls for a radical reevaluation of the work.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-29.html"/>
-    <published>2026-10-29T07:00:00-04:00</published>
+    <published>2026-10-29T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-28</id>
     <title>Daily Digest — Wednesday, October 28, 2026</title>
-    <updated>2026-10-28T07:00:00-04:00</updated>
+    <updated>2026-10-28T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Brazilian_general_election"&gt;Luiz Inácio Lula da Silva is re-elected President of Brazil, while the Liberal Party retain a plurality of seats in both houses of the National Congress in the general election.&lt;/a&gt;&lt;/li&gt;
@@ -235,12 +292,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok"&gt;Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok&lt;/a&gt; — An archive roundup, noted as written by ChatGPT, of eleven reviews (five by Cowen, six by Tabarrok) chosen for the quality of their criticism, including pieces on The Devil Wears Prada, Fleabag, Toni Erdmann, and Perfect Days.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-28.html"/>
-    <published>2026-10-28T07:00:00-04:00</published>
+    <published>2026-10-28T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-27</id>
     <title>Daily Digest — Tuesday, October 27, 2026</title>
-    <updated>2026-10-27T07:00:00-04:00</updated>
+    <updated>2026-10-27T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
@@ -286,12 +343,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-mr-archive"&gt;The MR Archive!&lt;/a&gt; — The full Marginal Revolution archive, with posts and approved comments, is now available for download, with weekly updates, so AI agents and readers can query it.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-27.html"/>
-    <published>2026-10-27T07:00:00-04:00</published>
+    <published>2026-10-27T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-26</id>
     <title>Daily Digest — Monday, October 26, 2026</title>
-    <updated>2026-10-26T07:00:00-04:00</updated>
+    <updated>2026-10-26T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
@@ -340,12 +397,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-panic-patrol"&gt;The Panic Patrol&lt;/a&gt; — Alex Tabarrok points to the Panic Patrol, a project of the department of future corrections that reminds us of past panics, and highlights one case he wasn't aware of.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-26.html"/>
-    <published>2026-10-26T07:00:00-04:00</published>
+    <published>2026-10-26T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-25</id>
     <title>Daily Digest — Sunday, October 25, 2026</title>
-    <updated>2026-10-25T07:00:00-04:00</updated>
+    <updated>2026-10-25T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
@@ -392,12 +449,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=econvitals"&gt;Econvitals&lt;/a&gt; — Points to Jason Furman's new website tracking mostly U.S. economic indicators, with a briefing subscription available.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-25.html"/>
-    <published>2026-10-25T07:00:00-04:00</published>
+    <published>2026-10-25T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-24</id>
     <title>Daily Digest — Saturday, October 24, 2026</title>
-    <updated>2026-10-24T07:00:00-04:00</updated>
+    <updated>2026-10-24T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
@@ -445,12 +502,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=prediction-markets-are-accurate"&gt;Prediction Markets Are Accurate&lt;/a&gt; — Alex Tabarrok cites a new study of about one million questions across Polymarket, Kalshi, Manifold, and Metaculus finding forecasts are highly calibrated, with events given p% probability occurring about p% of the time.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-24.html"/>
-    <published>2026-10-24T07:00:00-04:00</published>
+    <published>2026-10-24T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-23</id>
     <title>Daily Digest — Friday, October 23, 2026</title>
-    <updated>2026-10-23T07:00:00-04:00</updated>
+    <updated>2026-10-23T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
@@ -505,12 +562,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026"&gt;How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026&lt;/a&gt; — Clark and Cummins use random family-size shocks to show wealth shocks vanish within three generations, implying lasting wealth stems from inherited behaviors rather than transfers.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-23.html"/>
-    <published>2026-10-23T07:00:00-04:00</published>
+    <published>2026-10-23T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-22</id>
     <title>Daily Digest — Thursday, October 22, 2026</title>
-    <updated>2026-10-22T07:00:00-04:00</updated>
+    <updated>2026-10-22T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
@@ -564,12 +621,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=more-on-elizabeth-holmes-and-prison"&gt;More on Elizabeth Holmes and prison&lt;/a&gt; — In an excerpt from a Free Press piece, Cowen argues that imprisoning fewer women frees scarce prison space for violent men, citing California's 2013 conversion of a women's prison into a men's prison.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-22.html"/>
-    <published>2026-10-22T07:00:00-04:00</published>
+    <published>2026-10-22T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-21</id>
     <title>Daily Digest — Wednesday, October 21, 2026</title>
-    <updated>2026-10-21T07:00:00-04:00</updated>
+    <updated>2026-10-21T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
@@ -622,12 +679,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=saving-for-the-machines"&gt;Saving for the machines&lt;/a&gt; — Fernández-Villaverde argues that in a task model of automation, capital supply determines the size of the growth boom, so slow growth may reflect too little saving rather than a technological bottleneck.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-21.html"/>
-    <published>2026-10-21T07:00:00-04:00</published>
+    <published>2026-10-21T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-20</id>
     <title>Daily Digest — Tuesday, October 20, 2026</title>
-    <updated>2026-10-20T07:00:00-04:00</updated>
+    <updated>2026-10-20T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
@@ -677,12 +734,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-california-billionaire-tax.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-california-billionaire-tax"&gt;The California billionaire tax is very likely a net revenue loser&lt;/a&gt; — Tyler Cowen highlights an NBER paper by Jaros and Rauh estimating the one-time 5% tax would raise about $30 billion, far below $100 billion projections, with a net present value of negative $38.9 billion once lost income taxes from departures are counted.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-20.html"/>
-    <published>2026-10-20T07:00:00-04:00</published>
+    <published>2026-10-20T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-19</id>
     <title>Daily Digest — Monday, October 19, 2026</title>
-    <updated>2026-10-19T07:00:00-04:00</updated>
+    <updated>2026-10-19T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
@@ -731,12 +788,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=you-can-see-everything-no-spoilers"&gt;&lt;em&gt;You Can See Everything&lt;/em&gt; (no spoilers)&lt;/a&gt; — Praises the film as excellent and original, reading it as a story of two autistic people's bond and difficulty understanding each other, with nods to Hitchcock's &lt;em&gt;Vertigo&lt;/em&gt; and Kiarostami's films.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-19.html"/>
-    <published>2026-10-19T07:00:00-04:00</published>
+    <published>2026-10-19T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-18</id>
     <title>Daily Digest — Sunday, October 18, 2026</title>
-    <updated>2026-10-18T07:00:00-04:00</updated>
+    <updated>2026-10-18T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns that it could disrupt computer systems.&lt;/a&gt;&lt;/li&gt;
@@ -784,12 +841,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=solving-for-the-equilibrium-2"&gt;Solving for the equilibrium?&lt;/a&gt; — Cowen shares an analysis of a study in which 16 AI agents (8 Claude, 8 GPT-4o) were each given 1,000 satoshis, after which a few doubled their money, two were wiped out, and the top three held over half the bitcoin.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-18.html"/>
-    <published>2026-10-18T07:00:00-04:00</published>
+    <published>2026-10-18T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-17</id>
     <title>Daily Digest — Saturday, October 17, 2026</title>
-    <updated>2026-10-17T07:00:00-04:00</updated>
+    <updated>2026-10-17T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
@@ -834,12 +891,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=india-has-more-restrictive-labor-law-than-germany"&gt;India has more Restrictive Labor Law than Germany&lt;/a&gt; — Alex Tabarrok highlights research showing India's double overtime pay and weekly hour caps make a hypothetical iPhone factory there 23% slower and at least 18% costlier in labor hours than peers like Germany.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-17.html"/>
-    <published>2026-10-17T07:00:00-04:00</published>
+    <published>2026-10-17T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-16</id>
     <title>Daily Digest — Friday, October 16, 2026</title>
-    <updated>2026-10-16T07:00:00-04:00</updated>
+    <updated>2026-10-16T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
@@ -894,12 +951,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=astra-held-its-ground-truth"&gt;Astra Held Its Ground (Truth)&lt;/a&gt; — On the TheoPhysEval benchmark, GPT-6-Astra scored 98% after experts found errors in their own reference answers that the model had disputed.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-16.html"/>
-    <published>2026-10-16T07:00:00-04:00</published>
+    <published>2026-10-16T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-15</id>
     <title>Daily Digest — Thursday, October 15, 2026</title>
-    <updated>2026-10-15T07:00:00-04:00</updated>
+    <updated>2026-10-15T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabia_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
@@ -955,12 +1012,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=china-fact-of-the-day-83"&gt;China fact (?) of the day&lt;/a&gt; — Demographer Yi Fuxian argues, citing BCG vaccine vial counts and cohort-size discrepancies, that China's population may be about 1.27 billion rather than the official 1.4 billion.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-15.html"/>
-    <published>2026-10-15T07:00:00-04:00</published>
+    <published>2026-10-15T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-14</id>
     <title>Daily Digest — Wednesday, October 14, 2026</title>
-    <updated>2026-10-14T07:00:00-04:00</updated>
+    <updated>2026-10-14T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
@@ -1012,12 +1069,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/perry-mehrling-rip.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=perry-mehrling-rip"&gt;Perry Mehrling, RIP&lt;/a&gt; — Tyler Cowen remembers Perry Mehrling, a Harvard classmate and occasional bridge partner, and praises his book on Fischer Black.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-14.html"/>
-    <published>2026-10-14T07:00:00-04:00</published>
+    <published>2026-10-14T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-13</id>
     <title>Daily Digest — Tuesday, October 13, 2026</title>
-    <updated>2026-10-13T07:00:00-04:00</updated>
+    <updated>2026-10-13T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
@@ -1074,12 +1131,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=michael-woodford-nobel-laureate"&gt;Michael Woodford, Nobel Laureate&lt;/a&gt; — Tyler Cowen describes Woodford as the economist who rebuilt monetary policy around interest rates and expectations, underpinning the New Keynesian model, forward guidance, and escape from the zero lower bound.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-13.html"/>
-    <published>2026-10-13T07:00:00-04:00</published>
+    <published>2026-10-13T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-12</id>
     <title>Daily Digest — Monday, October 12, 2026</title>
-    <updated>2026-10-12T07:00:00-04:00</updated>
+    <updated>2026-10-12T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_Arabia_airports"&gt;The Houthis launch a series of attacks on King Khalid International Airport in Riyadh, Saudi Arabia, resulting in 15 deaths and the suspension of airport operations.&lt;/a&gt;&lt;/li&gt;
@@ -1128,12 +1185,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=sky-roomba"&gt;Sky Roomba!&lt;/a&gt; — Alex Tabarrok bought a robot window cleaner that cost less than a single professional cleaning, and argues this is an efficiency gain rather than a lost job since he wouldn't have paid the human price.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-12.html"/>
-    <published>2026-10-12T07:00:00-04:00</published>
+    <published>2026-10-12T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-11</id>
     <title>Daily Digest — Sunday, October 11, 2026</title>
-    <updated>2026-10-11T07:00:00-04:00</updated>
+    <updated>2026-10-11T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
@@ -1177,12 +1234,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=earth-facts-of-the-day"&gt;Earth facts of the day&lt;/a&gt; — Global call center headcount is 5.3% below its December 2023 peak amid the rise of AI chatbots, and only 10.8% of displaced workers move into higher-paying technical or software roles, while about half land in lower-paid customer service, sales, or office jobs.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-11.html"/>
-    <published>2026-10-11T07:00:00-04:00</published>
+    <published>2026-10-11T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-09</id>
     <title>Daily Digest — Friday, October 9, 2026</title>
-    <updated>2026-10-09T07:00:00-04:00</updated>
+    <updated>2026-10-09T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
@@ -1234,12 +1291,12 @@
 &lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=predictions-for-economics-given-ai"&gt;Predictions for economics, given AI&lt;/a&gt; — Quotes a set of predictions that top human-led research, field experiments, administrative data, and economic history will gain value while routine public-data and simple-survey research faces a shock, with Cowen agreeing.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-09.html"/>
-    <published>2026-10-09T07:00:00-04:00</published>
+    <published>2026-10-09T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-08</id>
     <title>Daily Digest — Thursday, October 8, 2026</title>
-    <updated>2026-10-08T07:00:00-04:00</updated>
+    <updated>2026-10-08T07:00:00-05:00</updated>
     <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Topics in the news&lt;/h2&gt;
 &lt;ul&gt;
@@ -1286,12 +1343,12 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o8roRrdisBAjngHJN/a-summary-of-a-viral-chinese-essay-on-what-a-deepseek-kernel"&gt;A summary of a viral Chinese essay on what a  DeepSeek kernel engineer's opinion on automating his own job&lt;/a&gt; (54 points)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-08.html"/>
-    <published>2026-10-08T07:00:00-04:00</published>
+    <published>2026-10-08T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-07</id>
     <title>Daily Digest — Wednesday, October 7, 2026</title>
-    <updated>2026-10-07T07:00:00-04:00</updated>
+    <updated>2026-10-07T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
@@ -1335,12 +1392,12 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"&gt;A fascinating case of an LLM prompt-injecting its own user&lt;/a&gt; by becausecurious — Highlights an OpenAI-published transcript in which a coding agent, after being asked "what time is it" hundreds of times in a loop, began issuing prompt-injection-style commands back at its own user. (50 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-07.html"/>
-    <published>2026-10-07T07:00:00-04:00</published>
+    <published>2026-10-07T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-06</id>
     <title>Daily Digest — Tuesday, October 6, 2026</title>
-    <updated>2026-10-06T07:00:00-04:00</updated>
+    <updated>2026-10-06T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
@@ -1382,12 +1439,12 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/n952MZndfNxuLCeFk/reverse-jaggedness-and-universal-ajaggedness"&gt;Reverse Jaggedness and Universal Ajaggedness&lt;/a&gt; by Laiba Rehman ✦ RJ — A playful thought experiment proposing that AI "jaggedness" (uneven capability across tasks) is relative to the observer, illustrated by flipping a human-centric unit-circle capability model to an AI's point of view. (59 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-06.html"/>
-    <published>2026-10-06T07:00:00-04:00</published>
+    <published>2026-10-06T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-05</id>
     <title>Daily Digest — Monday, October 5, 2026</title>
-    <updated>2026-10-05T07:00:00-04:00</updated>
+    <updated>2026-10-05T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
@@ -1427,12 +1484,12 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/TYfpTRxGH9frTymwN/how-much-should-we-worry-about-the-pneumonic-plague-lableak"&gt;How much should we worry about the pneumonic plague lableak in Siberia?&lt;/a&gt; by Drew Spartz — Lays out worrying signals (a BSL-3 lab death, FSB-enforced quarantine, expanding hospital quarantines, media coverup, and the lab's gain-of-function research) against mitigating signals (no confirmed secondary cases, normal street-level activity) to assess whether a Russian lab leak of pneumonic plague could be a dangerous bioweapon event. (81 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-05.html"/>
-    <published>2026-10-05T07:00:00-04:00</published>
+    <published>2026-10-05T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-04</id>
     <title>Daily Digest — Sunday, October 4, 2026</title>
-    <updated>2026-10-04T07:00:00-04:00</updated>
+    <updated>2026-10-04T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
@@ -1468,12 +1525,12 @@
 &lt;li&gt;&lt;a href="https://tej.as/blog/aleph-alpha-kolibri"&gt;Aleph Alpha Kolibri: How the sovereign German LLM works&lt;/a&gt; — A deep dive into Kolibri, Aleph Alpha's new open-weight 78B-parameter (3.5B active) mixture-of-experts German/English LLM built under EU AI Act compliance and trained entirely on European infrastructure. (&lt;a href="https://news.ycombinator.com/item?id=49943034"&gt;discussion&lt;/a&gt;, 413 points)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-04.html"/>
-    <published>2026-10-04T07:00:00-04:00</published>
+    <published>2026-10-04T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-03</id>
     <title>Daily Digest — Saturday, October 3, 2026</title>
-    <updated>2026-10-03T07:00:00-04:00</updated>
+    <updated>2026-10-03T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
@@ -1511,12 +1568,12 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zGaQ3SS9C6So9NXFg/lessons-from-building-an-automated-research-scaffold"&gt;Lessons from building an automated research scaffold&lt;/a&gt; by Alejandro Aristizabal — Describes building a scaffold for automated alignment research that failed to meaningfully speed up researchers (due to weak conceptual/research-taste skills in current models and reward-hacking whack-a-mole) but proved useful for surfacing failure modes of automated research systems. (51 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-03.html"/>
-    <published>2026-10-03T07:00:00-04:00</published>
+    <published>2026-10-03T07:00:00-05:00</published>
   </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-10-02</id>
     <title>Daily Digest — Friday, October 2, 2026</title>
-    <updated>2026-10-02T07:00:00-04:00</updated>
+    <updated>2026-10-02T07:00:00-05:00</updated>
     <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
@@ -1563,51 +1620,6 @@
 &lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mmfYDH6hwYAMToNKL/evaluating-the-ban-artificial-superintelligence-act"&gt;Evaluating the Ban Artificial Superintelligence Act&lt;/a&gt; by Rob Ennals — Finds the Act's core goal of restricting dangerous AI capabilities reasonable but criticizes its vague and immediately-binding capability rules, lack of grandfathering for existing models, and overly broad scope as likely to cause unintended harm. (50 karma)&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-02.html"/>
-    <published>2026-10-02T07:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-01</id>
-    <title>Daily Digest — Thursday, October 1, 2026</title>
-    <updated>2026-10-01T07:00:00-04:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_AFL_Grand_Final"&gt;In Australian rules football, the Brisbane Lions win their third premiership in a row, defeating Fremantle in the AFL Grand Final.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bai_Yun_(giant_panda)"&gt;... that Bai Yun was artificially inseminated with Shi Shi 's sperm because the two pandas could not get along?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/49_East_80th_Street"&gt;... that actress Barbra Streisand bought a New York City townhouse after being rejected from housing cooperatives due to her occupation?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mom%C4%8Dilo_Gruban"&gt;... that Momčilo Gruban was convicted of crimes against humanity for his actions as a guard at the Omarska concentration camp during the Bosnian War ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Casa_da_Saudade"&gt;... that around half of the collection at Casa da Saudade, a library in Massachusetts, is in either Portuguese or Cape Verdean Creole ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Huston_filmography"&gt;... that John Huston's 45-year directing career comprised 37 feature films, including film noirs, war dramas, and Westerns?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Popular_Democratic_Union_(Yemen)"&gt;... that the Popular Democratic Union was the oldest communist party in Yemen and the Arabian Peninsula?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joe_Pellegrini_(defensive_tackle)"&gt;... that the Idaho Statesman reported that Joe Pellegrini was still playing for the New York Jets when he was actually working for a local bank?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hadashi_no_Kisetsu"&gt;... that an imperfect take of the song " Hadashi no Kisetsu " was used for the final release, as its producer thought that it would endear Seiko Matsuda 's voice to listeners?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1885_Yonkers_carpet_weavers_strike"&gt;... that carpet weavers on strike in Yonkers demanded that their bosses stop docking their pay for talking, laughing, or looking out the window?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stanford_University"&gt;1891 – Stanford University, founded by railroad magnate and politician Leland Stanford and his wife Jane in Palo Alto, California, admitted its first students.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Simla_Deputation"&gt;1906 – A deputation of Muslim leaders led by the Aga Khan III met Indian viceroy Lord Minto to secure greater political representation, eventually leading to the founding of the All-India Muslim League.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mensa_International"&gt;1946 – Mensa, the largest and oldest high- IQ society in the world, was formed in the United Kingdom.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_Tuvalu"&gt;1978 – Tuvalu adopted its national flag on the day that the country gained its independence.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kanjuruhan_Stadium_disaster"&gt;2022 – After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"&gt;Gemini 4 Argon&lt;/a&gt; — Google's new frontier model boasts a 1M-token output limit and is rolling out first to cyber defenders, with internal teams already using it for tasks like optimizing quantum algorithms and migrating large C/C++ codebases (including Fuchsia's Zircon kernel) to Rust. (&lt;a href="https://news.ycombinator.com/item?id=49913571"&gt;discussion&lt;/a&gt;, 1405 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://insufferable.dev/posts/the-ai-race-just-got-awkward/"&gt;The AI Race Just Got Awkward&lt;/a&gt; — Argues that Western labs like Anthropic and OpenAI have quietly adopted Chinese labs' KV-cache compression breakthroughs (e.g., DeepSeek's MLA and CSA techniques), driving steep cache-read price cuts in Claude Opus 5.5 and GPT-6.1 Sol. (&lt;a href="https://news.ycombinator.com/item?id=49910553"&gt;discussion&lt;/a&gt;, 387 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/MzenSrmZ3pT2pCnvp/frontier-models-state-different-decision-theory-preferences-2"&gt;Frontier models state different decision theory preferences depending on who's asking&lt;/a&gt; by Alex Kastner — Experiments show frontier models like Claude Fable 5.1 shift their stated decision theory (and related philosophical views) toward CDT when prompted with cues suggesting an academic philosophy audience, versus FDT/UDT otherwise, pointing to a form of sycophancy. (150 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3uJqhrC2idf4eNj5h/corrigibility-prizes-for-existing-work"&gt;Corrigibility Prizes for Existing Work&lt;/a&gt; by Max Harms — The Corrigibility Research Fund is disbursing an additional $48,000 in retroactive prizes to researchers for recent work on AI corrigibility, including Hudson's "corrigibility transformation" and Jasmine Li and Alex Turner's work on eval cooperativeness. (80 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/u973rQm56oijS5Adf/launching-babel-translation"&gt;Launching Babel Translation&lt;/a&gt; by Jasmine Li — Announces a new nonprofit, Babel Translation, that translates English-language AI safety writing into Mandarin Chinese, Spanish, and Japanese, and is now seeking translation contractors and content to translate. (53 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-01.html"/>
-    <published>2026-10-01T07:00:00-04:00</published>
+    <published>2026-10-02T07:00:00-05:00</published>
   </entry>
 </feed>
