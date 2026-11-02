@@ -2,13 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-01T11:30:32.660123+00:00</updated>
+  <updated>2026-11-02T11:30:24.089295+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-02</id>
+    <title>Daily Digest — Monday, November 2, 2026</title>
+    <updated>2026-11-02T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Binance_hack"&gt;Digital assets worth US$6.3 billion are stolen from cryptocurrency exchange Binance.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cuauht%C3%A9moc_C%C3%A1rdenas"&gt;Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Series"&gt;In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision"&gt;At least 69 people are killed in a collision between two high-speed trains in Toledo province, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lindwurmbrunnen"&gt;... that some palaeontologists have suggested that a 16th-century dragon statue 's head was inspired by the skull of an extinct woolly rhinoceros ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/497_Tampines_Street_45"&gt;... that the Housing and Development Board of Singapore was criticised by some residents for proposing to paint a set of brick-faced apartments to prevent water leakage?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francisco_Helder_Braga_Fernandes"&gt;... that the " Brazilian bin Laden " did not know who his namesake was before 9/11?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amdahl_470V"&gt;... that IBM initially dismissed the Amdahl 470V as they believed that there was no way to make a profit selling only a CPU?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Susan_Ludvigson"&gt;... that a critic said that Susan Ludvigson could "re-create entire worlds out of the clay of language"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)"&gt;... that Supernatural holds the record for the longest-running American fantasy television series?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Chow"&gt;... that Anne Chow, who trained at Juilliard, was the first woman of color to be the CEO of AT&amp;amp;T?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tamil_Eelam_(1984%E2%80%932009)"&gt;... that women living in the de facto independent state of Tamil Eelam reported lower rates of domestic violence because of its dedicated justice system?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tian_Tian_(female_giant_panda)"&gt;... that Tian Tian received media coverage for her numerous failed pregnancies?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Empress_Augusta_Bay"&gt;1943 – World War II : A U.S. Navy task force turned away an Imperial Japanese Navy formation at the Battle of Empress Augusta Bay, thus protecting the landings at Cape Torokina.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arrest_and_assassination_of_Ngo_Dinh_Diem"&gt;1963 – South Vietnamese president Ngô Đình Diệm was arrested and assassinated in Saigon, marking the culmination of a coup d'état led by Dương Văn Minh.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Velma_Barfield"&gt;1984 – Velma Barfield, a convicted serial killer, became the first woman to be executed in the United States since 1962.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2008_Brazilian_Grand_Prix"&gt;2008 – Lewis Hamilton overtook Timo Glock in the final corners of the Brazilian Grand Prix to become the Formula One World Drivers' Champion by one point.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://hackerbooks.org"&gt;Show HN: HackerBooks – HackerTube, but for books mentioned on HN&lt;/a&gt; — A Show HN project that, going by the title, collects books mentioned in Hacker News discussions in the manner of HackerTube. (&lt;a href="https://news.ycombinator.com/item?id=50326821"&gt;discussion&lt;/a&gt;, 1404 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"&gt;Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case&lt;/a&gt; — Per the title, a Lenovo fingerprint-secured USB drive marketed as encrypted turns out to be an unencrypted SD card in an enclosure. (&lt;a href="https://news.ycombinator.com/item?id=50326099"&gt;discussion&lt;/a&gt;, 492 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras"&gt;Police chief unplugs cameras after Flock ignores contract cancellation&lt;/a&gt; — After Plymouth's city council voted to end its Flock contract and Flock didn't respond to the cancellation, the police chief had staff unplug the license-plate cameras, which remain Flock's property with no removal timeline. (&lt;a href="https://news.ycombinator.com/item?id=50326118"&gt;discussion&lt;/a&gt;, 450 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism"&gt;Patrick Stewart taught us what good men do with power&lt;/a&gt; — A Vox essay arguing that Stewart's Jean-Luc Picard modeled the just use of power and institutionalist liberalism, ideals still worth holding onto. (&lt;a href="https://news.ycombinator.com/item?id=50327650"&gt;discussion&lt;/a&gt;, 426 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50328896"&gt;Ask HN: Which TV do you recommend for privacy?&lt;/a&gt; — The asker wants a TV that serves purely as a display for an Apple TV, without the TV itself doing anything else, and asks what has worked for others. (&lt;a href="https://news.ycombinator.com/item?id=50328896"&gt;discussion&lt;/a&gt;, 406 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Sfkv6JF2ozmAkggKu/towards-the-autograntor"&gt;Towards The Autograntor&lt;/a&gt; by Scott Alexander — Describes an AI-driven grantmaking system that scores AI safety grant proposals in "points" relative to a milestone scale anchored on a US-China pause, and shares its components so others can run it. (80 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=are-llms-good-or-bad-bayesians"&gt;Are LLMs good or bad Bayesians?&lt;/a&gt; — Quotes Bryan Caplan's exchange with ChatGPT about LLMs treating plausible counterarguments as support for the speaker rather than comparing them to expectations, and asks whether this can be fixed.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=those-new-service-sector-jobs-18"&gt;Those new service sector jobs?&lt;/a&gt; — Highlights the sentencing of a suburban Chicago man to two years in prison for organizing hundreds of staged armed robberies so fake victims could apply for U-Visas.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-are-the-worst-mr-posts.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-are-the-worst-mr-posts"&gt;What are the Worst MR Posts?&lt;/a&gt; — Alex Tabarrok shares a ChatGPT-generated list of provisional candidates for MR's weakest-reasoned posts from the archive, including ones by Tyler Cowen and Tabarrok himself.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable"&gt;As predicted, the ACA exchanges seem not to be stable&lt;/a&gt; — Cowen notes a projected 13 percent average rise in Obamacare marketplace prices and argues weak mandate enforcement worsens the risk pool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-02.html"/>
+    <published>2026-11-02T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-01</id>
     <title>Daily Digest — Sunday, November 1, 2026</title>
@@ -1569,57 +1624,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-03.html"/>
     <published>2026-10-03T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-02</id>
-    <title>Daily Digest — Friday, October 2, 2026</title>
-    <updated>2026-10-02T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Moroccan_general_election"&gt;Fatima Ezzahra El Mansouri is appointed the first woman prime minister of Morocco after her party's victory in the general election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wendy_Barnes"&gt;... that Wendy Barnes had to fill 40 minutes of live radio airtime when her scheduled guest, Princess Margaret, was unwell and arrived late?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Tree_of_Ecstasy_and_Unbearable_Sadness"&gt;... that The Tree of Ecstasy and Unbearable Sadness features a tree that was described by its author as an allegory for bipolar disorder?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Trendon_Watford"&gt;... that Trendon Watford attended all of his brother's basketball games at Indiana University for four years, even though it meant driving for seven hours?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Boston_Korea"&gt;... that the founder of Boston Korea at first wrote, edited, designed, and delivered the newspaper himself, on routes running from Boston to New Hampshire?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Otto_Djaya"&gt;... that Otto Djaya described his scholarship studies as part of an espionage mission?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Surname_Law"&gt;... that minorities in Turkey recognized under the Treaty of Lausanne were not required to change their surnames, as stipulated by the Surname Law ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alex_Sanders_(politician)"&gt;... that Alex Sanders led a successful campaign against the construction of a chemical plant near Hilton Head Island?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Television"&gt;... that the magazine The Television is known for its covers featuring celebrities holding a lemon?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jaha_Koo"&gt;... that South Korean theatre-maker Jaha Koo made rice cookers explode when trying to make them talk?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nottingham_cheese_riot"&gt;1766 – As part of wider food riots, citizens in Nottingham, England, looted large quantities of cheese; one man was killed during attempts to restore order.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Livadia"&gt;1879 – Qing China signed the Treaty of Livadia with the Russian Empire, but the terms were so unfavorable that the Chinese government refused to ratify the treaty.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shubert_Theatre_(Broadway)"&gt;1913 – The Shubert Theatre opened on Broadway with a production of Hamlet.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u"&gt;1971 – Nguyễn Văn Thiệu was re-elected unopposed as President of South Vietnam.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/West_Nickel_Mines_School_shooting"&gt;2006 – A gunman killed five Amish girls before committing suicide in a one-room schoolhouse in Nickel Mines, Pennsylvania.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://earendil.com/posts/pi-1-0/"&gt;Pi 1.0&lt;/a&gt; — Earendil shipped Pi 1.0, a hardened minimal agent harness, adding Codemode/MCP support, virtual-model extensions, cache warming for Anthropic models, and mid-conversation system messages, alongside a new experimental "Pi Durable" package for long-running agentic apps. (&lt;a href="https://news.ycombinator.com/item?id=49926069"&gt;discussion&lt;/a&gt;, 1300 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/streetcomplete/StreetComplete/issues/5421"&gt;StreetComplete on iOS is now in public beta&lt;/a&gt; — A tracking issue describes the plan to port the Kotlin-based OpenStreetMap editing app to iOS using Kotlin Multiplatform and Compose Multiplatform, sharing most of the codebase with the Android app. (&lt;a href="https://news.ycombinator.com/item?id=49920160"&gt;discussion&lt;/a&gt;, 567 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.cloudflare.com/clef-decision-models/"&gt;Clef: Open-weight decision models, and new RL fine-tuning platform&lt;/a&gt; — Cloudflare released two open-weight "decision model" models (Clef and Clef-flash) on Workers AI, Jev-API compatible and Apache 2.0 licensed, plus a new RL fine-tuning product, positioned as faster, cheaper alternatives to LLMs for classification-style agentic decisions. (&lt;a href="https://news.ycombinator.com/item?id=49923692"&gt;discussion&lt;/a&gt;, 517 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://earendil.com/posts/pi-durable/"&gt;Pi Durable&lt;/a&gt; — A companion experimental package to Pi 1.0, providing a storage-backed harness for building long-running, multi-surface agentic applications that can survive failures, using pluggable backends like SQLite, JSONL, or memory. (&lt;a href="https://news.ycombinator.com/item?id=49925969"&gt;discussion&lt;/a&gt;, 387 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.gitbutler.com/git-3-sha-256"&gt;Git 3.0's upcoming SHA-256 default will be a costly mistake&lt;/a&gt; — Argues that Git's planned switch to defaulting new repositories to SHA-256 hashing in the upcoming 3.0 release will be a costly mistake. (&lt;a href="https://news.ycombinator.com/item?id=49924179"&gt;discussion&lt;/a&gt;, 386 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"&gt;Returning from vacation? The government can search your phone without a warrant&lt;/a&gt; — An immigration activist is suing CBP after agents allegedly pressured him into handing over his phone at Miami airport and copied its data, highlighting the "border exception" to Fourth Amendment protections. (&lt;a href="https://news.ycombinator.com/item?id=49920234"&gt;discussion&lt;/a&gt;, 372 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"&gt;Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026&lt;/a&gt; — Micron's CEO says surging AI-driven demand means DRAM and storage supply will stay much tighter through 2027-2028 than in 2026, with no clear timeline for supply and demand to rebalance. (&lt;a href="https://news.ycombinator.com/item?id=49920932"&gt;discussion&lt;/a&gt;, 356 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china"&gt;On Social Reality in China&lt;/a&gt; by alkjash — Reflects on cultural differences — pervasive social-media filtering, the primacy of "face" and shame, a cynical "dark world" view of human nature, and insecurity-driven nationalism — that could complicate efforts to spread AI safety messaging in China. (110 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/aG4x74utw8pEJ5MZB/how-many-ai-agents-are-running-unattended-right-now-1"&gt;How many AI agents are running unattended right now?&lt;/a&gt; by Alexander Gietelink Oldenziel — Fermi-estimates suggest 300,000-1,000,000 AI agent loops are running globally at any moment, with roughly 5,000-25,000 unattended for more than 24 hours, drawing partly on Anthropic's internal agent-fleet report. (62 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/rktrjGjXEbWsg7zof/my-retrospective-from-mats-10-0"&gt;My retrospective from MATS 10.0&lt;/a&gt; by Nathaniel Mitrani — Recounts training "model organisms" of scheming behavior in open LLMs via fine-tuning in an Alignment-Faking-like setup, and reflects on lessons learned, including the value of directly interrogating the trained models. (60 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/CjZJLXRMDdbgAH3iG/scientists-on-the-manhattan-project-continued-developing-the"&gt;Scientists on the Manhattan Project continued developing the atomic bomb even after it was clear that there was no need to&lt;/a&gt; by shawnghu — Examines physicist Joseph Rotblat's account of why most Manhattan Project scientists kept working on the bomb even after Germany's defeat removed their original justification. (52 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mmfYDH6hwYAMToNKL/evaluating-the-ban-artificial-superintelligence-act"&gt;Evaluating the Ban Artificial Superintelligence Act&lt;/a&gt; by Rob Ennals — Finds the Act's core goal of restricting dangerous AI capabilities reasonable but criticizes its vague and immediately-binding capability rules, lack of grandfathering for existing models, and overly broad scope as likely to cause unintended harm. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-02.html"/>
-    <published>2026-10-02T07:00:00-05:00</published>
   </entry>
 </feed>
