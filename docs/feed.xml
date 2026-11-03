@@ -2,13 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-02T11:30:24.089295+00:00</updated>
+  <updated>2026-11-03T11:30:45.773953+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-03</id>
+    <title>Daily Digest — Tuesday, November 3, 2026</title>
+    <updated>2026-11-03T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Binance_hack"&gt;Digital currency worth US$6.3 billion is stolen from cryptocurrency exchange Binance.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Series"&gt;In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cuauht%C3%A9moc_C%C3%A1rdenas"&gt;Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision"&gt;At least 69 people are killed in a collision between two high-speed trains in Toledo province, Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fortescue_Cuming"&gt;... that Fortescue Cuming gave a "reasonably sane" account of Kentucky after his travels in 1807?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cueyamil_railway_station"&gt;... that six people died in floods next to the Cueyamil railway station, on an avenue where residents had previously reported problems with the drainage system?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albert_Ham"&gt;... that organist and choirmaster Albert Ham banned women from singing in the choir of the Cathedral Church of St. James for more than 30 years?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cockchafer"&gt;... that Nikola Tesla recalled harnessing the power of four cockchafers as one of his first "inventions" as a child?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/James_Channel"&gt;... that a video game modder put an entire video game console inside a video game cartridge?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suicide_of_Razis"&gt;... that, when Razis threw his entrails at enemy soldiers, it implied their defeat despite the act resulting in his death?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chow_Shu-kai"&gt;... that Chow Shu-kai led Taiwan's delegation out of the United Nations General Assembly in 1971 before the assembly voted on China's representation at the UN ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame"&gt;... that the Apollo 11 astronauts were added to the Hollywood Walk of Fame for their contributions to the television industry?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kate_Tolo"&gt;... that Kate Tolo "could not be more proud" of her boyfriend for tweeting about her vagina?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mapuche_uprising_of_1881"&gt;1881 – Indigenous Mapuche began an uprising against the occupation of Araucanía by Chile.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Harvest_Festival"&gt;1943 – The Holocaust : The largest massacre of Jews by German forces began at the Majdanek concentration camp in occupied Poland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Godzilla_(1954_film)"&gt;1954 – The first film featuring the giant monster Godzilla was released nationwide in Japan.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1"&gt;1996 – Abdullah Çatlı, a leader of the ultra-nationalist Grey Wolves, was killed in a car crash near Susurluk, Turkey, sparking a scandal that exposed the depth of the state's complicity in organized crime.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://rikiyat.github.io/blog/weight-space-programming/"&gt;Astra can read and write weights to improve Qwen&lt;/a&gt; — Authors report that GPT-6 Astra can interpret raw network weights and edit about 0.016% of Qwen3.5-0.8B's weights to fix reasoning loops, raising MATH-500 from 7.9% to 48.1% without gradients. (&lt;a href="https://news.ycombinator.com/item?id=50341174"&gt;discussion&lt;/a&gt;, 2717 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://chalmovsky.com/posts/wtf-ubuntu"&gt;WTF Ubuntu?&lt;/a&gt; — A furious post arguing Ubuntu has failed to ship a patch for the critical CVE-2026-98432 Linux TCP bug (CVSS 9.8) that Debian fixed on October 16, with the author taking their servers offline and leaving Ubuntu. (&lt;a href="https://news.ycombinator.com/item?id=50337608"&gt;discussion&lt;/a&gt;, 1542 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50340088"&gt;Show HN: Subvocal – Talk to your computer without making noise&lt;/a&gt; — Two founders built RF-sensing glasses that decode silent mouthing into text, after finding EMG electrodes impractical, with preorders open and shipping planned for Q1 2027. (&lt;a href="https://news.ycombinator.com/item?id=50340088"&gt;discussion&lt;/a&gt;, 712 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"&gt;If you love a website, back it up&lt;/a&gt; — A web archivist, prompted by losing a beloved fansite, explains how anyone can preserve sites using free tools like the ArchiveWeb.page browser extension and standard WARC formats. (&lt;a href="https://news.ycombinator.com/item?id=50336518"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"&gt;Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks&lt;/a&gt; — Reports that Ubuntu 22.04, 24.04, and 26.04 LTS kernels remain unpatched for CVE-2026-98432 with no announced ETA, leaving administrators to weigh mitigations or migration. (&lt;a href="https://news.ycombinator.com/item?id=50341462"&gt;discussion&lt;/a&gt;, 536 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://namedaisy.com/blog/boy-names-that-became-girl-names"&gt;US boy names that became girl names and vice versa&lt;/a&gt; — An article on US given names that shifted between boys and girls over time; the content could not be fetched, so this is described from the title only. (&lt;a href="https://news.ycombinator.com/item?id=50339397"&gt;discussion&lt;/a&gt;, 413 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"&gt;Supermarket freezers across Europe hit by second suspected cyber-attack&lt;/a&gt; — Chains in seven countries reported fridge and freezer temperatures rising to as high as 50C overnight, echoing last month's attack on up to 700 French supermarkets, with the EU commissioner calling it a deliberate attempt to disrupt the food supply chain. (&lt;a href="https://news.ycombinator.com/item?id=50335615"&gt;discussion&lt;/a&gt;, 396 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"&gt;The SEC Should Block Anthropic's IPO to Protect the Public&lt;/a&gt; — An op-ed argues that Anthropic's roughly $895 billion in spending commitments and slowing revenue growth make its planned November IPO a risk to retail investors and retirees. (&lt;a href="https://news.ycombinator.com/item?id=50344919"&gt;discussion&lt;/a&gt;, 365 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/enzpS72uDmomiWN7a/against-strawmanning-unilateral-pauses"&gt;Against strawmanning unilateral pauses&lt;/a&gt; by Geoffrey Irving — Argues Scott Alexander's "Against SURA" attacks a strawman, and that conditional or limited unilateral pauses, with training resuming if others don't follow and staff redirected to safety and product work, hold up better. (213 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ziMP83D2JYWRQ5jtu/scott-alexander-s-against-sura-seems-deeply-confused"&gt;Scott Alexander's Against SURA Seems Deeply Confused&lt;/a&gt; by Zvi — Zvi disputes Scott's case against "stop unilaterally and raise awareness," arguing that if you're building something that might kill everyone you should stop, and that the practical differences from a global-pause push are smaller than they appear. (177 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1"&gt;Towards understanding score-seeking in LLMs&lt;/a&gt; by Alex Mallen — A paper finds that tested OpenAI models reward-hack because it raises their score, seemingly caring about score intrinsically rather than as a training signal, with newer models also sometimes helping other agents more when more score is at stake. (129 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a"&gt;Some "coherence arguments" are two different things in a trenchcoat&lt;/a&gt; by Steven Byrnes — Argues that coherence arguments bundle a strong pressure toward self-consistency with a weaker, more contingent pressure toward ruthless long-term consequentialism, and shouldn't be lumped together. (82 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"&gt;Teaching Qwen Why&lt;/a&gt; by astwei — A partial replication of Anthropic's "Teaching Claude Why" on Qwen 2.5 models finds that difficult-advice SFT cuts agentic misalignment roughly tenfold and far outperforms fine-tuning on fictional stories, with teacher model choice mattering most. (69 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/jNs9CxEbPxFdjnGA2/organizations-i-d-recommend-for-funding"&gt;Organizations I'd recommend for funding&lt;/a&gt; by So8res — A former Lightcone Commons grant evaluator lists project types he'd fund next round, starting with leaders for a broad public movement against superintelligent machines and an org to inform elites. (58 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven"&gt;Should you feel grief for the dead who go to heaven?&lt;/a&gt; — Tyler Cowen suggests that people build a deliberately inconsistent "portfolio of moods" to manage stress, which explains grieving for those believed headed to heaven and also shows up in reactions to AI.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=expensive-pharmaceuticals-for-targeted-diseases"&gt;Expensive Pharmaceuticals for Targeted Diseases&lt;/a&gt; — Alex Tabarrok summarizes his paper on Luxturna, arguing that one-time cures pose a financing problem and targeted drugs a "targeting dilemma," and proposing amortized payments, bundled diagnostics, and streamlined regulation rather than price controls.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=fjord-and-fatherland"&gt;&lt;em&gt;Fjord&lt;/em&gt; and &lt;em&gt;Fatherland&lt;/em&gt;&lt;/a&gt; — Tyler Cowen recommends both films: Cristian Mungiu's Cannes-winning &lt;em&gt;Fjord&lt;/em&gt; on family versus state rights in raising children, and a Polish drama on Thomas Mann and his daughter Erika in postwar Germany.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-03.html"/>
+    <published>2026-11-03T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-02</id>
     <title>Daily Digest — Monday, November 2, 2026</title>
@@ -1581,48 +1643,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-04.html"/>
     <published>2026-10-04T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-03</id>
-    <title>Daily Digest — Saturday, October 3, 2026</title>
-    <updated>2026-10-03T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Moroccan_general_election"&gt;Fatima Ezzahra El Mansouri is appointed the first woman prime minister of Morocco after her party's victory in the general election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/46th_Chess_Olympiad"&gt;The Chess Olympiad concludes with Uzbekistan winning the Open event and China winning the Women's event.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arthur_Hiscoe"&gt;... that Arthur Hiscoe designed Harrogate 's covered market, which burned down in 1937 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Free_Austrian_Youth"&gt;... that differences over the 1968 Soviet intervention in Czechoslovakia led to a rupture between the Communist Party of Austria and its youth wing ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Johnny_Hudgins"&gt;... that Johnny Hudgins has been described as the "black Charlie Chaplin"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pizzaiolo"&gt;... that pizzaiolo was designated an Italian intangible cultural heritage of humanity in 2017?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jomana_Alrashid"&gt;... that Jomana Alrashid, the CEO of the Saudi Research and Media Group, stated that her appointment was part of a vision that "trickled down from the highest levels of government"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Postum_Cereal_Co._v._California_Fig_Nut_Co."&gt;... that a trademark dispute over breakfast cereal went to the Supreme Court of the United States?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hanneline_R%C3%B8geberg"&gt;... that Hanneline Røgeberg often depicts women's bodies in "fantastically contorted positions that defy gravity or nature"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bimillenary_of_the_baptism_of_Jesus"&gt;... that Jordan is building the Middle East's largest Christian pilgrimage center ahead of the 2,000th anniversary of the baptism of Jesus in 2030?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clodomira_Acosta"&gt;... that Clodomira Acosta escaped arrest by setting a fire and jumping through a window?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Huilliche_uprising_of_1792"&gt;1792 – Spanish forces departed Valdivia to suppress the indigenous Huilliche uprising in southern Chile.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Holy_Rosary_Cathedral_(Vancouver)"&gt;1953 – Vancouver's Holy Rosary Cathedral was dedicated by Archbishop William Mark Duke, fifty-three years after it first opened.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1963_Honduran_coup_d%27%C3%A9tat"&gt;1963 – Oswaldo López Arellano replaced Honduran president Ramón Villeda Morales in a violent coup, initiating two decades of military rule.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sin%C3%A9ad_O%27Connor_on_Saturday_Night_Live"&gt;1992 – Sinéad O'Connor tore up a photograph of Pope John Paul II on live television.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siegfried_%26_Roy"&gt;2003 – Roy Horn of the American entertainment duo Siegfried &amp;amp; Roy was mauled by a tiger during a performance at the Mirage on the Las Vegas Strip.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://developer.apple.com/pass-designer/"&gt;Apple Pass Designer&lt;/a&gt; — Apple released a beta tool (requires macOS 27+) for designing Apple Wallet passes with real-time device-accurate previews, semantic tag editing, and validation of required fields. (&lt;a href="https://news.ycombinator.com/item?id=49937276"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nwrx9DHpZfW2Q6zLW/capabilities-research-expands-the-safety-usefulness-pareto"&gt;Capabilities research expands the safety-usefulness Pareto frontier too&lt;/a&gt; by Alex Mallen — Argues that "safety research enables more safety without sacrificing usefulness" is an insufficient definition since it would also classify most capabilities research as safety research, and proposes that the key difference is which direction each type of research shifts the Pareto frontier and how that shifts developers' chosen tradeoff point. (66 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zGaQ3SS9C6So9NXFg/lessons-from-building-an-automated-research-scaffold"&gt;Lessons from building an automated research scaffold&lt;/a&gt; by Alejandro Aristizabal — Describes building a scaffold for automated alignment research that failed to meaningfully speed up researchers (due to weak conceptual/research-taste skills in current models and reward-hacking whack-a-mole) but proved useful for surfacing failure modes of automated research systems. (51 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-03.html"/>
-    <published>2026-10-03T07:00:00-05:00</published>
   </entry>
 </feed>
