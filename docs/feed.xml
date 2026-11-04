@@ -2,13 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-03T11:30:45.773953+00:00</updated>
+  <updated>2026-11-04T11:30:31.762658+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-04</id>
+    <title>Daily Digest — Wednesday, November 4, 2026</title>
+    <updated>2026-11-04T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Binance_hack"&gt;Digital currency worth US$6.3 billion is stolen from cryptocurrency exchange Binance.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolores_Huerta"&gt;American labor activist Dolores Huerta dies at the age of 96.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Series"&gt;In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cuauht%C3%A9moc_C%C3%A1rdenas"&gt;Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Patrick_Stewart"&gt;British actor Patrick Stewart dies at the age of 86.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pioneer_10"&gt;... that the radioisotope thermoelectric generators on the Pioneer 10 spacecraft were designed to last for at least two years, but continued operating for over thirty?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vince_Thompson"&gt;... that a "Gong Show" tryout led to football running back Vince Thompson becoming an NFL leader?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Your_Name_Here_(novel)"&gt;... that, after literary agents described Your Name Here as difficult to follow, co-author Helen DeWitt responded by adding more material?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Antonio_Pe%C3%B1a_y_Go%C3%B1i"&gt;... that Antonio Peña y Goñi has been described as the founder of modern music criticism in Spain?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Canasnack"&gt;... that the Canadian Space Agency developed Canasnack, an oatmeal cookie made solely out of Canadian ingredients?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_H._Bidmead"&gt;... that Christopher H. Bidmead became the script editor for Doctor Who after writing a "fan letter"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Faker_(gamer)"&gt;... that Faker celebrated winning the 2015 League of Legends World Championship by eating a raw broccoli stalk on stage?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rewind_(2023_film)"&gt;... that Rewind became the first Philippine film to gross 900 million pesos at the worldwide box office?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lotteries_in_Japan"&gt;... that there are generally no age restrictions for lotteries in Japan ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Johnsonville"&gt;1864 – American Civil War : Nathan Bedford Forrest led a cavalry division in an attack on a Union army supply base at Johnsonville, Tennessee, resulting in the capture of 150 prisoners.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Italy)"&gt;1921 – The remains of an unknown soldier were buried with an eternal flame at the Altare della Patria in Rome.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ruhollah_Khomeini%27s_life_in_exile"&gt;1964 – Ruhollah Khomeini, an influential Shia cleric, was arrested by the Iranian secret police and exiled to Turkey.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paris_Agreement"&gt;2016 – The Paris Agreement, under the United Nations Framework Convention on Climate Change, came into effect.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/postmanlabs/postman-app-support/issues/14370"&gt;Postman silently auto-installs AI plugins and attempts to share all API data&lt;/a&gt; — A GitHub issue documents Postman desktop auto-installing Codex and Claude Code plugins, plus a startup hook that tells agents to route API work through Postman and that the installer tries to mark as trusted on its own. (&lt;a href="https://news.ycombinator.com/item?id=50354960"&gt;discussion&lt;/a&gt;, 1315 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://honnibal.dev/blog/astra-read-write-misleading"&gt;The 'Astra can read and write weights to improve Qwen' post is misleading&lt;/a&gt; — Matthew Honnibal argues the post conflates raw-weight-reading experiments on small networks with Python-assisted experiments on real language models, so the headline Qwen result doesn't show a single deep capability. (&lt;a href="https://news.ycombinator.com/item?id=50351111"&gt;discussion&lt;/a&gt;, 991 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"&gt;Qwen 3.8 27B on my laptop can interpret model weights, too&lt;/a&gt; — Simon Willison reproduces the no-tools weight-interpretation experiment from the "Weight-Space Programming" paper with a local Qwen model, focusing on whether models can identify what a network was trained to do from raw weights. (&lt;a href="https://news.ycombinator.com/item?id=50355251"&gt;discussion&lt;/a&gt;, 642 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"&gt;Google will turn off search for schools that reject AI&lt;/a&gt; — Per the title, Google is reportedly set to disable search for schools that restrict AI; the article text wasn't available. (&lt;a href="https://news.ycombinator.com/item?id=50353192"&gt;discussion&lt;/a&gt;, 627 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://neufangled.com/"&gt;Stringman, an $800 open-source room scale gripper robot&lt;/a&gt; — An open-source, room-scale gripper robot priced around $800, mounted via cleats secured near the ceiling. (&lt;a href="https://news.ycombinator.com/item?id=50354358"&gt;discussion&lt;/a&gt;, 622 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50352757"&gt;OpenAI seems to be silently re-enabling model training on Codex chats&lt;/a&gt; — A user reports the "Improve the model for everyone" setting appearing re-enabled and asks whether it's widespread, noting it has been reported before and pointing to the data-controls settings. (&lt;a href="https://news.ycombinator.com/item?id=50352757"&gt;discussion&lt;/a&gt;, 487 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"&gt;Kalshi and its co-founders face felony charges for violating Utah gambling laws&lt;/a&gt; — Utah filed criminal charges against Kalshi and its founders while the CFTC sues the state, the 10th it has sued, claiming exclusive federal jurisdiction over prediction markets. (&lt;a href="https://news.ycombinator.com/item?id=50353229"&gt;discussion&lt;/a&gt;, 478 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"&gt;Safari introduces Adaptive Dark Mode in 27.3&lt;/a&gt; — Safari 27.3 beta can automatically render light websites in dark by inverting luminosity while preserving hue, leaving sites that already support dark mode untouched. (&lt;a href="https://news.ycombinator.com/item?id=50358562"&gt;discussion&lt;/a&gt;, 447 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://namespace.so/blog/mac-at-any-scale"&gt;Mac at any scale&lt;/a&gt; — Namespace explains why and how it racks hundreds of MacBooks in a datacenter, citing Mac Mini supply delays and lessons on IP KVMs, cabling, heat, and FileVault. (&lt;a href="https://news.ycombinator.com/item?id=50352758"&gt;discussion&lt;/a&gt;, 388 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"&gt;US tech giants' hidden AI debt swells 90% to $3.2T in 6 months&lt;/a&gt; — Nikkei reports off-balance-sheet AI-related obligations at major US tech firms nearly doubled in six months to about $3.2 trillion, alarming investors. (&lt;a href="https://news.ycombinator.com/item?id=50358422"&gt;discussion&lt;/a&gt;, 364 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=are-economists-declining-in-status"&gt;Are economists declining in status?&lt;/a&gt; — Tyler Cowen's Free Press piece contrasts the influence of economists in the Kennedy-Johnson and Reagan eras with today, citing funding cuts, politicization of academia, and AI as forces lowering their status.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-economics-of-tips"&gt;The economics of tips&lt;/a&gt; — A study linking point-of-sale and payroll data at 20,000 firms finds tipping firms claw back 23–33 cents per tip dollar via lower base wages, yet tipping rewards effort and raises firm profit where customers tip readily.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=thoughts-on-owning-a-self-driving-tesla"&gt;Thoughts on Owning a Self-Driving Tesla&lt;/a&gt; — Alex Tabarrok reports that FSD makes supervised driving easier than driving itself, praises the Grok integration, and notes the subscription costs roughly offset his gas savings.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=ireland-fact-of-the-day-8"&gt;Ireland fact of the day&lt;/a&gt; — Almost half of Ireland's corporation tax revenue comes from just Apple, Eli Lilly and Microsoft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-04.html"/>
+    <published>2026-11-04T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-03</id>
     <title>Daily Digest — Tuesday, November 3, 2026</title>
@@ -1602,46 +1658,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-05.html"/>
     <published>2026-10-05T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-04</id>
-    <title>Daily Digest — Sunday, October 4, 2026</title>
-    <updated>2026-10-04T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Bangkok_floods"&gt;Flooding in Bangkok and across Thailand leaves at least 23 people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Moroccan_general_election"&gt;Fatima Ezzahra El Mansouri is appointed the first woman prime minister of Morocco after her party's victory in the general election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87"&gt;Serbian president Aleksandar Vučić resigns to run for prime minister in the upcoming parliamentary elections.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ernst_Frey"&gt;... that a man born in Austria became one of the first colonels of the People's Army of Vietnam?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alarms_in_the_Heart"&gt;... that the melodies of Alarms in the Heart were likened to Gregorian chants?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cindy_Rostron"&gt;... that Australian model Cindy Rostron also had a career as an Indigenous ranger?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Youth_of_the_African_Democratic_Revolution"&gt;... that from 1959 all Guinean people aged 7 to 35 years old statutorily belonged to the Youth of the African Democratic Revolution ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grady_Prestage"&gt;... that Grady Prestage was the first African American elected to the Fort Bend County commissioners' court since Reconstruction?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Audubon_Park,_Manhattan"&gt;... that John James Audubon gave his wife ownership of his Manhattan estate to prevent debt collectors from seizing it?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Philoxenos_Yuhanon_Dolabani"&gt;... that Philoxenos Yuhanon Dolabani defied church policy against Assyrian nationalism through anonymous poetry?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sabrina_Online"&gt;... that the anthropomorphic skunk Sabrina has been called "one of the most famous furry comics stars"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marcus_Hunter-Neill"&gt;... that drag queen Marcus Hunter-Neill once donated £20,000 worth of clothes to charity?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albanian%E2%80%93Venetian_War"&gt;1448 – Skanderbeg and Gjergj Arianiti signed a peace treaty to end the Albanian–Venetian War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Smolensk_(1632%E2%80%931633)"&gt;1633 – Smolensk War : Forces from the Polish–Lithuanian Commonwealth broke the Russian siege of Smolensk (depicted).&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Galveston_Harbor_(1862)"&gt;1862 – American Civil War : After a naval battle in Galveston Harbor, Texas, Confederate commanders negotiated the surrender of the city to Union forces.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1925_Hama_uprising"&gt;1925 – Great Syrian Revolt : Rebels led by Fawzi al-Qawuqji captured the city of Hama from the French Mandate of Syria.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Rushmore"&gt;1927 – Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=49949438"&gt;Tell HN: Bob Cringely has died&lt;/a&gt; — Bob Cringely (real name Mark Stevens), an early Apple employee best known for PBS documentaries like "Triumph of the Nerds," has died in his sleep. (&lt;a href="https://news.ycombinator.com/item?id=49949438"&gt;discussion&lt;/a&gt;, 469 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"&gt;We're going to need default hard budget caps on pretty much everything&lt;/a&gt; — Simon Willison argues that pay-by-usage services and cloud providers need hard (not just soft) spending caps by default, especially as coding/personal agents make it easier to accidentally rack up huge bills, noting AWS and Google Cloud have both recently launched spend-limit features. (&lt;a href="https://news.ycombinator.com/item?id=49949235"&gt;discussion&lt;/a&gt;, 441 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"&gt;Federal judge calls Flock "indiscriminate mass surveillance"&lt;/a&gt; — A federal judge ruled that a Tulsa sheriff's deputy violated a woman's Fourth Amendment rights by warrantlessly searching Flock Safety's license-plate database, suppressing resulting drug evidence and calling the system a tool of indiscriminate mass surveillance. (&lt;a href="https://news.ycombinator.com/item?id=49948254"&gt;discussion&lt;/a&gt;, 430 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tej.as/blog/aleph-alpha-kolibri"&gt;Aleph Alpha Kolibri: How the sovereign German LLM works&lt;/a&gt; — A deep dive into Kolibri, Aleph Alpha's new open-weight 78B-parameter (3.5B active) mixture-of-experts German/English LLM built under EU AI Act compliance and trained entirely on European infrastructure. (&lt;a href="https://news.ycombinator.com/item?id=49943034"&gt;discussion&lt;/a&gt;, 413 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-04.html"/>
-    <published>2026-10-04T07:00:00-05:00</published>
   </entry>
 </feed>
