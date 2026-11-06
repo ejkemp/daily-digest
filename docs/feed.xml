@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-05T11:30:29.274788+00:00</updated>
+  <updated>2026-11-06T11:30:36.511670+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-06</id>
+    <title>Daily Digest — Friday, November 6, 2026</title>
+    <updated>2026-11-06T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_United_States_elections"&gt;In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Constitutional_Tribunal_(Poland)#Polish_Constitutional_Tribunal_crisis"&gt;The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Binance_hack"&gt;Digital currency worth US$6.3 billion is stolen from cryptocurrency exchange Binance.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolores_Huerta"&gt;American labor activist Dolores Huerta dies at the age of 96.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Series"&gt;In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cinema_%2776"&gt;... that Cinema '76 adopted three cats named after a series of independent Philippine films ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Martin_Lehmann"&gt;... that, when Martin Lehmann became the 29th Kreuzkantor of the Dresdner Kreuzchor, he programmed music by his predecessors across three centuries?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eugene_Tapahe"&gt;... that Navajo photographer Eugene Tapahe was inspired by a dream to create Art Heals: The Jingle Dress Project ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flamy_Grant"&gt;... that Flamy Grant was the first drag performer to top the iTunes Christian Charts?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joe_Hill_(activist)"&gt;... that labor leader Joe Hill was executed despite calls for clemency by President Woodrow Wilson ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tsarist_Russia"&gt;... that it was feared that Tsarist Russia would become " Genghis Khan with a telegraph"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Madeleine_Marzin"&gt;... that Madeleine Marzin was sentenced to death after she led a group of women to loot sardines from a Parisian grocery during World War II?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shrira%E2%80%93Pesenson_equation"&gt;... that the Shrira–Pesenson equation describes how a bent solitary wave can develop a shock wave running along its front?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Puftaloon"&gt;... that puftaloons used to be called "moon balls"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Scenes_of_Clerical_Life"&gt;1856 – The first story from the collection Scenes of Clerical Life by the English author George Eliot was submitted for publication.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Treaty_of_Fort_Laramie_(1868)"&gt;1868 – Sioux Wars : Red Cloud, a Native American leader of the Oglala Lakota tribe, signed the Treaty of Fort Laramie, ending Red Cloud's War and establishing the Great Sioux Reservation.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Los_Solidarios"&gt;1924 – The Spanish anarchist group Los Solidarios unsuccessfully attempted to launch an insurrection against the dictatorship of Miguel Primo de Rivera.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Raqqa_campaign_(2016%E2%80%932017)"&gt;2016 – Syrian civil war : The Syrian Democratic Forces launched a successful military campaign to isolate and eventually capture Raqqa, the Islamic State 's capital.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sshhole.com"&gt;sshole&lt;/a&gt; — A short history of how Unix password hashes lived in a world-readable /etc/passwd, and how Bill Joy put a &lt;code&gt;*&lt;/code&gt; in the daemon account in 1980 so no password could ever match it. (&lt;a href="https://news.ycombinator.com/item?id=50378228"&gt;discussion&lt;/a&gt;, 2739 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/anthropics/claude-code/issues/107757"&gt;Claude Code sends your email address to websites&lt;/a&gt; — A bug report alleging Claude Code includes the user's email in the User-Agent header during web searches, leading to scam emails, with the reporter demanding it be removed entirely. (&lt;a href="https://news.ycombinator.com/item?id=50385272"&gt;discussion&lt;/a&gt;, 1208 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kagi.com/changelog#11820"&gt;Search for everyone&lt;/a&gt; — Kagi now lets anyone search without an account for the first 50 searches, alongside a redesigned Android app and an open letter opposing Google's plan to bundle school search with AI tools. (&lt;a href="https://news.ycombinator.com/item?id=50383740"&gt;discussion&lt;/a&gt;, 684 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"&gt;Alpine Linux Security Advisory: OpenSSH-server password authentication bypass&lt;/a&gt; — Alpine's openssh-server (without PAM) lets attackers log into accounts with a &lt;code&gt;*&lt;/code&gt; password field by sending a very long password when another account has a &lt;code&gt;$5$&lt;/code&gt;/&lt;code&gt;$6$&lt;/code&gt; hash; update and restart sshd, or disable password authentication. (&lt;a href="https://news.ycombinator.com/item?id=50379704"&gt;discussion&lt;/a&gt;, 622 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.salon.com/2026/11/05/goodbye-from-salon/"&gt;Goodbye from Salon&lt;/a&gt; — Salon announces it is ceasing publication after 31 years, citing an unsustainable independent digital publishing model. (&lt;a href="https://news.ycombinator.com/item?id=50383739"&gt;discussion&lt;/a&gt;, 589 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cve.org/CVERecord?id=CVE-2026-83844"&gt;MS Paint Remote Code Execution Vulnerability&lt;/a&gt; — A CVE record for a remote code execution vulnerability in MS Paint; the scraped page held no further details. (&lt;a href="https://news.ycombinator.com/item?id=50384233"&gt;discussion&lt;/a&gt;, 563 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://motorolanews.com/motorola-signature-27-2/"&gt;Motorola Signature 27 with GrapheneOS support&lt;/a&gt; — Motorola's new flagship touts a top-ranked camera system and a very bright display, and is the first Motorola device to support GrapheneOS. (&lt;a href="https://news.ycombinator.com/item?id=50380810"&gt;discussion&lt;/a&gt;, 494 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"&gt;Discord is ditching Electron and its new app uses less RAM&lt;/a&gt; — Discord is moving its client fully to Rust, dropping Electron and React Native, with a Windows build shown using about 290MB of RAM. (&lt;a href="https://news.ycombinator.com/item?id=50378625"&gt;discussion&lt;/a&gt;, 446 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"&gt;I wish tech companies knew more about me&lt;/a&gt; — A humorous complaint that despite pervasive tracking, ads, recommendations, and localization remain obviously irrelevant or wrong. (&lt;a href="https://news.ycombinator.com/item?id=50378942"&gt;discussion&lt;/a&gt;, 441 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/saragordic/window-sweaters"&gt;Window Sweaters&lt;/a&gt; — A playful Mac menu-bar app that gives windows knitted-style borders with colors inspired by each app's icon. (&lt;a href="https://news.ycombinator.com/item?id=50381383"&gt;discussion&lt;/a&gt;, 363 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"&gt;Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue&lt;/a&gt; — Mark Cuban says Meta lets deepfake scam ads run, citing Reuters-reported internal documents estimating about $16 billion (roughly 10% of 2024 revenue) from scam and prohibited-product ads, which Meta disputes as selective. (&lt;a href="https://news.ycombinator.com/item?id=50385870"&gt;discussion&lt;/a&gt;, 359 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"&gt;Download your favourite YouTube videos&lt;/a&gt; — An argument for archiving videos you care about with yt-dlp, plus the author's Jellyfin, ytdl-sub, and Tdarr setup for organizing playlists on a NAS. (&lt;a href="https://news.ycombinator.com/item?id=50378571"&gt;discussion&lt;/a&gt;, 354 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"&gt;METR: Independent Assessment of AI R&amp;amp;D Acceleration at Anthropic in October 2026&lt;/a&gt; by Zach Stein-Perlman — METR's high-access evaluation concludes Anthropic is likely improving model capabilities on well-specified tasks at about twice its 2024–2025 rate, mostly due to AI-assisted R&amp;amp;D, with high uncertainty and some key findings redacted. (120 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/8qYuy9Cr6BNpgjJjT/help-your-friends-get-adhd-and-depression-meds"&gt;Help your friends get ADHD and depression meds&lt;/a&gt; by Raemon — Argues that one of the most impactful things you can do is sit down with friends who may need ADHD or depression meds and help them book a teledoc or psychiatrist appointment. (118 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/tn4WSyrqr7ozGLjRy/people-should-resolve-tensions-in-ai-safety-research"&gt;People Should Resolve Tensions In AI Safety Research&lt;/a&gt; by David Africa — Proposes writing short pieces that compile and reconcile contradictory evidence across AI safety papers around specific questions, to help the field, newcomers, and future experiments. (115 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-very-good-conversation-with-richard-hanania"&gt;My very good Conversation with Richard Hanania&lt;/a&gt; — Tyler Cowen and Hanania discuss Conrad's Nostromo, then range into Latin American crime, Panama, Shakespeare, media criticism, and the populist right.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=social-media-and-political-radicalization"&gt;Social media and political radicalization&lt;/a&gt; — Cowen argues that moderate election results and improving teen mental health trends, despite continued social media use, show the standard anti-social-media claims are incomplete.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=pollution-as-growth-killer"&gt;Pollution as Growth Killer&lt;/a&gt; — Alex Tabarrok, in an Outlook Business interview, argues that air pollution in India damages human capital and growth, and that much of it comes from sources cheap to clean up.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=love-at-first-photo"&gt;Love at first photo?&lt;/a&gt; — A job market paper using a custom experimental dating app finds that photo-centric profiles and limits on likes concentrate attention, while requiring screening on other profile components spreads likes more evenly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-06.html"/>
+    <published>2026-11-06T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-05</id>
     <title>Daily Digest — Thursday, November 5, 2026</title>
@@ -1622,52 +1686,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-07.html"/>
     <published>2026-10-07T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-06</id>
-    <title>Daily Digest — Tuesday, October 6, 2026</title>
-    <updated>2026-10-06T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack or crash the aircraft.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charlotte_Jordan"&gt;... that actress Charlotte Jordan was once in a girl group that she said changed names so many times it was referred to simply as "The Band"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Royal_Khmer_Socialist_Youth"&gt;... that in 1967 the Cambodian Civil War began with a rebel assault on a Royal Khmer Socialist Youth co-operative farm?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stephanie_Williams_(comics)"&gt;... that Stephanie Williams wrote a fan comic about Monica Rambeau before writing for the character officially?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Leagues_Cup_final"&gt;... that the 2026 Leagues Cup final featured a yellow card just eight seconds into the match?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hank_Molt"&gt;... that " the godfather of reptile smuggling " called himself "a man of mystery somewhat by design"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anglaise_(dance)"&gt;... that traditional dances from England were popularized across Continental Europe by the French?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Morton_Bryan_Wharton"&gt;... that Baptist pastor Morton Bryan Wharton said he coined the term "pastorium" because other Christian denominations already used other terms for clergy houses?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lamplight_Lounge"&gt;... that a Pixar-themed restaurant has a secret dining room?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fat_Papi"&gt;... that Fat Papi became the first Kurd on the Billboard Hot 100 because of a woman with a bob ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Manila_(1762)"&gt;1762 – Seven Years' War : The Battle of Manila concluded with a British victory over Spain, leading to a twenty-month occupation.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Forts_Clinton_and_Montgomery"&gt;1777 – American Revolutionary War : Fort Clinton and Fort Montgomery were captured by British forces under Sir Henry Clinton, dismantling the Hudson River Chains.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Badr_(1973)"&gt;1973 – The Egyptian Armed Forces crossed the Suez Canal to attack occupying Israel Defense Forces at the Bar Lev Line in the Sinai Peninsula, beginning the Yom Kippur War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/51_Pegasi_b"&gt;1995 – Astronomers Michel Mayor and Didier Queloz reported the discovery of a planet orbiting 51 Pegasi as the first known exoplanet around a main-sequence star.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carlos_%C3%81lvarez_(Argentine_politician)"&gt;2000 – Denouncing corruption in Argentine president Fernando de la Rúa 's administration and the Senate, Vice President Carlos Álvarez resigned.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"&gt;Web Search API&lt;/a&gt; — Cloudflare launched a beta Web Search API that lets AI agents ground responses in live web results via three providers (Ceramic.ai, Exa, Linkup), routed through AI Gateway with no markup on provider pricing. (&lt;a href="https://news.ycombinator.com/item?id=49963171"&gt;discussion&lt;/a&gt;, 551 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://reflection.ai/blog/introducing-beam"&gt;Beam: Reflection's 501B open-weight model&lt;/a&gt; — Reflection AI unveiled Beam, a 501B-parameter (23B active) open-weight MoE model trained with a massive high-compute RL run on 10.5K GB300 GPUs, aimed at efficient coding and agentic performance competitive with larger open models. (&lt;a href="https://news.ycombinator.com/item?id=49969183"&gt;discussion&lt;/a&gt;, 462 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"&gt;ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons&lt;/a&gt; — ChatGPT has been generating fake New Yorker-style cartoons and falsely signing them with the real signatures of more than 15 working cartoonists, who say it misattributes AI images as their own work. (&lt;a href="https://news.ycombinator.com/item?id=49971846"&gt;discussion&lt;/a&gt;, 449 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped"&gt;Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped&lt;/a&gt; — GrapheneOS indicates the upcoming Pixel 11 may not meet its security bar and could be left unsupported, per the forum thread title (article content unavailable). (&lt;a href="https://news.ycombinator.com/item?id=49964303"&gt;discussion&lt;/a&gt;, 417 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"&gt;Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates&lt;/a&gt; — A team using AI agents designed one candidate and identified a second, previously known since 1999, material predicted to exhibit "Luttinger compensated" magnetism useful for faster, denser spintronic memory. (&lt;a href="https://news.ycombinator.com/item?id=49970667"&gt;discussion&lt;/a&gt;, 360 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nzNuDimMtF954xihw/notes-on-paying-attention"&gt;Notes on Paying Attention&lt;/a&gt; by jenn — A reflection on how slowing down to pay attention can enrich experience, while cautioning against over-relying on others' tastes instead of discovering one's own "secret thread" of preference. (63 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/n952MZndfNxuLCeFk/reverse-jaggedness-and-universal-ajaggedness"&gt;Reverse Jaggedness and Universal Ajaggedness&lt;/a&gt; by Laiba Rehman ✦ RJ — A playful thought experiment proposing that AI "jaggedness" (uneven capability across tasks) is relative to the observer, illustrated by flipping a human-centric unit-circle capability model to an AI's point of view. (59 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-06.html"/>
-    <published>2026-10-06T07:00:00-05:00</published>
   </entry>
 </feed>
