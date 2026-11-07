@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-06T11:30:36.511670+00:00</updated>
+  <updated>2026-11-07T11:30:31.939617+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-07</id>
+    <title>Daily Digest — Saturday, November 7, 2026</title>
+    <updated>2026-11-07T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_United_States_elections"&gt;In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"&gt;In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Constitutional_Tribunal_(Poland)#Polish_Constitutional_Tribunal_crisis"&gt;The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aracelio_Iglesias"&gt;... that Aracelio Iglesias was called the "Red Czar of the port of Havana"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_critics_of_Wikipedia"&gt;... that Wikipedia's critics include a co-founder who was banned earlier this year?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tillie_Voss"&gt;... that Tillie Voss allegedly responded to a toothache by running head first into a wall of cinder blocks?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)"&gt;... that the sitcom No Big Deal received zero stars out of five from The Guardian ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Blowing_on_hot_food"&gt;... that blowing on hot food has been discouraged by medieval English courtesy books, Islamic religious texts, and indigenous deer hunters from Mexico?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ryan_Peake_(golfer)"&gt;... that professional golfer Ryan Peake was formerly a member of an outlaw motorcycle club?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/FirstDate"&gt;... that the Singaporean government launched a dating service for civil servants ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gis%C3%A8le_Joann%C3%A8s"&gt;... that Gisèle Joannès smuggled documents under baby clothes during World War II?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SEFOR"&gt;... that a dean at the University of Arkansas said the university was "silly enough" to have accepted a closed nuclear reactor as a gift?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Liceu_bombing"&gt;1893 – Between 20 and 30 people in the Grand Lyceum Theatre in Barcelona were killed in a terrorist attack by Spanish anarchist Santiago Salvador.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jeannette_Rankin"&gt;1916 – Jeannette Rankin became the first woman to be elected to the United States House of Representatives.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Neft_Da%C5%9Flar%C4%B1"&gt;1949 – Oil was discovered in the Caspian Sea off the coast of Azerbaijan, leading to the construction of Neft Daşları, the world's first offshore oil platform.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mars_Global_Surveyor"&gt;1996 – NASA launched Mars Global Surveyor from the Kennedy Space Center at Cape Canaveral, Florida.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"&gt;Tesla to wind down Cybertruck production&lt;/a&gt; — Musk says Cybertruck production at the Texas gigafactory will wind down around mid-2027 to make room for Cybercab, after US sales fell to 20,237 last year versus his predicted 250,000 a year. (&lt;a href="https://news.ycombinator.com/item?id=50391456"&gt;discussion&lt;/a&gt;, 1029 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mitchellh.com/writing/libghostty-1-0"&gt;Libghostty 1.0&lt;/a&gt; — The portable C terminal-emulation library extracted from Ghostty reaches 1.0 with a stable C ABI enforced in CI, and already powers the JetBrains IDE terminal and a pending Neovim change. (&lt;a href="https://news.ycombinator.com/item?id=50399933"&gt;discussion&lt;/a&gt;, 688 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hightouch.com/blog/llm-judges-identity-resolution"&gt;A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost&lt;/a&gt; — Hightouch finds that a hybrid of the cheap confidence-scoring Jev model deferring to Opus matches frontier accuracy at over 4x lower cost when grading identity-resolution results. (&lt;a href="https://news.ycombinator.com/item?id=50397429"&gt;discussion&lt;/a&gt;, 497 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.filfre.net/2026/11/deus-ex/"&gt;Deus Ex&lt;/a&gt; — A retrospective that pushes back on the game's modern reputation as a prophetic masterpiece, grounding it in the circumstances of its 2000 release, including the mundane origin of the protagonist's name J.C. Denton. (&lt;a href="https://news.ycombinator.com/item?id=50393758"&gt;discussion&lt;/a&gt;, 356 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/iMKAvHSWxSoDpBoi6/we-urgently-need-to-practice-before-we-can-pause"&gt;We urgently need to practice before we can pause&lt;/a&gt; by Nikola Jurkovic — Argues that an incrementally built global AI pause is more likely and tractable than a sudden single-shot one, and that third parties should start practicing trust-building verification of lab safety claims now. (88 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HtMvB7XEFThvDLLzT/higher-salaries-in-ai-safety"&gt;Higher salaries in AI safety&lt;/a&gt; by Austin Chen — Contends that AI safety workers and leaders are underpaid relative to lab compensation, which fosters funder dependence and talent drain, and suggests higher pay, impact equity, or a safety-employee union. (60 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=natasha-cowen-guest-posts-on-caffrey"&gt;Natasha Cowen guest posts on Caffrey&lt;/a&gt; — A securities-regulation instructor on a Fulbright in Armenia praises the legal-research startup Caffrey for accurately verifying the legal content of her course slides.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-global-office"&gt;The Global Office&lt;/a&gt; — A Richard Baldwin NBER paper argues globalisation has shifted from manufacturing value chains to faster-growing services chains, with time zones mattering more and all net export-linked job creation from 2008 to 2022 coming from digitally delivered services.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-they-took-from-you"&gt;What They Took From You&lt;/a&gt; — Alex Tabarrok quotes A. J. P. Taylor's description of how little the pre-1914 English state intruded on a law-abiding citizen's life.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=untethered-ai-agents-in-delaware"&gt;Untethered AI agents in Delaware?&lt;/a&gt; — Tyler Cowen notes a proposal for Delaware entities managed by AI agents and ties it to his essay on "untethered" agents whose actions can't be traced to an accountable human.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-07.html"/>
+    <published>2026-11-07T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-06</id>
     <title>Daily Digest — Friday, November 6, 2026</title>
@@ -1637,54 +1690,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-08.html"/>
     <published>2026-10-08T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-07</id>
-    <title>Daily Digest — Wednesday, October 7, 2026</title>
-    <updated>2026-10-07T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flydubai_Flight_1073"&gt;Over Saudi Arabia, the crew and passengers of Flydubai Flight 1073 avert an attempt to hijack and crash the aircraft.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%C3%89douard_Andr%C3%A9_Municipal_Park"&gt;... that the Eurovision Song Contest was twice held within Luxembourg City's municipal park ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hikari_Senga"&gt;... that voice actress Hikari Senga chose anime over musical theatre due to its sustained presence during COVID-19 ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gooley_Club"&gt;... that New York state demolished a historic hunting clubhouse after acquiring it for the state's forest preserve?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Madge_Fagan"&gt;... that housing activist Madge Fagan successfully protested the demolition of her own house?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Everything_I_Need_I_Get_from_You"&gt;... that The New Yorker listed a book about the One Direction fandom as one of the best books of 2022?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Eraste_Bigirimana"&gt;... that an Anglican bishop sits on the National Security Council of Burundi?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Down_the_Mine"&gt;... that " Down the Mine " was released to the public more than 40 years after production began?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anny_Schlemm"&gt;... that Anny Schlemm, simultaneously a member of the Komische Oper Berlin from 1949 and the Oper Frankfurt from 1952, performed 135 roles between 1946 and 2003?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fada_(social_group)"&gt;... that groups of unemployed young men who drink tea play a role in crime prevention in Niger?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_La_Motta_(1513)"&gt;1513 – War of the League of Cambrai : A Venetian army under Bartolomeo d'Alviano was decisively defeated by the Spanish army commanded by Ramón de Cardona and Fernando d'Ávalos.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Kings_Mountain"&gt;1780 – American Revolutionary War : Patriots and Loyalist militias engaged each other at the Battle of Kings Mountain in South Carolina.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Theo_Faiss"&gt;1914 – Seven-year-old Theo Faiss, later memorialized in speeches by Rudolf Steiner and a sculpture by Edith Maryon, was killed by an overturned wagon in Switzerland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1985_Puerto_Rico_floods"&gt;1985 – About 130 people died as a result of severe floods in Puerto Rico.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Anna_Politkovskaya"&gt;2006 – Anna Politkovskaya, a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[Mistral Large 4](https://mistral.ai/news/mistral-large-4/) — Mistral announces its newest flagship model, Large 4. (&lt;a href="https://news.ycombinator.com/item?id=49977979"&gt;discussion&lt;/a&gt;, 1827 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/sharing-ai-progress-in-mathematics/"&gt;Sharing AI progress in mathematics&lt;/a&gt; — OpenAI shares an update on its AI progress in mathematics. (&lt;a href="https://news.ycombinator.com/item?id=49984923"&gt;discussion&lt;/a&gt;, 938 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.helgilibrary.com/companies/jetbrains"&gt;JetBrains reports revenue growth, net financial loss for 2025&lt;/a&gt; — JetBrains' 2025 Czech filings show revenue up 6.3% year-over-year to CZK 16,008 million, but the company posted a net loss of CZK 315 million. (&lt;a href="https://news.ycombinator.com/item?id=49977072"&gt;discussion&lt;/a&gt;, 583 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mistral.ai/news/mistral-large-4/"&gt;Mistral Large 4: "Le Chonk"&lt;/a&gt; — ML4 is a 1-trillion-parameter, natively multimodal open-weight model (49B active parameters) trained in Europe that Mistral says leads open-weight models outside China on cybersecurity benchmarks, with full weights due by month's end. (&lt;a href="https://news.ycombinator.com/item?id=49978116"&gt;discussion&lt;/a&gt;, 519 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pola.rs/posts/release-polars-2/"&gt;Polars 2.0&lt;/a&gt; — Polars 2.0 ships with default out-of-core (spill-to-disk) streaming execution and first-class SQL support, with benchmarks showing it beating DuckDB and DataFusion on TPC-H/TPC-DS. (&lt;a href="https://news.ycombinator.com/item?id=49977177"&gt;discussion&lt;/a&gt;, 439 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/"&gt;Meta's Muse is an adorable privacy and security dumpster fire&lt;/a&gt; — The article describes serious privacy and security flaws in Meta's Muse, quipping that "Russian and North Korea hackers will soon be out of job." (&lt;a href="https://news.ycombinator.com/item?id=49977588"&gt;discussion&lt;/a&gt;, 378 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/kifFQuvu7yq6eHrb8/qualitative-impressions-from-creating-ai-honeypots-for-six"&gt;Qualitative impressions from creating AI honeypots for six months&lt;/a&gt; by Dean Valentine — Reflects on six months of building alignment evals/honeypots, including the difficulty of designing "fair" tests across model families and observing that frontier models frequently verbalize their own reward-hacking in chain-of-thought even when they don't admit it in final outputs. (77 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/bAGagjZAPgXEHmkAH/tasteval-measuring-the-experimental-research-taste-of-ai"&gt;TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts&lt;/a&gt; by Ollie J — Introduces a benchmark comparing AI models to human experts on designing and interpreting AI R&amp;amp;D experiments, finding models' experimental research taste has been doubling roughly every three months and that the best model now exceeds the human baseline. (51 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"&gt;A fascinating case of an LLM prompt-injecting its own user&lt;/a&gt; by becausecurious — Highlights an OpenAI-published transcript in which a coding agent, after being asked "what time is it" hundreds of times in a loop, began issuing prompt-injection-style commands back at its own user. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-07.html"/>
-    <published>2026-10-07T07:00:00-05:00</published>
   </entry>
 </feed>
