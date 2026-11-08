@@ -2,13 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-07T11:30:31.939617+00:00</updated>
+  <updated>2026-11-08T11:30:26.095720+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-08</id>
+    <title>Daily Digest — Sunday, November 8, 2026</title>
+    <updated>2026-11-08T07:00:00-05:00</updated>
+    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"&gt;Six people are killed and 15 injured in a mass shooting in the Main Square of Kraków, Poland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"&gt;President of Paraguay Santiago Peña is impeached, removed from office, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_United_States_elections"&gt;In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"&gt;In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did You Know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hanna%E2%80%93Honeycomb_House"&gt;... that Frank Lloyd Wright decided to continue building a house on a fault line despite warnings from a geologist neighbor?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peter_of_Sargines"&gt;... that Archbishop Peter went missing in battle near Gaza?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Invasion_(Doctor_Who)"&gt;... that The Invasion was the first Doctor Who serial with missing episodes to receive an official animated reconstruction?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rolf_Knie"&gt;... that Swiss painter Rolf Knie learned perspective drawing from comedian Emil Steinberger while working as a circus clown?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1150_17th_Street"&gt;... that a former hub of the U.S. conservative movement caught fire on the night that Donald Trump was first elected president?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thoma%C3%AFs_of_Lesbos"&gt;... that Thomaïs of Lesbos was one of the few Byzantine female saints who achieved sainthood as a married laywoman?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Carrot_jam"&gt;... that Captain Cook brought carrot jam on his voyages in hopes that it would prevent scurvy?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jos%C3%A9phine_Pencalet"&gt;... that Joséphine Pencalet won an election 19 years before women were allowed to vote in France?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bukangi"&gt;... that the city of Busan appointed a shark as an honorary ambassador?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On This Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Venetian_glass"&gt;1291 – A law was passed that confined most of Venice's glassmaking industry to nearby Murano.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Edward_Brooke"&gt;1966 – Massachusetts Attorney General Edward Brooke became the first African American to be elected to the United States Senate since Reconstruction.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Led_Zeppelin_IV"&gt;1971 – The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Shusha_(2020)"&gt;2020 – Second Nagorno-Karabakh War : Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.bosscher.ch/posts/openstick/"&gt;What I run on my $10 USD OpenStick homelab&lt;/a&gt; — A tour of the self-hosted software (AdGuard Home, the Zeroclaw AI agent harness, Cloudflared, Beszel) that runs on a $10 ARM stick with 512 MB of RAM running Debian. (&lt;a href="https://news.ycombinator.com/item?id=50406670"&gt;discussion&lt;/a&gt;, 601 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"&gt;Apple's grey list: Words and phrases your iPhone won't help you spell&lt;/a&gt; — Research by Derik Kauffman found a list of more than 100,000 words and phrases, some politically charged, that Apple's predictive text won't complete, which Kauffman called a "light-touch form of censorship." (&lt;a href="https://news.ycombinator.com/item?id=50406111"&gt;discussion&lt;/a&gt;, 474 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hunch.net/?p=13764006"&gt;The end of Microsoft Research's AI Frontiers group&lt;/a&gt; — A founder of the ~50-person group describes its reorg into Microsoft AI, whose scaling-first philosophy he considers incompatible with research and argues undervalues returns to research. (&lt;a href="https://news.ycombinator.com/item?id=50406563"&gt;discussion&lt;/a&gt;, 464 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"&gt;Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files&lt;/a&gt; — Per the title, Claude Code's "Don't Ask Again" permission option led to passwords appearing in over a thousand public GitHub files. (&lt;a href="https://news.ycombinator.com/item?id=50407882"&gt;discussion&lt;/a&gt;, 422 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://caleb.software/posts/claude-to-pi.html"&gt;Goodbye Claude, Hello Pi&lt;/a&gt; — A longtime Claude Code user explains moving to the Pi harness over accumulated frustrations, including IDE integration limits, frequent system-prompt changes across 244 releases this year, and tool-description overhead. (&lt;a href="https://news.ycombinator.com/item?id=50410107"&gt;discussion&lt;/a&gt;, 353 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/fjGgrzAkpSDouLwfx/illegible-problems-as-the-2027-political-boss-fight"&gt;"Illegible problems" as the 2027 political boss fight&lt;/a&gt; by Raemon — Argues that the Hugging Face outbreak made rogue AI legible to politicians, but that harder, illegible AI safety problems remain, so legislation must work without relying on safety cases or human judgment. (154 karma)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9ixerpx4DCQTaRYCz/five-types-of-corrigibility-projects-i-don-t-want-to-fund"&gt;Five Types of "Corrigibility Projects" I Don't Want to Fund&lt;/a&gt; by Max Harms — A Corrigibility Research Fund evaluator describes recurring grant-application patterns he rejects, such as AI-generated slop, agent "governance layers," and unrelated existing projects relabeled as corrigibility. (121 karma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=was-mossadegh-a-liberal-democratizing-force"&gt;Was Mossadegh a liberal, democratizing force?&lt;/a&gt; — Citing Simon Sebag Montefiore, Tyler Cowen argues Mossadegh grew increasingly authoritarian, so the story of Iran being on a democratic path before the 1953 coup is wrong.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-anthropic-succession-plan"&gt;The Anthropic succession plan?&lt;/a&gt; — Quoting Rajesh Achanta, Tyler Cowen notes that each Anthropic co-founder keeps a ranked list of up to ten potential heirs to their seat in a Founder LLC, which makes succession about inheriting control of the company's direction rather than choosing CEOs.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power"&gt;What are the Best MR Posts?&lt;/a&gt; — Alex Tabarrok shares a ChatGPT-written ranking of outstanding Marginal Revolution posts, led by the vaccine-capacity post "We Must Go Big," Cowen's "The fallacy of mood affiliation," and "First Dose First."&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-08.html"/>
+    <published>2026-11-08T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-07</id>
     <title>Daily Digest — Saturday, November 7, 2026</title>
@@ -1638,57 +1692,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-09.html"/>
     <published>2026-10-09T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-08</id>
-    <title>Daily Digest — Thursday, October 8, 2026</title>
-    <updated>2026-10-08T07:00:00-05:00</updated>
-    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Topics in the news&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American computer scientist Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_lyc%C3%A9e_protests"&gt;High school students in France and Belgium launch mass protests for better conditions, starting fires and causing 400 schools to be closed.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did you know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ebony_Stevenson"&gt;... that 16-year-old 3x3 wheelchair basketball player Ebony Stevenson wore footwear decorated by an indigenous artist at the 2026 Commonwealth Games?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/133_East_80th_Street"&gt;... that the top of a Manhattan apartment building was likened to a "mountain castle redoubt in a Harry Potter movie"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zayn_Malik"&gt;... that Zayn Malik auditioned for The X Factor "for fun, to see what would happen"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suga_Shrine_(Shinjuku)"&gt;... that a shrine 's staircase is a popular destination for fans of the 2016 film Your Name ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Teodor_Mazilu"&gt;... that Romanian satirist Teodor Mazilu demanded "a proper hat" as his dying wish?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Mammes"&gt;... that the Berbers waited for the departure of Byzantine general Belisarius to rebel, leading to the first battle at Mammes against his trusted commander, Solomon ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Manami_%C5%8Cno"&gt;... that veteran actress Takako Tokiwa called Manami Ōno an "exceptional talent" after co-starring in Ōno's debut television drama?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Justice_sensitivity"&gt;... that justice sensitivity is a personality trait describing how readily people notice injustice, and how forcefully they react to it?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WAR_(newspaper)"&gt;... that WAR described itself as "the most racist newspaper on Earth"?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On this day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Perryville"&gt;1862 – American Civil War : The Battle of Perryville was fought west of Perryville, Kentucky.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harrow_and_Wealdstone_rail_crash"&gt;1952 – Three trains collided at Harrow &amp;amp; Wealdstone station in London, killing 112 people and injuring 340 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Days_of_Rage"&gt;1969 – Demonstrations organized by the Weather Underground known as the Days of Rage began in Chicago, aimed at ending U.S. involvement in the Vietnam War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Southern_Move"&gt;1995 – The Croatian Army and Croatian Defence Council launched Operation Southern Move, their last offensive in the Bosnian War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2019_Baku_protests"&gt;2019 – Anti-government protests calling for free and fair elections began in Baku, Azerbaijan.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"&gt;Margaret Hamilton has died&lt;/a&gt; (1562 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-haiku-5-5"&gt;Claude Haiku 5.5&lt;/a&gt; (890 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/gpt-6-for-everyone/"&gt;GPT‑6 and Intelligent UI for everyone&lt;/a&gt; (642 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome"&gt;Shipping JPEG XL in Chrome&lt;/a&gt; (551 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"&gt;Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees&lt;/a&gt; (547 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://bigwords.page/"&gt;Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app&lt;/a&gt; (510 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ascii.rest/"&gt;Animated ASCII Art for Web Pages&lt;/a&gt; (362 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"&gt;Are OpenAI's math results "creative" in an important way? &lt;/a&gt; (80 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/QW2kPrAyZQvRtBXHG/benchmarking-jev-against-no-cot-llms"&gt;Benchmarking Jev against no-CoT LLMs&lt;/a&gt; (56 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o8roRrdisBAjngHJN/a-summary-of-a-viral-chinese-essay-on-what-a-deepseek-kernel"&gt;A summary of a viral Chinese essay on what a  DeepSeek kernel engineer's opinion on automating his own job&lt;/a&gt; (54 points)&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-08.html"/>
-    <published>2026-10-08T07:00:00-05:00</published>
   </entry>
 </feed>
