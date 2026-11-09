@@ -2,13 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-08T11:30:26.095720+00:00</updated>
+  <updated>2026-11-09T11:30:08.833862+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-09</id>
+    <title>Daily Digest — Monday, November 9, 2026</title>
+    <updated>2026-11-09T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"&gt;A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"&gt;President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_United_States_elections"&gt;In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"&gt;In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Puti_Guntur_Soekarno"&gt;... that Puti Guntur Soekarno only learned of her deputy gubernatorial campaign after returning home from Japan?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Las_Yeguas_del_Apocalipsis"&gt;... that one of the artists in the duo Las Yeguas del Apocalipsis kissed future Chilean president Ricardo Lagos on the mouth during a performance?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Chisholm"&gt;... that Anne Chisholm once had a fictional goat named after her over a negative book review she wrote?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pea%27s_Book_of_Best_Friends"&gt;... that Susie Day said that she had a "stupid amount of fun" writing about a family with same-sex parents in Pea's Book of Best Friends ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Archie_Simonson"&gt;... that American judge Archie Simonson was recalled and replaced by his county's first woman judge after he said that rape was "a normal reaction" to "the way women dress"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/All_of_Tokyo!"&gt;.... that the film All of Tokyo! was based on interviews about the real-life experiences of an idol group 's fourth-generation members?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Melissa_Gallegos"&gt;... that Melissa Gallegos was a member of the first United States women's national American football team ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L%27Ecole_No._41"&gt;... that a Walla Walla County winery occupies a former schoolhouse?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jim_Carrey%27s_artwork"&gt;... that Jim Carrey 's sixth-grade teacher confiscated his artwork and returned it only after he became famous?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Cocos"&gt;1914 – World War I : Off the Cocos (Keeling) Islands, the Australian light cruiser Sydney sank Emden, the last active German warship in the Indian Ocean, at the Battle of Cocos.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cardillac"&gt;1926 – Paul Hindemith 's opera Cardillac premiered at the Dresden State Opera, conducted by Fritz Busch.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Great_Mecca_Feast"&gt;1928 – The Great Mecca Feast, the first documentary film on the Hajj, premiered in the Netherlands.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2016_Croydon_tram_derailment"&gt;2016 – A tram derailment in Croydon, London, killed seven people.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"&gt;Goldman Sachs is pulling Claude Code from its bankers and traders&lt;/a&gt; (791 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nvidianews.nvidia.com/news/a-message-to-our-company"&gt;Nvidia CEO Jensen Huang's letter to staff about affair&lt;/a&gt; (708 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ketchup3d.github.io/app/"&gt;KetchUp – Open-source SketchUp alternative built with Rust and WebGPU&lt;/a&gt; (533 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"&gt;Statement from Nvidia board of directors&lt;/a&gt; (470 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"&gt;Outlook.com is rejecting email from domains without DMARC&lt;/a&gt; (422 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"&gt;Unlocking any car from X brand in most of the world&lt;/a&gt; (397 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aphyr.com/posts/427-rip-harvest"&gt;RIP, Harvest&lt;/a&gt; (368 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/fooXeRHjgpv4TcoRy/elegy-for-what-s-left-of-the-normal"&gt;Elegy for What’s Left of the Normal&lt;/a&gt; (219 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/7e38jwHhe64zgNTon/near-horizons"&gt;Near Horizons&lt;/a&gt; (156 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/vAniKbagqhyzpha6r/three-half-baked-research-ideas"&gt;Three half-baked research ideas&lt;/a&gt; (66 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/eHeHAyNQWmg4kHgEL/all-interesting-behavior-is-overdetermined"&gt;All Interesting Behavior Is Overdetermined&lt;/a&gt; (55 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-ive-been-reading-298"&gt;What I’ve been reading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-pope-probably-knows-this-song"&gt;The Pope probably knows this song&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-09.html"/>
+    <published>2026-11-09T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-08</id>
     <title>Daily Digest — Sunday, November 8, 2026</title>
@@ -1635,62 +1693,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-11.html"/>
     <published>2026-10-11T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-09</id>
-    <title>Daily Digest — Friday, October 9, 2026</title>
-    <updated>2026-10-09T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francis_Halzen"&gt;Francis Halzen is awarded the Nobel Prize in Physics for his work in neutrino astronomy.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_World_Rally_Championship"&gt;In motorsport, Elfyn Evans and Scott Martin win the World Rally Championship.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Spanish_general_election"&gt;A snap election is announced following widespread housing protests in Spain.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Super_League_Grand_Final"&gt;In rugby league, the Super League Grand Final ends with Wakefield Trinity defeating the Warrington Wolves.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Old_Parliament_House,_Adelaide"&gt;... that South Australia's Old Parliament House and the present Parliament House were jointly added to the Australian National Heritage List in 2006?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Franz_Schnyder"&gt;... that Franz Schnyder made his feature-film directorial debut after Swiss immigration authorities sought to prevent refugee filmmaker Leopold Lindtberg from directing another army-friendly film?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1914_Texas_Proposition_1"&gt;... that a Texas lawmaker voted to submit a 1914 referendum to voters while saying that he would "vote and work against its adoption"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gottlob_Herbert_Bidermann"&gt;... that the English edition of Gottlob Herbert Bidermann 's Eastern Front memoir includes events absent from the German original, added 36 years later from interviews with him?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/When_I_Was_Done_Dying"&gt;... that Dan Deacon wrote the song " When I Was Done Dying " because he liked the idea that his body, memory and consciousness are "three separate things that are constantly oscillating"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Attempted_assassination_of_Timothy_Torlot"&gt;... that a suicide bomber disguised himself as a schoolboy while attempting to assassinate Timothy Torlot ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arashifuji_Kanato"&gt;... that a professional sumo wrestler first appeared on television as a competitor on the obstacle-course competition show Sasuke Ninja Warrior ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paramacrobiotus_pius"&gt;... that Paramacrobiotus pius was described more than a decade after its type specimens were collected?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Kyiv_SBU%E2%80%93HUR_shootout"&gt;... that two Ukrainian intelligence agencies had a shootout in Kyiv ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Lesnaya"&gt;1708 – Great Northern War : Russia defeated Sweden at the Battle of Lesnaya on the Russian–Polish border, in present-day Belarus.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1740_Batavia_massacre"&gt;1740 – European soldiers and Javanese collaborators started massacring Chinese Indonesians in the port city of Batavia, modern-day Jakarta : at least 10,000 people were killed.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Revolt_of_Lyon_against_the_National_Convention"&gt;1793 – French Revolution : After a month-long siege, the leaders of Lyon surrendered, ending their revolt against the National Convention.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mortimer_War_Memorial"&gt;1921 – The Mortimer War Memorial, designed by Herbert Maryon in memory of local servicemen who died in the First World War, was dedicated.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Knowsley_Hall_shootings"&gt;1952 – A footman shot and killed two colleagues and wounded the lady of the house at Knowsley Hall, England.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://deno.com/blog/cloudflare"&gt;Cloudflare acquires Deno&lt;/a&gt; — The Deno team is joining Cloudflare, with the Deno runtime supported for another year before development ends, Deno Deploy shutting down in six months, and JSR moving to Cloudflare infrastructure. (&lt;a href="https://news.ycombinator.com/item?id=50019911"&gt;discussion&lt;/a&gt;, 1011 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://iminafleeting.com/"&gt;Sorry, I'm in a meeting&lt;/a&gt; — A site that plays long, synthetic recordings of fake meetings in the background so you look busy. (&lt;a href="https://news.ycombinator.com/item?id=50018088"&gt;discussion&lt;/a&gt;, 720 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://oxide.computer/blog/our-445m-series-d"&gt;Our $445M Series D&lt;/a&gt; — Oxide announces a Series D led by Eclipse (with AMD joining as a strategic investor) to fund inventory and manufacturing for a large order backlog after the company became profitable enough to pay income tax. (&lt;a href="https://news.ycombinator.com/item?id=50020014"&gt;discussion&lt;/a&gt;, 559 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://minesweeper.mikelacher.com/"&gt;Triple-A Minesweeper&lt;/a&gt; — A Minesweeper variant, judging from the title; the article text could not be fetched. (&lt;a href="https://news.ycombinator.com/item?id=50022292"&gt;discussion&lt;/a&gt;, 513 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/"&gt;US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize&lt;/a&gt; — Per the title, the US sanctioned the International Criminal Court hours after a former judge won the Nobel Peace Prize. (&lt;a href="https://news.ycombinator.com/item?id=50021066"&gt;discussion&lt;/a&gt;, 455 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nobelprize.org/prizes/peace/2026/press-release/"&gt;Nobel Peace Prize for 2026 to Navanethem Pillay&lt;/a&gt; — The Nobel Committee honors Pillay, a South African jurist and former UN human rights chief, for advancing international law and the prosecution of war crimes, arguing that peace requires justice. (&lt;a href="https://news.ycombinator.com/item?id=50018420"&gt;discussion&lt;/a&gt;, 426 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen"&gt;Show HN: Let your AI agents paint big arrows, boxes and text on your screen&lt;/a&gt; — A macOS command-line tool and Claude Code/Codex skill that draws click-through arrows and signs over windows so agents can point at the button they need you to click. (&lt;a href="https://news.ycombinator.com/item?id=50018817"&gt;discussion&lt;/a&gt;, 362 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xLgJJC3CD3y3AhtKn/stop-telling-people-to-pivot-to-ai-safety-i-beg-you"&gt;Stop telling people to pivot to AI safety, I beg you&lt;/a&gt; by Haoxing Du — Argues that AI safety is not truly talent-constrained, since far more qualified people apply than there are jobs, and that saying otherwise harms applicants and lets orgs avoid improving. (104 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1"&gt;A critical look at Lean4&lt;/a&gt; by Milo Moses — Examines Lean4's soundness bugs and lack of a known consistency proof, questioning how much trust formal certificates deserve, especially as AIs get better at exploiting kernel bugs. (91 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5uRvnCko4oanpmCsh/i-can-t-believe-it-s-not-butter"&gt;I can't believe it's not BUTTER!&lt;/a&gt; by becausecurious — A tour of US food marketing mimicry (I Can't Believe It's Not Butter, Froot Loops, Bac'n Pieces, imitation crab) and the labeling rules and court rulings behind it. (62 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-ive-been-reading-296"&gt;What I've been reading&lt;/a&gt; — Tyler Cowen's reading notes on books about mothers who abandon children, Evan Gershkovich's Russia memoir, Reinier de Graaf's architecture book, and his progress through China Miéville's 1200-page &lt;em&gt;The Rouse&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-and-why-did-the-victorians-succeed"&gt;How and why did the Victorians succeed?&lt;/a&gt; — Excerpts Samuel Hughes on Victorian elites, who were less academic and more party-loving than their reputation suggests, though Cowen finds the answer to the title question still somewhat mysterious.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=predictions-for-economics-given-ai"&gt;Predictions for economics, given AI&lt;/a&gt; — Quotes a set of predictions that top human-led research, field experiments, administrative data, and economic history will gain value while routine public-data and simple-survey research faces a shock, with Cowen agreeing.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-09.html"/>
-    <published>2026-10-09T07:00:00-05:00</published>
   </entry>
 </feed>
