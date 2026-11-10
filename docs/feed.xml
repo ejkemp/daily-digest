@@ -2,13 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-09T11:30:08.833862+00:00</updated>
+  <updated>2026-11-10T11:30:26.187109+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-10</id>
+    <title>Daily Digest — Tuesday, November 10, 2026</title>
+    <updated>2026-11-10T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"&gt;A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"&gt;President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_United_States_elections"&gt;In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"&gt;In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tai_Shan_(giant_panda)"&gt;... that Tai Shan was nicknamed "Butterstick" due to his size at birth?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hank_Cook"&gt;... that college football player Hank Cook, despite being blind in one eye, ranked second nationally in receptions in 1973?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fourth_Presbyterian_Church_(Bethesda,_Maryland)"&gt;... that the Fourth Presbyterian Church in Washington, D.C., was turned over to the government for use as a military hospital during the American Civil War?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suchika_Tariyal"&gt;... that Suchika Tariyal has represented India in international competition in four sports: judo, jujutsu, kurash and MMA?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Martyropolis_(531)"&gt;... that, during the siege of Martyropolis, Byzantine forces constructed a tall tower inside the city walls with a machine capable of dropping large stones to damage Persian siege engines?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/LuzViMinda_(song)"&gt;... that boy band Alamat 's song " LuzViMinda " is named after a portmanteau of the three major island groups of the Philippines?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Francesco_Antonio_Giorgioli"&gt;... that Francesco Antonio Giorgioli painted himself in a fresco at Rheinau Abbey as a beggar kneeling beside Saint Martin?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sowing_Life"&gt;... that Mexico's reforestation program Sowing Life initially incentivized deforestation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Garfield:_Escape_from_Monday"&gt;... that one critic wrote his review of Garfield: Escape from Monday as an imaginary conversation with his fourth-grade self?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wilmington_massacre"&gt;1898 – White supremacists seized power and massacred black Americans during the Wilmington massacre, the only instance of a municipal government being overthrown in United States history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sesame_Street"&gt;1969 – The first episode of the children's television series Sesame Street was broadcast in the United States.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Quifangondo"&gt;1975 – Angolan Civil War : The MPLA decisively defeated the FNLA at the Battle of Quifangondo, while Portugal simultaneously withdrew all its colonial and military personnel from Luanda.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nadarajah_Raviraj"&gt;2006 – Sri Lankan Tamil politician and human rights lawyer Nadarajah Raviraj was assassinated in Colombo.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.foldableflight.com"&gt;Foldable Flight: The Best Paper Airplanes&lt;/a&gt; (1051 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-2"&gt;Claude Fable 5.2 and Mythos 5.2&lt;/a&gt; (978 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-2"&gt;Claude Fable 5.2 and Mythos 5.2&lt;/a&gt; (648 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://postalpro.usps.com/zcb"&gt;USPS now offers official ZIP Code boundary polygons&lt;/a&gt; (633 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/thisisme6598/gemini_files/"&gt;Google Gemini routes personal Drive files and emails to human annotators&lt;/a&gt; (626 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"&gt;Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system&lt;/a&gt; (537 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"&gt;Humans will never again create a project quite like Wikipedia&lt;/a&gt; (479 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/"&gt;I saw your HN comment&lt;/a&gt; (425 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://e-means.github.io/"&gt;E-means: Outperforming k-means in one-tenth the epochs&lt;/a&gt; (413 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game"&gt;Fable 5.2 one-shotted my nephew's dream game&lt;/a&gt; (411 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.watched.earth"&gt;Show HN: Every satellite that passed over any place this week, and its photos&lt;/a&gt; (368 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://artificialanalysis.ai/models/claude-fable-5-2"&gt;Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far&lt;/a&gt; (351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/6TCpMtoDzC5p5WtQM/preservation-can-save-the-world"&gt;Preservation can save the world!&lt;/a&gt; (116 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift"&gt;Where is all the AI safety research uplift?&lt;/a&gt; (115 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3ASLq8ePNqkbeGqdj/lightcone-commons-round-1-complete-round-2-underway"&gt;Lightcone Commons: Round 1 complete, Round 2 underway&lt;/a&gt; (100 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ijt6YdwSNpcevbFJy/epistemic-sudden-death"&gt;Epistemic Sudden Death&lt;/a&gt; (91 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/jT272BNHFzgAR5u2m/hardwired-pause-should-likely-be-your-favorite-pause-plan"&gt;"Hardwired Pause" should likely be your favorite (pause) plan.&lt;/a&gt; (85 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dQJ3ArHMLxqu8rptt/live-disagreements-with-people-around-me"&gt;Live disagreements with people around me&lt;/a&gt; (66 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/AcBzhiaTW9KnB4EBv/the-western-ai-safety-playbook-doesn-t-transfer-to-china-1"&gt;The Western AI safety playbook doesn’t transfer to China&lt;/a&gt; (65 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SEdum3BDfAJtwLuoB/astra-covertly-underperforming-on-safety-research-is"&gt;Astra covertly underperforming on safety research is concerning, even though it’s unlikely to be motivated by ambitious goals&lt;/a&gt; (60 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"&gt;AI R&amp;amp;D Is Accelerating Towards Potential RSI in 2027&lt;/a&gt; (53 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-paraguayan-bank-story"&gt;The Paraguayan bank story&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=seb-krier-ricardian"&gt;Seb Krier, Ricardian?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-economics-of-honeypots"&gt;The economics of honeypots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=end-the-state-veto-on-power-lines"&gt;End the State Veto on Power Lines&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-10.html"/>
+    <published>2026-11-10T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-09</id>
     <title>Daily Digest — Monday, November 9, 2026</title>
@@ -1644,54 +1714,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-12.html"/>
     <published>2026-10-12T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-11</id>
-    <title>Daily Digest — Sunday, October 11, 2026</title>
-    <updated>2026-10-11T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henri_B._Kagan"&gt;Henri B. Kagan and Kensō Soai are awarded the Nobel Prize in Chemistry for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"&gt;Paramount Skydance completes its acquisition of Warner Bros. Discovery in a deal valued at $110 billion, becoming Skydance Corporation.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/District_No._2_Schoolhouse_(Charlton,_Massachusetts)"&gt;... that a 300-year-old bell formerly hung in the Old North Church in Boston now hangs in a one-room schoolhouse in Charlton, Massachusetts?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Natsuki_Takaya"&gt;... that Natsuki Takaya requested that the second anime adaptation of her manga series Fruits Basket be done with an entirely different team than the first one?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stygimoloch"&gt;... that the horns and dome of the dinosaur Stygimoloch were thought to belong to different animals until the discovery of a more complete skull?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Simon_Nkoli"&gt;... that Simon Nkoli 's contributions to the anti-apartheid movement as an openly gay man motivated the movement's leadership to support gay rights?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Baptism_Site_International_Orthodox_University"&gt;... that King Abdullah II donated towards and supported the construction of the first Christian university in Jordan ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Edwin_Masuge"&gt;... that Edwin Masuge temporarily stepped away from athletics to focus on his schooling after placing seventh in the 400 metres T13 final at the Tokyo 2020 Paralympics?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Believe_(Staind_song)"&gt;... that the music video for Staind 's song " Believe " yielded a sequel?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicholas_de_Trinbey"&gt;... that prior Nicholas de Trinbey 's eyes were torn out during an attack by John de Welyngton and two other canons of Llanthony Priory?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pixar_Place_Hotel"&gt;... that each floor in a California hotel is themed after a movie?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ordinances_of_1311"&gt;1311 – The peerage and clergy of the Kingdom of England published the Ordinances of 1311 to restrict King Edward II 's powers.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Valcour_Island"&gt;1776 – American Revolutionary War : A British fleet defeated American ships at the Battle of Valcour Island on Lake Champlain, but gave American forces enough time to prepare their defenses for the Saratoga campaign.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daughters_of_the_American_Revolution"&gt;1890 – In Washington, D.C., the Daughters of the American Revolution was founded.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kathryn_D._Sullivan"&gt;1984 – Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan became the first American woman to perform a space walk.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Second_National_March_on_Washington_for_Lesbian_and_Gay_Rights"&gt;1987 – An estimated 750,000 people attended the " Great March " in Washington, D.C., to demand greater civil rights for the LGBT community.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://carette.xyz/posts/lobbying_and_corruption/"&gt;Lobbying is corruption&lt;/a&gt; — A European blogger, responding to George Hotz's explainer, argues that lobbying is simply legal corruption, noting Wikipedia's definition of corruption explicitly includes lobbying. (&lt;a href="https://news.ycombinator.com/item?id=50032556"&gt;discussion&lt;/a&gt;, 490 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"&gt;Bitwarden Dual License Model&lt;/a&gt; — Bitwarden says its app-store builds will move to a commercial license while the GPLv3 version stays on GitHub, and community members voice concern about a possible slide away from open source. (&lt;a href="https://news.ycombinator.com/item?id=50033407"&gt;discussion&lt;/a&gt;, 381 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://housing.over.pizza/"&gt;A city-building game in which the city would prefer you didn't&lt;/a&gt; — An interactive city-building game, apparently about housing and local politics (the page mentions height limits, supervisor districts, and homeowner and coalition politics). (&lt;a href="https://news.ycombinator.com/item?id=50036864"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o7wPsYgRtDLbpH32v/hello-world-ai-doompop"&gt;Hello World, AI Doompop&lt;/a&gt; by alkjash — Argues that Opus 5.5 and Suno 6 have made AI music videos cross the uncanny valley, announces "AI Doompop" as a new genre, and asks whether it is a new art form or slop. (60 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=california-in-migration-and-out-migration"&gt;California in-migration and out-migration&lt;/a&gt; — A paper by Philip E. Graves argues California's amenities are unchanged but their rents have been captured politically through progressive income taxes and housing restrictions, with 2022-23 IRS data showing out-migrants outnumbering in-migrants by 40 percent overall and 64 percent among households earning $200,000 or more.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=earth-facts-of-the-day"&gt;Earth facts of the day&lt;/a&gt; — Global call center headcount is 5.3% below its December 2023 peak amid the rise of AI chatbots, and only 10.8% of displaced workers move into higher-paying technical or software roles, while about half land in lower-paid customer service, sales, or office jobs.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-11.html"/>
-    <published>2026-10-11T07:00:00-05:00</published>
   </entry>
 </feed>
