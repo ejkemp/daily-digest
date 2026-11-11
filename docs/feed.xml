@@ -2,13 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-10T11:30:26.187109+00:00</updated>
+  <updated>2026-11-11T11:30:24.376717+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-11</id>
+    <title>Daily Digest — Wednesday, November 11, 2026</title>
+    <updated>2026-11-11T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series"&gt;In stock car racing, Kyle Larson wins the NASCAR Cup Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"&gt;A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"&gt;President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_United_States_elections"&gt;In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"&gt;In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Flag_of_the_Jewish_Autonomous_Oblast"&gt;... that the flag of the Jewish Autonomous Oblast was investigated by Russian authorities because of its similarity to the rainbow pride flag ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Itji_Tarmizi"&gt;... that painter Itji Tarmizi escaped an anti-communist purge by hiding with his grandmother?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Blacker_the_Berry_(song)"&gt;... that Kendrick Lamar performed " The Blacker the Berry " at the 58th Grammy Awards while marching onto the stage in chains?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Axel_Wrede_Sparre"&gt;... that, when Axel Wrede Sparre was appointed governor of Stockholm in 1770, Daniel Tilas remarked that "no more incompetent man" could have been appointed?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Big_Al_(dinosaur)"&gt;... that employees of the Bureau of Land Management found the dinosaur quarry of Big Al while searching for wildfires?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_Polier_albums"&gt;... that a single folio from a Polier album fetched more than £2,400,000 at auction in 2025?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1843_Lachine_Canal_strike"&gt;... that Irish workers during the 1843 Lachine Canal strike marched into the heart of Montreal, led by fife players?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1969_Copa_Interamericana"&gt;... that Toluca were unable to host an international tournament at their stadium because it lacked floodlights?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Callinicum"&gt;... that before the Battle of Callinicum, Byzantine troops were so eager to fight while fasting for Easter that their commanders feared mutiny if they were denied battle?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ned_Kelly"&gt;1880 – In spite of sympathizers holding rallies for his reprieve, Australian bushranger and outlaw Ned Kelly was hanged in Melbourne.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski"&gt;1918 – Józef Piłsudski, appointed the commander-in-chief of Polish forces by the Regency Council, was entrusted with the creation of a national government for the newly independent Poland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/United_States_Numbered_Highway_System"&gt;1926 – The plan for the United States Numbered Highway System was approved by the American Association of State Highway Officials.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom"&gt;2008 – After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docodethatmatters.com/home-automation-overnight-success/"&gt;Smart home devices should work without the internet&lt;/a&gt; (987 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://neil.fraser.name/news/2026/11/10/"&gt;.name Grandfathered&lt;/a&gt; (862 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://deepmind.google/blog/introducing-alphaproof-code/"&gt;AlphaProof Code&lt;/a&gt; (644 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"&gt;Scion is back and is going to sell a kei truck in America&lt;/a&gt; (484 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.blender.org/download/releases/5-3/"&gt;Blender 5.3 released with Gaussian Splat support&lt;/a&gt; (470 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://starlink.com/mini-2"&gt;Starlink Mini 2&lt;/a&gt; (430 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"&gt;Synaptics patent claims stop work on DisplayLink drivers&lt;/a&gt; (416 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update"&gt;Tracking Anthropic-discovered vulnerabilities&lt;/a&gt; (407 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.val.town/winding-down"&gt;Val Town is winding down&lt;/a&gt; (390 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/GoogleChrome/modern-web-guidance"&gt;Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives&lt;/a&gt; (378 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Zu5wmhtxJCfrXQY8H/our-most-aligned-model-yet"&gt;Our Most Aligned Model Yet&lt;/a&gt; (170 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/JRYKFspYzCo97GqPN/we-don-t-understand-whether-gdm-intentionally-trains-on-cot"&gt;We don’t understand whether GDM intentionally trains on CoT&lt;/a&gt; (119 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Nts7RA9D2wTfcvk56/have-you-considered-actually-trying"&gt;Have you considered Actually Trying?&lt;/a&gt; (116 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/5buAWtQ8p4tJQP9so/modern-llms-don-t-know-what-yudkowsky-and-soares-think-of"&gt;Modern LLMs Don’t Know What Yudkowsky and Soares Think of Them&lt;/a&gt; (110 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/f9PajMLmBYzmWzyDv/q3-5-timelines-update-looks-like-the-intelligence-explosion"&gt;Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All&lt;/a&gt; (96 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets"&gt;&lt;em&gt;Unbeatable: The Brutally Honest Case for Free Markets&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=godzilla-minus-zero-no-spoilers"&gt;&lt;em&gt;Godzilla: Minus Zero&lt;/em&gt; (no spoilers)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research"&gt;Checking the AI audit of Saez and Zucman’s research.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=are-rcts-underpowered"&gt;Are RCTs underpowered?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-11.html"/>
+    <published>2026-11-11T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-10</id>
     <title>Daily Digest — Tuesday, November 10, 2026</title>
@@ -1660,59 +1725,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-13.html"/>
     <published>2026-10-13T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-12</id>
-    <title>Daily Digest — Monday, October 12, 2026</title>
-    <updated>2026-10-12T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_Arabia_airports"&gt;The Houthis launch a series of attacks on King Khalid International Airport in Riyadh, Saudi Arabia, resulting in 15 deaths and the suspension of airport operations.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Henri_B._Kagan"&gt;Henri B. Kagan and Kensō Soai are awarded the Nobel Prize in Chemistry for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Erin_Scavino"&gt;... that Erin Scavino has said that she can get ambassadors fired through art?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Escape_from_Ever_After"&gt;... that critics compared Escape from Ever After to the Paper Mario series?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pete_Pedro"&gt;... that Pete Pedro, known as the "Flying Fragment", led U.S. college football in touchdowns ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Southbridge_Municipal_Airport"&gt;... that more than half of the airplanes at Southbridge Municipal Airport were destroyed when a tornado passed through in 2011?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marvin_Leonard_Colker"&gt;... that Marvin Leonard Colker spent 30 years creating the first catalogue of Trinity College Dublin 's medieval Latin manuscripts?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Han_Ji-pyeong"&gt;... that the South Korean TV character Han Ji-pyeong was praised for breaking negative stereotypes of orphans in Korean dramas who age out of foster care?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arthur_Osver"&gt;... that the Museum of Modern Art purchased Arthur Osver 's Melancholy of a Rooftop after he solicited them to view his paintings?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Regional_Workers%27_Federation_of_Chile"&gt;... that the Regional Workers' Federation of Chile made anarchism a national force?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Cedar_Rock_State_Park"&gt;... that the Lowell E. Walter House has a garden in the floor of its living room?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chen_Yanxiang"&gt;1406 – Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reached Seoul after having set out from Java four months before.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peasants%27_War_(1798)"&gt;1798 – The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Battle_of_Passchendaele"&gt;1917 – First World War : New Zealand troops suffered more than 2,000 casualties, including more than 800 deaths, in the First Battle of Passchendaele, making it the nation's largest loss of life in one day.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Typhoon_Tip"&gt;1979 – Typhoon Tip, the largest and most intense tropical cyclone ever recorded, reached a worldwide record-low sea-level pressure of 870 mbar (25.69 inHg ) in the western Pacific Ocean.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Collapse_of_the_Space_Building"&gt;2013 – Twelve people were killed in an apartment-building collapse in Medellín, leading to new construction laws being passed in Colombia.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"&gt;Passkeys are a trap&lt;/a&gt; — Argues that passkeys, designed by the FIDO Alliance (which has no consumer advocacy members), give websites a hidden dial to gradually remove users' control over their own credentials, despite being more secure than passwords. (&lt;a href="https://news.ycombinator.com/item?id=50048312"&gt;discussion&lt;/a&gt;, 645 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://nanolathe.gg"&gt;Total Annihilation, rebuilt for modern computers&lt;/a&gt; — A modern rebuild of the classic RTS Total Annihilation that lets you zoom in on units and the action at a new scale. (&lt;a href="https://news.ycombinator.com/item?id=50045984"&gt;discussion&lt;/a&gt;, 522 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.nyc.gov/main/click-to-cancel"&gt;NYC's "Click to Cancel" rule is now in effect&lt;/a&gt; — As of October 1, 2026, NYC businesses must let you cancel subscriptions the same way you signed up, with civil penalties starting at $525 and a complaint process via the DCWP. (&lt;a href="https://news.ycombinator.com/item?id=50045946"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/karpathy/status/2109361546505966046"&gt;The gap in shared understanding of LLM capability is widening&lt;/a&gt; — Karpathy describes a funnel from ~6B people barely touching LLMs to ~20M professionals in math and code seeing agents complete weeks-long projects, down to ~5,000 with frontier internal access. (&lt;a href="https://news.ycombinator.com/item?id=50047422"&gt;discussion&lt;/a&gt;, 472 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://nitter.net"&gt;Nitter: Update Oct 10th seeking funding and legal help&lt;/a&gt; — After cease-and-desist letters from X Corp., the maintainer says earlier assurances of legal representation proved untrue and is now seeking funding and legal help. (&lt;a href="https://news.ycombinator.com/item?id=50041682"&gt;discussion&lt;/a&gt;, 455 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"&gt;Google told to halt work on datacentres in Finland over environmental concerns&lt;/a&gt; — Finland's LVV ordered a suspension at two sites in Muhos and Kajaani after Google cleared hundreds of hectares of forest before completing environmental impact assessments. (&lt;a href="https://news.ycombinator.com/item?id=50048638"&gt;discussion&lt;/a&gt;, 427 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"&gt;Terence Tao: Math 2.0 [pdf]&lt;/a&gt; — Slides from a Caltech talk by Terence Tao on "Math 2.0" (the article text couldn't be fetched, so no further detail). (&lt;a href="https://news.ycombinator.com/item?id=50043026"&gt;discussion&lt;/a&gt;, 410 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"&gt;Documents add to evidence in climate deception case against ExxonMobil&lt;/a&gt; — Newly released filings in Massachusetts' 2019 lawsuit include a 1988 internal Exxon memo warning of negative impacts from greenhouse gas action, plus scientists questioning the company's climate-solution claims. (&lt;a href="https://news.ycombinator.com/item?id=50043682"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"&gt;I paid people to try and follow my README&lt;/a&gt; — The author paid volunteers €25 each to think aloud while following the ActivityBot README, uncovering wrong links, confusing ordering, and unexplained terms that made the docs measurably better. (&lt;a href="https://news.ycombinator.com/item?id=50042219"&gt;discussion&lt;/a&gt;, 394 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://royfish.dev/fingerprints-are-the-new-cookies"&gt;Fingerprints are the new cookies&lt;/a&gt; — Argues that device fingerprinting is replacing third-party cookies as an ad-tracking mechanism, tracing Google's retreat from its cookie-deprecation pledge. (&lt;a href="https://news.ycombinator.com/item?id=50048642"&gt;discussion&lt;/a&gt;, 392 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"&gt;I'm sorry, but you still have to think&lt;/a&gt; — Examines DHH's AI-driven rewrites of Campfire in Rust, Elixir, and Go, arguing that underspecified prompts turn many design decisions into coin flips and that the resulting code has real problems like blocking calls in async tasks. (&lt;a href="https://news.ycombinator.com/item?id=50043689"&gt;discussion&lt;/a&gt;, 383 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-economics-of-agents"&gt;The economics of agents&lt;/a&gt; — Tyler Cowen speculates that consumer-side personal agents will reduce firms' advantage from bounded rationality, undermine some price discrimination and cross-subsidies, and act as a structural subsidy for product quality.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-should-i-ask-fuchsia-dunlop-2"&gt;What should I ask Fuchsia Dunlop?&lt;/a&gt; — Tyler Cowen is preparing a fourth Conversation with Fuchsia Dunlop, based partly on her forthcoming book Five Tastes, and asks readers for question suggestions.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=sky-roomba"&gt;Sky Roomba!&lt;/a&gt; — Alex Tabarrok bought a robot window cleaner that cost less than a single professional cleaning, and argues this is an efficiency gain rather than a lost job since he wouldn't have paid the human price.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-12.html"/>
-    <published>2026-10-12T07:00:00-05:00</published>
   </entry>
 </feed>
