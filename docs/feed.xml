@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-11T11:30:24.376717+00:00</updated>
+  <updated>2026-11-12T11:30:14.412717+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-12</id>
+    <title>Daily Digest — Thursday, November 12, 2026</title>
+    <updated>2026-11-12T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Novaya_Gazeta"&gt;Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series"&gt;In stock car racing, Kyle Larson wins the NASCAR Cup Series.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"&gt;A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"&gt;President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Light_Square"&gt;... that Light Square contains Adelaide 's only marked grave not located in a cemetery?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Russ_Crandall"&gt;... that Russ Crandall served as a U.S. Navy translator, ran a food blog, wrote a New York Times best-selling cookbook, and is now a gaming YouTuber?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Singapore_Comic_Con"&gt;... that Singapore Comic Con hosted Marvel Comics ' first convention exhibition in Asia in 2010?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Terrell_Creek_(Washington)"&gt;... that Terrell Creek smells like sulfur at certain times of year?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mukawir"&gt;... that Handel's Messiah was performed in the Jordanian village of Mukawir, with a background view of the ancient fortress where John the Baptist was beheaded ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nate_Sheppard"&gt;... that, after future Blue Devils player Nate Sheppard broke his leg during a high school football game, he hopped for 40 yards (37 m) on the other leg?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nathan%27s_parable"&gt;... that in Nathan's parable, the prophet got King David to sentence himself by telling him about a rich man who stole a poor man's only lamb?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bohemond_V_of_Antioch"&gt;... that Bohemond V 's attempts to avenge his brother's murder threatened the interests of the Catholic Church?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yu-Gi-Oh!:_The_Abridged_Series"&gt;... that Yu-Gi-Oh!: The Abridged Series was renamed Yu-Gi-Oh!: The Cancelled Series because of its numerous copyright issues?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Corozal_(dredger)"&gt;1911 – The Corozal, at the time the most powerful dredger ever built, was launched in Renfrew, Scotland, for service in the construction of the Panama Canal.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1956_Rafah_massacre"&gt;1956 – Suez Crisis : During an invasion of Rafah, Israeli soldiers shot and killed an estimated 111 Palestinian refugees and local inhabitants.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Last_of_the_Summer_Wine"&gt;1973 – The first episode of Last of the Summer Wine, the longest-running television sitcom in history, premiered on the BBC.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/American_Airlines_Flight_587"&gt;2001 – American Airlines Flight 587 crashed into residential buildings shortly after takeoff from John F. Kennedy International Airport in New York, killing 265 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2006_South_Ossetian_independence_referendum"&gt;2006 – South Ossetia held a referendum on independence from Georgia; more than 99 percent of voters were in favour of maintaining the region's status as a de facto independent state.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"&gt;Nvidia is preparing to oust Jensen Huang&lt;/a&gt; (1068 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pietromiotti.com/latest/maya-site"&gt;My AI agents found an unmapped Maya site?&lt;/a&gt; (996 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/aws/aws-emulator"&gt;AWS emulator&lt;/a&gt; (868 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"&gt;United Airlines bans AI agents from booking flights on behalf of travelers&lt;/a&gt; (564 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"&gt;A false smoke alarm almost drowned Jane Street's only NYC datacenter&lt;/a&gt; (501 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.mcmillen.dev/sigbovik/"&gt;93% of paint splatters are valid Perl programs (2019)&lt;/a&gt; (455 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"&gt;Gemini Decisions API&lt;/a&gt; (444 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://av.github.io/safe-sand/"&gt;Hyper-Realistic Sand with WebGL2&lt;/a&gt; (394 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"&gt;Jensen Huang said to have had relationship with executive who reports to him&lt;/a&gt; (370 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"&gt;I asked every TV manufacturer 17 questions about how they spy on you&lt;/a&gt; (359 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/bqc7CCGBSf93bk7f7/fable-5-2-is-a-step-change-in-situational-awareness"&gt;Fable 5.2 is a Step Change in Situational Awareness&lt;/a&gt; (152 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia"&gt;Eval Awareness vs. Eval Paranoia&lt;/a&gt; (64 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"&gt;The Chain Lens [interim]&lt;/a&gt; (60 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=spying-makes-a-comeback"&gt;Spying makes a comeback&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/uk-fact-of-the-day-9.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=uk-fact-of-the-day-9"&gt;UK fact of the day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-should-i-ask-simon-sebag-montefiore"&gt;What should I ask Simon Sebag Montefiore?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=experimentally-validated-digital-twins"&gt;Experimentally validated digital twins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=richard-posner-rip"&gt;Richard Posner, RIP…&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-12.html"/>
+    <published>2026-11-12T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-11</id>
     <title>Daily Digest — Wednesday, November 11, 2026</title>
@@ -1663,67 +1727,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-14.html"/>
     <published>2026-10-14T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-13</id>
-    <title>Daily Digest — Tuesday, October 13, 2026</title>
-    <updated>2026-10-13T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Charlie_Parker_Residence"&gt;... that when the residence of musician Charlie "Bird" Parker was nominated for New York City landmark designation, one person sent a bird feather to the city government in support?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Trisno_Sumardjo"&gt;... that Trisno Sumardjo considered art to be the fruit of honesty?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/US_Army_Small_Ships_Section"&gt;... that ten American soldiers were awarded the Distinguished Service Cross after ships of the US Army Small Ships Section were attacked by Japanese aircraft?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Curphey"&gt;... that Margaret Curphey 's opera career as an adult was harmed by health issues stemming from a bad playground accident as a child?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nutmeg_(drug)"&gt;... that Malcolm X once remarked that nutmeg "had the kick of three or four reefers "?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sharbel_Maroun"&gt;... that sharbel Maroun does not capitalize his given name out of respect for Sharbel Makhlouf ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lego_Vidiyo"&gt;... that Lego Vidiyo was described as TikTok, but for children?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Dot_King"&gt;... that according to etymologist Barry Popik, the term "sugar baby" may have been popularized by the publicity surrounding the killing of Dot King ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Walden_(play)"&gt;... that playgoers at the U.S. premiere of Walden were given bug spray?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)"&gt;1710 – Queen Anne's War : French and Wabanaki forces surrendered to end the Siege of Port Royal, giving the British permanent possession of Nova Scotia.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights"&gt;1812 – War of 1812 : British troops and Mohawk warriors repelled an American invasion from across the Niagara River at the Battle of Queenston Heights near Queenston, Ontario.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Travers_Symons"&gt;1908 – British suffragette Margaret Travers Symons became the first woman to speak in the House of Commons when she escaped from her escort into the chamber and shouted at the assembly.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fernhill_House"&gt;1994 – The Troubles : In a meeting at Fernhill House, Belfast, loyalist leader Gusty Spence announced that the Combined Loyalist Military Command would observe a ceasefire.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Brigid_Kosgei"&gt;2019 – At the Chicago Marathon, Kenyan runner Brigid Kosgei set the marathon world record for women running in a mixed-sex race.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"&gt;Hackers activate automatic defrosting in supermarket fridges across Europe&lt;/a&gt; — A cyberattack on Danfoss-made refrigeration controls at French chains, plus disruption at Dutch and Belgian chains, forced continuous 50°C defrost cycles and compromised deliveries and electronic shelf labels, with early losses near €300,000. (&lt;a href="https://news.ycombinator.com/item?id=50055304"&gt;discussion&lt;/a&gt;, 709 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://research.meta.ai/blog/muse-wonder"&gt;Muse Wonder&lt;/a&gt; — Meta introduces Muse Wonder and Muse Wonder Full, new frontier models aimed at personal and professional agents, with "Active Memory" and "Active Focus" features and strong claimed coding performance. (&lt;a href="https://news.ycombinator.com/item?id=50059115"&gt;discussion&lt;/a&gt;, 637 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://prophitt.me/writing/a-modern-web-app-in-c"&gt;A Modern Web App in C&lt;/a&gt; — The author shipped a commercial product as a CGI program in C on OpenBSD with SQLite, arguing the BCHS stack is simple, secure, and fits in your head. (&lt;a href="https://news.ycombinator.com/item?id=50058528"&gt;discussion&lt;/a&gt;, 571 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://z.ai/blog/glm-legal"&gt;GLM-Legal&lt;/a&gt; — A z.ai announcement of GLM-Legal, apparently a legal-focused model (the article text could not be fetched). (&lt;a href="https://news.ycombinator.com/item?id=50058507"&gt;discussion&lt;/a&gt;, 569 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/openai/codex/issues/48195"&gt;Codex CLI installs a persistent, self-updating background daemon by default&lt;/a&gt; — A GitHub issue argues that since 0.157.0 the CLI starts a ~374 MB self-updating daemon that outlives sessions, pins the first session's environment, and isn't fully stopped by &lt;code&gt;daemon stop&lt;/code&gt;, and asks for it to be opt-in. (&lt;a href="https://news.ycombinator.com/item?id=50060694"&gt;discussion&lt;/a&gt;, 566 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/"&gt;AI is a tool and using it well takes skill&lt;/a&gt; — A rebuttal to Rich Hickey's "'AI' is Not a Tool," arguing that LLMs can be wielded as tools and that the real distinction is skilled use versus delegation without understanding or oversight. (&lt;a href="https://news.ycombinator.com/item?id=50063427"&gt;discussion&lt;/a&gt;, 424 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"&gt;QGIS enacts moratorium on AI contributions&lt;/a&gt; — QGIS changes its policy to a strict "not allowed" for AI contributions, citing unsustainable review burden on maintainers and the need to protect its human contributor community. (&lt;a href="https://news.ycombinator.com/item?id=50054751"&gt;discussion&lt;/a&gt;, 375 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/h0m3us3r/w1700k-sdr"&gt;Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver&lt;/a&gt; — Custom firmware turns a Gemtek W1700K's MediaTek MT7996 radio into a receive-only wideband SDR streaming raw IQ over 10 GbE to a browser-based spectrum and waterfall display. (&lt;a href="https://news.ycombinator.com/item?id=50055593"&gt;discussion&lt;/a&gt;, 352 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"&gt;OpenAI Can't Self-Police Because It Fires the People Raising the Alarm&lt;/a&gt; by TurnTrout — A Fortune op-ed arguing that OpenAI's firing of three safety researchers shortly after endorsing independent evaluation shows voluntary self-policing doesn't work. (201 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xyg3ecpFNuGr5q8Zq/labs-current-alignment-plans-seem-terrible"&gt;Labs' current alignment plans seem terrible&lt;/a&gt; by Daniel Tan — Argues that frontier labs' implicit plan of character shaping, heavy RL, and racing toward prosaic recursive self-improvement is deeply flawed, and that evidence on how it will go is worth collecting. (134 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"&gt;Research Lessons I Learned at MATS &amp;amp; Redwood&lt;/a&gt; by Jo Jiao — Argues empirical safety research is bottlenecked on clear thinking, and that building predictive, falsifiable models and updating them with uncertainty in mind speeds up iteration. (129 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/LrAqM4bGmAoA79rP3/quantity-vs-quality-in-pottery-is-a-lie"&gt;Quantity vs quality in pottery is a lie&lt;/a&gt; by becausecurious — Traces the famous pottery anecdote from &lt;em&gt;Art &amp;amp; Fear&lt;/em&gt; to show it was never a study and was originally a photography-class story that the coauthors changed to ceramics. (110 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"&gt;More people should write basic AI safety explainers&lt;/a&gt; by Linch — Argues the community underrates writing clear, simple explainers of core AI safety ideas, since different explanations convince different people and good ones are still scarce. (83 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/YvNkA3ZzsCv9QQmXR/base-models-can-detect-hidden-intentions-that-prompted"&gt;Base Models Can Detect Hidden Intentions that Prompted Classifiers Miss&lt;/a&gt; by Oz Amram — Shows that scoring responses under a base model with a persona header can decode subliminal signals (e.g., owl vs. eagle preference) that prompted classifiers miss, with AUCs of 0.84–0.94. (70 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=okie-dokie-casey-handmer-edition"&gt;Okie-dokie, Casey Handmer edition&lt;/a&gt; — Casey Handmer describes prototyping automated peer review at about $0.10 per paper, estimating that auditing the whole scientific corpus would cost roughly $500m and asking where the biggest surprises will turn up.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=michael-woodford-wins-nobel"&gt;Michael Woodford Wins Nobel&lt;/a&gt; — Alex Tabarrok explains how Woodford's &lt;em&gt;Interest and Prices&lt;/em&gt; built a microfounded, cashless theory of monetary policy that shaped how central bankers think, including when interest rate rules pin down inflation.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford"&gt;The Nobel Prize Goes to Robert Hall and Michael Woodford&lt;/a&gt; — Alex Tabarrok explains Hall's result that consumption follows a random walk under permanent income and rational expectations, and surveys his other creative work, including the ANCAP commodity-standard proposal.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=robert-hall-nobel-laureate"&gt;Robert E. Hall, Nobel Laureate&lt;/a&gt; — Tyler Cowen praises Hall as an economist whose every paper is interesting, a superb commentator and co-author, and the author of important work on growth, supply and demand, rent-seeking, and taxation.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=michael-woodford-nobel-laureate"&gt;Michael Woodford, Nobel Laureate&lt;/a&gt; — Tyler Cowen describes Woodford as the economist who rebuilt monetary policy around interest rates and expectations, underpinning the New Keynesian model, forward guidance, and escape from the zero lower bound.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-13.html"/>
-    <published>2026-10-13T07:00:00-05:00</published>
   </entry>
 </feed>
