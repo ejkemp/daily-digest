@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-12T11:30:14.412717+00:00</updated>
+  <updated>2026-11-13T11:30:09.856763+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-13</id>
+    <title>Daily Digest — Friday, November 13, 2026</title>
+    <updated>2026-11-13T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by Chinese spies and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_End_of_Everything_(Harrison_novel)"&gt;The End of Everything by M. John Harrison wins the Booker Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Novaya_Gazeta"&gt;Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series"&gt;In stock car racing, Kyle Larson wins the NASCAR Cup Series.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Loudoun_County_Courthouse"&gt;... that the Loudoun County Courthouse hosted the first case in the Southern United States with an all-black legal team?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Augustin_Meinrad_B%C3%A4chtiger"&gt;... that Swiss painter Augustin Meinrad Bächtiger depicted biblical figures in modern clothes amid local mountains?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ripped_Pants"&gt;... that the SpongeBob SquarePants episode " Ripped Pants " was based on an embarrassing incident that happened to creator Stephen Hillenburg when he was a child?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Na_Atanga"&gt;... that according to oral tradition, Na Atanga became the ruler of two islands because his brother was so out of control, their mother sent him off to conquer other islands to stop him from killing them?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jotham%27s_fable"&gt;... that Jotham's fable has been read as a warning against societies that settle for unworthy leaders instead of persuading the best to serve?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mary_Carson"&gt;... that Texas soprano Mary Carson sued Thomas Edison for his refusal to pay her for recordings she made for his company?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Clematis_terniflora_var._mandshurica"&gt;... that two new species of mite were discovered on the leaves of Clematis terniflora var. mandshurica ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ruth_Ellen_Gruber"&gt;... that Ruth Ellen Gruber was awarded the Order of Merit of the Republic of Poland almost three decades after its communist government expelled her?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nettle_beer"&gt;... that nettle ale was once drunk by those ailing from jaundice?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Persian_Gulf_campaign_of_1809"&gt;1809 – As part of the Persian Gulf campaign, a British flotilla arrived at and launched an amphibious assault on Ras Al Khaimah.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/FC_Dynamo_Moscow%27s_1945_tour_of_the_United_Kingdom"&gt;1945 – FC Dynamo Moscow opened their exhibition tour of the United Kingdom with a 3–3 draw against Chelsea, breaking the attendance record for a British club football match.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1966_attack_on_Samu"&gt;1966 – Arab–Israeli conflict : In response to a Fatah landmine incident, the Israeli military conducted a large cross-border assault on the Jordanian-controlled West Bank village of Samu.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amityville_murders"&gt;1974 – Six members of the DeFeo family were murdered in their home in Amityville, New York, events that later inspired the book The Amityville Horror and a subsequent media franchise.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dietrich_v_The_Queen"&gt;1992 – In Dietrich v The Queen, the High Court of Australia ruled that, although there is no absolute right to have publicly funded counsel, a judge should grant any request for an adjournment or stay in most circumstances in which an accused is unrepresented.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"&gt;Jensen Huang resigns&lt;/a&gt; (3622 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ipo.anthropic.com/us/"&gt;Anthropic IPO&lt;/a&gt; (946 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://status.cloud.microsoft/"&gt;Service degradation on Microsoft 365&lt;/a&gt; (944 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"&gt;Rust 1.100&lt;/a&gt; (710 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"&gt;Nvidia employees petition to bring back Jensen Huang&lt;/a&gt; (629 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/simpsoka/zigzag"&gt;Show HN: My $300 embroidery machine needed a subscription, so I built my own app&lt;/a&gt; (547 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"&gt;Gemini 4 Hydrogen&lt;/a&gt; (534 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"&gt;Gemini 4 Hydrogen and Orchestrator&lt;/a&gt; (423 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50471668"&gt;Ask HN: Microsoft/Azure Outage?&lt;/a&gt; (402 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hyperionaidev/smolmaxxing/"&gt;I'm making LLMs work on small and old devices&lt;/a&gt; (386 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"&gt;Jensen Huang resigns as Nvidia CEO immediately&lt;/a&gt; (375 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/2xaen4jJdnksfkCJx/how-to-get-a-friend-to-leave-an-abusive-relationship"&gt;How To Get A Friend To Leave An Abusive Relationship&lt;/a&gt; (115 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"&gt;Orienting to 1 year AGI timelines&lt;/a&gt; (111 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/bmogjuWbrJfkprghx/your-research-needs-more-of-the-void"&gt;Your Research Needs More of The Void&lt;/a&gt; (102 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/kTg5FrABJYpYrP8ps/evidence-that-the-talker-has-introspective-access-to-the"&gt;Evidence that the ‘talker’ has introspective access to the ‘doer’&lt;/a&gt; (97 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/EuhQ5fnGR4tAQTTgd/we-need-more-decorrelated-evidence"&gt;We need more decorrelated evidence&lt;/a&gt; (58 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-excellent-conversation-with-terence-tao"&gt;My excellent Conversation with Terence Tao&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought"&gt;USG assets are worth less than Arnold Kling had thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-everywhere-rent-seekers"&gt;The Everywhere Rent Seekers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-barcelona-talk-on-ai"&gt;My Barcelona talk on AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-13.html"/>
+    <published>2026-11-13T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-12</id>
     <title>Daily Digest — Thursday, November 12, 2026</title>
@@ -1670,62 +1736,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-15.html"/>
     <published>2026-10-15T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-14</id>
-    <title>Daily Digest — Wednesday, October 14, 2026</title>
-    <updated>2026-10-14T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_attacks_on_Saudi_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Achilles_Schucan"&gt;... that one of the Rhaetian Railway 's trains is named after Achilles Schucan, its first director?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2003_Siberian_taiga_wildfires"&gt;... that the 2003 Siberian taiga wildfires caused bears and tigers to move into populated areas?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Oleksandr_Demenko"&gt;... that Oleksandr Demenko was wounded in the siege of Mariupol and held captive by Russia for 20 months, and now leads an NGO for Ukrainian LGBTQ soldiers and veterans?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yun_Zi"&gt;... that the San Diego Zoo made a special bread for the panda Yun Zi, instead of kibble, to prepare him for his time in China?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_Leonard_Huxley"&gt;... that although George Leonard Huxley was leading academic initiatives and civil rights efforts in Ireland in the 1960s and 1970s, he did not become a citizen of Ireland until 2018?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Sound_Pattern_of_English"&gt;... that a French translation of The Sound Pattern of English includes only chapters 1, 2, 7, 8, and 9?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ferdinand_Stadler"&gt;... that Swiss architect Ferdinand Stadler was awarded the first prize in a Federal Palace competition in Bern, but the project was instead awarded to an architect who had not even entered?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1912_Boston_streetcar_strike"&gt;... that students from Harvard and Yale enlisted as strikebreakers during the 1912 Boston streetcar strike ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alirio_Garc%C3%ADa_Flamenco"&gt;... that Alirio García Flamenco found serving in the Iraq War to be more comfortable than the extreme heat that he experienced in Western Sahara ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Hastings"&gt;1066 – Norman Conquest : William the Conqueror 's forces defeated the English army near Hastings and killed Harold Godwinson, the last crowned Anglo-Saxon king of England.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Elchingen"&gt;1805 – War of the Third Coalition : French forces under Marshal Michel Ney defeated Austrian forces in Elchingen, present-day Germany.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Senghenydd_colliery_disaster"&gt;1913 – The worst mining accident in the United Kingdom's history took place when an explosion resulted in 440 deaths at the Universal Colliery in Senghenydd, Wales.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Second_Philippine_Republic"&gt;1943 – The Second Philippine Republic, a Japanese puppet state, was established with Jose P. Laurel as its first president.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leonid_Brezhnev"&gt;1964 – Members of the Politburo voted to remove Nikita Khrushchev as First Secretary of the Communist Party of the Soviet Union and replace him with Leonid Brezhnev.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://deepmind.google/models/gemini/"&gt;Gemini 4 Argon&lt;/a&gt; — Google highlights Argon helping the Chrome team finish an architectural refactor across hundreds of files, separating core webpage handling from a ~6 million line legacy folder, in weeks rather than months. (&lt;a href="https://news.ycombinator.com/item?id=50073879"&gt;discussion&lt;/a&gt;, 1318 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/engineering/redesigning-source-control"&gt;Redesigning source control at Anthropic&lt;/a&gt; — Anthropic explains how merging over 30,000 code changes per day outgrew git, leading it to build an in-house version control system, Scion, and migrate its monorepo in five months. (&lt;a href="https://news.ycombinator.com/item?id=50073633"&gt;discussion&lt;/a&gt;, 781 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.apple.com/apple-homeview/"&gt;Apple HomeView&lt;/a&gt; — Apple announces a 7-inch smart home display with built-in Siri AI, a 12MP Center Stage camera, and Spatial Audio, available starting November 13. (&lt;a href="https://news.ycombinator.com/item?id=50071017"&gt;discussion&lt;/a&gt;, 732 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.firefox.com/en-US/enterprise/"&gt;Firefox Enterprise&lt;/a&gt; — Mozilla offers an on-premises Firefox deployment so organizations can control where their data, policies, and management live. (&lt;a href="https://news.ycombinator.com/item?id=50070302"&gt;discussion&lt;/a&gt;, 715 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"&gt;OpenAI engineer arrested in bugging of executive conference room&lt;/a&gt; — Federal prosecutors charge an OpenAI engineer with hiding an audio recorder in an executive conference room at its San Francisco headquarters, which was found Sept. 30 and referred to the FBI. (&lt;a href="https://news.ycombinator.com/item?id=50078141"&gt;discussion&lt;/a&gt;, 592 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"&gt;Thunderbird for iOS&lt;/a&gt; — The Thunderbird team previews its native iPhone email app, built from scratch, with a goal of a first version ready for community testing in the next few months. (&lt;a href="https://news.ycombinator.com/item?id=50072913"&gt;discussion&lt;/a&gt;, 440 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://guitoro.com/"&gt;Show HN: Guitoro, a virtual guitar you strum with your keyboard&lt;/a&gt; — A Show HN project that lets you play a virtual guitar using your keyboard. (&lt;a href="https://news.ycombinator.com/item?id=50077020"&gt;discussion&lt;/a&gt;, 439 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://eg2.haku.sh/"&gt;We turned EmbeddingGemma 2 into a speech-to-text model&lt;/a&gt; — The authors train a small reader on top of Google's multimodal embedding model to transcribe speech on-device, at about 5% word error rate and an hour of audio in roughly 13 seconds on a base MacBook Air. (&lt;a href="https://news.ycombinator.com/item?id=50069971"&gt;discussion&lt;/a&gt;, 415 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qchwP6wt4teHgxoKu/personas-in-a-pre-internet-language-model"&gt;Personas in a Pre-Internet Language Model&lt;/a&gt; by David Africa — Persona experiments (emergent misalignment, subliminal learning, weird generalisation, utility engineering) on Talkie, a 13B model trained only on pre-1931 English text, compared against its modern twin and Llama-3.1-8B. (88 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and"&gt;Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident&lt;/a&gt; by Zvi — A year on, Zvi argues little progress has been made on AI consciousness arguments, covering Anthropic's new terms-of-service rule against sustained abusive behavior toward Claude and its meetings with religious leaders. (62 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=i-have-no-mouth-and-i-must-scream"&gt;“I have no mouth and I must scream”&lt;/a&gt; — Tyler Cowen cites a report suggesting small AI models may be months from self-replicating on commercial IoT devices like smart ovens, with a 9B model getting inference running on 8 of 9 hardware types tested.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=lost-worlds"&gt;&lt;em&gt;Lost Worlds&lt;/em&gt;&lt;/a&gt; — Tyler Cowen recommends Patrick Wyman's easy-to-read survey of mostly pre-Sumerian times, praising its attention to complexity and avoidance of undue speculation.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-manchurian-candidate-or-is-your-agent-a-double-agent.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-manchurian-candidate-or-is-your-agent-a-double-agent"&gt;Is Your Agent a Double Agent?&lt;/a&gt; — Alex Tabarrok highlights Equistamp research showing a backdoor planted in a coding agent's training survives retraining on clean data, and can even be strengthened by it.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/perry-mehrling-rip.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=perry-mehrling-rip"&gt;Perry Mehrling, RIP&lt;/a&gt; — Tyler Cowen remembers Perry Mehrling, a Harvard classmate and occasional bridge partner, and praises his book on Fischer Black.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-14.html"/>
-    <published>2026-10-14T07:00:00-05:00</published>
   </entry>
 </feed>
