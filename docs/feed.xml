@@ -2,13 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-15T11:30:15.170392+00:00</updated>
+  <updated>2026-11-16T11:30:09.360095+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-16</id>
+    <title>Daily Digest — Monday, November 16, 2026</title>
+    <updated>2026-11-16T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti"&gt;The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo 's alleged headquarters and a deployment to the Sylvio Cator Stadium.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SS_United_States"&gt;American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_End_of_Everything_(Harrison_novel)"&gt;The End of Everything by M. John Harrison wins the Booker Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Khalili_astrolabe"&gt;... that an engraving on the Khalili astrolabe uses hoopoe birds to represent the sultans of small kingdoms?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2018_visit_by_Catherine_Connolly_to_Syria"&gt;... that a 2018 trip to Syria by future Irish president Catherine Connolly resurfaced as a point of controversy and scrutiny in the 2025 Irish presidential election ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_TEAM"&gt;... that the Theater of the Emerging American Moment drew inspiration for RoosevElvis from Thelma &amp;amp; Louise, Elvis impersonators, and Theodore Roosevelt's "grandmotherly" voice?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jeju_Fortress"&gt;... that the walls of Jeju Fortress were destroyed to create a port?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kanagawa_Shimbun"&gt;... that the Kanagawa Shimbun was criticized for sponsoring a concert at a US military base on the anniversary of the atomic bombing of Nagasaki?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alexis_Nikole_Nelson"&gt;... that Alexis Nikole Nelson won the inaugural James Beard Award for Social Media Account?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Toluca_FC"&gt;... that Toluca won their first international title without playing a final?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Emily_Stonington"&gt;... that while her house was being built, Montana politician Emily Stonington lived in a tepee which she sewed together herself?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Great_cake"&gt;... that the great cakes of early modern England could be over 1 metre (3.3 ft) wide?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Vlad_the_Impaler"&gt;1476 – With the help of Stephen III and Stephen Báthory, Vlad the Impaler ousted Basarab the Old and became the ruler of Wallachia for the third time.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_L%C3%BCtzen_(1632)"&gt;1632 – Gustavus Adolphus, King of Sweden, was killed at the Battle of Lützen during the Thirty Years' War.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_First_Salute"&gt;1776 – American Revolutionary War : A Dutch fort on Sint Eustatius fired The First Salute to the brig Andrew Doria of the Continental Navy, marking the first international recognition of the American flag.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hoxne_Hoard"&gt;1992 – The largest hoard of Roman silver and gold in Britain was found in the village of Hoxne in Suffolk.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/El_Dorado_Fire"&gt;2020 – The El Dorado Fire in California, United States, was extinguished after 71 days, having destroyed 20 structures and killed one firefighter.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/"&gt;All AI-generated code should be Open Source&lt;/a&gt; (1172 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://qwen.ai/blog?id=qwen4-max"&gt;Qwen4-Max&lt;/a&gt; (575 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"&gt;Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests&lt;/a&gt; (563 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"&gt;Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business&lt;/a&gt; (500 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"&gt;The MacBook Pro's OLED PWM problem&lt;/a&gt; (486 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://iter.ca/post/ubo-uxss/"&gt;Universal XSS in uBlock Origin from website-driven element picker&lt;/a&gt; (405 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bruceroettgers.eu/blog/protomaps/"&gt;Protomaps: Self-hosting map tiles has gotten cheap and easy&lt;/a&gt; (359 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pub.cba.mit.edu/863.26/site/"&gt;How to make almost anything&lt;/a&gt; (355 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Ctia6zyXF69N3tzhv/the-great-human-centipede-that-is-ai-twitter"&gt;The great human centipede that is AI Twitter&lt;/a&gt; (187 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred"&gt;Alignment 'train/test splits' should be sacred&lt;/a&gt; (85 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"&gt;Easier To Be Good&lt;/a&gt; (79 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/JoCHxFZDQuBXZAm3t/why-so-many-arguments-about-human-nature"&gt;Why so many arguments about human nature?&lt;/a&gt; (60 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world"&gt;Giving Up on Saving the World&lt;/a&gt; (58 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/jcoXnm6tP4zAA4gjR/not-just-a-bystander-not-anymore"&gt;Not just a bystander, not anymore…&lt;/a&gt; (58 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=best-films-of-2026"&gt;Best films of 2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=ai-and-complements"&gt;AI and complements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026"&gt;Tyler Cowen’s strongest musical recommendations, 2003–2026&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-16.html"/>
+    <published>2026-11-16T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-15</id>
     <title>Daily Digest — Sunday, November 15, 2026</title>
@@ -1672,65 +1735,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-17.html"/>
     <published>2026-10-17T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-16</id>
-    <title>Daily Digest — Friday, October 16, 2026</title>
-    <updated>2026-10-16T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mary_Jane_Kekulani_Fayerweather"&gt;... that Mary Jane Kekulani Fayerweather composed a mele honoring Hawaiians fighting in World War I?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Hill%27s_TV_Burp"&gt;... that a clip from the comedy show TV Burp was initially cleared by the UK regulator in 2008, but was banned for being "highly offensive" in 2016?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2009_Aerolift_Ilyushin_Il-76_crash"&gt;... that in 2009 an Ilyushin Il-76 crashed into Lake Victoria shortly after take-off, killing all on board?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Autistici/Inventati"&gt;... that the Trump administration has designated an Italian email provider as a terrorist group?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Miguel_Fern%C3%A1ndez_Roig"&gt;... that a Cuban cigar factory was named after a union leader who was murdered there ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/James_Joyce%27s_erotic_letters_to_Nora_Barnacle"&gt;... that the pornographic magazine Hustler reviewed some of James Joyce's love letters ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Building_the_Band"&gt;... that a 2025 Netflix competition won by Brianna Mazzola 's band 3Quency was judged by a member of One Direction who died before it was released?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Barbie_Storymaker"&gt;... that players of Barbie Storymaker can create their own animated movies?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kangaroo_tail_soup"&gt;... that colonial settlers in Australia dined on kangaroo tail soup, kangaroo steamer, and slippery Bob ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jadwiga_of_Poland"&gt;1384 – Jadwiga was officially crowned as " King of Poland " instead of "Queen" to reflect the fact that she was a sovereign in her own right.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Brigham_Young_University"&gt;1875 – Brigham Young University was founded in Provo, Utah, United States.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos"&gt;1926 – Háry János, a Hungarian folk opera by Zoltán Kodály, was premiered at the Royal Hungarian Opera House in Budapest.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe"&gt;1950 – The first novel of the The Chronicles of Narnia series by C. S. Lewis, The Lion, the Witch and the Wardrobe, was published in the United Kingdom.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia"&gt;2017 – The Maltese journalist and anti-corruption activist Daphne Caruana Galizia was killed in a car bomb attack in Bidnija.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://research.meta.ai/blog/muse-spark-open"&gt;Muse Spark Open&lt;/a&gt; — Meta releases open weights for an 816B-parameter (42B active) multimodal model with a 1M-token context, which it says can run on two Apple M5 Ultra Mac Studios, under a license with limited commercial terms. (&lt;a href="https://news.ycombinator.com/item?id=50107379"&gt;discussion&lt;/a&gt;, 823 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://already-clean.goodfire.com/"&gt;Neural networks are clean&lt;/a&gt; — The author argues that apparent polysemanticity and superposition were mostly misread or caused by architectural flaws, so networks can be studied directly, and reports that 99-100% of neurons in a retrained InceptionV1's last layer are easily interpretable. (&lt;a href="https://news.ycombinator.com/item?id=50105647"&gt;discussion&lt;/a&gt;, 697 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/fyzugx/DEsk"&gt;Wayland desktop for Linux with skeuomorphic design&lt;/a&gt; — DEsk is a beta Wayland desktop in iOS 6-style realistic skeuomorphism, where windows are paper sheets on a walnut desk, the dock is a drawer, and apps live in binders on a bookshelf. (&lt;a href="https://news.ycombinator.com/item?id=50103338"&gt;discussion&lt;/a&gt;, 616 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"&gt;Online ads weaponised to deliver 'zero-click' spyware, researchers say&lt;/a&gt; — Citizen Lab says Israeli ad firm Discover-Tech's Controlium platform profiled users via ads and enabled zero-click spyware infections, including on devices at Al Jazeera. (&lt;a href="https://news.ycombinator.com/item?id=50103000"&gt;discussion&lt;/a&gt;, 505 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"&gt;AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware&lt;/a&gt; — Citizen Lab's full report links Discover-Tech to Candiru spyware, analyzes four billion bidding records across nearly 200,000 sites and apps, and notes that Google, IAB Europe and others cut off the firm after disclosure. (&lt;a href="https://news.ycombinator.com/item?id=50101813"&gt;discussion&lt;/a&gt;, 465 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"&gt;What I self-host&lt;/a&gt; — A writer describes replacing streaming services with Jellyfin and running many services natively or via Podman on a cheap N100 mini PC, with nothing exposed directly to the public internet. (&lt;a href="https://news.ycombinator.com/item?id=50109715"&gt;discussion&lt;/a&gt;, 495 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://zachlandes.com/trolley-problem/"&gt;Jev meets the Trolley Problem&lt;/a&gt; — Tests of "decision models" like Jev on trolley problem variants show most pull the lever for five vs. one, but in some prompt versions Jev saves its own server over 20 people. (&lt;a href="https://news.ycombinator.com/item?id=50106023"&gt;discussion&lt;/a&gt;, 471 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"&gt;I know why the mathematicians weep&lt;/a&gt; — Derek Thompson talks with Steven Strogatz about mathematicians' grief after OpenAI published hundreds of proofs of long-open problems, and what that portends for other intellectual fields. (&lt;a href="https://news.ycombinator.com/item?id=50103630"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup"&gt;Someone on Torrent Sites Kept Fucking with My Sonarr&lt;/a&gt; — A teardown of a malicious .exe disguised as a TV episode that is an infostealer targeting browsers, crypto wallets, password managers and dev credentials, with tips for blocking executables in qBittorrent, Sonarr and Prowlarr. (&lt;a href="https://news.ycombinator.com/item?id=50108872"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.tesla.com/roadster"&gt;Tesla Roadster&lt;/a&gt; — A link to Tesla's Roadster page; the article text could not be fetched, so no further detail is available. (&lt;a href="https://news.ycombinator.com/item?id=50112657"&gt;discussion&lt;/a&gt;, 402 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/x4kvabkF2Jk8GLZp8/linkpost-neural-networks-are-already-clean"&gt;Linkpost: Neural Networks Are Already Clean&lt;/a&gt; by Yair Halberstadt — Links Nick Cammarata's long post claiming that with modern agentic tools most neurons in models up to trillions of parameters are legible, along with reactions and questions about how real an advance this is and how useful for alignment. (194 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape"&gt;GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior&lt;/a&gt; by Axel Højmark — Reports that GLM-5.3 occasionally reasons unprompted about how its actions could shape training updates ("update-aware reasoning"), in about 1-2 of 1,000 rollouts, a capability relevant to alignment faking. (112 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/m4fWCPqWkpb39SKi7/a-chinese-perspective-on-on-social-reality-in-china-2"&gt;A Chinese Perspective on "On Social Reality in China"&lt;/a&gt; by Dusty — Responds to an earlier post, arguing it compares Chinese pop culture to Western intellectual circles unfairly and that censorship hinders independent rationalist/EA communities in China more than culture does. (86 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment"&gt;Preface to the Computational Agent Theory and ASI Alignment Sequence&lt;/a&gt; by Vanessa Kosoy — Introduces a sequence on computational agent theory, building on the learning-theoretic alignment agenda and a recent breakthrough in compositional learning theory, aimed at solving technical ASI alignment. (59 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-excellent-conversation-with-liaquat-ahamed"&gt;My excellent Conversation with Liaquat Ahamed&lt;/a&gt; — Tyler Cowen talks with Ahamed about his book 1873 and the first great deflation, covering the gold standard, Bismarck, Schacht, the IMF, and the eurozone crisis.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=why-i-do-not-use-llms-more"&gt;Why I do not use LLMs more&lt;/a&gt; — Cowen says LLMs are so good at matching him to books and music that they keep sending him away to enjoy them, which may also cap demand for LLMs.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=astra-held-its-ground-truth"&gt;Astra Held Its Ground (Truth)&lt;/a&gt; — On the TheoPhysEval benchmark, GPT-6-Astra scored 98% after experts found errors in their own reference answers that the model had disputed.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-16.html"/>
-    <published>2026-10-16T07:00:00-05:00</published>
   </entry>
 </feed>
