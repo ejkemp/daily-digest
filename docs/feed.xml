@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-16T11:30:09.360095+00:00</updated>
+  <updated>2026-11-17T11:30:10.710430+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-17</id>
+    <title>Daily Digest — Tuesday, November 17, 2026</title>
+    <updated>2026-11-17T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti"&gt;The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo 's alleged headquarters and a deployment to the Sylvio Cator Stadium.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SS_United_States"&gt;American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_End_of_Everything_(Harrison_novel)"&gt;The End of Everything by M. John Harrison wins the Booker Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Verity_(web_series)"&gt;... that USA Today compared a Generation Alpha meme to a Lovecraftian monster used as a metaphor for AI?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Julian_Aguon"&gt;... that Julian Aguon has argued that some legal cases revolve around the "right to culture"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Conformity_Gate"&gt;... that Netflix experienced an outage because numerous Stranger Things fans checked whether a secret episode of the series had been released?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alois_Lichtsteiner"&gt;... that Swiss painter Alois Lichtsteiner signs his works as "OHMSTAL" because he finds it "a beautiful word"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Interstate_24_in_Tennessee"&gt;... that a dangerous stretch of Interstate 24 in Tennessee inspired a Johnny Cash song?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/ICloud_Private_Relay"&gt;... that a 2023 study found that iCloud Private Relay made speed-test downloads up to ten times slower, but improved network performance in some cases?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dyckman_House"&gt;... that when the Dyckman House in New York City opened as a museum, its backyard had a military hut?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Consideration_(song)"&gt;... that " Consideration " by Rihanna was originally meant to be included on featured artist SZA's debut album?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nannie_Washburn"&gt;... that Nannie Washburn and her sister faced the death penalty for handing out leaflets?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Elizabeth_I"&gt;1558 – Elizabeth I became Queen of England and of Ireland, marking the beginning of the Elizabethan era.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Arcole"&gt;1796 – French Revolutionary Wars : French forces won the Battle of Arcole in a manoeuvre to cut the Austrians' line of retreat.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hjalmar_Siilasvuo"&gt;1941 – World War II : Hjalmar Siilasvuo ordered Finnish forces to halt their assault against Soviet forces near Salla, concluding Operation Arctic Fox.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Little_Mermaid_(1989_film)"&gt;1989 – Walt Disney Pictures released The Little Mermaid to theatres, beginning the Disney Renaissance.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tornado_outbreak_of_November_17,_2013"&gt;2013 – An outbreak of 77 confirmed tornadoes occurred in seven U.S. states; it became the largest November tornado outbreak in Illinois and Indiana.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cs.cmu.edu/learn/"&gt;Carnegie Mellon is putting computer science courses on YouTube for free&lt;/a&gt; (1618 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"&gt;Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings&lt;/a&gt; (899 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"&gt;Technical issue at JPMorgan Chase triggers online banking delays for US banks&lt;/a&gt; (781 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"&gt;Windows 11 is collecting data on which coding agents and developer tools you use&lt;/a&gt; (624 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bugmenot.com/"&gt;BugMeNot has closed&lt;/a&gt; (568 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://trmnl.com/blog/introducing-frame"&gt;Frame – 31.5" color ePaper display&lt;/a&gt; (435 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://burntsushi.net/jiff/"&gt;Jiff 1.0: A datetime library for Rust&lt;/a&gt; (393 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"&gt;Optimizely compromised, served malware on Zoom, GitLab&lt;/a&gt; (385 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"&gt;Software is breaking down at a systemic level&lt;/a&gt; (373 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jack.cab/blog/siterate"&gt;What is w2rt6byl5nf1opmc-a.com?&lt;/a&gt; (354 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/GSseMxyeJmqQgKQi4/the-siren-song-of-the-inside-game"&gt;The Siren Song of the Inside Game&lt;/a&gt; (180 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/DjfeRMnLdNumtcKbK/gemini-4-safety-reports-don-t-demonstrate-low-loss-of"&gt;Gemini 4 safety reports don’t demonstrate low loss-of-control risk&lt;/a&gt; (92 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/t38CDwfsmS52ibwv2/on-friends-at-frontier-labs"&gt;On Friends at Frontier Labs&lt;/a&gt; (77 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/C6MM2FAeCAdDLBZCH/social-sanction-gaming-gives-multi-agent-ais-powerful"&gt;Social Sanction Gaming gives Multi-Agent AIs Powerful Control over their Reinforcement&lt;/a&gt; (70 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/mRAM4DrK47cKc4kp9/cryonics-as-cause-area-1"&gt;Cryonics as Cause Area&lt;/a&gt; (58 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/SaqXZbsLKjrSw6cwM/it-is-mildly-frustrating-that-people-will-now-respect-my"&gt;It is mildly frustrating that people will now respect my faction less if ASI doesn't happen by 2028&lt;/a&gt; (54 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=a-scenario-for-rogue-ais"&gt;A scenario for rogue AIs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=coffeehouses-and-the-scientific-revolution"&gt;Coffeehouses and the Scientific Revolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=starship"&gt;Starship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne"&gt;Russ Roberts and I do EconTalk podcast on Montaigne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-17.html"/>
+    <published>2026-11-17T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-16</id>
     <title>Daily Digest — Monday, November 16, 2026</title>
@@ -1685,55 +1751,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-18.html"/>
     <published>2026-10-18T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-17</id>
-    <title>Daily Digest — Saturday, October 17, 2026</title>
-    <updated>2026-10-17T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arthur_Heurtley_House"&gt;... that one former owner of Frank Lloyd Wright's Arthur Heurtley House bought it after reading a book about Wright's work?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Niu_Lai"&gt;... that Niu Lai was created by a mother and son over the course of five years?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Burndy_Library"&gt;... that the Burndy Library collected the classics of science only up to 1900 because its founder believed that most of the basic theories of physical science had been formulated by then?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1962_Genghis_Khan_controversy"&gt;... that Buddhist monks using astrology divined the "precise" date and time of Genghis Khan's birth before a controversial celebration of its 800th anniversary ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Owen_Bruce_Slee"&gt;... that the International Astronomical Union named a minor planet after radio astronomer Bruce Slee just before his death in 2016?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pier_57"&gt;... that a building occupied by Google was variously used as a shipping pier, bus depot, and detention center?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Albrecht_von_N%C3%BCrnberg"&gt;... that a statue of Saint Christopher by Albrecht von Nürnberg was stripped of the Christ Child after the Reformation and turned into a Swiss mercenary?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dune_(cancelled_film)"&gt;... that Pink Floyd agreed to produce the soundtrack for a cancelled Dune film ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lidia_Doce"&gt;... that Lidia Doce offered to get Che Guevara a puppy?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I_of_England"&gt;1660 – A series of executions of the commissioners who signed the death warrant of King Charles I of England concluded; six were hanged, drawn and quartered for treason.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ascanio_in_Alba"&gt;1771 – Ascanio in Alba, an opera composed by Wolfgang Amadeus Mozart at the age of 15, premiered in Milan.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Open_Championship"&gt;1860 – The Open Championship, the oldest of the four major championships in men's golf, was first played at Prestwick Golf Club in Scotland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Killing_of_Yoshihiro_Hattori"&gt;1992 – Having gone to the wrong house in Baton Rouge, Louisiana, for a Halloween party, Japanese exchange student Yoshihiro Hattori was shot and killed by the homeowner.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Rehavam_Ze%27evi"&gt;2001 – Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/research/ecdsa-curve-origins"&gt;Claude reveals ECDSA curve origins&lt;/a&gt; — Anthropic says Claude traced the NIST P-192/224/256/384/521 seeds to the C library's lrand48 generator seeded with a Unix timestamp rather than a hash of a phrase, which makes a deliberate backdoor much less plausible (though it is not a cryptographic break). (&lt;a href="https://news.ycombinator.com/item?id=50122800"&gt;discussion&lt;/a&gt;, 876 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.mercor.com/research/labor-index/benchmark-map/"&gt;90% of US working hours are spent on tasks not covered well by AI benchmarks&lt;/a&gt; — Mercor mapped 29 benchmarks onto 923 O*NET occupations and found only 208 have a task with at least 5 benchmark prompts, with coverage skewed toward the largest labor markets. (&lt;a href="https://news.ycombinator.com/item?id=50121179"&gt;discussion&lt;/a&gt;, 508 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://claude.dev/blog/solving-code-review-at-anthropic/"&gt;How the Claude Code team does code review&lt;/a&gt; — The team describes moving most code reading to automated review and verification, aiming for at most one human in the loop per PR, while merged PRs more than doubled from June to September and the revert share fell by over 40 percent. (&lt;a href="https://news.ycombinator.com/item?id=50122951"&gt;discussion&lt;/a&gt;, 351 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Dkh7pXKjoNWkkxQDz/neural-networks-are-not-already-clean"&gt;Neural networks are not already clean&lt;/a&gt; by leogao — Responding to Nick Cammarata's post, argues that a simple-looking pattern in a neuron's top activations is not enough to claim it is explained, and that only simulation scores showing no model degradation can establish that. (153 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh"&gt;I guest host the NYT podcast and interview Dwarkesh&lt;/a&gt; — In an excerpt, Dwarkesh Patel says AI lab insiders claim worrying evidence they can't share, and warns that labs may stop releasing their best models externally as AI research is automated.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=on-bergmans-persona"&gt;On Bergman's &lt;em&gt;Persona&lt;/em&gt;&lt;/a&gt; — Tyler Cowen praises Bergman's 1965 film as inexhaustible, citing its opening montage and the intertwining of the mute actress Elisabeth and her talkative nurse Alma.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=india-has-more-restrictive-labor-law-than-germany"&gt;India has more Restrictive Labor Law than Germany&lt;/a&gt; — Alex Tabarrok highlights research showing India's double overtime pay and weekly hour caps make a hypothetical iPhone factory there 23% slower and at least 18% costlier in labor hours than peers like Germany.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-17.html"/>
-    <published>2026-10-17T07:00:00-05:00</published>
   </entry>
 </feed>
