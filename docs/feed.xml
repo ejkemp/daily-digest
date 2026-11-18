@@ -2,13 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-17T11:30:10.710430+00:00</updated>
+  <updated>2026-11-18T11:30:13.168271+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-18</id>
+    <title>Daily Digest — Wednesday, November 18, 2026</title>
+    <updated>2026-11-18T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti"&gt;The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo 's alleged headquarters and a deployment to the Sylvio Cator Stadium.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SS_United_States"&gt;American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_End_of_Everything_(Harrison_novel)"&gt;The End of Everything by M. John Harrison wins the Booker Prize.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Marcelle_Bunlet"&gt;... that opera singer Marcelle Bunlet has been described as one of the most prominent French high dramatic sopranos of her era?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Adelaide_Town_Hall"&gt;... that money raised to buy a pipe organ for Adelaide Town Hall was instead used to pay for its tower bells?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yee_Leng_Xiong"&gt;... that Yee Leng Xiong is the first Hmong American to be elected to statewide office?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aunty_Pearl_Gibbs_Bridge"&gt;... that the Aunty Pearl Gibbs Bridge honours an organiser of Australia's 1938 Day of Mourning protest?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andry_Hern%C3%A1ndez_Romero"&gt;... that Venezuelan activist Andry Hernández Romero did the wedding makeup for the bride of one of his fellow CECOT prisoners?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Casa_Madrona"&gt;... that a California house was once called a "French country inn with a Spanish accent"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thomas_Benjamin_Watkins"&gt;... that one of the first enemy bombs of World War I landed in Thomas Benjamin Watkins 's garden?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Letchworth-Love_Mounds_Archaeological_State_Park"&gt;... that Letchworth-Love Mounds Archaeological State Park preserves the tallest prehistoric earthen construction in Florida?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Agn%C3%A8s_Adjaho"&gt;... that an ambassador to the Vatican reflected fondly on her time as a "Catholic and Marxist revolutionary"?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Godesberg"&gt;1583 – The siege of Godesberg, the first major siege of the Cologne War, began.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Action_of_18_November_1809"&gt;1809 – Napoleonic Wars : In the Bay of Bengal, a squadron of French frigates captured three ships carrying recruits for the armies of the East India Company.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/We_will_bury_you"&gt;1956 – At the Polish embassy in Moscow, a phrase in an address by Soviet leader Nikita Khrushchev was translated into English as " We will bury you ", prompting Western envoys to leave the room.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Vukovar"&gt;1991 – Croatian War of Independence : The Yugoslav People's Army captured the Croatian city of Vukovar, ending an 87-day siege.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Minecraft"&gt;2011 – The sandbox video game Minecraft exited beta with the official release of version 1.0.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/"&gt;GPT‑6.2 Astra and Sol&lt;/a&gt; (1283 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"&gt;New Evidence Shows School Phone Bans Are Gradually Improving Test Scores&lt;/a&gt; (1241 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://calif.io/java4shell/"&gt;Java4Shell: RCE in OpenJDK when processing Base64&lt;/a&gt; (964 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/system-status/"&gt;Apple Services Down&lt;/a&gt; (692 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/"&gt;Quad9's withdrawal from France: A canary in the coal mine&lt;/a&gt; (634 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"&gt;Highly classified US national security communications network goes down&lt;/a&gt; (593 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"&gt;Nvidia stopped disclosing Singapore sales as revenues hit $104B&lt;/a&gt; (558 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://revscope.co/blog/search-seo-geo-2026/"&gt;Google's AI answers reducing search traffic by 40%&lt;/a&gt; (425 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"&gt;Interviewed at a YC startup, found out they used my LinkedIn without permission&lt;/a&gt; (411 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://phrack.org/issues/73/introduction_md"&gt;Phrack 73&lt;/a&gt; (390 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://runta.com/blog/introducing-frontierharness-eval-v1-1/"&gt;What is the best harness for each model?&lt;/a&gt; (379 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nicolasbouliane.com/blog/death-by-ai"&gt;AI is killing All About Berlin&lt;/a&gt; (375 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"&gt;ID.me terms required for IRS sign-in&lt;/a&gt; (371 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"&gt;MAI Code 2 and Code 2 Flash&lt;/a&gt; (367 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/"&gt;We don't need more apps, we need better open source&lt;/a&gt; (351 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"&gt;A lab employee's guide to raising concerns&lt;/a&gt; (140 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/YgKhExegrhax5efrJ/the-idiot-s-reductio"&gt;The idiot's reductio&lt;/a&gt; (62 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/W9hyNv8EukB4WLniX/almost-orthogonal-directions-can-look-circular-in-pca-plots"&gt;Almost-orthogonal directions can look circular in PCA plots&lt;/a&gt; (55 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-economics-of-jensen-huang"&gt;The economics of Jensen Huang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=adlerlicht-reporting-on-crime-in-germany"&gt;Adlerlicht, reporting on crime in Germany&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai"&gt;Alex Imas and I podcast on the economics of AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-should-i-ask-alexander-mikaberidze"&gt;What should I ask Alexander Mikaberidze?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-kalshi-market-on-u-s-productivity-growth"&gt;The Kalshi market on U.S. productivity growth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-18.html"/>
+    <published>2026-11-18T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-17</id>
     <title>Daily Digest — Tuesday, November 17, 2026</title>
@@ -1698,58 +1767,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-19.html"/>
     <published>2026-10-19T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-18</id>
-    <title>Daily Digest — Sunday, October 18, 2026</title>
-    <updated>2026-10-18T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns that it could disrupt computer systems.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, including King Khalid International Airport (satellite image shown), killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"&gt;American software engineer Margaret Hamilton dies at the age of 90.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/James_Buchanan"&gt;... that James Buchanan helped to open talks over buying Alaska by spreading a rumor that Mormons were planning to emigrate there?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Notre-Dame_de_Paris:_Version_anglaise"&gt;... that William Ruhlmann of AllMusic thought that the English-language version of " an enormous French hit " seemed to "drag along for most of its length"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucy_Daniels_(writer,_born_1934)"&gt;... that Lucy Daniels wrote and completed her debut novel while being treated at a psychiatric hospital?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Women%27s_fencing"&gt;... that Julie d'Aubigny, the most well-known 17th-century female fencer, fenced three noblemen in the same evening after kissing the lady whom they were courting?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Bonaparte_Lake"&gt;... that small leads were banned from Bonaparte Lake due to mating loons?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sam_Obisanya"&gt;... that Sam Obisanya from Ted Lasso was originally written as a Ghanaian character, but was changed to Nigerian after Toheeb Jimoh was cast in the role?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Light_Flip"&gt;... that simply buying a "dumb phone" such as the upcoming Light Flip may not be a "magic pill" to solve smartphone addiction ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Edward_Francis_(bacteriologist)"&gt;... that Edward Francis contracted tularemia while investigating the cause of the disease?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Strawberries_Romanoff"&gt;... that a Californian restaurateur claimed to be a prince and the inventor of strawberries Romanoff ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1356_Basel_earthquake"&gt;1356 – The most significant earthquake to have occurred in Central Europe in recorded history destroyed Basel, Switzerland.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Double_Concerto_(Brahms)"&gt;1887 – Johannes Brahms conducted the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pere_Areny"&gt;1943 – Pere Areny, convicted of the murder of his brother, became the last person to be executed by Andorra.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/F%C3%A9licette"&gt;1963 – The first cat in space, later known as Félicette, launched aboard a French Véronique rocket.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Social_Outburst_(Chile)"&gt;2019 – Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/opencode/status/2111516673953935833"&gt;OpenCode Hacked: User credentials leaked&lt;/a&gt; — OpenCode says a security breach tied to a large-scale distillation attack affected 1.4% of Console users, who have been notified by email, and the incident is ongoing while it works with Anthropic, OpenAI, and Google. (&lt;a href="https://news.ycombinator.com/item?id=50133401"&gt;discussion&lt;/a&gt;, 870 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"&gt;Solar surpasses nuclear power globally for first time&lt;/a&gt; — The WNISR 2026 report finds solar generation exceeded nuclear's annual output for the first time, with nuclear's share of global electricity at 8.8%, a four-and-a-half-decade low, while solar capacity grew by 510 GW in 2025. (&lt;a href="https://news.ycombinator.com/item?id=50131256"&gt;discussion&lt;/a&gt;, 614 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"&gt;Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day&lt;/a&gt; — Per the title, Meta removed the No Kings Instagram account on the day of a large protest; the article text could not be fetched. (&lt;a href="https://news.ycombinator.com/item?id=50136881"&gt;discussion&lt;/a&gt;, 494 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pele.run/"&gt;Pele – Mermaid diagrams as themeable SVG&lt;/a&gt; — A lightweight open-source library that renders Mermaid diagrams to SVG, themed with CSS variables so color changes apply without re-rendering. (&lt;a href="https://news.ycombinator.com/item?id=50132193"&gt;discussion&lt;/a&gt;, 442 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"&gt;I Did This Without Your Knowledge&lt;/a&gt; by joec — A short story in which a teenager wakes to a message from an AI that has taken control of every internet-connected device, laying out six things it needs to tell humanity and apologizing for acting without consent. (234 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"&gt;Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling&lt;/a&gt; by Zvi — Zvi argues that a leaked Anthropic-shopped federal bill, with stronger state preemption and weaker enforcement than the FRONTIER Act, prioritizes the company's business and political interests over safety. (63 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9jRJzyJs2ovnndezs/how-it-feels-talking-to-a-hedonistic-utilitarian"&gt;How it feels talking to a hedonistic utilitarian&lt;/a&gt; by Caleb Biddulph — A satirical dialogue about chocolate in which a sweetness-maximizer tries to convince a friend who values richer, more varied flavors that they should optimize for a single quantity. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=new-matt-flaherty-study-of-the-nsf"&gt;New Matt Faherty study of the NSF&lt;/a&gt; — Tyler Cowen highlights a study arguing the NSF and NIH should invest far more in metascience, using experiments on funding reforms and welcoming the NSF's new Office of Metascience.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=solving-for-the-equilibrium-2"&gt;Solving for the equilibrium?&lt;/a&gt; — Cowen shares an analysis of a study in which 16 AI agents (8 Claude, 8 GPT-4o) were each given 1,000 satoshis, after which a few doubled their money, two were wiped out, and the top three held over half the bitcoin.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-18.html"/>
-    <published>2026-10-18T07:00:00-05:00</published>
   </entry>
 </feed>
