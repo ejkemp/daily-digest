@@ -2,13 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-18T11:30:13.168271+00:00</updated>
+  <updated>2026-11-19T11:30:10.591731+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-19</id>
+    <title>Daily Digest — Thursday, November 19, 2026</title>
+    <updated>2026-11-19T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/113th_Grey_Cup"&gt;In Canadian football, the Edmonton Elks defeat the Montreal Alouettes to win the Grey Cup.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti"&gt;The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo 's alleged headquarters and a deployment to the Sylvio Cator Stadium.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SS_United_States"&gt;American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/%22W%22_Road"&gt;... that General Ulysses Grant 's horse slipped and fell while descending the treacherous "W" Road in 1863?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Peter_(bishop_of_Bethlehem)"&gt;... that Bishop Peter of Bethlehem stayed in Constantinople to secure the spoils of war for his church, only to be killed in battle by the Bulgarian army?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Riding_the_Bus_with_My_Sister_(book)"&gt;... that a 2002 book by Rachel Simon documents her year of riding buses in a Pennsylvania city with her stubborn mentally handicapped sister?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Khirbet_Beit_Sila"&gt;... that a reliquary found in a 6th-century Byzantine church at Khirbet Beit Sila was still fastened with clasps and contained a single brown strand of hair, possibly a relic of Saint Theodore ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Harriette_Ashbrook"&gt;... that mystery writer Harriette Ashbrook, while working as a publicist in 1928, received a written reply from Mahatma Gandhi after sending him a book about India?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gumland"&gt;... that gumlands, a wetland vegetation zone in New Zealand, harbour more than 160 species of butterflies and moths, including undescribed species found nowhere else?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Blade_(Honkai)"&gt;... that Honkai fans believed that the character Blade was in a gay romantic relationship?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hammerhead_(mine)"&gt;... that the US Navy is developing the Hammerhead, a mine to launch torpedoes from the sea floor?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yamaji_Aizan"&gt;... that Yamaji Aizan dropped out of his school to teach there?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Knoxville"&gt;1863 – American Civil War : Confederate forces began the Siege of Knoxville against Union fortifications.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sinking_of_HMAS_Sydney"&gt;1941 – World War II : The Australian light cruiser HMAS Sydney and the German auxiliary cruiser Kormoran destroyed each other in the Indian Ocean.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pel%C3%A9"&gt;1969 – Playing for Santos against Vasco da Gama in the Maracanã Stadium in Rio de Janeiro, Brazilian footballer Pelé scored his 1,000th goal.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Romance_(Luis_Miguel_album)"&gt;1991 – Mexican singer Luis Miguel released the album Romance, which led to a revival of interest in bolero music.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"&gt;Unauthenticated remote code execution in Nginx&lt;/a&gt; (1407 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"&gt;Gemini 4 Neon&lt;/a&gt; (858 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.inside-db.com/"&gt;Inside Deutsche Bank&lt;/a&gt; (708 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"&gt;DNS resolvers are the wrong place to fight piracy&lt;/a&gt; (665 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"&gt;We need smart people who give a shit&lt;/a&gt; (642 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://microsoft.ai/news/microsoft-ignite-2026/"&gt;Seven new models at scalable price-performance&lt;/a&gt; (546 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"&gt;AI agents ask better questions than KPMG accountants in audit trial&lt;/a&gt; (466 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html"&gt;Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine&lt;/a&gt; (367 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Zbqb3DLYwGTHFcWwH/i-am-not-making-time-to-grieve"&gt;I am not making time to grieve&lt;/a&gt; (198 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"&gt;Pacing AI via Compute Reallocation&lt;/a&gt; (93 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"&gt;Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)&lt;/a&gt; (56 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=me-on-the-cyberattacks"&gt;Me on the cyberattacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=was-achilles-conscious"&gt;Was Achilles Conscious?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-economics-of-investment-expensing"&gt;The economics of investment expensing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=uk-productivity-update"&gt;UK productivity update&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-19.html"/>
+    <published>2026-11-19T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-18</id>
     <title>Daily Digest — Wednesday, November 18, 2026</title>
@@ -1713,59 +1773,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-20.html"/>
     <published>2026-10-20T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-19</id>
-    <title>Daily Digest — Monday, October 19, 2026</title>
-    <updated>2026-10-19T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns about disruptions to computer systems.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Navi_Pillay"&gt;South African jurist Navi Pillay is awarded the Nobel Peace Prize.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anne_Carson"&gt;Canadian poet Anne Carson is awarded the Nobel Prize in Literature.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/William_Henry_Haines"&gt;... that paintings of Venice by William Henry Haines were passed off as the work of old Italian masters like Canaletto ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Bonaparte"&gt;... that the 7,257-foot (2,212 m) Mount Bonaparte had a cistern hand-carved into its granite summit in 1929?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Chao_Xu_(rapist)"&gt;... that a Metropolitan Police detective called Chao Xu "one of the most prolific sexual predators" whom they had investigated?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Rome_(537%E2%80%93538)"&gt;... that, during the siege of Rome, the Goths told the citizens of Rome that its Byzantine defenders had previously visited Italy only as actors and thieving sailors?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Octavian_Cotescu"&gt;... that actor Octavian Cotescu was serving in the Romanian communist legislature when he appeared in a production of Master and Margarita, alongside his topless wife?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Favre-Leuba"&gt;... that the first woman to climb Mount Everest wore a Favre-Leuba watch while doing so?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mykhailo_Volynets"&gt;... that Ukrainian trade unionist Mykhailo Volynets was inspired to organise miners after supporting the 1984–1985 United Kingdom miners' strike ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stenaelurillus_darwini"&gt;... that unlike most female spiders in their genus, Stenaelurillus darwini have domed "flaps" covering the opening to their reproductive organs?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Andreas_von_Velven"&gt;... that Mindaugas bribed Andreas von Velven with gifts and agreed to be baptized to stop the Livonian Order's invasion of Lithuania?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Cedar_Creek"&gt;1864 – American Civil War : Despite incurring nearly twice as many casualties as the Confederates, the Union army emerged victorious at the Battle of Cedar Creek.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/MS_Sinfra"&gt;1943 – World War II : Allied aircraft sank the German cargo ship Sinfra, killing mostly Italian POWs.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/History_of_the_Eurovision_Song_Contest"&gt;1955 – At a meeting of its general assembly, the European Broadcasting Union approved the staging of the first Eurovision Song Contest.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Siege_of_Plei_Me"&gt;1965 – Vietnam War : The Siege of Plei Me began with the first major confrontation between soldiers of the North Vietnamese Army and the U.S. Army.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hurricane_Wilma"&gt;2005 – Hurricane Wilma became the most intense Atlantic hurricane on record with a minimum atmospheric pressure of 882 mbar (26.05 inHg ).&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"&gt;Namecheap just seized and disabled all my domains&lt;/a&gt; — A Reddit sysadmin post reporting that Namecheap seized and disabled all of the author's domains (article text couldn't be fetched, so details are from the title only). (&lt;a href="https://news.ycombinator.com/item?id=50142866"&gt;discussion&lt;/a&gt;, 579 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://karrisaarinen.com/posts/someone-behind-the-software/"&gt;Someone behind the software&lt;/a&gt; — Linear's Karri Saarinen argues that good products carry their makers' perspective and intuition, and that agent-driven, additive development risks products becoming a "Frankenstein's monster" without a unified point of view. (&lt;a href="https://news.ycombinator.com/item?id=50142573"&gt;discussion&lt;/a&gt;, 448 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://arxiv.org/abs/2610.18861"&gt;Hybrid Reasoning Agents: LLM agents that think in latent space, act through text&lt;/a&gt; — HybridAgents switch between latent reasoning and text-based tool interaction, reporting a 10.4% performance gain with 35.5%–54.7% fewer tokens and 1.8x–2.6x faster inference across 11 benchmarks. (&lt;a href="https://news.ycombinator.com/item?id=50145337"&gt;discussion&lt;/a&gt;, 401 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/VikOlliver/RepRapMicron/wiki"&gt;RepRapMicron&lt;/a&gt; — An open project building a 3D-printed, micron-scale fabrication and manipulation system, with current hardware achieving ~1μm repeatable positioning and resin droplets as small as 4μm. (&lt;a href="https://news.ycombinator.com/item?id=50141076"&gt;discussion&lt;/a&gt;, 396 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"&gt;The Alignment Problem: Computer Science Meets Analytic Philosophy&lt;/a&gt; by Vanessa Kosoy — Lays out her view of the technical alignment problem, arguing that safe AI must at minimum be able to build a global defense against dangerous AI, which demands superhuman multi-domain, long-term planning and favors deep theory over incremental trial and error. (89 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments"&gt;Quick Thoughts on Overhang Arguments&lt;/a&gt; by Aaron_Scher — Asks whether overhang arguments (e.g., pushing algorithmic progress now to avoid a compute overhang) have worked in other fields, and finds examples like controlled burns, Deep Crack, and geoengineering all have key disanalogies to AI. (64 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-archaeology-tranche-of-emergent-ventures"&gt;The archaeology tranche of Emergent Ventures&lt;/a&gt; — Announces new archaeology grantees (Björn Öste's Arkhub for Amazon sites and J. Cameron Monroe's Allada project in Benin) alongside previously reported grantees, with funds still remaining.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637"&gt;Our fascination with screens, demand curves slope downward installment #1637&lt;/a&gt; — Cites an FT analysis finding the quality-adjusted screen time price index is down 39% since 2000, mostly from quality gains, while real per-person spending on digital technology rose 52%.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=this-beautiful-country"&gt;&lt;em&gt;This Beautiful Country&lt;/em&gt;&lt;/a&gt; — Recommends Edward Cutler's book on how Italy's natural environment shaped its culture and civilisation, praising its specificity.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=you-can-see-everything-no-spoilers"&gt;&lt;em&gt;You Can See Everything&lt;/em&gt; (no spoilers)&lt;/a&gt; — Praises the film as excellent and original, reading it as a story of two autistic people's bond and difficulty understanding each other, with nods to Hitchcock's &lt;em&gt;Vertigo&lt;/em&gt; and Kiarostami's films.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-19.html"/>
-    <published>2026-10-19T07:00:00-05:00</published>
   </entry>
 </feed>
