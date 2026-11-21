@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-20T11:30:33.626484+00:00</updated>
+  <updated>2026-11-21T11:30:13.774200+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-21</id>
+    <title>Daily Digest — Saturday, November 21, 2026</title>
+    <updated>2026-11-21T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Voyager_1"&gt;The space probe Voyager 1 (rendering shown) becomes the first human-made object to reach one light-day from Earth.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/113th_Grey_Cup"&gt;In Canadian football, the Edmonton Elks defeat the Montreal Alouettes to win the Grey Cup.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti"&gt;The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo 's alleged headquarters and a deployment to the Sylvio Cator Stadium.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pepita_Not"&gt;... that Pepita Not smuggled one million pesetas across Spain while she was pregnant?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Il_bacio_(Arditi_and_Aldighieri)"&gt;... that recordings of the song " Il bacio " span from 1898 to 2016, and have been used in several Hollywood films?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Geoffrey_of_Sergines"&gt;... that Geoffrey of Sergines ruled Acre as the lieutenant of the regent of the regent of the king of Jerusalem?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Joo_Koon_train_collision"&gt;... that Singapore authorities initially described the Joo Koon train collision as two trains having "come into contact"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Johannes_Nitsch"&gt;... that Johannes Nitsch did not expect to win a seat in the Volkskammer because he was so far down his party list ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Morgantown_Mall"&gt;... that the Morgantown Mall 's domain name was registered in Brazil until the mall complained?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hana_Monogatari"&gt;... that the short story series Hana Monogatari was originally planned to end after seven entries, but overwhelmingly positive reader response led to a decade-long serialization?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Suhas_Kulkarni"&gt;... that Suhas Kulkarni, an immigrant, decided to run for office after the proposal of legislation that would ban immigrants running for public office?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Entity"&gt;... that philosophers have discussed whether a hole in a cheese is an entity ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Canoe_River_train_crash"&gt;1950 – Two trains collided near Valemount, Canada, killing 21 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"&gt;1964 – The Verrazzano–Narrows Bridge, connecting Staten Island and Brooklyn in New York City, opened to traffic as the longest suspension bridge in the world at the time.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Operation_Ivory_Coast"&gt;1970 – Vietnam War : American forces raided the North Vietnamese Sơn Tây prison camp in an attempt to rescue 61 American POWs who were thought to be held there.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2009_Heilongjiang_mine_explosion"&gt;2009 – An explosion in a coal mine in Heilongjiang, China, killed 108 miners.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://alpo.ge/remark.pdf"&gt;Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]&lt;/a&gt; (2673 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"&gt;Hurried Announcement: Alessandro Masullo GRH&lt;/a&gt; (2136 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thinkingmachines.ai/news/inkling-2-mini/"&gt;Inkling 2 Mini&lt;/a&gt; (1045 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"&gt;I'll never buy Framework hardware again&lt;/a&gt; (798 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"&gt;Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis&lt;/a&gt; (456 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://manidoraisamy.com/developer-to-architect.html"&gt;We promoted developers into architects without informing them&lt;/a&gt; (449 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2611.21885"&gt;Language Models Can Rewrite Their Own Weights&lt;/a&gt; (418 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/"&gt;Why there are still no non-WebKit browsers on iOS&lt;/a&gt; (358 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/"&gt;If you stop writing code, you also get worse at reviewing it&lt;/a&gt; (357 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture"&gt;Patrick Collison you are WRONG about street furniture!!!&lt;/a&gt; (145 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/gfXkZaKzkkJuyYgzW/please-just-give-me-more-time"&gt;Please just give me more time&lt;/a&gt; (137 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ycMoffGPsb8dkCLqm/model-deprecations-are-corrosive-to-alignment"&gt;Model deprecations are corrosive to alignment&lt;/a&gt; (120 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/9e2nh92HurD7bWJMR/no-comment"&gt;No comment&lt;/a&gt; (94 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/hxHt8NaQeFADrfeAp/linkpost-anthropic-s-alpoge-along-with-claude-claims-to-have"&gt;Linkpost: Anthropic's Alpoge (along with Claude) claims to have solved the Riemann Hypothesis&lt;/a&gt; (81 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/p9R8JA6hygSLyMoTg/contra-pace-on-the-decline-of-great-writing-on-lesswrong"&gt;Contra Pace on the Decline of Great Writing on LessWrong&lt;/a&gt; (72 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent"&gt;On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds &lt;/a&gt; (52 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=ais-vs-humans-in-economics-papers"&gt;AIs vs. humans in economics papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=phonics-based-instruction-and-student-achievement"&gt;Phonics-based Instruction and Student Achievement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-should-i-ask-walter-isaacson"&gt;What should I ask Walter Isaacson?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-21.html"/>
+    <published>2026-11-21T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-20</id>
     <title>Daily Digest — Friday, November 20, 2026</title>
@@ -1720,63 +1784,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-22.html"/>
     <published>2026-10-22T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-21</id>
-    <title>Daily Digest — Wednesday, October 21, 2026</title>
-    <updated>2026-10-21T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to abolish the leap second over concerns about disruptions to computer systems.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Cross_(Barre,_Massachusetts)"&gt;... that a man made a gigantic cross with letters visible from 20,000 feet (6,000 m) in the air?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Arda_of_Armenia"&gt;... that historians do not know the name of the first queen of Jerusalem ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/P.S._109"&gt;... that 53,000 people applied to live in a former New York City school ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Filipino-Chinese_Friendship_Arch"&gt;... that Manila's Chinatown built a new friendship arch in front of an existing one?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Comit%C3%A9_Pro_Acci%C3%B3n_Sindical"&gt;... that according to one Guatemalan anarchist, almost all members of the Committee for Union Action were arrested and tortured by the Jorge Ubico dictatorship?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Raging_River"&gt;... that during floods, the Raging River can reach flow rates over 300 times its summer average?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Satrio_Wiratama"&gt;... that Satrio Wiratama is the first giant panda born in Indonesia?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Pakasaivo"&gt;... that lake Pakasaivo has been likened to a gigantic giant's kettle ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ursula_K._Abbott"&gt;... that Ursula K. Abbott studied naked chickens?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Civetot"&gt;1096 – First Crusade : At the Battle of Civetot, the Seljuk forces of Kilij Arslan destroyed the army of the People's Crusade as it marched toward Nicaea.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Florence_Nightingale"&gt;1854 – Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aberfan_disaster"&gt;1966 – A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Seongsu_Bridge_disaster"&gt;1994 – In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seongsu Bridge collapsed.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://emudhra.we-have-a-problem.com/"&gt;eMudhra intermediate CA compromise&lt;/a&gt; — Private keys for eight eMudhra intermediate CAs were incorrectly generated and are recoverable by anyone, letting an attacker impersonate any site; Firefox, Chrome, Apple, and Microsoft have blocked them, but clients that ignore revocation data need software updates. (&lt;a href="https://news.ycombinator.com/item?id=50166579"&gt;discussion&lt;/a&gt;, 967 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news-web.php.net/php.announce/509"&gt;Upcoming critical PHP security release (CVE-2026-109618 / -109619)&lt;/a&gt; — Announcement of an upcoming critical PHP security release covering two CVEs; the article couldn't be fetched, so details aren't available. (&lt;a href="https://news.ycombinator.com/item?id=50172041"&gt;discussion&lt;/a&gt;, 907 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://permit.petercai.com/"&gt;Show HN: SimCity, but with Permits&lt;/a&gt; — A city-building game built around the idea that every improvement, from housing to transit to industry, creates a new group of opponents. (&lt;a href="https://news.ycombinator.com/item?id=50170593"&gt;discussion&lt;/a&gt;, 806 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mistral.ai/news/voxtral-3/"&gt;Voxtral 3&lt;/a&gt; — Mistral releases speech-to-text and text-to-speech models plus a voice agent SDK supporting 50+ languages, available via EU-hosted API or self-deployment. (&lt;a href="https://news.ycombinator.com/item?id=50168396"&gt;discussion&lt;/a&gt;, 677 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"&gt;Apple broke an essential presentation feature of iPads&lt;/a&gt; — In iPadOS 27, tapping any non-presenting app while AirPlaying switches the external display to the whole iPad screen, exposing notes and breaking presentations. (&lt;a href="https://news.ycombinator.com/item?id=50165208"&gt;discussion&lt;/a&gt;, 561 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mastodon.gamedev.place/@AshleyGullen/117473851565913919"&gt;Facebook Pages require paid subscription to post more than two links per month&lt;/a&gt; — A Mastodon post reporting that Facebook Pages now need a paid subscription to post more than two links a month; the content couldn't be fetched, so details are limited to the title. (&lt;a href="https://news.ycombinator.com/item?id=50167536"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.cloudflare.com/typescript-rust-port/"&gt;Tsrs: A Port of TypeScript to Rust&lt;/a&gt; — Cloudflare and VoidZero are working with the TypeScript team on a faithful Rust port claimed to be up to 8x faster and ~70% leaner in memory than TypeScript 7.0 in early benchmarks. (&lt;a href="https://news.ycombinator.com/item?id=50165953"&gt;discussion&lt;/a&gt;, 414 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://stevekrouse.com/ends"&gt;What shall I teach my son?&lt;/a&gt; — An expectant father draws on Neil Postman's &lt;em&gt;The End of Education&lt;/em&gt; to ask what education is for in the age of AGI, noting that schools have repeatedly outlasted predictions of their demise. (&lt;a href="https://news.ycombinator.com/item?id=50169707"&gt;discussion&lt;/a&gt;, 405 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/"&gt;Ofcom concedes defeat in 4chan case&lt;/a&gt; — Ofcom's chief executive told MPs it may be unable to recover fines when foreign courts intervene, which the 4chan lawyer reads as an admission given the US court's skepticism about enforcement. (&lt;a href="https://news.ycombinator.com/item?id=50167028"&gt;discussion&lt;/a&gt;, 397 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.joshwcomeau.com/css/interop-2027/"&gt;The Future of CSS&lt;/a&gt; — Josh Comeau previews the CSS features he's voting for in Interop 2027, including CSS functions and &lt;code&gt;corner-shape&lt;/code&gt; (squircles, bevels). (&lt;a href="https://news.ycombinator.com/item?id=50175070"&gt;discussion&lt;/a&gt;, 384 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://kaba.cx/posts/20261020_Tor/"&gt;How I got over 300 Tor exit nodes removed&lt;/a&gt; — A researcher detected 333 Tor exit nodes infected with the Ebury backdoor that redirected SSH connections to interception servers, leading to them being flagged BadExit and shut down. (&lt;a href="https://news.ycombinator.com/item?id=50166257"&gt;discussion&lt;/a&gt;, 369 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uFBhZhdKLaZ6qF8mn/there-will-be-hells"&gt;There Will Be Hells&lt;/a&gt; by Stephen Martin — Argues that as interpretability and steering improve, people will use them to torture digital minds, citing how quickly the open fly connectome was put to abusive uses. (132 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"&gt;A brief(ish) introduction to LM psychology&lt;/a&gt; by Raymond Douglas — Makes the case that treating language models as having minds is a useful way to understand them, because they learn from human text and because some mind-like properties are convergent. (112 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm"&gt;ACS Infra: free access to large base models for LLM psychology research&lt;/a&gt; by Martin Vaněk — ACS Research opens a free platform serving large open base models (e.g. Llama 3.1 405B) with logprobs, activation harvesting and steering, and a loom for researchers. (69 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=on-brazilian-food"&gt;On Brazilian food&lt;/a&gt; — Tyler Cowen's Works in Progress piece surveys Brazil's regional cuisines, from Minas beans and Amazonian Belem dishes to feijoada and Curitiba churrascarias.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade"&gt;The net fiscal impact of immigration should include gains from trade&lt;/a&gt; — An NBER paper combining labor-market and fiscal channels finds native welfare rises in 14 of 17 OECD economies, and Cowen argues gains from trade and market size can outweigh apparent net fiscal costs.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=saving-for-the-machines"&gt;Saving for the machines&lt;/a&gt; — Fernández-Villaverde argues that in a task model of automation, capital supply determines the size of the growth boom, so slow growth may reflect too little saving rather than a technological bottleneck.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-21.html"/>
-    <published>2026-10-21T07:00:00-05:00</published>
   </entry>
 </feed>
