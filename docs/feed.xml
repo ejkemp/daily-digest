@@ -2,13 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-22T11:30:05.504848+00:00</updated>
+  <updated>2026-11-23T11:30:10.357651+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-23</id>
+    <title>Daily Digest — Monday, November 23, 2026</title>
+    <updated>2026-11-23T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"&gt;The video game Grand Theft Auto VI achieves US$3.79 billion in sales on its launch day, more than any other entertainment product in history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Voyager_1"&gt;The space probe Voyager 1 (rendering shown) becomes the first human-made object to reach one light-day from Earth.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/113th_Grey_Cup"&gt;In Canadian football, the Edmonton Elks defeat the Montreal Alouettes to win the Grey Cup.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Paramoeba_perurans"&gt;... that the single-celled salmon parasite Paramoeba perurans contains another single-celled eukaryote living inside it ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/DJ_Lottie"&gt;... that DJ Lottie was formerly known as DJ Horny?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/A_Housekeeper%27s_Diary"&gt;... that Prince Charles was awarded the profits of A Housekeeper's Diary, but was unable to claim them?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Stone_Group"&gt;... that the Stone Group at one point became China's largest private technology company by selling word processors?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Synarchy_of_Molten_Bones"&gt;... that a reviewer of The Synarchy of Molten Bones likened one of its passages to "someone playing a record backwards and forwards simultaneously"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Shirogane_Noel"&gt;... that Shirogane Noel once rapped with a prefectural governor?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1996_Michigan_Proposal_A"&gt;... that Republicans in the U.S. state of Michigan tried to ban political bingo?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ileana_Cotruba%C8%99"&gt;... that when Ileana Cotrubaș stepped in as Mimi at La Scala from England, she arrived 15 minutes before the opera began?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Snail_porridge"&gt;... that a chef in England has served porridge made with snails and fruit made with meat ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/William_M._Tweed"&gt;1876 – William "Boss" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and fled to Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jacques_Mayol"&gt;1976 – Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961"&gt;1996 – Ethiopian Airlines Flight 961 was hijacked, then ran out of fuel and crashed into the Indian Ocean, killing 125 of the 175 people on board.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh"&gt;2011 – Arab Spring : After months of protests in Yemen, President Ali Abdullah Saleh agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/"&gt;What Happened to Silicon Valley?&lt;/a&gt; (678 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/index/perplexity-and-intelligence/"&gt;Perplexity and Intelligence&lt;/a&gt; (601 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://spelunkr.tv"&gt;Free alternative TV network built from the Internet Archive's forgotten videos&lt;/a&gt; (566 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"&gt;A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth&lt;/a&gt; (547 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"&gt;The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife&lt;/a&gt; (517 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/AFK-surf/xnulinux"&gt;XNU Linux: Full OS X GUI Userspace on Linux&lt;/a&gt; (367 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=will-ai-growth-reach-the-developing-world"&gt;Will AI Growth Reach the Developing World?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=danish-daughters"&gt;Danish daughters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=increasing-pay-for-lower-wage-workers"&gt;Increasing pay for lower wage workers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-23.html"/>
+    <published>2026-11-23T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-22</id>
     <title>Daily Digest — Sunday, November 22, 2026</title>
@@ -1720,65 +1771,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-24.html"/>
     <published>2026-10-24T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-23</id>
-    <title>Daily Digest — Friday, October 23, 2026</title>
-    <updated>2026-10-23T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson as fuel and student protests escalate in France.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leap_second"&gt;The International Bureau of Weights and Measures votes to effectively abolish the leap second over concerns about disruptions to computer systems.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/October_2026_Houthi_attacks_on_Saudi_Arabian_airports"&gt;The Houthis launch a series of attacks on Saudi Arabian airports, killing at least 20 people and injuring more than 370 others.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rancho_San_Rafael_Regional_Park"&gt;... that there were two elephants at the grand opening of Rancho San Rafael Regional Park ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Nicolas_Gessner"&gt;... that Jodie Foster walked off the set when Swiss director Nicolas Gessner called for a nude scene?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/She_Knows_Too_Much"&gt;... that the music video for Thundercat and Mac Miller's " She Knows Too Much " consists of several animated mediums?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jeffrey_Gildenhorn"&gt;... that restaurateur Jeffrey Gildenhorn ran for mayor of Washington, D.C., on a platform of legalizing prostitution?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1985_Greek_constitutional_crisis"&gt;... that the 1985 Greek constitutional crisis "raised a potential danger to the balance of power in the Mediterranean"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lucio_Huaycho"&gt;... that teacher Lucio Huaycho was elected to the parliament of Bolivia partly thanks to the high social standing of educators in rural areas?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Everett_Transit"&gt;... that Everett Transit has a licensed Matchbox toy bus?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Muhammad_Tayrab"&gt;... that Darfurian sultan Muhammad Tayrab cut off the beard of a rebellious chief whom he had defeated, and displayed it as a trophy in his house?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/SMS_Taku"&gt;... that Taku, Taku, Taku, and Takou comprised the Taku -class destroyers ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Grathe_Heath"&gt;1157 – The Battle of Grathe Heath ended the Danish Civil War.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alberto_Santos-Dumont"&gt;1906 – Alberto Santos-Dumont flew his biplane 14-bis for 50 metres (160 ft) at an altitude of about four metres (13 ft).&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"&gt;1956 – The Hungarian Revolution began as a peaceful student demonstration that attracted thousands while marching through central Budapest to the parliament building.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2011_Malaysian_motorcycle_Grand_Prix"&gt;2011 – During the Malaysian motorcycle Grand Prix, Marco Simoncelli collided with two other riders, resulting in his death due to serious trauma to the head, neck, and chest.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://quad9.net/news/blog/au-revoir-france/"&gt;Quad9 to exit France&lt;/a&gt; — After a French court ordered it to block DNS resolution for domains named by beIN over sports-piracy claims, the Swiss nonprofit resolver says compliance is technically infeasible and will withdraw from France on November 24. (&lt;a href="https://news.ycombinator.com/item?id=50195959"&gt;discussion&lt;/a&gt;, 1222 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"&gt;eMudhra to exit global SSL/TLS certificate business&lt;/a&gt; — Following a recent incident in which affected CAs were revoked within 14 hours, the company is withdrawing from public TLS certificates (about 1% of revenue) while keeping its other trust services. (&lt;a href="https://news.ycombinator.com/item?id=50195110"&gt;discussion&lt;/a&gt;, 1065 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/"&gt;Woman charged with computer fraud due to scam CashApp account being in her name&lt;/a&gt; — A Pennsylvania woman was arrested over a CashApp account a scammer opened with her identity details, and she says CashApp won't give her account information because she can't prove ownership. (&lt;a href="https://news.ycombinator.com/item?id=50194833"&gt;discussion&lt;/a&gt;, 637 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"&gt;Docker is weird&lt;/a&gt; — Lessons from building a toy container runtime: containers are ordinary processes combining several kernel features, and Go's threading model forces runc into awkward workarounds. (&lt;a href="https://news.ycombinator.com/item?id=50202681"&gt;discussion&lt;/a&gt;, 506 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/oosexgang/hackios-xnu-kernel"&gt;Run full iOS 16.5 firmware on Android Devices&lt;/a&gt; — A research project that boots Apple's open-source XNU kernel and the unmodified iOS 16.5 userland on a POCO X5 Pro or in QEMU, with Apple's files fetched from Apple's CDN rather than shipped. (&lt;a href="https://news.ycombinator.com/item?id=50196718"&gt;discussion&lt;/a&gt;, 443 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"&gt;Every AI model has the same "controversial" take on humans&lt;/a&gt; — Twelve text models asked for their most controversial view on humans mostly said people conform to their group and then invent reasons, while image models mostly drew phone-addicted consumers. (&lt;a href="https://news.ycombinator.com/item?id=50197313"&gt;discussion&lt;/a&gt;, 431 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations"&gt;Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions&lt;/a&gt; — A Vanity Fair excerpt claims Dutch intelligence, after turning a GRU hacker, found screenshots of Kushner's iPhone and saw him accessing a UAE bank account that had received hundreds of millions of dollars from Azerbaijan. (&lt;a href="https://news.ycombinator.com/item?id=50201259"&gt;discussion&lt;/a&gt;, 428 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://edjefferson.com/localwiki/"&gt;Local Wikipedia: Wikipedia, but only for things a half hour walk from you&lt;/a&gt; — A project that shows Wikipedia content limited to places within a half-hour walk of you; the article text wasn't available, so this is described from the title only. (&lt;a href="https://news.ycombinator.com/item?id=50202285"&gt;discussion&lt;/a&gt;, 419 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/NVIDIA/OpenShell"&gt;OpenShell – A safe, private runtime for fleets of autonomous AI agents&lt;/a&gt; — NVIDIA's runtime sandboxes agents with kernel-level policy enforcement, injects credentials only for approved endpoints, and uses formal verification to flag risky policy changes for human review. (&lt;a href="https://news.ycombinator.com/item?id=50198675"&gt;discussion&lt;/a&gt;, 402 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pwn.watch/"&gt;What's getting pwned right now&lt;/a&gt; — A tracker of recent vulnerabilities and patch status, currently highlighting leaked unpatched Linux kernel reports (including ksmbd RCEs) and a Fearless Wallet extension that leaked private keys. (&lt;a href="https://news.ycombinator.com/item?id=50195543"&gt;discussion&lt;/a&gt;, 367 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/research/formal-verification"&gt;LLMs are making formal software verification feasible at a much larger scale&lt;/a&gt; — Anthropic and Theorem report using Claude to prove assembly-level (RISC-V) safety properties across 123 open-source libraries, uncovering long-hidden bugs along the way. (&lt;a href="https://news.ycombinator.com/item?id=50202217"&gt;discussion&lt;/a&gt;, 350 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/pY76hHbdD4jduX3YH/wah-wah-wah-wah-do-more-ai-r-and-d"&gt;Wah wah wah wah do more AI R&amp;amp;D&lt;/a&gt; by TsviBT — Using a child tuning out a parent's explanation to hear only "no ice cream," the author argues that the many clever justifications for advancing AI capabilities in the name of safety all boil down to "do more AI R&amp;amp;D." (125 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/WRvxRHMCmc3Qt4axz/greater-good-arguments-in-ai-safety"&gt;Greater good arguments in AI safety&lt;/a&gt; by Dean Valentine — Compares the old leftist critique that charity props up capitalism to recent arguments that prosaic AI safety work is net-negative because it eases pressure for a pause, and treats both as fraught second-order reasoning. (108 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xGucXHQ3NLkHZL3Cg/the-alignment-journal-our-approach-and-related-projects"&gt;The Alignment Journal: Our Approach and Related Projects&lt;/a&gt; by Dan MacKinlay — The journal, now open for submissions, lays out its theory of change, the incentive economics of publishing, and lessons from prior efforts like TMLR, The Unjournal, and Distill. (66 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects"&gt;Do mass shootings in universities lead to permanent effects?&lt;/a&gt; — A job-market paper finds no effect on time to degree but a 4.2% drop in further study among exposed undergraduates and a shift toward health degrees that persists in later cohorts.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai"&gt;A simple point about the intertemporal regulation of AI&lt;/a&gt; — Cowen argues that because regulated sectors tend to end up overregulated, AI may be best left underregulated for now.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=modern-principles-of-economics-3"&gt;Modern Principles of Economics!&lt;/a&gt; — Tabarrok promotes the Modern Principles textbook and its supporting materials to instructors.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026"&gt;How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026&lt;/a&gt; — Clark and Cummins use random family-size shocks to show wealth shocks vanish within three generations, implying lasting wealth stems from inherited behaviors rather than transfers.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-23.html"/>
-    <published>2026-10-23T07:00:00-05:00</published>
   </entry>
 </feed>
