@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-23T11:30:10.357651+00:00</updated>
+  <updated>2026-11-24T11:30:19.697954+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-24</id>
+    <title>Daily Digest — Tuesday, November 24, 2026</title>
+    <updated>2026-11-24T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/BepiColombo"&gt;The joint ESA – JAXA mission BepiColombo enters orbit around Mercury.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ukhnaagiin_Kh%C3%BCrels%C3%BCkh"&gt;Mongolian president Ukhnaagiin Khürelsükh announces his resignation in response to corruption allegations.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rohingya_genocide_case"&gt;The International Court of Justice rules that Myanmar has committed genocide against the Rohingya people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"&gt;The video game Grand Theft Auto VI achieves US$3.79 billion in sales on its launch day, more than any other entertainment product in history.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/First_Christian_Church_(Walker_Avenue,_Oklahoma_City)"&gt;... that during the construction of Oklahoma City's "egg church", its pastor said that "many visitors come to scoff but remain to praise"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mari_texts"&gt;... that an estimated 20,000 tablets and fragments were unearthed at Mari between 1934 and 1937?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hurricane_Rachel_(2026)"&gt;... that Hurricane Rachel forced the cancellation of the annual Moab 240 and left 70 runners and volunteers stranded?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Xamuel"&gt;... that Brazilian rapper Xamuel 's first album was inspired by the idea of a court jester?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lee_Han-gyul"&gt;... that K-pop singer Lee Han-gyul was abandoned as a baby, but stated his birth parents "must have had a reason"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/El_Da%C3%B1a"&gt;... that in 2025, El Daña was named as the world's oldest drag king by the Guinness Book of Records?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2023_Shanghai_Masters"&gt;... that the 2023 Shanghai Masters was the first snooker tournament held in mainland China for four years because of the COVID-19 pandemic?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Magnolia_Petroleum_Building_(Oklahoma_City)"&gt;... that in Oklahoma City, an office building was built with a service station underneath ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Samara_(house)"&gt;... that the owner of an Indiana house was so proud of the design that he wore neckties with patterns inspired by its architect?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Indus"&gt;1221 – Mongol invasion of the Khwarazmian Empire : Genghis Khan defeated Khwarazmian prince Jalal al-Din in the Battle of the Indus.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Lookout_Mountain"&gt;1863 – American Civil War : Union forces captured Lookout Mountain, helping them break the Confederate siege of Chattanooga, Tennessee.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Theresienstadt_Ghetto"&gt;1941 – The Holocaust : The Theresienstadt Ghetto (depicted) was founded as a waystation to Nazi extermination camps and a "retirement settlement" for elderly and prominent Jews to mislead their communities about the Final Solution.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1976_%C3%87ald%C4%B1ran%E2%80%93Muradiye_earthquake"&gt;1976 – A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"&gt;Nvidia Reinstates Jensen Huang as CEO&lt;/a&gt; (2616 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ladybird.org/posts/alpha/"&gt;Ladybird is now in alpha&lt;/a&gt; (2045 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ylecun/status/2124550037912920090"&gt;"Dario is hyping the dangers so OSS models are illegal and he stays in control"&lt;/a&gt; (1730 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"&gt;Jensen Huang Reinstated as Nvidia CEO&lt;/a&gt; (1708 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arm.jonpalmisc.com/"&gt;Per Arm's request, this site will be discontinued on 4 December 2026 :(&lt;/a&gt; (1063 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/glushchenko/fsnotes/discussions/2056"&gt;Apple removed my open-source app from EU App Stores after 9 years&lt;/a&gt; (588 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stalw.art/blog/microsoft-exchange-replacement/"&gt;Stalwart is now a drop-in replacement for Microsoft Exchange&lt;/a&gt; (501 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.kagi.com/kagi-mail-public-beta"&gt;Kagi Mail (public beta)&lt;/a&gt; (436 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"&gt;New York Bans Subscription and Post-Purchase Fees on Cars&lt;/a&gt; (402 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo"&gt;Everyone in AI safety gets FOMO&lt;/a&gt; (107 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/nWRps3zxN7isngSsT/joseph-miller-actually-tried-is-that-enough"&gt;Joseph Miller Actually Tried. Is that enough?&lt;/a&gt; (93 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/MSk9tqAmrmeasFgAZ/human-military-relevance-is-more-important-than-economic"&gt;Human military relevance is more important than economic relevance&lt;/a&gt; (79 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/NyCFKxR74RgRbs7SM/thinking-is-hard-for-humans"&gt;Thinking is Hard (for Humans)&lt;/a&gt; (71 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/b5HyeFmb3mbuG3bbL/why-do-modern-people-ask-small-questions"&gt;Why do modern people ask small questions?&lt;/a&gt; (70 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/yCrcj28HdLt4yxT48/the-pythagorean-theorem-as-a-whole-with-its-own-character"&gt;The Pythagorean Theorem as a “whole,” with its own character&lt;/a&gt; (57 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=best-non-fiction-books-of-2026"&gt;Best non-fiction books of 2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=94257"&gt;The Tyranny of the Alphabet 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=still-unproven-can-britain-build-a-tunnel"&gt;Still Unproven: Can Britain Build a Tunnel?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-ai-gains-that-gdp-misses"&gt;The AI gains that gdp misses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-24.html"/>
+    <published>2026-11-24T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-23</id>
     <title>Daily Digest — Monday, November 23, 2026</title>
@@ -1718,58 +1782,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-25.html"/>
     <published>2026-10-25T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-24</id>
-    <title>Daily Digest — Saturday, October 24, 2026</title>
-    <updated>2026-10-24T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amiet_market_massacre"&gt;A drone attack on a market in the disputed Abyei region on the South Sudan–Sudan border kills at least 220 people.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_French_student_protests"&gt;The Hôtel de Ville in Limoges is partially destroyed by arson amid fuel and student protests in France.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yves_Netzhammer"&gt;... that Swiss artist Yves Netzhammer co-designed a postage stamp that looked and smelled like chocolate?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Jaffna_Kings_season"&gt;... that, hours before the opening match of the 2026 Jaffna Kings season, the franchise's co-owner was arrested in Colombo over match-fixing allegations?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Yukihana_Lamy"&gt;... that VTuber Yukihana Lamy personally brewed sake, winning three International Wine Challenge medals?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dolors_Prat"&gt;... that activists walk from Ripoll to Prats-de-Mollo-la-Preste annually to honour Dolors Prat ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ever_Again"&gt;... that Swedish singer-songwriter Robyn wrote " Ever Again " after reconciling with her partner, only for them to break up again shortly before her subsequent tour ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rock_climbing"&gt;... that the gender gap for the hardest difficulty grades in rock climbing has almost completely closed?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zombie_(Fela_Kuti_song)"&gt;... that Fela Kuti played " Zombie " on his saxophone from the roof of his compound as 1,000 Nigerian soldiers surrounded it before attacking?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Alfred_William_Frisby"&gt;... that a call by Alfred William Frisby to withdraw "distinctly dangerous" pornographic magazines from sale in Singapore went unheeded by the government?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/No._10:_Full_Confidence"&gt;... that No. 10: Full Confidence, a game about surviving as British prime minister, overtook Minecraft on the UK App Store's paid games chart?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Brabant_Revolution"&gt;1789 – The Brabant Revolution, sometimes considered to be the first expression of Belgian nationalism, began with the invasion of the Austrian Netherlands by an émigré army from the Dutch Republic.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Umbriel"&gt;1851 – Umbriel and Ariel, the third- and fourth-largest moons of Uranus, were discovered by William Lassell.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/George_Washington_Bridge"&gt;1931 – The George Washington Bridge, connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C4%83n_%C4%90%E1%BB%A9c"&gt;1964 – Charges in a military court against generals Dương Văn Đức and Lâm Văn Phát of leading a coup attempt against South Vietnamese leader Nguyễn Khánh were dropped.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.kimi.ai/blog/kimi-k3-1-pro"&gt;Kimi K3.1 Pro and K3.1 Pro Highspeed&lt;/a&gt; — Moonshot's new 3T-class open-weight model with a 1M-token context window scores 65.7% on Terminal-Bench 4.0 (just behind Claude Opus 5.5's 66.4%), with weights due by Nov 4. (&lt;a href="https://news.ycombinator.com/item?id=50212065"&gt;discussion&lt;/a&gt;, 922 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.calif.io/p/iphone"&gt;Today, we hacked what we'd set out to hack: the iPhone&lt;/a&gt; — Calif researchers revealed a series of iPhone hacking demos at Hexacon in Paris, including an iMessage angle, with details to be released later. (&lt;a href="https://news.ycombinator.com/item?id=50211474"&gt;discussion&lt;/a&gt;, 891 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://music.apple.com/this-url-doesnt-exist"&gt;Apple Music 404 Not Found&lt;/a&gt; — A link to Apple Music's 404 page; the article couldn't be fetched, so the story is known only from the title. (&lt;a href="https://news.ycombinator.com/item?id=50207910"&gt;discussion&lt;/a&gt;, 770 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"&gt;Investor-owned utilities charge 23% more for electricity than public providers&lt;/a&gt; — EIA data show homes paid 17.8¢/kWh at investor-owned utilities versus 14.5¢ at public ones, with most of the gap opening during the 2020–2023 energy price spike. (&lt;a href="https://news.ycombinator.com/item?id=50208837"&gt;discussion&lt;/a&gt;, 542 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://keepandroidopen.org/?"&gt;Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown&lt;/a&gt; — A campaign page argues Google's 2027 requirement that all Android developers register centrally and verify identity will block unregistered apps, threatening F-Droid and sideloading. (&lt;a href="https://news.ycombinator.com/item?id=50208558"&gt;discussion&lt;/a&gt;, 506 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://block.xyz/dessa"&gt;Dessa: Conversation Model trained only on speech&lt;/a&gt; — Block presents a full-duplex speech-to-speech model trained from scratch on human conversation with no text, which it says runs locally on an M4 Max MacBook Pro. (&lt;a href="https://news.ycombinator.com/item?id=50213925"&gt;discussion&lt;/a&gt;, 391 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"&gt;Now Google says it might use your Gmail and Google Photos data to target ads&lt;/a&gt; — Google's updated privacy policy lets data from Gmail, Drive, and Photos feed personalized ads if users connect them to AI features like Personal Intelligence. (&lt;a href="https://news.ycombinator.com/item?id=50214218"&gt;discussion&lt;/a&gt;, 353 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/uXiqyoKwpfjWfQXk5/simulated-control-evaluations"&gt;Simulated Control Evaluations&lt;/a&gt; by Jeffrey Olmo — Proposes using LLM environment simulators to test whether AI monitors would catch a deliberately harmful agent in realistic deployment contexts, finding simulated results often track real LinuxArena runs about as closely as independent real runs do. (50 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=will-bystander-economies-be-able-to-finance-their-governments"&gt;Will bystander economies be able to finance their governments?&lt;/a&gt; — Jesús Fernández-Villaverde argues that the real-rate surge needed to fund AI investment could make debt unsustainable for non-adopting "bystander" countries like Spain, while AI adopters could cover it by taxing booming capital income.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=podcast-with-rabbi-david-wolpe"&gt;Podcast with Rabbi David Wolpe&lt;/a&gt; — Tyler Cowen discusses AI, religion, and what makes us human, arguing AI's biggest impact may be on status and that losing our monopoly on intelligence could make humans feel more unique.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=protecting-americans-from-medicine"&gt;Protecting Americans from Medicine&lt;/a&gt; — Alex Tabarrok highlights a son who flew to Shanghai to obtain a lung cancer drug approved in China but not sold in the US, and criticizes proposed legislation to have Treasury clear pharma deals with Chinese companies, calling for FDA reform.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=prediction-markets-are-accurate"&gt;Prediction Markets Are Accurate&lt;/a&gt; — Alex Tabarrok cites a new study of about one million questions across Polymarket, Kalshi, Manifold, and Metaculus finding forecasts are highly calibrated, with events given p% probability occurring about p% of the time.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-24.html"/>
-    <published>2026-10-24T07:00:00-05:00</published>
   </entry>
 </feed>
