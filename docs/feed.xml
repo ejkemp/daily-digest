@@ -2,13 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-26T11:30:10.208785+00:00</updated>
+  <updated>2026-11-27T11:30:10.974361+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-27</id>
+    <title>Daily Digest — Friday, November 27, 2026</title>
+    <updated>2026-11-27T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2025_Africa_Cup_of_Nations_final"&gt;In association football, the Court of Arbitration for Sport restores Senegal as the winner of the 2025 Africa Cup of Nations final, overturning the Confederation of African Football 's decision to declare Morocco as the winner of the tournament.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia reinstates Jensen Huang as CEO after a scandal in which he was allegedly targeted by a Chinese spy and had extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/BepiColombo"&gt;The joint ESA – JAXA mission BepiColombo enters orbit around Mercury.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Riemann_hypothesis"&gt;Mathematician Levent Alpöge, working with the AI model Claude, announces a formal proof of the Riemann hypothesis.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Red_Bottoms_Tour"&gt;... that The Red Bottoms Tour performer Adéla promoted her debut EP by appearing nude in a music video?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sabr:_Finding_My_Way_in_Cricket_and_Life"&gt;... that Usman Khawaja included his account of a cricket cheating scandal in Sabr: Finding My Way in Cricket and Life after promising a childhood friend that he would reveal it after retiring?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sullivan_Center"&gt;... that a Chicago department store was described as being "venerated like a shrine"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Leeds_Animation_Workshop"&gt;... that Leeds Animation Workshop produced a range of animated short films on themes including nuclear disarmament, domestic abuse and homophobia?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mount_Misery_(Maryland)"&gt;... that an altercation involving the teenaged Frederick Douglass while at Mount Misery motivated him to escape bondage and become a free man?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Caledonia_Springs,_Ontario"&gt;... that the mineral waters of Caledonia Springs, Ontario, were once considered "among the wonders of the world"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Athaliah_(opera)"&gt;... that Hugo Weisgall 's opera Athaliah, despite being described as potentially his masterpiece, has only had a single concert performance?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Captain_Thule"&gt;... that Captain Thule convincingly won the 68th Satsuki Shō, but suffered a leg fracture requiring 16 months to recover?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merchants_Refrigerating_Company_Warehouse"&gt;... that a newly sold Manhattan warehouse needed seven months to thaw out before it could be used?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Caishi"&gt;1161 – Jin–Song wars : A Song fleet, equiped with trebuchets that launched incendiary bombs, defeated Jin ships in a naval engagement on the Yangtze River.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Luxembourg_coup_of_1856"&gt;1856 – William III unilaterally revised the constitution of Luxembourg, greatly expanding his powers as grand duke.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Washita_River"&gt;1868 – American Indian Wars : George Armstrong Custer 's 7th Cavalry Regiment attacked the encampment of Chief Black Kettle and the Cheyenne on the Washita River near present-day Cheyenne, Oklahoma.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/RAF_Fauld_explosion"&gt;1944 – Between 3,500 and 4,000 tonnes of ordnance exploded at the RAF Fauld underground munitions storage depot in the largest non-nuclear explosion in the United Kingdom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/HD_209458_b"&gt;2001 – Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://janlukas.blog/posts/ai-self-hosting"&gt;AI made self-hosting fun again&lt;/a&gt; (753 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=50655664"&gt;Tell HN: Happy Thanksgiving&lt;/a&gt; (697 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"&gt;Nextcloud Office Desktop app&lt;/a&gt; (441 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/antonpictures/youtube-punisher"&gt;YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays&lt;/a&gt; (425 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lia.mg/posts/measuring-company-culture-with-slack-emoji/"&gt;Company Culture = Slack Emoji ÷ √Headcount&lt;/a&gt; (388 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"&gt;Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad&lt;/a&gt; (381 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"&gt;Hard Drive pricing has gotten bad&lt;/a&gt; (376 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://devnull.land/amd-specific-llama-cpp"&gt;AMD-specific fork of llama.cpp&lt;/a&gt; (371 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/F7DNBdoADqktjn2Hk/understanding-why-1-2-3-4-5-1-12-rather-than-infinity"&gt;Understanding why 1 + 2 + 3 + 4 + 5 + ... = -1/12 (rather than ∞) &lt;/a&gt; (97 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/y8K3FREw4R7me99ib/reflections-on-37-weeks-of-hosting-ea-lw-acx-board-games"&gt;Reflections on 37 weeks of hosting EA/LW/ACX board games&lt;/a&gt; (59 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/qvy8Tvhzg2PgfvHcs/recursive-self-alignment-the-model-is-the-estimator"&gt;Recursive Self Alignment: The Model is the Estimator&lt;/a&gt; (58 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/f5r7FpLWiFQ7aeJu9/go-seeking-mysteries"&gt;Go seeking mysteries&lt;/a&gt; (57 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal"&gt;My excellent Conversation with Moxie Marlinspike of Signal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=five-facts-about-stablecoins"&gt;Five Facts About Stablecoins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=what-we-are-grateful-for"&gt;What we are grateful for&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game"&gt;HumanFish — Predicting Who Actually Wins a Human Chess Game&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-27.html"/>
+    <published>2026-11-27T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-26</id>
     <title>Daily Digest — Thursday, November 26, 2026</title>
@@ -1743,56 +1805,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-28.html"/>
     <published>2026-10-28T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-27</id>
-    <title>Daily Digest — Tuesday, October 27, 2026</title>
-    <updated>2026-10-27T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Karak_church_shooting"&gt;In Jordan, a mass shooting at a church leaves nine people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Amiet_market_massacre"&gt;A drone attack on a market in the disputed Abyei region on the South Sudan–Sudan border kills at least 220 people.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wellspring_Church"&gt;... that crews assembled the structure of Englewood Methodist Church in just four days by using Thomas Moore 's design for precast concrete panels?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Otonose_Kanade"&gt;... that Otonose Kanade sang one song 100 times during a 6-hour 48-minute livestream?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Submarine_(novel)"&gt;... that rights to make a film adaptation based on the novel Submarine were arranged before it was published?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/L%C3%A1zaro_Pe%C3%B1a"&gt;... that Lázaro Peña was arrested multiple times for his labor activism, including in 1953 for alleged "subversive activity"?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Old_Skies"&gt;... that the video game Old Skies was praised for its handling of a time traveler revisiting events surrounding the September 11 attacks ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tiberiu_Iliescu"&gt;... that a 1982 anthology referred to Romanian writer Tiberiu Iliescu as still "honing [his] craft" – four years after his death aged 71?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Neptune_Theatre_Restaurant"&gt;... that the Neptune Theatre Restaurant had its own in-house dance troupe?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jean-Jacques_Moll"&gt;... that Jean-Jacques Moll made plans for cities of 100,000 inhabitants that could be built anywhere on a relatively flat site?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Parrot_pie"&gt;... that a cookbook from Victorian Britain contained recipes for parrot pie and roast wallaby?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56"&gt;1726 – In Leipzig, J. S. Bach led the first performance of Ich will den Kreuzstab gerne tragen, one of the few works that he called a cantata.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Early_history_of_the_IRT_subway"&gt;1904 – The first underground segment of the New York City Subway opened, connecting New York City Hall with Harlem.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1946_Bihar_riots"&gt;1946 – Inter-religious riots in which Hindu mobs targeted Muslim families began in the Indian state of Bihar, resulting in thousands of deaths.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Michael_D._Higgins"&gt;2011 – Michael D. Higgins was elected President of Ireland with far more votes than any politician in the country's history.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"&gt;Anthropic S-1&lt;/a&gt; — Anthropic's registration statement filed with the SEC on October 26, 2026 ahead of a proposed public offering, listing Dario and Daniela Amodei as agents for service. (&lt;a href="https://news.ycombinator.com/item?id=50242939"&gt;discussion&lt;/a&gt;, 1618 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"&gt;Microsoft offers mass buyouts for roughly a quarter of its workforce&lt;/a&gt; — About 60,000 employees received voluntary exit offers, though Microsoft expects only 3–5% to accept as it cuts labor costs while avoiding layoffs. (&lt;a href="https://news.ycombinator.com/item?id=50245524"&gt;discussion&lt;/a&gt;, 952 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/"&gt;Three new discoveries in mathematics, computer science, and physics&lt;/a&gt; — OpenAI announces AI-produced results in harmonic analysis, complexity theory, and quantum field theory, and is experimenting with external expert groups to help the academic community understand them. (&lt;a href="https://news.ycombinator.com/item?id=50251344"&gt;discussion&lt;/a&gt;, 922 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://magazine.sebastianraschka.com/p/building-reasoning-models"&gt;Sebastian Raschka's from-scratch video course on building reasoning models&lt;/a&gt; — Eight videos and 11+ hours of Python/PyTorch coding on evaluation, inference-time scaling, reinforcement learning, and distillation, starting from a small pre-trained Qwen3 model. (&lt;a href="https://news.ycombinator.com/item?id=50245138"&gt;discussion&lt;/a&gt;, 713 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"&gt;The Exponential Time Hypothesis Is False [pdf]&lt;/a&gt; — A preprint in OpenAI's math repository claiming to refute the Exponential Time Hypothesis, a central complexity-theory conjecture; the PDF text wasn't fetched, so details come from the title only. (&lt;a href="https://news.ycombinator.com/item?id=50251661"&gt;discussion&lt;/a&gt;, 632 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-1-terra/"&gt;GPT-6.1 Terra&lt;/a&gt; — OpenAI's fast, cheaper model focused on computer use and visual reasoning, with API prices 50% lower than GPT-5.6 Terra and a much lower hallucination rate. (&lt;a href="https://news.ycombinator.com/item?id=50248124"&gt;discussion&lt;/a&gt;, 593 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://css-tricks.com/css-tricks-has-a-new-owner/"&gt;CSS-Tricks has a new owner&lt;/a&gt; — The site is independent again after DigitalOcean's 2022 purchase, with plans for ads, memberships, a beginner HTML/CSS course, and a returning newsletter. (&lt;a href="https://news.ycombinator.com/item?id=50245831"&gt;discussion&lt;/a&gt;, 481 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"&gt;Oldest GUI application that still runs on Windows 11&lt;/a&gt; — The author finds a Win32s FREECELL.EXE from 1993 and an NT build 347 CDPLAYER.EXE from 1992 running unmodified, and a 1985 Reversi running via otvdm. (&lt;a href="https://news.ycombinator.com/item?id=50248055"&gt;discussion&lt;/a&gt;, 433 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=frances-lee-on-american-elections"&gt;Frances Lee on American elections&lt;/a&gt; — Citing an Economist piece, it notes that most losing congressional candidates still concede and that election administration and voter wait times have improved since 2020.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=brazils-economic-problems-in-a-nutshell"&gt;Brazil's economic problems, in a nutshell&lt;/a&gt; — An Economist excerpt attributes Brazil's very high real interest rates to heavy mandatory spending, stubborn inflation, and a national savings rate of just 14% of GDP.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years"&gt;Tyler Cowen's Strongest Book Recommendations, 2003-2026&lt;/a&gt; — An AI-written archive analysis identifies Cowen's top-tier recommendations, including &lt;em&gt;1491&lt;/em&gt;, &lt;em&gt;The Power Broker&lt;/em&gt;, Knausgaard's first two volumes, and Fuchsia Dunlop's cookbooks.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-mr-archive"&gt;The MR Archive!&lt;/a&gt; — The full Marginal Revolution archive, with posts and approved comments, is now available for download, with weekly updates, so AI agents and readers can query it.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-27.html"/>
-    <published>2026-10-27T07:00:00-05:00</published>
   </entry>
 </feed>
