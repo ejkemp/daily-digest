@@ -2,13 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ejkemp.github.io/daily-digest/</id>
   <title>Ethan's Daily Digest</title>
-  <updated>2026-11-27T11:30:10.974361+00:00</updated>
+  <updated>2026-11-28T11:30:07.264497+00:00</updated>
   <author>
     <name>Daily Digest</name>
   </author>
   <link href="https://ejkemp.github.io/daily-digest/feed.xml" rel="self"/>
   <link href="https://ejkemp.github.io/daily-digest" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://ejkemp.github.io/daily-digest/digest/2026-11-28</id>
+    <title>Daily Digest — Saturday, November 28, 2026</title>
+    <updated>2026-11-28T07:00:00-05:00</updated>
+    <content type="html">&lt;p&gt;&lt;em&gt;Automatic fallback digest (Claude was unavailable) — links only.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Topics in the news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2025_Africa_Cup_of_Nations_final"&gt;In association football, the Court of Arbitration for Sport restores Senegal as the winner of the 2025 Africa Cup of Nations final, overturning the Confederation of African Football 's decision to declare Morocco as the winner of the tournament.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jensen_Huang"&gt;Nvidia reinstates Jensen Huang as CEO after a scandal in which he was allegedly targeted by a Chinese spy and had extramarital affairs.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/BepiColombo"&gt;The joint ESA – JAXA mission BepiColombo enters orbit around Mercury.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Riemann_hypothesis"&gt;Mathematician Levent Alpöge, working with the AI model Claude, announces a formal proof of the Riemann hypothesis.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Did you know&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Surveying_career_of_George_Washington"&gt;... that George Washington's first profession as a land surveyor gave him skills that later helped his military career?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hakui_Koyori"&gt;... that VTuber Hakui Koyori made the "play ball" call at the World Baseball Classic?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Golden_Age_of_Argentine_cinema"&gt;... that the United States promoted Mexican films during the Golden Age of Argentine cinema due to Argentina's neutrality?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mar%C3%ADa_Asunci%C3%B3n_Mil%C3%A1"&gt;... that María Asunción Milá was called "the bishop's hammer"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Fuk_Sumn"&gt;... that the ¥$ song " Fuk Sumn " initially featured a verse from Quavo, which received a negative reception from fans for its removal?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Roma_Mitchell"&gt;... that Roma Mitchell became the first woman judge of an Australian supreme court despite believing that there was "no excitement" in a judge's life?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/HomeView"&gt;... that some critics called the HomeView a "giant Apple Watch"?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jean_Le_Tavernier"&gt;... that 15th-century artist Jean Le Tavernier specialized in grisaille painting?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Hokkaido_Shimbun"&gt;... that a Japanese newspaper once distributed newspapers made of kelp?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;On this day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_Rullion_Green"&gt;1666 – The Scots Army led by Tam Dalyell of the Binns suppressed an uprising by Covenanter insurgents under James Wallace of Auchens near the Pentland Hills in Scotland.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Natchez_revolt"&gt;1729 – Natchez Indians revolted against French colonists near modern-day Natchez, Mississippi, killing approximately 230 people.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Michel_Micombero"&gt;1966 – In a military coup, Michel Micombero abolished the Burundian monarchy and declared the country a republic with himself as the inaugural president.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Assassination_of_Wasfi_Tal"&gt;1971 – Wasfi Tal, Prime Minister of Jordan, was assassinated in Cairo by gunmen from the Black September Organization.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Tropical_Storm_Zelda_(1991)"&gt;1991 – Tropical Storm Zelda struck the Marshall Islands, leaving 6,000 residents homeless.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hacker News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://neuralnetworksanddeeplearning.com/"&gt;Michael Nielsen took down his book on neural nets&lt;/a&gt; (558 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"&gt;Credit card skimming scripts using WebRTC found on popular shopping sites&lt;/a&gt; (536 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://research.google/blog/supercharging-transformer-residual-connections/"&gt;Google's DeepCrossAttention achieves comparable model quality up to 3x faster&lt;/a&gt; (434 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"&gt;States sue SpaceX to stop Grok from generating child sex images, revenge porn&lt;/a&gt; (398 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bouncemarket.minhanhday.com/"&gt;Show HN: bouncemarket – a live prediction market game for a bouncing ball&lt;/a&gt; (382 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://unkernel.dev"&gt;Unkernel: Real Linux kernel, compiled to WebAssembly&lt;/a&gt; (366 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LessWrong&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/REeaaC9hzrsxw7jx6/you-yes-you-might-secretly-be-really-good-at-xrisk-advocacy"&gt;You (yes You) might secretly be really good at xrisk advocacy!&lt;/a&gt; (145 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/o39Gw6XWqtvFE32Yo/spitting-in-the-face-of-glaude"&gt;Spitting in the Face of Glaude&lt;/a&gt; (100 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/2EQ2y3eGqm952tAZ6/a-basic-case-against-differentially-accelerating-conceptual-1"&gt;A Basic Case Against Differentially Accelerating Conceptual Reasoning&lt;/a&gt; (99 points)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"&gt;Thinking About LLMs in Terms of Cognitive Patterns&lt;/a&gt; (59 points)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=my-podcast-with-hasan"&gt;My podcast with Hasan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated"&gt;The mental illness theory of politics is modestly underrated&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=india-is-on-the-move"&gt;India is on the Move&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="https://rateyourmusic.com/new-music/"&gt;New music on Rate Your Music&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://ejkemp.github.io/daily-digest/digest/2026-11-28.html"/>
+    <published>2026-11-28T07:00:00-05:00</published>
+  </entry>
   <entry>
     <id>https://ejkemp.github.io/daily-digest/digest/2026-11-27</id>
     <title>Daily Digest — Friday, November 27, 2026</title>
@@ -1748,62 +1807,5 @@
 &lt;/ul&gt;</content>
     <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-29.html"/>
     <published>2026-10-29T07:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://ejkemp.github.io/daily-digest/digest/2026-10-28</id>
-    <title>Daily Digest — Wednesday, October 28, 2026</title>
-    <updated>2026-10-28T07:00:00-05:00</updated>
-    <content type="html">&lt;h2&gt;Topics in the News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Brazilian_general_election"&gt;Luiz Inácio Lula da Silva is re-elected President of Brazil, while the Liberal Party retain a plurality of seats in both houses of the National Congress in the general election.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"&gt;In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Karak_church_shooting"&gt;In Jordan, a mass shooting at a church leaves nine people dead.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/PHP2Shell"&gt;Two high-impact security vulnerabilities in PHP cause disruptions to many online services.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Did You Know&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Quaking_pudding"&gt;... that quaking puddings were sometimes flavored with ambergris ?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Sarah_Jakes_Roberts"&gt;... that pastor Sarah Jakes Roberts once removed her wig while preaching?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Uruguayan_Regional_Workers%27_Federation"&gt;... that a general strike by the Uruguayan Regional Workers' Federation forced the government to establish an eight-hour working day?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ramon_Borrego"&gt;... that Ramon Borrego retired from professional baseball because he was too small?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/WD_J1330%2B6435"&gt;... that the white dwarf star WD J1330+6435 has been described as having a green hue?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lauren_Aston"&gt;... that the knitter Lauren Aston was stunned to discover that her stockings were bought by the Beckhams?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/IPhone_Duo"&gt;... that Apple had to redesign its operating system to accommodate the iPhone Duo 's form factor?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Phillip_Butah"&gt;... that Phillip Butah won an award organised by Ed Sheeran's parents, and went on to illustrate the cover of the singer's debut album?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Waipiro_Stream"&gt;... that " putrid, stinking water " once ran through what is now New Zealand's parliament?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;On This Day&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"&gt;312 – Civil wars of the Tetrarchy : Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous"&gt;1453 – Ladislaus the Posthumous was crowned King of Bohemia, although George of Poděbrady remained in control of the government.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Statue_of_Liberty"&gt;1886 – In New York Harbor, U.S. president Grover Cleveland dedicated the Statue of Liberty, a gift from France commemorating the Declaration of Independence.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2013_Tiananmen_Square_attack"&gt;2013 – Members of the Turkistan Islamic Party drove a vehicle into a crowd in Tiananmen Square, Beijing, China, killing five people and injuring thirty-eight others.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Hacker News&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://ghostty.org/docs/install/release-notes/1-4-0"&gt;Ghostty 1.4&lt;/a&gt; — A major release with performance and memory gains, a complete Kitty graphics implementation, and fixes for a batch of security advisories including paste protection, tmux control mode, and macOS hyperlink handling. (&lt;a href="https://news.ycombinator.com/item?id=50261998"&gt;discussion&lt;/a&gt;, 1040 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"&gt;US Government is hiding a secret court ruling about how it spies on Americans&lt;/a&gt; — Senators Wyden and Schiff say the administration is withholding a FISA court ruling on Section 702 search filters past its 180-day release window while pressing Congress to reauthorize the program. (&lt;a href="https://news.ycombinator.com/item?id=50259604"&gt;discussion&lt;/a&gt;, 945 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"&gt;Genie 4&lt;/a&gt; — A DeepMind post announcing Genie 4, described as a new generation of world simulation; the article text wasn't retrievable, so details are limited to the title. (&lt;a href="https://news.ycombinator.com/item?id=50261319"&gt;discussion&lt;/a&gt;, 905 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://oioannou.com/blog/ai-promised-less-work/"&gt;AI promised less work. I've never worked more&lt;/a&gt; — An engineering executive uses their GitHub history to show that managing many parallel AI agents has pushed their activity back to or above early-career levels, and that the constant context switching is draining. (&lt;a href="https://news.ycombinator.com/item?id=50257325"&gt;discussion&lt;/a&gt;, 641 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"&gt;Anthropic trained Claude on illegally obtained Stanford professors' books&lt;/a&gt; — The Stanford Daily reports that professors whose books were pirated for training opted out of the Bartz settlement and filed a separate suit seeking higher statutory damages and an injunction. (&lt;a href="https://news.ycombinator.com/item?id=50260814"&gt;discussion&lt;/a&gt;, 523 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"&gt;Python's experimental JIT to be removed&lt;/a&gt; — After the steering council paused work and requested a standards-track PEP, the JIT maintainers withdrew PEP 836, leaving development of CPython's experimental JIT apparently at an end. (&lt;a href="https://news.ycombinator.com/item?id=50257419"&gt;discussion&lt;/a&gt;, 512 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"&gt;Wikipedia's Cleanup of AI-Generated Content&lt;/a&gt; — IEEE Spectrum looks at how WikiProject AI Cleanup editors work to keep Wikipedia human-written even as AI text gets harder to spot. (&lt;a href="https://news.ycombinator.com/item?id=50257326"&gt;discussion&lt;/a&gt;, 479 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"&gt;Police are using AI to pull over drivers for 'suspicious' behavior&lt;/a&gt; — The ACLU warns that license plate readers and AI tools are being used to flag drivers for travel patterns alone, amid growing backlash against vendors like Flock. (&lt;a href="https://news.ycombinator.com/item?id=50261819"&gt;discussion&lt;/a&gt;, 371 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"&gt;New 14‑inch MacBook Pro with M6&lt;/a&gt; — Apple announces the M6 14-inch MacBook Pro, claiming up to 1.3x gains over M5 in LLM prompt processing and builds, with pre-orders from October 28 and shipping from November 6. (&lt;a href="https://news.ycombinator.com/item?id=50261352"&gt;discussion&lt;/a&gt;, 365 points)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.brangus.io/survival-llm"&gt;Survival LLM: AI assistant and emergency library that runs on your own computer&lt;/a&gt; — A free, open-source offline assistant that answers from a local library of medical, emergency, and repair references (including Wikipedia) and shows the sources behind each answer. (&lt;a href="https://news.ycombinator.com/item?id=50264853"&gt;discussion&lt;/a&gt;, 358 points)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;LessWrong&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/HuQAuWjc2Z5tqCjyw/scattered-thoughts-on-how-doing-math-feels-these-days"&gt;Scattered thoughts on how doing math feels these days&lt;/a&gt; by dynomight — A mathematician's time capsule on AI making them roughly 50% more productive, with humans still needed because AI is poor at abstraction and clear writing. (127 karma)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lesswrong.com/posts/ea9fGFKxJhh2bF9rp/ai-speeds-up-3rd-party-safety-researchers-by-1-6x-via-self"&gt;AI speeds up 3rd party safety researchers by ~1.6x (via self-reports)&lt;/a&gt; by Angel Martinez — A survey of 52 third-party AI safety professionals found a median self-reported speedup of 1.58x, concentrated in building and running experiments rather than conceptual work. (81 karma)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Marginal Revolution&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=is-whos-on-first-funny"&gt;Is “Who’s on First?” funny?&lt;/a&gt; — Tyler Cowen says the skit isn't funny but offers a reading of it as commentary on the establishment stonewalling an immigrant, while noting it plays on ethnic prejudices.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=nyt-debate-on-the-rules-for-ai-companies"&gt;NYT debate on the rules for AI companies&lt;/a&gt; — Tyler Cowen shares an excerpt from a five-person NYT symposium in which he defends federal pre-emption of state AI laws, noting most of the panel disagreed with him.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok"&gt;Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok&lt;/a&gt; — An archive roundup, noted as written by ChatGPT, of eleven reviews (five by Cowen, six by Tabarrok) chosen for the quality of their criticism, including pieces on The Devil Wears Prada, Fleabag, Toni Erdmann, and Perfect Days.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://ejkemp.github.io/daily-digest/digest/2026-10-28.html"/>
-    <published>2026-10-28T07:00:00-05:00</published>
   </entry>
 </feed>
